@@ -2,10 +2,14 @@
 Run: python kaynak/review_content.py
 """
 import json, os, sys
+
+def _load(path):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
 base = os.path.dirname(os.path.abspath(__file__))
 warns, hard = [], []
 
-exam = json.load(open(os.path.join(base, "exam.json"), encoding="utf-8"))
+exam = _load(os.path.join(base, "exam.json"))
 for g in exam:
     for n, q in enumerate(g["qs"]):
         where = f"{g['id']} q{n+1}"
@@ -18,7 +22,7 @@ for g in exam:
         if g["type"] != "irrelevant" and q["a"] in q["x"]:
             hard.append(where + " answer in distractors")
 
-sents = json.load(open(os.path.join(base, "sents.json"), encoding="utf-8"))
+sents = _load(os.path.join(base, "sents.json"))
 seen = {}
 for i, row in enumerate(sents):
     lemma, ans, s, ds, tr = row
@@ -28,7 +32,7 @@ for i, row in enumerate(sents):
         hard.append(f"sent {i} {lemma} blanks")
     seen[lemma] = seen.get(lemma, 0) + 1
 
-gram = json.load(open(os.path.join(base, "grammar.json"), encoding="utf-8"))
+gram = _load(os.path.join(base, "grammar.json"))
 gq = 0
 for t in gram:
     for n, q in enumerate(t["q"]):
@@ -39,7 +43,7 @@ for t in gram:
         if s.count("___") != 1:
             hard.append(f"gram {t['id']} q{n+1} blanks")
 
-depth = json.load(open(os.path.join(base, "depth.json"), encoding="utf-8"))
+depth = _load(os.path.join(base, "depth.json"))
 for i, r in enumerate(depth.get("fam", [])):
     if r["a"] in r["d"]:
         hard.append(f"depth fam {i} answer in distractors")

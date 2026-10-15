@@ -317,34 +317,34 @@ X: Many earthquakes happen under the sea.
 W: "these standards" ifadesi bina yönetmeliklerine gönderme yapıyor; boşluk bunları tanıtmalı.
 
 ## i1|irrelevant|B2
-P: (I) Sleep is essential for both physical and mental health. (II) During sleep, the body repairs tissues and strengthens the immune system. (III) The brain also uses this time to process and store information from the day. (IV) Coffee is one of the most widely traded products in the world. (V) As a result, people who regularly sleep too little are more likely to become ill and to have problems with memory.
-Q: Parçada anlam akışını bozan cümle hangisidir?
-A: IV
-X: I
-X: II
-X: III
-X: V
-W: Parça uykunun önemini anlatıyor; kahve ticaretiyle ilgili IV. cümle konudan kopuk.
-
-## i2|irrelevant|B2
-P: (I) The Great Wall of China was built over many centuries to protect Chinese states from invasions. (II) Chinese is spoken by more people than any other language. (III) Contrary to popular belief, the wall cannot be seen with the naked eye from space. (IV) Most of the wall that survives today was constructed during the Ming dynasty. (V) Today, the wall is a UNESCO World Heritage Site and attracts millions of tourists every year.
+P: (I) Sleep is essential for both physical and mental health. (II) Coffee is one of the most widely traded products in the world. (III) During sleep, the body repairs tissues and strengthens the immune system. (IV) The brain also uses this time to process and store information from the day. (V) As a result, people who regularly sleep too little are more likely to become ill and to have problems with memory.
 Q: Parçada anlam akışını bozan cümle hangisidir?
 A: II
 X: I
 X: III
 X: IV
 X: V
-W: Parça Çin Seddi'ni anlatıyor; Çincenin konuşan sayısı (II) konudan kopuk.
+W: Parça uykunun önemini anlatıyor; kahve ticaretiyle ilgili II. cümle konudan kopuk.
 
-## i3|irrelevant|C1
-P: (I) Remote work has become common in many industries since 2020. (II) Employees often appreciate the time saved by not commuting. (III) Commuting by bicycle is a healthy way to get to work. (IV) However, some workers report feeling isolated from their colleagues. (V) Companies are therefore experimenting with hybrid models that combine office and home working.
+## i2|irrelevant|B2
+P: (I) The Great Wall of China was built over many centuries to protect Chinese states from invasions. (II) Contrary to popular belief, the wall cannot be seen with the naked eye from space. (III) Chinese is spoken by more people than any other language. (IV) Most of the wall that survives today was constructed during the Ming dynasty. (V) Today, the wall is a UNESCO World Heritage Site and attracts millions of tourists every year.
 Q: Parçada anlam akışını bozan cümle hangisidir?
 A: III
 X: I
 X: II
 X: IV
 X: V
-W: Parça uzaktan çalışmanın artı ve eksilerini anlatıyor; bisikletle işe gitmek (III) akışı bozuyor.
+W: Parça Çin Seddi'ni anlatıyor; Çincenin konuşan sayısı (III) konudan kopuk.
+
+## i3|irrelevant|C1
+P: (I) Remote work has become common in many industries since 2020. (II) Employees often appreciate the time saved by not commuting. (III) However, some workers report feeling isolated from their colleagues. (IV) Commuting by bicycle is a healthy way to get to work. (V) Companies are therefore experimenting with hybrid models that combine office and home working.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Parça uzaktan çalışmanın artı ve eksilerini anlatıyor; bisikletle işe gitmek (IV) akışı bozuyor.
 
 ## i4|irrelevant|B2
 P: (I) Vitamin D is produced by the skin when it is exposed to sunlight. (II) It helps the body absorb calcium, which is necessary for strong bones. (III) People who spend little time outdoors may therefore develop a deficiency. (IV) In such cases, doctors may recommend supplements or foods such as oily fish and eggs. (V) Sunflowers turn their heads to follow the movement of the sun.
@@ -357,24 +357,24 @@ X: IV
 W: Parça D vitaminini anlatıyor; ayçiçeklerinin güneşi takip etmesi (V) konudan kopuk.
 
 ## i5|irrelevant|C1
-P: (I) Plastic pollution is one of the most serious environmental challenges of our time. (II) Every year, millions of tonnes of plastic waste end up in the oceans. (III) Plastic was first produced on a large scale in the 1950s. (IV) Sea turtles often mistake plastic bags for jellyfish and swallow them. (V) Many countries have introduced taxes on plastic bags to reduce their use.
+P: (I) Plastic pollution is one of the most serious environmental challenges of our time. (II) Plastic was first produced on a large scale in the 1950s. (III) Every year, millions of tonnes of plastic waste end up in the oceans. (IV) Sea turtles often mistake plastic bags for jellyfish and swallow them. (V) Many countries have introduced taxes on plastic bags to reduce their use.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: II
+X: I
+X: III
+X: IV
+X: V
+W: Parça plastik kirliliğinin etkileri ve çözümleri üzerine; plastiğin ilk üretim tarihi (II) akışı kesiyor.
+
+## i6|irrelevant|B2
+P: (I) Learning a foreign language can improve career opportunities. (II) Many international companies prefer to hire employees who can communicate with clients in several languages. (III) English has borrowed many words from French and Latin. (IV) Bilingual employees may also receive higher salaries. (V) For these reasons, an increasing number of adults are enrolling in language courses.
 Q: Parçada anlam akışını bozan cümle hangisidir?
 A: III
 X: I
 X: II
 X: IV
 X: V
-W: Parça plastik kirliliğinin etkileri ve çözümleri üzerine; plastiğin ilk üretim tarihi (III) akışı kesiyor.
-
-## i6|irrelevant|B2
-P: (I) Learning a foreign language can improve career opportunities. (II) Many international companies prefer to hire employees who can communicate with clients in several languages. (III) Bilingual employees may also receive higher salaries. (IV) English has borrowed many words from French and Latin. (V) For these reasons, an increasing number of adults are enrolling in language courses.
-Q: Parçada anlam akışını bozan cümle hangisidir?
-A: IV
-X: I
-X: II
-X: III
-X: V
-W: Parça dil öğrenmenin kariyer faydalarını anlatıyor; İngilizcenin kelime kökenleri (IV) konudan kopuk.
+W: Parça dil öğrenmenin kariyer faydalarını anlatıyor; İngilizcenin kelime kökenleri (III) konudan kopuk.
 
 ## i7|irrelevant|B2
 P: (I) Volcanoes form where molten rock from deep inside the Earth reaches the surface. (II) When pressure builds up, the volcano may erupt violently, releasing ash and lava. (III) Mount Etna in Italy is one of the most active volcanoes in Europe. (IV) Italian cuisine is famous for its pasta and pizza. (V) Scientists monitor active volcanoes closely in order to warn nearby residents of possible eruptions.
@@ -387,31 +387,31 @@ X: V
 W: Parça yanardağları anlatıyor; İtalyan mutfağı (IV) konudan kopuk.
 
 ## i8|irrelevant|C1
-P: (I) Childhood obesity has increased dramatically in many countries. (II) One major cause is the growing consumption of sugary drinks and processed foods. (III) Lack of physical activity, partly due to time spent on screens, also contributes to the problem. (IV) Many video games are now played online with people from all over the world. (V) Experts warn that obese children are at greater risk of developing diabetes and heart disease later in life.
+P: (I) Childhood obesity has increased dramatically in many countries. (II) One major cause is the growing consumption of sugary drinks and processed foods. (III) Lack of physical activity, partly due to time spent on screens, also contributes to the problem. (IV) Experts warn that obese children are at greater risk of developing diabetes and heart disease later in life. (V) Many video games are now played online with people from all over the world.
 Q: Parçada anlam akışını bozan cümle hangisidir?
-A: IV
+A: V
 X: I
 X: II
 X: III
-X: V
-W: Parça çocukluk obezitesinin nedenleri ve sonuçları üzerine; çevrimiçi oyunların küresel oynanması (IV) akışı bozuyor.
+X: IV
+W: Parça çocukluk obezitesinin nedenleri ve sonuçları üzerine; çevrimiçi oyunların küresel oynanması (V) akışı bozuyor.
 
 ## i9|irrelevant|B2
-P: (I) Bees communicate with each other in a remarkable way. (II) When a worker bee finds a good source of food, it returns to the hive and performs a special dance. (III) Honey never spoils if it is stored properly. (IV) The direction and length of the dance tell other bees where the food is located. (V) Using this information, the other bees can fly directly to the food source.
-Q: Parçada anlam akışını bozan cümle hangisidir?
-A: III
-X: I
-X: II
-X: IV
-X: V
-W: Parça arıların iletişimini anlatıyor; balın bozulmaması (III) konudan kopuk.
-
-## i10|irrelevant|C1
-P: (I) The Industrial Revolution began in Britain in the late eighteenth century. (II) Britain is an island nation surrounded by the sea. (III) New machines greatly increased the speed at which goods such as textiles could be produced. (IV) Many people moved from the countryside to cities to work in factories. (V) These changes transformed not only the economy but also the structure of society.
+P: (I) Bees communicate with each other in a remarkable way. (II) Honey never spoils if it is stored properly. (III) When a worker bee finds a good source of food, it returns to the hive and performs a special dance. (IV) The direction and length of the dance tell other bees where the food is located. (V) Using this information, the other bees can fly directly to the food source.
 Q: Parçada anlam akışını bozan cümle hangisidir?
 A: II
 X: I
 X: III
 X: IV
 X: V
-W: Parça Sanayi Devrimi'nin etkilerini anlatıyor; Britanya'nın ada olması (II) akışı bozuyor.
+W: Parça arıların iletişimini anlatıyor; balın bozulmaması (II) konudan kopuk.
+
+## i10|irrelevant|C1
+P: (I) The Industrial Revolution began in Britain in the late eighteenth century. (II) New machines greatly increased the speed at which goods such as textiles could be produced. (III) Britain is an island nation surrounded by the sea. (IV) Many people moved from the countryside to cities to work in factories. (V) These changes transformed not only the economy but also the structure of society.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Parça Sanayi Devrimi'nin etkilerini anlatıyor; Britanya'nın ada olması (III) akışı bozuyor.

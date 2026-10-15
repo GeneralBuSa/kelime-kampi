@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Kelime Kampı</title>
-<meta name="theme-color" content="#2547D0">
+<meta name="theme-color" content="#0A0A0A">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <style>
@@ -43,7 +43,7 @@
 :root[data-theme="light"] { color-scheme: light; }
 :root[data-theme="contrast"] {
   --paper: #000000; --surface: #000000; --surface-2: #1A1A00; --ink: #FFFFFF; --muted: #FFF176; --line: #FFE14D;
-  --accent: #FFE14D; --accent-ink: #000000; --hl: #FFE14D; --hl-band: #FFE14D; --hl-ink: #000000;
+  --accent: #FFE14D; --accent-ink: #000000; --hl: #FFE14D; --hl-band: rgba(255,225,77,.34); --hl-ink: #000000;
   --good: #69F0AE; --good-soft: #003300; --bad: #FF8A80; --bad-soft: #3B0000;
   --shadow: none;
   color-scheme: dark;
@@ -77,9 +77,11 @@ h1, h2, h3 { text-wrap: balance; margin: 0; }
 .stat .lbl { color: var(--muted); font-weight: 600; font-size: 12px; }
 .ring { --p: 0; width: 22px; height: 22px; border-radius: 50%; background: conic-gradient(var(--good) calc(var(--p) * 1%), var(--surface-2) 0); display: grid; place-items: center; flex: none; }
 .ring::after { content: ""; width: 14px; height: 14px; border-radius: 50%; background: var(--surface); }
-.tabs { display: flex; gap: 4px; }
+.tabs { display: flex; gap: 4px; min-width: 0; max-width: 100%; overflow-x: auto; scrollbar-width: none; }
+.tabs::-webkit-scrollbar { display: none; }
 .tab { background: none; border: 0; padding: 6px 12px; border-radius: 999px; font-weight: 700; color: var(--muted); }
 .tab[aria-current="true"] { background: var(--ink); color: var(--paper); }
+@media (max-width: 440px) { .tabs { gap: 2px; } .tab { padding: 6px 9px; font-size: 14px; } }
 
 main { padding-block: 22px 60px; }
 .view { display: grid; gap: 22px; }
@@ -286,6 +288,19 @@ b.fill { font-family: var(--f-body); font-weight: 800; background: var(--hl-band
 .bdg.on { opacity: 1; border-style: solid; border-color: var(--hl); background: color-mix(in srgb, var(--hl) 16%, var(--surface)); }
 .bdg .bi { font-size: 18px; color: var(--muted); } .bdg.on .bi { color: var(--hl-ink); }
 .bdg b { font-size: 13.5px; } .bdg small { font-size: 11.5px; color: var(--muted); line-height: 1.3; }
+/* tap a word in a passage */
+.passage.taps .tw { cursor: pointer; border-radius: 3px; }
+.passage.taps .tw:hover { background: var(--hl-band); }
+.taphint { margin: 6px 0 0; font-size: 12px; color: var(--muted); text-align: left; }
+.wordpop { position: fixed; z-index: 55; width: min(320px, calc(100vw - 16px)); padding: 12px 14px; display: grid; gap: 6px; text-align: left; animation: rise .15s ease; }
+.wordpop .wp-h { display: flex; align-items: center; gap: 8px; font-family: var(--f-display); font-size: 21px; }
+.wordpop .wp-m { font-size: 14.5px; }
+/* error analysis */
+.trapcard { padding: 16px 18px; display: grid; gap: 12px; }
+.trapw { display: grid; gap: 6px; padding: 10px 12px; border-radius: 12px; background: var(--surface-2); }
+.trapw p { margin: 0; }
+.trapall summary { cursor: pointer; font-weight: 700; font-size: 13.5px; margin-bottom: 8px; }
+.trapline { margin: 0; font-size: 14px; text-align: center; }
 /* my progress */
 .kpis.mekpis { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 @media (max-width: 600px) { .kpis.mekpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
@@ -489,7 +504,7 @@ const V = JSON.parse(document.getElementById("sents").textContent).map((r, n) =>
 // YDS question bank: groups {id, type, lv, topic, p: passage, qs: [{s, a, x, w}]}; each question becomes an item
 const EX = JSON.parse(document.getElementById("exam").textContent);
 const EXI = [];
-for (const g of EX) g.items = g.qs.map((q, n) => { const it = { id: g.id + "-" + n, g, n, s: q.s, a: q.a, x: q.x, why: q.w }; EXI.push(it); return it; });
+for (const g of EX) g.items = g.qs.map((q, n) => { const it = { id: g.id + "-" + n, g, n, s: q.s, a: q.a, x: q.x, why: q.w, k: q.k || "", t: q.t || "" }; EXI.push(it); return it; });
 const EXBYID = new Map(EXI.map(it => [it.id, it]));
 const DEPTH = JSON.parse(document.getElementById("depth").textContent);
 const XI = [];
@@ -537,7 +552,7 @@ const isHard = w => { const p = getP(w); return !!p && p[3] > 0 && p[0] < 3; };
 const LS_KEY = "kelimeKampi.v1";
 // prog[word] = [box, dueDay, correct, wrong, lastSeenDay, unsureCount]; hist = finished rounds; days = answers per day
 // gq / vq: grammar and in-sentence vocabulary questions, same [box, due, correct, wrong, lastSeen, unsure] shape
-const blank = () => ({ v: 1, ts: 0, prog: {}, xp: 0, streak: 0, streakDay: -1, day: today(), n: 0, goal: 30, level: "A1", best: 0, hist: [], days: {}, gq: {}, vq: {}, glevel: "A1", eq: {}, xq: {}, my: [], examDate: "", badges: {}, mocks: [], mockRun: null, daysOk: {}, bestCombo: 0, perfect: 0, dikteOk: 0, theme: "system", field: "ALL", recentEx: [] });
+const blank = () => ({ v: 1, ts: 0, prog: {}, xp: 0, streak: 0, streakDay: -1, day: today(), n: 0, goal: 30, level: "A1", best: 0, hist: [], days: {}, gq: {}, vq: {}, glevel: "A1", eq: {}, xq: {}, my: [], examDate: "", badges: {}, mocks: [], mockRun: null, daysOk: {}, bestCombo: 0, perfect: 0, dikteOk: 0, theme: "system", field: "ALL", recentEx: [], notify: false, notifyDay: -1, aiKey: "" });
 let S = blank();
 try { const raw = localStorage.getItem(LS_KEY); if (raw) S = Object.assign(blank(), JSON.parse(raw)); } catch (e) {}
 try { if (navigator.storage && navigator.storage.persist) navigator.storage.persist(); } catch (e) {}
@@ -561,6 +576,7 @@ function packCloud(s) {
   const core = Object.assign({}, s);
   delete core.prog; delete core.gq; delete core.vq; delete core.eq; delete core.xq;
   delete core.days; delete core.daysOk; delete core.badges; delete core.hist; delete core.mocks; delete core.recentEx;
+  delete core.aiKey;
   return { core, prog: { prog: s.prog }, maps, hist };
 }
 function unpackCloud(parts) {
@@ -686,11 +702,13 @@ document.addEventListener("click", e => { const b = e.target.closest("[data-say]
 function grade(w, ok, weight = 1) {
   const k = w.w.toLowerCase();
   const p = S.prog[k] ? S.prog[k].slice() : [0, today(), 0, 0, today(), 0, today()];
+  const from = p[0];
   if (ok) { p[0] = Math.min(7, p[0] + weight); p[2]++; }
   else { p[0] = Math.max(0, Math.min(p[0] - 2, 1)); p[3]++; }
   p[1] = today() + (ok ? INTERVALS[p[0]] : 0);
   p[4] = today();
   S.prog[k] = p;
+  return { from, to: p[0] };
 }
 function award(xp) {
   const rankBefore = rankOf(S.xp).name;
@@ -789,7 +807,7 @@ function leaveGame() { pauseMock(); if (game) clearInterval(game.timer); game = 
 document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { leaveGame(); setTab(b.dataset.tab); }));
 document.getElementById("brand").addEventListener("click", () => { leaveGame(); setTab("home"); });
 document.getElementById("themeBtn").addEventListener("click", cycleTheme);
-function refresh() { renderStats(); if (game) return renderGame(); if (view === "dict") renderDict(); else if (view === "me") renderMe(); else if (view === "gram") renderGram(); else if (view === "exam") renderExam(); else renderHome(); }
+function refresh() { renderStats(); if (game) return renderGame(); if (view === "dict") renderDict(); else if (view === "me") renderMe(); else if (view === "gram") renderGram(); else if (view === "exam") renderExam(); else renderHome(); maybeNotifyDue(); }
 
 function rankOf(xp) { let r = RANKS[0], nx = null; for (let i = 0; i < RANKS.length; i++) { if (xp >= RANKS[i][0]) { r = RANKS[i]; nx = RANKS[i + 1] || null; } } return { name: r[1], from: r[0], to: nx ? nx[0] : null, next: nx ? nx[1] : null }; }
 function wordOfDay() { const cands = W.filter(w => w.y && w.s); return cands[(today() * 7919) % cands.length]; }
@@ -984,10 +1002,42 @@ const gItems = lv => GQ.filter(it => lv === "ALL" || it.t.lv === lv);
 const vItems = lv => V.filter(it => inLevel(it.w, lv));
 const gHard = lv => gItems(lv).filter(it => { const p = S.gq[it.id]; return p && p[3] > 0 && p[0] < 2; });
 function topicStats(t) { let learned = 0, seen = 0, wrong = 0; for (const it of t.items) { const p = S.gq[it.id]; if (p) { seen++; if (p[0] >= 2) learned++; if (p[3] > 0 && p[0] < 2) wrong++; } } return { learned, seen, wrong, total: t.items.length }; }
+function weakExamTypes() {
+  return Object.keys(EXTYPES).map(t => {
+    let o = 0, x = 0;
+    const items = EX.filter(g => g.type === t).flatMap(g => g.items);
+    items.forEach(it => { const p = S.eq[it.id]; if (p) { o += p[2]; x += p[3]; } });
+    const miss = items.filter(it => { const p = S.eq[it.id]; return p && p[3] > 0 && p[0] < 2; });
+    return { t, acc: o + x >= 3 ? o / (o + x) : null, miss };
+  }).filter(x => x.acc !== null && x.acc < .7).sort((a, b) => a.acc - b.acc);
+}
+function startWeakDrill() {
+  const qs = [];
+  const used = new Set();
+  const add = q => { const k = qKey(q); if (used.has(k)) return; used.add(k); qs.push(q); };
+  const topics = G.map(t => ({ t, s: topicStats(t) })).filter(x => x.s.wrong > 0).sort((a, b) => b.s.wrong - a.s.wrong);
+  for (const x of topics) {
+    if (qs.length >= 6) break;
+    shuffle(x.t.items.filter(it => { const p = S.gq[it.id]; return p && p[3] > 0; })).slice(0, 2).forEach(it => add(clozeQ(it, "gcloze")));
+  }
+  for (const x of weakExamTypes()) {
+    if (qs.length >= 11) break;
+    const pool = x.miss.length ? x.miss : EX.filter(g => g.type === x.t).flatMap(g => g.items);
+    shuffle(pool).slice(0, 2).forEach(it => add(exQ(it)));
+  }
+  for (const w of W.filter(isHard).sort((a, b) => getP(b)[3] - getP(a)[3])) {
+    if (qs.length >= 15) break;
+    add(mcQ(w, qs.length % 2 ? "tren" : "entr"));
+  }
+  if (qs.length < 15) gHard("ALL").forEach(it => { if (qs.length < 15) add(clozeQ(it, "gcloze")); });
+  if (qs.length < 15) W.filter(w => { const p = getP(w); return p && p[3] > 0; }).forEach(w => { if (qs.length < 15) add(mcQ(w, "entr")); });
+  if (!qs.length) return toast("Henüz zayıf nokta yok. Biraz pratik yapınca burada 15 soruluk bir tur açılır.");
+  startGame("weak", shuffle(qs).slice(0, 15));
+}
 
 /* ---------- game engine ---------- */
 let game = null;
-function startGame(mode, arg) {
+function startGame(mode, arg, key) {
   const lv = S.level, glv = S.glevel;
   let qs = [], intro = null;
   if (mode === "learn") {
@@ -1040,17 +1090,18 @@ function startGame(mode, arg) {
   } else if (mode === "sdikte") {
     let its = shuffle(vItems(lv)).slice(0, 6); if (its.length < 3) its = shuffle(V).slice(0, 6);
     qs = its.map(sdikteQ);
-  } else if (mode === "redoMock") {
+  } else if (mode === "redoMock" || mode === "weak" || mode === "trap") {
     qs = arg || [];
   } else if (mode === "ghard") {
     qs = shuffle(gHard(glv)).slice(0, 12).map(it => clozeQ(it, "gcloze"));
     if (!qs.length) return toast("Bu seviyede gramer hatan yok. Harika!");
   }
   closeSheet();
+  if (game) clearInterval(game.timer);
   game = newGame(mode, qs, intro);
-  game.lv = mode[0] === "g" ? glv : mode.startsWith("ex:") || mode.startsWith("x:") || mode === "redoMock" ? "YDS" : lv;
+  game.lv = mode[0] === "g" ? glv : mode.startsWith("ex:") || mode.startsWith("x:") || mode === "redoMock" || mode === "weak" || mode === "trap" ? "YDS" : lv;
   if (!qs.length && mode !== "speed") { game = null; return toast("Bu bölümde şu an soru yok."); }
-  game.topic = mode === "gtopic" ? arg : null;
+  game.topic = mode === "gtopic" ? arg : mode === "trap" ? key : null;
   if (mode === "speed") { game.qs = [nextSpeedQ()]; startTimer(); }
   window.scrollTo({ top: 0 });
   renderGame();
@@ -1064,8 +1115,9 @@ const otherKind = k => k === "entr" ? "tren" : k === "tren" ? "entr" : k === "sy
 function nextSpeedQ() { const ws = pool(S.level); const known = ws.filter(w => getP(w)); const src = known.length > 20 && Math.random() < .7 ? known : ws; return mcQ(pick(src), "entr"); }
 function startTimer() {
   clearInterval(game.timer);
-  game.timer = setInterval(() => {
-    if (!game) return;
+  const g = game;
+  g.timer = setInterval(() => {
+    if (game !== g) { clearInterval(g.timer); return; }
     game.timeLeft--;
     const el = document.getElementById("timer");
     if (el) el.textContent = game.timeLeft + "s";
@@ -1074,7 +1126,7 @@ function startTimer() {
 }
 function quitGame() { if (game) clearInterval(game.timer); game = null; refresh(); }
 
-const MODE_TITLE = { learn: "Yeni kelimeler", review: "Akıllı tekrar", entr: "İngilizce → Türkçe", tren: "Türkçe → İngilizce", type: "Yazarak hatırla", match: "Eşleştir", speed: "Hız turu", syn: "Eş anlam avı", hard: "Hatalarım", vcloze: "Cümlede kullanım", aicloze: "Claude'un cümleleri", gmix: "Karışık gramer testi", gtopic: "Gramer konusu", ghard: "Gramer hatalarım", redo: "Tekrar çalışması", dikte: "Kelime dikte", sdikte: "Cümle dikte", mock: "Deneme sınavı", redoMock: "Deneme yanlışları" };
+const MODE_TITLE = { trap: "Hata analizi turu", learn: "Yeni kelimeler", review: "Akıllı tekrar", entr: "İngilizce → Türkçe", tren: "Türkçe → İngilizce", type: "Yazarak hatırla", match: "Eşleştir", speed: "Hız turu", syn: "Eş anlam avı", hard: "Hatalarım", vcloze: "Cümlede kullanım", aicloze: "Claude'un cümleleri", gmix: "Karışık gramer testi", gtopic: "Gramer konusu", ghard: "Gramer hatalarım", redo: "Tekrar çalışması", dikte: "Kelime dikte", sdikte: "Cümle dikte", mock: "Deneme sınavı", redoMock: "Deneme yanlışları", weak: "Zayıf nokta antrenmanı" };
 const QTYPE = { entr: "Bu kelimenin anlamı ne?", tren: "Bu anlama gelen İngilizce kelime hangisi?", syn: "Eş anlamlısı hangisi?", type: "İngilizcesini yaz", vcloze: "Boşluğa hangi kelime gelir?", gcloze: "Boşluğa hangi yapı gelir?", dikte: "Dinle ve yaz", sdikte: "Cümleyi dinle ve yaz" };
 
 function head(progress) {
@@ -1086,6 +1138,7 @@ function wire() { const q = document.getElementById("quit"); if (q) q.addEventLi
 function metaPills(w) { return `<div class="qmeta"><span class="pill">${esc(posTr(w.p))}</span><span class="pill lv">${w.l}</span>${w.y ? '<span class="pill yds">YDS</span>' : ""}</div>`; }
 
 function renderGame() {
+  closeWordPop();
   if (!game) return refresh();
   if (game.mode === "mock") return game.phase === "done" ? renderMockResult() : renderMock();
   if (game.phase === "done") return renderResult();
@@ -1194,6 +1247,7 @@ const xpTag = xp => `<span style="margin-left:auto;font-family:var(--f-mono);fon
 const contBtn = () => `<div class="btnrow" style="justify-content:flex-start"><button class="btn" type="button" id="cont">Devam (Enter)</button></div>`;
 function settle(q, ok, choice, near = false, revealed = false) {
   game.answered = true;
+  game.boxDrop = "";
   lockQuestion();
   const w = q.w;
   const unsure = game.unsure && canRepeat();
@@ -1203,7 +1257,10 @@ function settle(q, ok, choice, near = false, revealed = false) {
   else {
     // a correct guess while "bilmiyorum" is ticked does not move the word up the SRS boxes
     if (unsure && ok) { const k = w.w.toLowerCase(); const p = S.prog[k] ? S.prog[k].slice() : [0, today(), 0, 0, today(), 0, today()]; p[0] = Math.min(p[0], 1); p[1] = today(); p[4] = today(); S.prog[k] = p; }
-    else grade(w, ok, q.kind === "type" ? 2 : 1);
+    else {
+      const g = grade(w, ok, q.kind === "type" ? 2 : 1);
+      if (!ok && g.from > g.to) game.boxDrop = `Kutu ${g.from} → ${g.to}. Yanlışta kutu düşer; yarın yeniden sorulur.`;
+    }
     if (unsure || revealed) { const p = S.prog[w.w.toLowerCase()]; p[5] = (p[5] || 0) + 1; }
     if (q.kind === "vcloze" && !q.item.ai) gradeMap(S.vq, q.item.id, ok, unsure, revealed);
   }
@@ -1222,7 +1279,7 @@ function settle(q, ok, choice, near = false, revealed = false) {
     else { const t = (game.tries.get(k) || 1) + 1; game.tries.set(k, t); if (t <= 3) game.qs.push(repeatQ(q)); }
   }
   persist();
-  if (game.mode === "speed") { setTimeout(() => { if (!game || game.phase === "done") return; game.qs = [nextSpeedQ()]; game.answered = false; renderGame(); }, ok ? 250 : 900); flashFb(ok, w); return; }
+  if (game.mode === "speed") { const g = game; setTimeout(() => { if (game !== g || game.phase === "done") return; game.qs = [nextSpeedQ()]; game.answered = false; renderGame(); }, ok ? 250 : 900); flashFb(ok, w); return; }
   const fb = document.getElementById("fb");
   const noun = q.kind === "gcloze" || q.kind === "ex" ? "soruyu" : isCloze(q) || q.kind === "sdikte" ? "cümleyi" : "kelimeyi";
   const later = game.stage === "test" ? `Testten sonra bu ${noun} tekrar edeceğiz.` : "Turun sonunda bir kez daha gelecek.";
@@ -1262,6 +1319,7 @@ function settle(q, ok, choice, near = false, revealed = false) {
       <div class="fw"><span class="hlw">${esc(w.w)}</span>${spk(w.w)}<span class="pill">${esc(posTr(w.p))}</span></div>
       <div><b>${esc(w.t)}</b></div>
       ${w.s ? `<div class="fs">Eş anlamlıları: ${esc(w.s)}</div>` : ""}
+      ${!near && game.boxDrop ? `<div class="fs"><b>Tekrar kutusu:</b> ${esc(game.boxDrop)}</div>` : ""}
       ${!near && choice && !isTyping(q) ? `<div class="fs">Senin seçtiğin "${esc(choice)}"${(() => { const o = q.kind === "tren" ? BYKEY.get(choice.toLowerCase()) : null; return o ? ` = ${esc(firstMeaning(o.t))}` : ""; })()}</div>` : ""}
       ${!isTyping(q) ? contBtn() : ""}
     </div>`;
@@ -1382,7 +1440,7 @@ function renderMatch() {
       if (firstTry) { game.combo++; game.bestCombo = Math.max(game.bestCombo, game.combo); } else game.combo = 0;
       const xp = firstTry ? 8 : 2; game.xp += xp; award(xp); persist();
       selL = null;
-      if (c.done.size === round.length) { setTimeout(() => { game.i++; if (game.i >= game.qs.length) finishGame(); else renderGame(); }, 500); }
+      if (c.done.size === round.length) { const g = game; setTimeout(() => { if (game !== g) return; game.i++; if (game.i >= game.qs.length) finishGame(); else renderGame(); }, 500); }
     } else {
       c.errs.add(selL);
       b.classList.add("wrong"); setTimeout(() => b.classList.remove("wrong"), 500);
@@ -1408,21 +1466,23 @@ function renderResult() {
   app.innerHTML = `<section class="game"><div class="card result">
     <h2>${esc(title)}</h2><p class="sub">${esc(sub)}</p>
     <div class="kpis"><div class="kpi"><b><span data-count="${ok}">0</span>/${r.length}</b><small>${game.mode === "speed" ? "doğru" : "testte doğru"}</small></div><div class="kpi"><b>+<span data-count="${game.xp}">0</span></b><small>XP</small></div>${repeated ? `<div class="kpi"><b>${repeated}</b><small>tekrar edildi</small></div>` : `<div class="kpi"><b>${game.bestCombo}</b><small>en uzun seri</small></div>`}</div>
+    ${wrongs.length >= 2 ? trapSummaryHtml(wrongs) : ""}
     <div><span class="eyebrow">Testteki ${unit === "soru" ? "sorular" : "kelimeler"} · ✓ bildin · ? emin değildin · ✗ bilemedin</span></div>
     <div class="rlist">${uniq.map(x => itemRow(x.q, tagOf(x))).join("")}</div>
-    <div class="btnrow">${wrongs.length ? `<button class="btn" type="button" id="redo">Bu ${unit === "soru" ? "soruları" : "kelimeleri"} bir daha çalış</button>` : ""}<button class="btn ${wrongs.length ? "ghost" : ""}" type="button" id="again">Yeni tur</button><button class="btn ghost" type="button" id="home">${game.mode[0] === "g" ? "Gramer sayfası" : game.mode.startsWith("ex:") || game.mode === "redoMock" ? "Sınav sayfası" : "Ana sayfa"}</button></div>
+    <div class="btnrow">${wrongs.length ? `<button class="btn" type="button" id="redo">Bu ${unit === "soru" ? "soruları" : "kelimeleri"} bir daha çalış</button>` : ""}<button class="btn ${wrongs.length ? "ghost" : ""}" type="button" id="again">Yeni tur</button><button class="btn ghost" type="button" id="home">${game.mode[0] === "g" ? "Gramer sayfası" : game.mode.startsWith("ex:") || game.mode === "redoMock" ? "Sınav sayfası" : game.mode === "weak" || game.mode === "trap" ? "İlerlemem" : "Ana sayfa"}</button></div>
   </div></section>`;
   const mode = game.mode, topic = game.topic;
   app.querySelectorAll("[data-count]").forEach(el => countTo(el, +el.dataset.count, 800));
-  if (r.length && (pct >= 70 || game.record)) setTimeout(() => confetti(pct >= 90 || game.record ? 150 : 90), 250);
+  if (r.length && (pct >= 70 || game.record)) { const big = pct >= 90 || game.record; setTimeout(() => confetti(big ? 150 : 90), 250); }
   wireRows(app);
-  document.getElementById("again").addEventListener("click", () => mode === "aicloze" ? startAiCloze() : mode === "redoMock" ? setTab("exam") : startGame(mode, topic));
-  document.getElementById("home").addEventListener("click", () => { const back = mode[0] === "g" ? "gram" : mode.startsWith("ex:") || mode === "redoMock" ? "exam" : null; quitGame(); if (back) setTab(back); });
+  document.getElementById("again").addEventListener("click", () => mode === "aicloze" ? startAiCloze() : mode === "redoMock" ? setTab("exam") : mode === "weak" ? startWeakDrill() : mode === "trap" ? startTrapDrill(topic) : startGame(mode, topic));
+  document.getElementById("home").addEventListener("click", () => { const back = mode[0] === "g" ? "gram" : mode.startsWith("ex:") || mode === "redoMock" ? "exam" : mode === "weak" || mode === "trap" ? "me" : null; quitGame(); if (back) setTab(back); });
   const rd = document.getElementById("redo");
   if (rd) rd.addEventListener("click", () => {
     const words = wrongs.filter(q => !isCloze(q) && q.kind !== "sdikte" && q.w).map(q => q.w);
     const qs = shuffle(wrongs.map(repeatQ)).concat(shuffle(words).map(w => mcQ(w, "type")));
     const lv = game.lv;
+    if (game) clearInterval(game.timer);
     game = newGame("redo", qs);
     game.lv = lv;
     window.scrollTo({ top: 0 });
@@ -1504,11 +1564,10 @@ function renderDict() {
       if (known.s) document.getElementById("awS").value = known.s;
       return awMsg("Sözlükte vardı; alanları doldurdum. Kontrol edip listene ekleyebilirsin.");
     }
-    const sm = await getSample();
-    if (!sm) return awMsg("Bu kelime sözlükte yok. Anlamını kendin yaz; Claude doldurma yalnızca claude.ai'de çalışır.");
-    awMsg("Claude dolduruyor…");
+    awMsg("Dolduruluyor…");
     try {
-      const d = await sm.json(`Give the Turkish meaning of the English word "${w}" for a Turkish learner preparing for the YDS exam. Return JSON only: {"tr":"<1-3 short Turkish meanings, comma separated>","pos":"<one of: n, v, adj, adv, prep, conj, pron, det, num, int, phr, exp>","syn":"<2-3 English synonyms, comma separated, or empty>"}`, { modelTier: "quick" });
+      const d = await askJsonAI(`Give the Turkish meaning of the English word "${w}" for a Turkish learner preparing for the YDS exam. Return JSON only: {"tr":"<1-3 short Turkish meanings, comma separated>","pos":"<one of: n, v, adj, adv, prep, conj, pron, det, num, int, phr, exp>","syn":"<2-3 English synonyms, comma separated, or empty>"}`);
+      if (!d || !d.tr) return awMsg("Bu kelime sözlükte yok. Anlamını kendin yaz; Claude doldurma claude.ai veya kayıtlı API anahtarı ile çalışır.");
       if (d && d.tr) document.getElementById("awT").value = String(d.tr);
       if (d && d.pos && POS[d.pos]) document.getElementById("awP").value = d.pos;
       if (d && d.syn) document.getElementById("awS").value = String(d.syn);
@@ -1589,6 +1648,44 @@ async function getSample() {
   } catch (e) { sampleNs = null; }
   return sampleNs;
 }
+function parseModelJson(t) {
+  if (!t) return null;
+  const m = String(t).match(/\{[\s\S]*\}/);
+  if (!m) return null;
+  try { return JSON.parse(m[0]); } catch (e) { return null; }
+}
+async function askJsonAI(prompt) {
+  const sm = await getSample();
+  if (sm) {
+    try { return await sm.json(prompt, { modelTier: "quick" }); } catch (e) { if (!(S.aiKey || "").trim()) throw e; }
+  }
+  const key = (S.aiKey || "").trim();
+  if (!key) return null;
+  const asJson = txt => parseModelJson(txt);
+  try {
+    if (key.startsWith("sk-ant-")) {
+      const res = await fetch("https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: { "content-type": "application/json", "x-api-key": key, "anthropic-version": "2023-06-01", "anthropic-dangerous-direct-browser-access": "true" },
+        body: JSON.stringify({ model: "claude-3-5-haiku-latest", max_tokens: 1600, messages: [{ role: "user", content: prompt + "\nReturn JSON only." }] })
+      });
+      const j = await res.json();
+      if (!res.ok) throw new Error((j && j.error && j.error.message) || "API");
+      return asJson((j.content || []).map(c => c.text || "").join("\n"));
+    }
+    const res = await fetch("https://api.openai.com/v1/chat/completions", {
+      method: "POST",
+      headers: { "content-type": "application/json", Authorization: "Bearer " + key },
+      body: JSON.stringify({ model: "gpt-4o-mini", temperature: 0.4, response_format: { type: "json_object" }, messages: [{ role: "user", content: prompt }] })
+    });
+    const j = await res.json();
+    if (!res.ok) throw new Error((j && j.error && j.error.message) || "API");
+    return asJson(j.choices && j.choices[0] && j.choices[0].message && j.choices[0].message.content);
+  } catch (e) {
+    toast("Yerel API anahtarı çalışmadı (tarayıcı CORS veya ağ). Claude.ai veya çevrimdışı örnek kullanılabilir.");
+    return null;
+  }
+}
 async function startAiCloze() {
   const lv = S.level;
   const learning = shuffle(pool(lv).filter(w => { const p = getP(w); return p && p[0] < MASTER; }));
@@ -1598,24 +1695,22 @@ async function startAiCloze() {
   app.innerHTML = `<section class="game"><div class="card result"><h2>Cümleler yazılıyor…</h2><p class="sub">${esc(words.map(w => w.w).join(", "))} için sınav tarzı cümleler hazırlıyorum.</p><div class="btnrow"><button class="btn ghost" type="button" id="aiCancel">Vazgeç</button></div></div></section>`;
   let cancelled = false;
   document.getElementById("aiCancel").addEventListener("click", () => { cancelled = true; refresh(); });
-  const sm = await getSample();
-  if (cancelled) return;
-  if (!sm) {
-    const set = new Set(words.map(w => w.w.toLowerCase()));
-    const hit = V.filter(it => set.has(it.w.w.toLowerCase()));
-    const rest = shuffle(V.filter(it => inLevel(it.w, lv) && !hit.includes(it)));
-    const items = hit.concat(rest).slice(0, 8);
-    if (!items.length) { toast("Hazır cümle yok. Sözlükten kelime ekleyebilirsin."); return refresh(); }
-    toast("Claude bu görünümde yok; hazır cümlelerden bir tur açıyorum.");
-    return startGame("aicloze", items);
-  }
   const prompt = `You write fill-in-the-blank vocabulary questions for a Turkish student preparing for the YDS / YÖKDİL English exams.
 Target words (CEFR ${lv === "YDS" ? "B2-C1 academic" : lv === "ALL" ? "mixed" : lv}): ${words.map(w => `${w.w} (${posTr(w.p)}: ${firstMeaning(w.t)})`).join("; ")}.
 For EACH target word write one question. Return JSON only: {"items":[{"word":"<target word exactly as given>","answer":"<the form that fills the blank>","sentence":"<sentence with exactly one ___ where the answer goes>","distractors":["...","...","..."],"tr":"<natural Turkish translation of the completed sentence>"}]}
 Rules: the sentence is 10-22 words, clear context so ONLY the answer fits; distractors are the same part of speech and grammatical form as the answer but clearly wrong in meaning; never use the answer or its synonyms as distractors; register like YDS reading passages for B2+ words, everyday for A1-B1.`;
   try {
-    const d = await sm.json(prompt, { modelTier: "quick" });
+    const d = await askJsonAI(prompt);
     if (cancelled) return;
+    if (!d) {
+      const set = new Set(words.map(w => w.w.toLowerCase()));
+      const hit = V.filter(it => set.has(it.w.w.toLowerCase()));
+      const rest = shuffle(V.filter(it => inLevel(it.w, lv) && !hit.includes(it)));
+      const items = hit.concat(rest).slice(0, 8);
+      if (!items.length) { toast("Hazır cümle yok. Sözlükten kelime ekleyebilirsin."); return refresh(); }
+      toast("Claude bu görünümde yok; hazır cümlelerden bir tur açıyorum.");
+      return startGame("aicloze", items);
+    }
     const set = new Map(words.map(w => [w.w.toLowerCase(), w]));
     const items = ((d && d.items) || []).map((x, n) => {
       const w = set.get(String(x.word || "").toLowerCase());
@@ -1642,18 +1737,81 @@ Rules: the sentence is 10-22 words, clear context so ONLY the answer fits; distr
 }
 
 /* ---------- YDS exam: question rendering helpers ---------- */
-function exPromptHtml(it) {
+// turns raw English text into HTML: blanks become gap markers, words become tappable when taps is on
+function richText(raw, taps, curGap) {
+  let out = "", last = 0;
+  const re = /\((\d)\)___|___|[A-Za-z][A-Za-z'’]*(?:-[A-Za-z]+)*/g;
+  for (const m of raw.matchAll(re)) {
+    out += esc(raw.slice(last, m.index));
+    if (m[1]) out += `<span class="pgap${curGap === m[1] ? " cur" : ""}">(${m[1]})</span>`;
+    else if (m[0] === "___") out += '<span class="gap" aria-label="boşluk">&nbsp;</span>';
+    else out += taps ? `<span class="tw">${esc(m[0])}</span>` : esc(m[0]);
+    last = m.index + m[0].length;
+  }
+  return out + esc(raw.slice(last));
+}
+function exPromptHtml(it, taps = true) {
   const g = it.g;
   let ph = "";
   if (g.p) {
-    let p = esc(g.p);
-    if (g.type === "cloze") { const cur = it.s.match(/\((\d)\)/); p = p.replace(/\((\d)\)___/g, (m, d) => `<span class="pgap${cur && cur[1] === d ? " cur" : ""}">(${d})</span>`); }
-    else p = p.replace("___", '<span class="gap" aria-label="boşluk">&nbsp;</span>');
-    ph = `<div class="passage">${p.split("\n").map(x => `<p>${x}</p>`).join("")}</div>`;
+    const cur = g.type === "cloze" ? (it.s.match(/\((\d)\)/) || [])[1] : null;
+    ph = `<div class="passage${taps ? " taps" : ""}">${g.p.split("\n").map(x => `<p>${richText(x, taps, cur)}</p>`).join("")}</div>`;
+    if (taps) ph += '<p class="taphint">Bilmediğin bir kelimeye dokun: anlamını gör, tek dokunuşla listene ekle.</p>';
   }
   const stem = g.type === "cloze" ? `${it.s} numaralı boşluğa hangisi gelir?` : it.s;
-  return ph + `<div class="qstem">${esc(stem).replace("___", '<span class="gap" aria-label="boşluk">&nbsp;</span>')}</div>`;
+  return ph + `<div class="qstem">${richText(stem, false, null)}</div>`;
 }
+
+/* ---------- tap a word in a passage ---------- */
+const IRREG = { was: "be", were: "be", is: "be", are: "be", been: "be", am: "be", went: "go", gone: "go", took: "take", taken: "take", made: "make", found: "find", became: "become", began: "begin", begun: "begin", brought: "bring", built: "build", bought: "buy", caught: "catch", chose: "choose", chosen: "choose", came: "come", did: "do", done: "do", drew: "draw", drawn: "draw", fell: "fall", fallen: "fall", felt: "feel", got: "get", gave: "give", given: "give", grew: "grow", grown: "grow", had: "have", has: "have", held: "hold", kept: "keep", knew: "know", known: "know", led: "lead", left: "leave", lost: "lose", meant: "mean", met: "meet", paid: "pay", ran: "run", said: "say", saw: "see", seen: "see", sent: "send", shown: "show", sold: "sell", spent: "spend", stood: "stand", taught: "teach", thought: "think", told: "tell", understood: "understand", won: "win", wrote: "write", written: "write", rose: "rise", risen: "rise", children: "child", people: "person", men: "man", women: "woman", feet: "foot", teeth: "tooth", mice: "mouse", worse: "bad", worst: "bad", phenomena: "phenomenon", criteria: "criterion", analyses: "analysis" };
+function lookupWord(raw) {
+  const w = raw.toLowerCase().replace(/’/g, "'").replace(/'s$/, "");
+  const tries = [w, IRREG[w]];
+  const cut = n => w.slice(0, -n);
+  if (w.endsWith("ies") || w.endsWith("ied")) tries.push(cut(3) + "y");
+  if (w.endsWith("es")) tries.push(cut(2));
+  if (w.endsWith("s")) tries.push(cut(1));
+  if (w.endsWith("ed")) { tries.push(cut(2), cut(1)); if (/(.)\1ed$/.test(w)) tries.push(cut(3)); }
+  if (w.endsWith("ing")) { tries.push(cut(3), cut(3) + "e"); if (/(.)\1ing$/.test(w)) tries.push(cut(4)); }
+  if (w.endsWith("ily")) tries.push(cut(3) + "y");
+  if (w.endsWith("ly")) tries.push(cut(2));
+  if (w.endsWith("est")) tries.push(cut(3), cut(2));
+  if (w.endsWith("er")) tries.push(cut(2), cut(1));
+  for (const t of tries) { const hit = t && BYKEY.get(t); if (hit) return hit; }
+  return null;
+}
+function closeWordPop() { const el = document.getElementById("wordpop"); if (el) el.remove(); }
+function showWordPop(span) {
+  closeWordPop();
+  const raw = span.textContent, w = lookupWord(raw);
+  const el = document.createElement("div");
+  el.id = "wordpop"; el.className = "card wordpop"; el.setAttribute("role", "dialog"); el.setAttribute("aria-label", raw);
+  el.innerHTML = w ? `<div class="wp-h"><span class="hlw">${esc(w.w)}</span>${spk(w.w)}</div>
+      ${w.w.toLowerCase() !== raw.toLowerCase() ? `<div class="dcount">metinde: ${esc(raw)}</div>` : ""}
+      ${w.ipa ? `<div class="ipa" lang="en">${esc(w.ipa)}</div>` : ""}
+      <div class="wp-m"><span class="pill">${esc(posTr(w.p))}</span> <b>${esc(w.t)}</b></div>
+      ${w.s ? `<div class="dcount">≈ ${esc(w.s)}</div>` : ""}
+      <div class="btnrow" style="justify-content:flex-start"><button class="btn small" type="button" id="wpAdd" ${w.my ? "disabled" : ""}>${w.my ? "Listende ✓" : "Listeme ekle"}</button><button class="btn small ghost" type="button" id="wpOpen">Kartı aç</button></div>`
+    : `<div class="wp-h"><span class="hlw">${esc(raw)}</span>${spk(raw)}</div><p class="dcount" style="margin:0">Bu kelime sözlükte yok. Sözlük sekmesinden kendi anlamınla listene ekleyebilirsin.</p>`;
+  document.getElementById("layer").appendChild(el);
+  const r = span.getBoundingClientRect(), pr = el.getBoundingClientRect();
+  const left = Math.max(8, Math.min(innerWidth - pr.width - 8, r.left + r.width / 2 - pr.width / 2));
+  const below = r.bottom + 8 + pr.height < innerHeight;
+  el.style.left = left + "px";
+  el.style.top = (below ? r.bottom + 8 : Math.max(8, r.top - pr.height - 8)) + "px";
+  if (w) {
+    const add = document.getElementById("wpAdd");
+    if (!w.my) add.addEventListener("click", () => { addMy(w.w, w.t, w.p, w.s); add.textContent = "Listende ✓"; add.disabled = true; });
+    document.getElementById("wpOpen").addEventListener("click", () => { closeWordPop(); openWord(w); });
+  }
+}
+document.addEventListener("click", e => {
+  const t = e.target.closest && e.target.closest(".passage.taps .tw");
+  if (t) { e.stopPropagation(); showWordPop(t); return; }
+  if (!e.target.closest || !e.target.closest("#wordpop")) closeWordPop();
+});
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeWordPop(); });
+window.addEventListener("scroll", closeWordPop, { passive: true });
 const isTyping = q => q.kind === "type" || q.kind === "dikte" || q.kind === "sdikte";
 function modeTitle(m) { if (m.startsWith("ex:")) return EXTYPES[m.slice(3)] ? EXTYPES[m.slice(3)].name : m; if (m.startsWith("x:")) return XCATS[m.slice(2)] ? XCATS[m.slice(2)].name : m; return MODE_TITLE[m] || m; }
 function qtypeOf(q) { if (q.kind === "ex") return EXTYPES[q.item.g.type].q; if (q.kind === "xcloze") return XCATS[q.item.cat].q; return QTYPE[q.kind] || ""; }
@@ -1661,7 +1819,12 @@ function qtypeOf(q) { if (q.kind === "ex") return EXTYPES[q.item.g.type].q; if (
 /* ---------- mock exam (deneme sınavı): 80 questions in real YDS order, no feedback until the end ---------- */
 const MOCK_PLAN = [["vocab", "Kelime bilgisi", 6], ["grammar", "Dilbilgisi", 10], ["cloze", "Cloze test", 10], ["sentcomp", "Cümle tamamlama", 10], ["trans", "Çeviri", 6], ["reading", "Okuma", 20], ["dialogue", "Diyalog tamamlama", 5], ["restate", "Yakın anlamlı cümle", 4], ["parcomp", "Paragraf tamamlama", 4], ["irrelevant", "Anlamı bozan cümle", 5]];
 const MOCK_SHORT = [["vocab", "Kelime bilgisi", 4], ["grammar", "Dilbilgisi", 6], ["cloze", "Cloze test", 5], ["sentcomp", "Cümle tamamlama", 5], ["trans", "Çeviri", 4], ["reading", "Okuma", 8], ["dialogue", "Diyalog tamamlama", 2], ["restate", "Yakın anlamlı cümle", 2], ["parcomp", "Paragraf tamamlama", 2], ["irrelevant", "Anlamı bozan cümle", 2]];
-const MOCK_MIN = 180, MOCK_SHORT_MIN = 90;
+const MOCK_SNAP = [["vocab", "Kelime bilgisi", 2], ["grammar", "Dilbilgisi", 3], ["cloze", "Cloze test", 5], ["sentcomp", "Cümle tamamlama", 2], ["trans", "Çeviri", 2], ["reading", "Okuma", 4], ["dialogue", "Diyalog tamamlama", 1], ["restate", "Yakın anlamlı cümle", 1]];
+// same pace as the real exam: 80 questions in 180 minutes = 2.25 minutes per question
+const MOCK_MIN = 180, MOCK_SHORT_MIN = 90, MOCK_SNAP_MIN = 45;
+function mockPlan(kind) { return kind === "snap" ? MOCK_SNAP : kind === "short" ? MOCK_SHORT : MOCK_PLAN; }
+function mockMins(kind) { return kind === "snap" ? MOCK_SNAP_MIN : kind === "short" ? MOCK_SHORT_MIN : MOCK_MIN; }
+function mockKindLabel(kind) { return kind === "snap" ? `20 soru · ${MOCK_SNAP_MIN} dakika` : kind === "short" ? `40 soru · ${MOCK_SHORT_MIN} dakika` : `80 soru · ${MOCK_MIN} dakika`; }
 const FIELDS = { ALL: "Tüm alanlar", saglik: "YÖKDİL Sağlık", sosyal: "YÖKDİL Sosyal", fen: "YÖKDİL Fen" };
 const FIELD_TOPICS = { saglik: ["Sağlık", "Psikoloji"], sosyal: ["Sosyal bilimler", "Eğitim", "Hukuk", "Tarih", "Ekonomi"], fen: ["Fen", "Çevre", "Teknoloji", "Arkeoloji"] };
 function inField(g) {
@@ -1669,6 +1832,13 @@ function inField(g) {
   if (f === "ALL" || !g.topic) return true;
   const names = FIELD_TOPICS[f] || [];
   return names.includes(g.topic);
+}
+const RICH_STEMS = ["baslik", "tutum", "degil", "amac"];
+function pickReadingItems(g, n) {
+  if (g.items.length <= n) return g.items;
+  const rich = shuffle(g.items.filter(it => RICH_STEMS.includes(it.k))).slice(0, 1);
+  const rest = shuffle(g.items.filter(it => !rich.includes(it))).slice(0, n - rich.length);
+  return [...rich, ...rest].sort((a, b) => a.n - b.n);
 }
 function pickGroups(type, n) {
   const all = EX.filter(g => g.type === type);
@@ -1680,25 +1850,25 @@ function pickGroups(type, n) {
 }
 function mockScore(ok, n) { return Math.round(ok * (100 / n) * 100) / 100; }
 function buildMock(kind = "full") {
-  const plan = kind === "short" ? MOCK_SHORT : MOCK_PLAN;
+  const plan = mockPlan(kind);
   const need = Object.fromEntries(plan.map(p => [p[0], p[2]]));
   const out = [];
   const add = (sec, qs) => qs.forEach(q => out.push({ sec, q }));
   const hi = it => ["B2", "C1", "YDS"].includes(it.w.l) || it.w.y;
-  let vs = shuffle(V.filter(hi)); if (vs.length < need.vocab) vs = vs.concat(shuffle(V.filter(x => !vs.includes(x))));
-  add("vocab", vs.slice(0, need.vocab).map(it => clozeQ(it, "vcloze")));
-  add("grammar", shuffle(GQ.filter(it => ["B1", "B2", "C1", "YDS"].includes(it.t.lv))).slice(0, need.grammar).map(it => clozeQ(it, "gcloze")));
-  const clozeN = need.cloze / 5;
-  add("cloze", pickGroups("cloze", clozeN).flatMap(g => g.items.map(exQ)));
-  add("sentcomp", pickGroups("sentcomp", need.sentcomp).map(g => exQ(g.items[0])));
-  const trN = need.trans / 2;
-  add("trans", pickGroups("en_tr", trN).concat(pickGroups("tr_en", trN)).map(g => exQ(g.items[0])));
-  const readN = need.reading / 4;
-  add("reading", pickGroups("reading", readN).flatMap(g => g.items.map(exQ)));
-  add("dialogue", pickGroups("dialogue", need.dialogue).map(g => exQ(g.items[0])));
-  add("restate", pickGroups("restate", need.restate).map(g => exQ(g.items[0])));
-  add("parcomp", pickGroups("parcomp", need.parcomp).map(g => exQ(g.items[0])));
-  add("irrelevant", pickGroups("irrelevant", need.irrelevant).map(g => exQ(g.items[0])));
+  let vs = shuffle(V.filter(hi)); if (vs.length < (need.vocab || 0)) vs = vs.concat(shuffle(V.filter(x => !vs.includes(x))));
+  if (need.vocab) add("vocab", vs.slice(0, need.vocab).map(it => clozeQ(it, "vcloze")));
+  if (need.grammar) add("grammar", shuffle(GQ.filter(it => ["B1", "B2", "C1", "YDS"].includes(it.t.lv))).slice(0, need.grammar).map(it => clozeQ(it, "gcloze")));
+  const clozeN = (need.cloze || 0) / 5;
+  if (clozeN) add("cloze", pickGroups("cloze", clozeN).flatMap(g => g.items.map(exQ)));
+  if (need.sentcomp) add("sentcomp", pickGroups("sentcomp", need.sentcomp).map(g => exQ(g.items[0])));
+  const trN = (need.trans || 0) / 2;
+  if (trN) add("trans", pickGroups("en_tr", trN).concat(pickGroups("tr_en", trN)).map(g => exQ(g.items[0])));
+  const readN = (need.reading || 0) / 4;
+  if (readN) add("reading", pickGroups("reading", readN).flatMap(g => pickReadingItems(g, 4).map(exQ)));
+  if (need.dialogue) add("dialogue", pickGroups("dialogue", need.dialogue).map(g => exQ(g.items[0])));
+  if (need.restate) add("restate", pickGroups("restate", need.restate).map(g => exQ(g.items[0])));
+  if (need.parcomp) add("parcomp", pickGroups("parcomp", need.parcomp).map(g => exQ(g.items[0])));
+  if (need.irrelevant) add("irrelevant", pickGroups("irrelevant", need.irrelevant).map(g => exQ(g.items[0])));
   return out;
 }
 function qFromSaved(x) {
@@ -1713,17 +1883,18 @@ function qFromSaved(x) {
 const fmtLeft = ms => { ms = Math.max(0, ms); const s = Math.floor(ms / 1000), h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return `${h}:${String(m).padStart(2, "0")}:${String(x).padStart(2, "0")}`; };
 function startMock(kind) {
   if (!S.mockRun) {
-    kind = kind === "short" ? "short" : "full";
+    kind = kind === "snap" ? "snap" : kind === "short" ? "short" : "full";
     const m = buildMock(kind);
-    const mins = kind === "short" ? MOCK_SHORT_MIN : MOCK_MIN;
+    const mins = mockMins(kind);
     S.mockRun = { ts: Date.now(), end: Date.now() + mins * 60000, i: 0, qs: m.map(x => ({ s: x.sec, k: qKey(x.q), o: x.q.opts })), ans: Array(m.length).fill(null), flag: [], kind };
   }
   const run = S.mockRun;
   if (run.left != null) { run.end = Date.now() + run.left; delete run.left; }
   persist();
   const qs = run.qs.map(qFromSaved);
-  if (qs.some(q => !q)) { S.mockRun = null; persist(); toast("Kayıtlı deneme açılamadı; yeni bir deneme başlatılıyor."); return startMock(); }
+  if (qs.some(q => !q)) { const k = run.kind; S.mockRun = null; persist(); toast("Kayıtlı deneme açılamadı; yeni bir deneme başlatılıyor."); return startMock(k); }
   closeSheet();
+  if (game) clearInterval(game.timer);
   game = { mode: "mock", phase: "mock", qs, run, timer: null, results: [], confirmEnd: false };
   game.timer = setInterval(mockTick, 1000);
   window.scrollTo({ top: 0 });
@@ -1741,7 +1912,7 @@ function mockTick() {
 function renderMock() {
   const run = game.run, i = run.i, q = game.qs[i], sec = run.qs[i].s;
   const secName = MOCK_PLAN.find(p => p[0] === sec)[1];
-  const prompt = q.kind === "ex" ? exPromptHtml(q.item) : `<div class="qsent">${esc(q.item.s).replace("___", '<span class="gap" aria-label="boşluk">&nbsp;</span>')}</div>`;
+  const prompt = q.kind === "ex" ? exPromptHtml(q.item, false) : `<div class="qsent">${esc(q.item.s).replace("___", '<span class="gap" aria-label="boşluk">&nbsp;</span>')}</div>`;
   const answered = run.ans.filter(a => a != null).length;
   const flagged = run.flag.includes(i);
   app.innerHTML = `<section class="game mock">
@@ -1812,6 +1983,7 @@ function renderMockResult() {
     <div class="bigscore"><span data-count="${Math.round(rec.score)}">0</span><small>YDS puanı</small></div>
     <p class="sub">${rec.ok} doğru / ${rec.n} soru (100 üzerinden; ${rec.n === 80 ? "tam denemede her doğru 1,25" : "kısa denemede puan orantılı"}). ${esc(band)}</p>
     <div class="secbars">${MOCK_PLAN.map(([id, name]) => { const s = rec.sec[id] || [0, 0]; if (!s[1]) return ""; const pct = s[0] / s[1] * 100; return `<div class="sb"><span class="sbn">${esc(name)}</span><span class="sbbar"><i style="width:${pct}%" class="${pct >= 70 ? "g" : pct >= 50 ? "m" : "b"}"></i></span><span class="sbv">${s[0]}/${s[1]}</span></div>`; }).join("")}</div>
+    ${wrongs.length >= 2 ? trapSummaryHtml(wrongs.map(x => x.q)) : ""}
     <div><span class="eyebrow">Yanlış ve boş bıraktığın sorular (${wrongs.length}) · ✗ yanlış · ? boş</span></div>
     <div class="rlist">${wrongs.map(x => itemRow(x.q, x.a == null ? "un" : "no")).join("")}</div>
     <div class="btnrow">${wrongs.length ? '<button class="btn" type="button" id="mRedo">Yanlışları tekrar çalış</button>' : ""}<button class="btn ghost" type="button" id="mBack">Sınav sayfası</button></div>
@@ -1836,10 +2008,10 @@ function renderExam() {
   app.innerHTML = `<section class="view">
     <div class="sec-h"><h2>YDS / YÖKDİL sınav pratiği</h2><p>Gerçek sınavdaki soru tipleri, her biri Türkçe açıklamalı</p></div>
     <div class="card mockcard">
-      <div class="mc-l"><span class="eyebrow">Deneme sınavı</span><h3>${run && run.kind === "short" ? "40 soru · 90 dakika" : "80 soru · 180 dakika"}</h3>
-        <p>Gerçek YDS sırası. Tam denemede her doğru 1,25 puan (80 soru = 100). Kısa deneme aynı oranla 100 üzerinden hesaplanır. Yanlışlar doğruları götürmez. Çıkarsan süre durur.</p>
+      <div class="mc-l"><span class="eyebrow">Deneme sınavı</span><h3>${mockKindLabel(run ? run.kind : "full")}</h3>
+        <p>Gerçek YDS sırası. Tam denemede her doğru 1,25 puan (80 soru = 100). Kısa deneme 40 soru / ${MOCK_SHORT_MIN} dakika, mini deneme 20 soru / ${MOCK_SNAP_MIN} dakikadır (gerçek sınavla aynı tempo); puan aynı oranla 100 üzerinden hesaplanır. Yanlışlar doğruları götürmez. Çıkarsan süre durur.</p>
         <div class="chips" role="group" aria-label="YÖKDİL alanı" style="margin:8px 0">${Object.entries(FIELDS).map(([id, name]) => `<button class="chip" type="button" data-field="${id}" aria-pressed="${(S.field || "ALL") === id}">${esc(name)}</button>`).join("")}</div>
-        <div class="btnrow" style="justify-content:flex-start">${run ? `<button class="btn" type="button" id="mStart">Devam et · Soru ${run.i + 1}/${run.qs.length} · ${fmtLeft(left)} kaldı</button><button class="btn ghost danger" type="button" id="mCancel">${mockCancelArmed ? "Emin misin? Cevaplar silinecek" : "Denemeyi iptal et"}</button>` : `<button class="btn" type="button" id="mStart">Tam deneme (80)</button><button class="btn ghost" type="button" id="mShort">Kısa deneme (40)</button>`}</div></div>
+        <div class="btnrow" style="justify-content:flex-start">${run ? `<button class="btn" type="button" id="mStart">Devam et · Soru ${run.i + 1}/${run.qs.length} · ${fmtLeft(left)} kaldı</button><button class="btn ghost danger" type="button" id="mCancel">${mockCancelArmed ? "Emin misin? Cevaplar silinecek" : "Denemeyi iptal et"}</button>` : `<button class="btn" type="button" id="mStart">Tam deneme (80)</button><button class="btn ghost" type="button" id="mShort">Kısa (40 · ${MOCK_SHORT_MIN} dk)</button><button class="btn ghost" type="button" id="mSnap">Mini (20 · ${MOCK_SNAP_MIN} dk)</button>`}</div></div>
       ${mocks.length ? `<div class="mc-r"><span class="eyebrow">Puanların · en iyi ${best.toLocaleString("tr-TR")}</span>
         <div class="chart mchart" style="grid-template-columns:repeat(${mocks.length}, minmax(0, 1fr))" role="img" aria-label="Deneme puanları">${mocks.map(m => `<div class="col" tabindex="0" data-tip="${fmtDay(Math.floor((m.ts - new Date(m.ts).getTimezoneOffset() * 60000) / 86400000))}: ${m.score} puan"><div class="barwrap"><div class="barv" style="height:${m.score}%"></div><span class="vlab" style="bottom:${m.score}%">${Math.round(m.score)}</span></div><span class="xl">${fmtDay(Math.floor((m.ts - new Date(m.ts).getTimezoneOffset() * 60000) / 86400000))}</span></div>`).join("")}</div></div>` : `<div class="mc-r empty"><p>İlk denemeni çözdüğünde puan grafiğin burada görünecek.</p></div>`}
     </div>
@@ -1847,8 +2019,9 @@ function renderExam() {
     <div class="modes">${Object.entries(EXTYPES).map(([t, m]) => { const s = stat(t); return modeBtn("ex:" + t, m.name, m.desc, s.acc == null ? `${s.n} soru` : `%${s.acc} doğru`, false, false, s.acc != null && s.acc < 60); }).join("")}</div>
     <p class="syncnote" style="text-align:left">Okuma ve paragraf metinlerinin hepsi bu uygulama için özgün olarak yazıldı. Gerçek çıkmış sorular için ÖSYM'nin yayımladığı soru kitapçıklarına bakabilirsin.</p>
   </section>`;
-  document.getElementById("mStart").addEventListener("click", () => startMock(run && run.kind === "short" ? "short" : "full"));
+  document.getElementById("mStart").addEventListener("click", () => startMock(run ? run.kind : "full"));
   const ms = document.getElementById("mShort"); if (ms) ms.addEventListener("click", () => startMock("short"));
+  const mp = document.getElementById("mSnap"); if (mp) mp.addEventListener("click", () => startMock("snap"));
   app.querySelectorAll("[data-field]").forEach(b => b.addEventListener("click", () => { S.field = b.dataset.field; persist(); renderExam(); }));
   const mc = document.getElementById("mCancel");
   if (mc) mc.addEventListener("click", () => { if (!mockCancelArmed) { mockCancelArmed = true; renderExam(); setTimeout(() => { if (mockCancelArmed) { mockCancelArmed = false; if (view === "exam" && !game) renderExam(); } }, 5000); return; } mockCancelArmed = false; S.mockRun = null; persist(); toast("Deneme iptal edildi."); renderExam(); });
@@ -1996,6 +2169,7 @@ function renderMe() {
     <div class="dtools"><div class="chips" role="group" aria-label="Liste">${Object.entries(lists).map(([k, v]) => `<button class="chip" type="button" data-me="${k}" aria-pressed="${meTab === k}">${esc(v.label)}</button>`).join("")}</div></div>
     <div class="dlist card">${meTab === "hist" ? histHtml : meTab === "gram" ? gramHtml : L.rows.length ? L.rows.slice(0, meLimit).map(rowHtml).join("") : `<p class="emptyp">${esc(L.empty)}</p>`}</div>
     ${(meTab === "hist" ? S.hist.length : meTab === "gram" ? gStudied.length : (L.rows || []).length) > meLimit ? `<div class="btnrow"><button class="btn ghost" type="button" id="meMore">Daha fazla göster</button></div>` : ""}
+    ${meTab === "wrong" ? `<div class="btnrow" style="justify-content:flex-start"><button class="btn ghost" type="button" id="nbDown">Yanlış defterini indir (.txt)</button><button class="btn ghost" type="button" id="nbPrint">Yazdır</button></div>` : ""}
     <div class="card tips">
       <span class="eyebrow">Kayıt ve yedek</span>
       <p class="savep">İlerlemen her cevaptan sonra bu tarayıcıya kaydediliyor${syncState === "cloud" ? " ve claude.ai hesabında sadece senin görebileceğin bir kayda da yazılıyor" : ""}. Tarayıcı verisini silersen kaybolmasın diye ara sıra bilgisayarına yedek indir.</p>
@@ -2005,24 +2179,144 @@ function renderMe() {
         <button class="btn small ghost danger" type="button" id="bkReset">${resetArmed ? "Emin misin? Tüm ilerleme silinecek" : "İlerlemeyi sıfırla"}</button>
       </div>
       <p class="savep" id="bkMsg" role="status"></p>
+      <span class="eyebrow" style="margin-top:12px">İsteğe bağlı (varsayılan kapalı)</span>
+      <p class="savep">Bildirimler yalnızca bu cihazda, tekrarların geldiğini hatırlatmak içindir; sunucuya gitmez. API anahtarı da yalnızca bu tarayıcıda durur, yedek ve hesap kaydına yazılmaz.</p>
+      <div class="btnrow" style="justify-content:flex-start">
+        <button class="btn small ghost" type="button" id="nToggle">${S.notify ? "Tekrar hatırlatmasını kapat" : "Tekrar hatırlatmasını aç"}</button>
+      </div>
+      <label class="savep" style="display:grid;gap:6px;margin-top:8px"><span>Yerel AI anahtarı (Anthropic <code>sk-ant-…</code> veya OpenAI). Boş bırakırsan Claude yalnızca claude.ai'de çalışır.</span>
+        <input id="aiKey" type="password" autocomplete="off" spellcheck="false" placeholder="yapıştır, kaydet" value="${esc(S.aiKey || "")}" style="width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);font-family:var(--f-mono);font-size:13px">
+        <button class="btn small ghost" type="button" id="aiSave">Anahtarı kaydet</button></label>
     </div>
   </section>`;
   app.querySelectorAll("[data-topic]").forEach(b => b.addEventListener("click", () => openTopic(GBYID.get(b.dataset.topic))));
+  app.querySelectorAll("[data-trap]").forEach(b => b.addEventListener("click", () => startTrapDrill(b.dataset.trap)));
   app.querySelectorAll("[data-weak]").forEach(b => b.addEventListener("click", () => { const [k, v] = b.dataset.weak.split("|"); if (k === "topic") startGame("gtopic", v); else if (k === "type") startGame("ex:" + v); else startGame("hard"); }));
+  const w15 = document.getElementById("weak15"); if (w15) w15.addEventListener("click", startWeakDrill);
   app.querySelectorAll("[data-me]").forEach(b => b.addEventListener("click", () => { meTab = b.dataset.me; meLimit = 100; renderMe(); }));
   app.querySelectorAll("[data-open]").forEach(b => b.addEventListener("click", () => openWord(W[+b.dataset.open])));
   const mm = document.getElementById("meMore"); if (mm) mm.addEventListener("click", () => { meLimit += 100; renderMe(); });
   document.getElementById("bkDown").addEventListener("click", downloadBackup);
   document.getElementById("bkUp").addEventListener("change", e => { const f = e.target.files && e.target.files[0]; if (f) importBackup(f); });
+  const nb = document.getElementById("nbDown"); if (nb) nb.addEventListener("click", () => downloadText(wrongNotebookText(), `kelime-kampi-yanlislar-${new Date().toISOString().slice(0, 10)}.txt`));
+  const np = document.getElementById("nbPrint"); if (np) np.addEventListener("click", printWrongNotebook);
+  document.getElementById("nToggle").addEventListener("click", toggleNotify);
+  document.getElementById("aiSave").addEventListener("click", () => {
+    S.aiKey = document.getElementById("aiKey").value.trim();
+    persist();
+    toast(S.aiKey ? "Anahtar bu tarayıcıda saklandı; hesaba ve yedeğe yazılmaz." : "Anahtar silindi.");
+  });
   document.getElementById("bkReset").addEventListener("click", () => {
     if (!resetArmed) { resetArmed = true; renderMe(); setTimeout(() => { if (resetArmed) { resetArmed = false; if (view === "me" && !game) renderMe(); } }, 5000); return; }
     resetArmed = false;
-    const keep = { goal: S.goal, level: S.level, examDate: S.examDate, my: S.my };
+    const keep = { goal: S.goal, level: S.level, examDate: S.examDate, my: S.my, theme: S.theme, aiKey: S.aiKey, notify: S.notify };
     S = Object.assign(blank(), keep);
     persist(); if (db && uid) { clearTimeout(saveTimer); pushRemote(); }
     renderMe(); renderStats(); toast("İlerleme sıfırlandı. Yeni bir başlangıç!");
   });
 }
+/* ---------- error analysis: which trap types cause the mistakes ---------- */
+const TRAPS = {
+  zaman: { name: "Zamanlar ve zaman uyumu", tip: "By the time, until, as soon as gibi bağlaçlardan sonra will gelmez; geçmişte önce olan iş past perfect alır." },
+  bag: { name: "Bağlaçlar ve geçiş ifadeleri", tip: "Önce iki cümle arasındaki ilişkiyi bul (zıtlık mı, sebep mi, ekleme mi), sonra şıklara bak. Although + cümle, despite + isim." },
+  kosul: { name: "Koşul ve dilek cümleleri", tip: "If cümlesindeki zamana bak: geçmiş + would = 2. tip; had + V3 ile would have + V3 = 3. tip. Devrik yapılar (Had I known) sık soruluyor." },
+  edilgen: { name: "Edilgen ve ettirgen yapı", tip: "Özne eylemi yapıyor mu, eylemden mi etkileniyor? Etkileniyorsa be + V3; modalla: must be done." },
+  ilgi: { name: "İlgi ve isim cümlecikleri", tip: "Virgüllü ilgi cümlesinde that olmaz; edattan sonra which/whom gelir. Wh- ile başlayan isim cümleciğinde soru düzeni kullanılmaz." },
+  kip: { name: "Kipler (modals)", tip: "Geçmişe yönelik çıkarım must have / can't have + V3, eleştiri should have + V3." },
+  fiilyapi: { name: "Gerund / infinitive", tip: "Fiilden sonra -ing mi to mu geldiğini kalıp olarak öğren: avoid doing, manage to do. look forward to doing'deki to edattır." },
+  edat: { name: "Edatlar ve kalıplar", tip: "Edatı kelimeyle birlikte öğren: rely on, consist of, result in / result from." },
+  yapi: { name: "Cümle yapısı (devrik, vurgu, karşılaştırma, miktar)", tip: "Olumsuz zarf başa gelince yardımcı fiil özneden önce gelir (Never have I…). The number of + tekil fiil." },
+  kelime: { name: "Bağlamda kelime", tip: "Boşluğun önündeki ve arkasındaki kelimelere bak; kelimeleri tek başına değil cümle içinde çalış." },
+  anlam: { name: "Cümle mantığı", tip: "Dilbilgisi doğru ama anlamca çelişen şıklar tuzaktır; cümleyi tamamlanmış haliyle bir kez oku." },
+  kelimeAnlam: { name: "Kelime anlamı", tip: "Zorlandığın kelimeleri Akıllı tekrar ve Yazarak hatırla modlarında çalış." },
+  turev: { name: "Kelime türevleri", tip: "Boşluğa isim mi, sıfat mı, fiil mi geldiğini cümledeki yerinden anla (the + ___ + of → isim)." },
+  tuzak: { name: "Karıştırılan kelimeler", tip: "affect/effect, rise/raise gibi çiftlerde kelimenin fiil mi isim mi olduğuna ve nesne alıp almadığına bak." },
+  kalip: { name: "Kalıplar (collocation)", tip: "conduct research, pose a threat gibi kalıpları tek parça olarak öğren." },
+  ceviri: { name: "Çeviri", tip: "Önce cümlenin zamanını ve bağlacını bul; yanlış şıklarda genelde bunlardan biri değiştirilir." },
+  paragraf: { name: "Anlam bütünlüğü (diyalog, paragraf, yakın anlam)", tip: "Boşluktan önceki ve sonraki cümleyi oku; this, such, they gibi gönderme sözcükleri en büyük ipucudur." },
+  ok_anafikir: { name: "Okuma: ana fikir", tip: "Ana fikir çoğu zaman ilk ve son cümlelerdedir; yalnızca bir ayrıntıyı anlatan şıkları ele." },
+  ok_ayrinti: { name: "Okuma: ayrıntı", tip: "Sorudaki anahtar kelimeyi metinde bul ve o cümleyi dikkatle oku." },
+  ok_cikarim: { name: "Okuma: çıkarım", tip: "Metinde açıkça yazmayan ama metnin desteklediği şıkkı seç; aşırı genelleme yapan şıklar tuzaktır." },
+  ok_kelime: { name: "Okuma: bağlamda kelime", tip: "Şıkkı kelimenin yerine koy; cümlenin anlamı bozulmuyorsa doğrudur." },
+  ok_tutum: { name: "Okuma: yazarın tutumu", tip: "Yazarın sıfat ve zarf seçimlerine bak (merely, surprisingly, honest…). Aşırı uç tutumlar genelde yanlıştır." },
+  ok_baslik: { name: "Okuma: başlık bulma", tip: "Metnin tamamını kapsayan başlığı seç; tek bir ayrıntıyı anlatan ya da metinle çelişen başlıklar tuzaktır." },
+  ok_degil: { name: "Okuma: \"değildir / çıkarılamaz\"", tip: "Her şıkkı metinde tek tek ara; metinde olmayan ya da metinle çelişen şık cevaptır." },
+  ok_amac: { name: "Okuma: yazarın amacı", tip: "\"Bu ayrıntı neden verilmiş?\" diye sor; cevap çoğu zaman bir önceki cümledeki iddiadır." }
+};
+const TOPIC_TRAP = {};
+Object.entries({
+  zaman: ["present-simple", "present-continuous", "past-simple-1", "past-simple-2", "past-continuous", "present-perfect-1", "pp-vs-ps", "pp-continuous", "past-perfect", "future", "future-advanced", "time-clauses", "used-to"],
+  kosul: ["conditionals-1", "conditionals-2", "conditionals-3", "wish"],
+  edilgen: ["passive-1", "passive-2", "causative"],
+  ilgi: ["relative-1", "relative-2", "reduced-relative", "noun-clauses", "reported-1", "reported-2"],
+  kip: ["can", "obligation", "deduction-1", "past-modals"],
+  fiilyapi: ["gerund-infinitive-1", "gerund-yds"],
+  edat: ["prepositions-time", "prepositions-yds"],
+  bag: ["adverbial", "conjunctions"]
+}).forEach(([k, ids]) => ids.forEach(id => { TOPIC_TRAP[id] = k; }));
+const EX_TRAP = { en_tr: "ceviri", tr_en: "ceviri", dialogue: "paragraf", parcomp: "paragraf", restate: "paragraf", irrelevant: "paragraf" };
+const XCAT_TRAP = { fam: "turev", conf: "tuzak", coll: "kalip" };
+function trapOfQ(q) {
+  if (q.kind === "gcloze") return TOPIC_TRAP[q.item.t.id] || "yapi";
+  if (q.kind === "ex") { const g = q.item.g; return g.type === "reading" ? "ok_" + (q.item.k || "ayrinti") : EX_TRAP[g.type] || q.item.t || "anlam"; }
+  if (q.kind === "xcloze") return XCAT_TRAP[q.item.cat];
+  if (q.kind === "vcloze" || q.kind === "sdikte") return "kelime";
+  return "kelimeAnlam";
+}
+// every question the app can ask, with its stored record, grouped by trap
+function trapCandidates() {
+  const out = [];
+  for (const it of GQ) out.push({ q: () => clozeQ(it, "gcloze"), p: S.gq[it.id], trap: TOPIC_TRAP[it.t.id] || "yapi" });
+  for (const it of EXI) out.push({ q: () => exQ(it), p: S.eq[it.id], trap: trapOfQ({ kind: "ex", item: it }) });
+  for (const it of XI) out.push({ q: () => xQ(it), p: S.xq[it.id], trap: XCAT_TRAP[it.cat] });
+  for (const it of V) out.push({ q: () => clozeQ(it, "vcloze"), p: S.vq[it.id], trap: "kelime" });
+  for (const w of W) { const p = getP(w); if (p) out.push({ q: () => mcQ(w, p[0] <= 1 ? "entr" : "tren"), p, trap: "kelimeAnlam" }); }
+  return out;
+}
+function trapStats() {
+  const st = {};
+  for (const c of trapCandidates()) {
+    if (!c.p) continue;
+    const s = st[c.trap] || (st[c.trap] = { c: 0, x: 0 });
+    s.c += c.p[2]; s.x += c.p[3];
+  }
+  return st;
+}
+function weakestTraps(st, n = 3) {
+  return Object.entries(st).map(([k, s]) => ({ k, ...s, n: s.c + s.x, acc: s.c + s.x ? s.c / (s.c + s.x) : 1 }))
+    .filter(t => t.n >= 4 && t.x > 0 && t.acc < .8).sort((a, b) => a.acc - b.acc || b.x - a.x).slice(0, n);
+}
+function startTrapDrill(key) {
+  const pool = trapCandidates().filter(c => c.trap === key);
+  const wrong = shuffle(pool.filter(c => c.p && c.p[3] > 0 && c.p[0] < 2));
+  const fresh = shuffle(pool.filter(c => !c.p));
+  const rest = shuffle(pool.filter(c => c.p && !(c.p[3] > 0 && c.p[0] < 2)));
+  const qs = [...wrong, ...fresh, ...rest].slice(0, 12).map(c => c.q());
+  if (!qs.length) return toast("Bu tuzak türünde henüz soru yok.");
+  startGame("trap", qs, key);
+}
+// short "which traps did I fall into" line for a finished round or mock
+function trapSummaryHtml(qs) {
+  const c = {};
+  qs.forEach(q => { const k = trapOfQ(q); c[k] = (c[k] || 0) + 1; });
+  const top = Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 3);
+  if (!top.length) return "";
+  return `<p class="trapline"><b>Yanlışların en çok:</b> ${top.map(([k, n]) => `${esc(TRAPS[k].name)} (${n})`).join(" · ")}</p>`;
+}
+function trapReportHtml() {
+  const st = trapStats();
+  const rows = Object.entries(st).map(([k, s]) => ({ k, ...s, n: s.c + s.x, acc: s.c + s.x ? s.c / (s.c + s.x) : 0 })).filter(r => r.n > 0).sort((a, b) => a.acc - b.acc);
+  const total = rows.reduce((s, r) => s + r.n, 0);
+  if (total < 10) return `<div class="card trapcard"><span class="eyebrow">Hata analizi</span><p class="savep">Hangi tuzağa düştüğünü görmek için biraz daha soru çöz; rapor 10 cevaptan sonra açılır.</p></div>`;
+  const weak = weakestTraps(st);
+  return `<div class="card trapcard"><span class="eyebrow">Hata analizi · ${total.toLocaleString("tr-TR")} cevap</span>
+    ${weak.length ? weak.map((t, i) => `<div class="trapw"><p>${i === 0 ? "En çok" : "Ardından"} <b>${esc(TRAPS[t.k].name)}</b> sorularında zorlanıyorsun: ${t.x} yanlış, %${Math.round(t.acc * 100)} doğru.</p><p class="savep">${esc(TRAPS[t.k].tip)}</p><div><button class="btn small" type="button" data-trap="${t.k}">Bu türden 12 soru çöz</button></div></div>`).join("")
+      : '<p class="savep">Belirgin bir tuzak yok: çalıştığın bütün türlerde %80\'in üzerindesin. Böyle devam!</p>'}
+    <details class="trapall"><summary>Tüm türler (${rows.length})</summary>
+      <div class="secbars">${rows.map(r => `<div class="sb"><span class="sbn">${esc(TRAPS[r.k].name)}</span><span class="sbbar"><i style="width:${Math.round(r.acc * 100)}%" class="${r.acc >= .7 ? "g" : r.acc >= .5 ? "m" : "b"}"></i></span><span class="sbv">%${Math.round(r.acc * 100)}</span></div>`).join("")}</div>
+    </details></div>`;
+}
+
 function meExtrasHtml() {
   const wk = []; for (let d = today() - 6; d <= today(); d++) wk.push(d);
   const ans = wk.reduce((s, d) => s + (S.days[d] || 0), 0), okc = wk.reduce((s, d) => s + (S.daysOk[d] || 0), 0);
@@ -2039,14 +2333,77 @@ function meExtrasHtml() {
   const earned = BADGES.filter(b => S.badges[b[0]]).length;
   return `<div class="card weekcard">
       <div><span class="eyebrow">Bu hafta</span><p class="wk">${ans ? `<b>${ans}</b> soru cevapladın, <b>%${ans ? Math.round(okc / ans * 100) : 0}</b> doğru. ${active}/7 gün çalıştın${wkMocks.length ? `, ${wkMocks.length} deneme çözdün (en iyi ${Math.max(...wkMocks.map(m => m.score))})` : ""}.` : "Bu hafta henüz soru çözmedin. Bugün 10 soruyla seriyi başlat!"}</p></div>
-      <div><span class="eyebrow">Zayıf noktaların</span><div class="chips" style="margin-top:6px">${weak.length ? weak.join("") : '<span class="dcount">Henüz belirgin bir zayıf nokta yok. Çözdükçe burada öneriler çıkacak.</span>'}</div></div>
+      <div><span class="eyebrow">Zayıf noktaların</span><div class="chips" style="margin-top:6px">${weak.length ? weak.join("") : '<span class="dcount">Henüz belirgin bir zayıf nokta yok. Çözdükçe burada öneriler çıkacak.</span>'}</div>
+        ${weak.length ? `<div class="btnrow" style="justify-content:flex-start;margin-top:10px"><button class="btn small" type="button" id="weak15">Bugün sadece bunlardan 15 soru</button></div>` : ""}</div>
     </div>
+    ${trapReportHtml()}
     <div class="card badgecard"><div class="sec-h"><span class="eyebrow">Rozetler · ${earned}/${BADGES.length}</span></div>
       <div class="badges">${BADGES.map(([id, name, desc]) => `<div class="bdg${S.badges[id] ? " on" : ""}" title="${esc(desc)}"><span class="bi" aria-hidden="true">${S.badges[id] ? "★" : "☆"}</span><b>${esc(name)}</b><small>${esc(desc)}</small></div>`).join("")}</div></div>`;
 }
 const bkMsg = t => { const el = document.getElementById("bkMsg"); if (el) el.textContent = t; };
+function downloadText(text, name, mime = "text/plain") {
+  const url = URL.createObjectURL(new Blob([text], { type: mime + ";charset=utf-8" }));
+  const a = document.createElement("a"); a.href = url; a.download = name; document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 2000);
+}
+function wrongNotebookText() {
+  const lines = ["Kelime Kampı — yanlış defteri", new Date().toLocaleString("tr-TR"), ""];
+  const words = Object.entries(S.prog).map(([k, p]) => ({ w: BYKEY.get(k), p })).filter(e => e.w && e.p[3] > 0).sort((a, b) => b.p[3] - a.p[3]);
+  lines.push("## Kelimeler");
+  if (!words.length) lines.push("(henüz yok)");
+  words.forEach(e => lines.push(`- ${e.w.w} (${e.w.l}) = ${e.w.t}  · ${e.p[2]} doğru / ${e.p[3]} yanlış${e.w.s ? "  · eş: " + e.w.s : ""}`));
+  lines.push("", "## Gramer");
+  const grams = GQ.filter(it => { const p = S.gq[it.id]; return p && p[3] > 0; });
+  if (!grams.length) lines.push("(henüz yok)");
+  grams.forEach(it => lines.push(`- [${it.t.lv}] ${it.t.tr}: ${it.s.replace("___", it.a)}  (${it.why})`));
+  lines.push("", "## Sınav soruları");
+  const exs = EXI.filter(it => { const p = S.eq[it.id]; return p && p[3] > 0; });
+  if (!exs.length) lines.push("(henüz yok)");
+  exs.forEach(it => lines.push(`- ${EXTYPES[it.g.type].name}: ${it.s.replace(/\s+/g, " ").slice(0, 180)}  → ${it.a}`));
+  return lines.join("\n");
+}
+function printWrongNotebook() {
+  const w = window.open("", "_blank");
+  if (!w) return toast("Açılır pencere engellendi; .txt olarak indirebilirsin.");
+  w.document.write(`<!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"><title>Yanlış defteri</title><style>body{font:15px/1.5 system-ui;max-width:720px;margin:24px auto;padding:0 16px;white-space:pre-wrap}</style></head><body>${esc(wrongNotebookText())}</body></html>`);
+  w.document.close();
+  w.focus();
+  w.print();
+}
+function dueReviewCount() {
+  let n = W.filter(due).length;
+  const t = today();
+  for (const map of [S.gq, S.eq, S.vq, S.xq]) for (const k in map) { const p = map[k]; if (p && p[1] <= t && p[0] < 7) n++; }
+  return n;
+}
+function maybeNotifyDue() {
+  if (!S.notify || typeof Notification === "undefined" || Notification.permission !== "granted") return;
+  if (S.notifyDay === today()) return;
+  const n = dueReviewCount();
+  if (n < 3) return;
+  S.notifyDay = today();
+  saveLocal();
+  const body = `Bugün ${n} tekrarın bekliyor.`;
+  try {
+    if (navigator.serviceWorker) {
+      navigator.serviceWorker.ready.then(r => r.showNotification("Kelime Kampı", { body, tag: "kamp-due", icon: "icon.svg" })).catch(() => { try { new Notification("Kelime Kampı", { body, tag: "kamp-due" }); } catch (e) {} });
+    } else new Notification("Kelime Kampı", { body, tag: "kamp-due" });
+  } catch (e) {}
+}
+async function toggleNotify() {
+  if (S.notify) { S.notify = false; persist(); toast("Hatırlatma kapatıldı."); return renderMe(); }
+  if (typeof Notification === "undefined") return toast("Bu tarayıcı bildirim desteklemiyor.");
+  let p = Notification.permission;
+  if (p !== "granted") p = await Notification.requestPermission();
+  if (p !== "granted") return toast("İzin verilmedi; hatırlatma kapalı kaldı.");
+  S.notify = true; persist();
+  toast("Açık. Yalnızca bu cihaz; internete gitmez. Uygulamayı açınca bugünkü tekrarlar için bir bildirim çıkar.");
+  maybeNotifyDue();
+  renderMe();
+}
 async function downloadBackup() {
-  const data = JSON.stringify({ app: "kelime-kampi", v: 1, exported: new Date().toISOString(), state: S });
+  const state = Object.assign({}, S); delete state.aiKey;
+  const data = JSON.stringify({ app: "kelime-kampi", v: 1, exported: new Date().toISOString(), state });
   const name = `kelime-kampi-yedek-${new Date().toISOString().slice(0, 10)}.json`;
   let dl = null;
   try { dl = window.claude && window.claude.use ? await window.claude.use("downloads") : null; } catch (e) { dl = null; }
@@ -2095,16 +2452,17 @@ function trapFocus(root) {
     else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
   });
 }
+// real, hand-written sentences from the project's own banks; never a filled-in template
 function localExamples(w) {
-  const pos = (w.p || "n").split("/")[0], word = w.w, mean = firstMeaning(w.t);
-  const en = pos === "v" ? `The team managed to ${word} the results before the deadline.`
-    : pos === "adj" ? `A ${word} explanation is more useful than a vague one.`
-    : pos === "adv" ? `The figures were ${word} higher than last year.`
-    : pos === "phr" || pos === "exp" ? `You should ${word} this point in the discussion.`
-    : pos === "prep" ? `The results were discussed ${word} the previous findings.`
-    : pos === "conj" ? `The sample was small, ${word} the pattern was clear.`
-    : `Researchers often use the word "${word}" in academic texts.`;
-  return { examples: [{ en, tr: `Türkçe anlam: ${mean}` }], tip: w.s ? `Eş anlamlı: ${w.s}` : "Cümleyi yüksek sesle oku; kelimeyi bağlamda hatırla.", collocations: [] };
+  const key = w.w.toLowerCase();
+  const re = new RegExp("\\b" + key.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b", "i");
+  const out = [], seen = new Set();
+  const add = (en, tr) => { if (out.length < 2 && !seen.has(en)) { seen.add(en); out.push({ en, tr }); } };
+  for (const it of V) if (it.w === w) add(plainFill(it.s, it.a), it.tr);
+  for (const it of XI) if (it.a.toLowerCase() === key) add(plainFill(it.s, it.a), it.tr);
+  for (const t of G) for (const e of t.e) if (re.test(e[0])) add(e[0], e[1]);
+  if (out.length < 2) for (const g of EX) { if (!g.p || g.type === "cloze" || g.type === "irrelevant") continue; for (const sen of g.p.replace(/\([IV]+\)\s*/g, "").split(/(?<=[.!?])\s+/)) if (re.test(sen) && !sen.includes("___")) add(sen.replace(/^[A-Z][a-z]+: /, ""), "Okuma metninden"); }
+  return { examples: out, tip: "", collocations: [], none: !out.length };
 }
 function openWord(w) {
   closeSheet();
@@ -2148,22 +2506,26 @@ function openWord(w) {
   document.getElementById("aiBtn").addEventListener("click", () => askClaude(w, box));
 }
 function showAi(box, d) {
-  box.innerHTML = `<div class="ai">${(d.examples || []).map(x => `<p class="ex">${esc(x.en)}<i>${esc(x.tr)}</i></p>`).join("")}
+  box.innerHTML = `<div class="ai">${d.none ? "<p>Bu kelime için hazır bir örnek cümle yok. \"Örnek cümle iste\" düğmesi claude.ai üzerinde ya da İlerlemem'e kaydettiğin API anahtarıyla yeni cümle yazar.</p>" : ""}${(d.examples || []).map(x => `<p class="ex">${esc(x.en)}<i>${esc(x.tr)}</i></p>`).join("")}
     ${d.tip ? `<p><b>Hafıza ipucu:</b> ${esc(d.tip)}</p>` : ""}${d.collocations && d.collocations.length ? `<p><b>Sık kullanılan kalıplar:</b> ${esc(d.collocations.join(", "))}</p>` : ""}</div>`;
 }
 async function askClaude(w, box) {
   const btn = document.getElementById("aiBtn");
-  await getSample();
-  if (!sampleNs) { showAi(box, localExamples(w)); box.insertAdjacentHTML("beforeend", `<p class="ex-local">Claude cümleleri yalnızca claude.ai üzerinde üretilir; yukarıdaki örnek çevrimdışı üretilmiştir.</p>`); btn.remove(); return; }
-  btn.disabled = true; btn.textContent = "Yazılıyor…";
-  try {
-    const prompt = `You help a Turkish student preparing for the YDS / YÖKDİL English exams.
+  const prompt = `You help a Turkish student preparing for the YDS / YÖKDİL English exams.
 Word: "${w.w}" (${posTr(w.p)}), Turkish meaning: "${w.t}"${w.s ? `, synonyms: ${w.s}` : ""}. CEFR level: ${w.l}.
 Return JSON only: {"examples":[{"en":"...","tr":"..."},{"en":"...","tr":"..."}],"tip":"...","collocations":["...","..."]}
 - examples: two sentences in an academic, exam-like register (like YDS reading passages), 12-25 words each, using the word in the given meaning; "tr" is a natural Turkish translation.
 - tip: one short memory tip in Turkish (an association, word root, or contrast with a confusable word).
 - collocations: 2-4 common collocations or patterns with this word in English.`;
-    const d = await sampleNs.json(prompt, { modelTier: "quick" });
+  btn.disabled = true; btn.textContent = "Yazılıyor…";
+  try {
+    const d = await askJsonAI(prompt);
+    if (!d || !d.examples) {
+      showAi(box, localExamples(w));
+      box.insertAdjacentHTML("beforeend", `<p class="ex-local">Yeni cümle claude.ai üzerinde ya da kayıtlı API anahtarıyla üretilir; yukarıdakiler projedeki hazır cümlelerden.</p>`);
+      btn.remove();
+      return;
+    }
     aiCache.set(w.w, d);
     showAi(box, d);
     btn.remove();
@@ -2178,6 +2540,7 @@ Return JSON only: {"examples":[{"en":"...","tr":"..."},{"en":"...","tr":"..."}],
 if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {
   navigator.serviceWorker.register("sw.js").catch(() => {});
 }
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") maybeNotifyDue(); });
 refresh();
 })();
 </script>

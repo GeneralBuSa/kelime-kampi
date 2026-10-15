@@ -1,6 +1,10 @@
 """Unit tests for scoring, Leitner intervals, and cloud packing sizes."""
 import json, os, unittest
 
+def _load(path):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
 INTERVALS = [0, 1, 2, 4, 7, 15, 30, 60]
 MASTER = 4
 
@@ -23,6 +27,8 @@ class KampiTests(unittest.TestCase):
     def test_short_mock_score(self):
         self.assertEqual(mock_score(40, 40), 100)
         self.assertEqual(mock_score(20, 40), 50)
+        self.assertEqual(mock_score(20, 20), 100)
+        self.assertEqual(mock_score(10, 20), 50)
 
     def test_leitner_correct_advances(self):
         b = 0
@@ -40,7 +46,7 @@ class KampiTests(unittest.TestCase):
 
     def test_exam_bank_targets(self):
         base = os.path.dirname(os.path.abspath(__file__))
-        exam = json.load(open(os.path.join(base, "exam.json"), encoding="utf-8"))
+        exam = _load(os.path.join(base, "exam.json"))
         from collections import Counter
         c = Counter(g["type"] for g in exam)
         self.assertGreaterEqual(c["reading"], 25)
@@ -48,16 +54,26 @@ class KampiTests(unittest.TestCase):
         for t in ("dialogue", "restate", "parcomp", "irrelevant", "en_tr", "tr_en"):
             self.assertGreaterEqual(c[t], 20, t)
         self.assertGreaterEqual(c["sentcomp"], 20)
+        # every passage offers one of the less common YDS stems (title, attitude, NOT, purpose)
+        for g in exam:
+            if g["type"] == "reading":
+                self.assertTrue(any(q.get("k") in ("baslik", "tutum", "degil", "amac") for q in g["qs"]), g["id"])
+            if g["type"] in ("cloze", "sentcomp"):
+                for q in g["qs"]:
+                    self.assertTrue(q.get("t"), g["id"] + " has no trap type")
+        # no two passages share the same opening sentence (duplicate texts)
+        openings = [g["p"].split(".")[0] for g in exam if g["type"] == "reading"]
+        self.assertEqual(len(openings), len(set(openings)))
 
     def test_sentence_cover(self):
         base = os.path.dirname(os.path.abspath(__file__))
-        sents = json.load(open(os.path.join(base, "sents.json"), encoding="utf-8"))
+        sents = _load(os.path.join(base, "sents.json"))
         self.assertGreaterEqual(len(sents), 350)
 
     def test_grammar_and_depth_cover(self):
         base = os.path.dirname(os.path.abspath(__file__))
-        gram = json.load(open(os.path.join(base, "grammar.json"), encoding="utf-8"))
-        depth = json.load(open(os.path.join(base, "depth.json"), encoding="utf-8"))
+        gram = _load(os.path.join(base, "grammar.json"))
+        depth = _load(os.path.join(base, "depth.json"))
         gq = sum(len(t["q"]) for t in gram)
         self.assertGreaterEqual(gq, 300)
         self.assertGreaterEqual(len(depth["fam"]), 40)
@@ -66,7 +82,7 @@ class KampiTests(unittest.TestCase):
 
     def test_ipa_and_syn_cover(self):
         base = os.path.dirname(os.path.abspath(__file__))
-        words = json.load(open(os.path.join(base, "words.json"), encoding="utf-8"))
+        words = _load(os.path.join(base, "words.json"))
         ipa = sum(1 for w in words if len(w) > 6 and w[6])
         syn = sum(1 for w in words if w[5])
         self.assertGreaterEqual(ipa, 200)

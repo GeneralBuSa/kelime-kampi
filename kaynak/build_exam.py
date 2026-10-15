@@ -4,6 +4,33 @@ base = os.path.dirname(os.path.abspath(__file__))
 errs = []
 groups = []
 ROMAN = ["I", "II", "III", "IV", "V"]
+
+# YDS reading question stem types; used for mixing questions and for the error report
+def stem_kind(s):
+    import re as _re
+    if _re.search(r"\btitle\b", s): return "baslik"
+    if _re.search(r"\bNOT\b|CANNOT|EXCEPT", s): return "degil"
+    if _re.search(r"attitude|\btone\b|view of", s): return "tutum"
+    if _re.search(r"in order to|purpose|mentions? .* (?:as an example|mainly)", s): return "amac"
+    if _re.search(r"closest in meaning|^The (?:word|phrase)|refers to|here means|suggests that the facts", s): return "kelime"
+    if _re.search(r"mainly|main (?:idea|point|argument)|primarily|focuses on|overall view", s): return "anafikir"
+    if _re.search(r"infer|conclu|impl|suggest|would most likely|admits", s): return "cikarim"
+    return "ayrinti"
+
+# trap type of a cloze / sentence-completion question, read from its Turkish explanation (used by the error report)
+def trap_kind(why, qtype, ans=""):
+    import re as _re
+    w = why.lower()
+    if _re.search(r"koşul|\bif\b|unless|devrik 3|\d\. tip|\bwish\b", w): return "kosul"
+    if _re.search(r"edilgen|passive|ettirgen", w): return "edilgen"
+    if _re.search(r"ilgi zamiri|ilgi cümle|\bwhich\b|\bwho\b|\bwhose\b|\bwhere\b|isim cümle|dolaylı", w): return "ilgi"
+    if _re.search(r"zıtlık|sebep|sonuç|amaç|bağlaç|ekleme|karşılaştır|geçiş|although|however|despite|whereas|therefore", w): return "bag"
+    if _re.search(r"perfect|future|zaman uyumu|by the time|\bsince\b|geçmiş zaman|gelecek|şimdiki zaman", w): return "zaman"
+    if _re.search(r"modal|\bkip|\bmust\b|\bshould\b|\bcould\b|\bmight\b|can't", w): return "kip"
+    if _re.search(r"-ing|to \+ v1|gerund|infinitive|v-ing", w): return "fiilyapi"
+    if _re.search(r"edat|\"(?:of|on|in|at|to|for|with|from|by)\"|\b(?:consist|rely|result|depend|contribute)\w* (?:of|on|in|to|from)\b", w): return "edat"
+    if ans.lower() in {"of", "on", "in", "at", "with", "from", "by", "for", "about", "into"}: return "edat"
+    return "kelime" if qtype == "cloze" else "anlam"
 data_dir = os.path.join(base, "data")
 exam_files = sorted(fn for fn in os.listdir(data_dir) if fn.startswith("exam_") and fn.endswith(".txt"))
 for fn in exam_files:
@@ -33,7 +60,13 @@ for g in groups:
         if q["a"] in q["x"]: errs.append(where + " answer among distractors")
         if not q["w"]: errs.append(where + " no explanation")
         if g["type"] == "irrelevant" and sorted([q["a"]] + q["x"], key=ROMAN.index) != ROMAN: errs.append(where + " roman options")
-    if g["type"] == "reading" and len(g["qs"]) != 4: errs.append(g["id"] + " reading needs 4 questions")
+    if g["type"] in ("cloze", "sentcomp"):
+        for q in g["qs"]:
+            q["t"] = trap_kind(q["w"], g["type"], q["a"] or "")
+    if g["type"] == "reading":
+        if not 4 <= len(g["qs"]) <= 6: errs.append(g["id"] + " reading needs 4-6 questions")
+        for q in g["qs"]:
+            q["k"] = stem_kind(q["s"])
     if g["type"] == "cloze":
         if len(g["qs"]) != 5: errs.append(g["id"] + " cloze needs 5 blanks")
         for k in range(1, 6):
@@ -44,6 +77,8 @@ for k, v in ids.items():
     if v > 1: errs.append("duplicate id " + k)
 print("groups", len(groups), dict(Counter(g["type"] for g in groups)), "questions", sum(len(g["qs"]) for g in groups))
 # answer position balance for irrelevant
+print("reading stems", Counter(q.get("k") for g in groups if g["type"] == "reading" for q in g["qs"]))
+print("cloze/sentcomp traps", Counter(q.get("t") for g in groups if g["type"] in ("cloze", "sentcomp") for q in g["qs"]))
 print("irrelevant answers", Counter(g["qs"][0]["a"] for g in groups if g["type"] == "irrelevant"))
 
 depth = {"fam": [], "conf": [], "coll": []}

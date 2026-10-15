@@ -589,44 +589,44 @@ X: Popular lists have been proven accurate in every culture.
 W: "be over it" baskısı, tepkileri başarısızlık saymanın yanlışlığıyla bağlanır.
 
 ## i11|irrelevant|B2
-P: (I) Olive trees can live for centuries in dry Mediterranean climates. (II) Their roots reach deep water that shallower plants cannot use. (III) Olive oil is a common ingredient in soap. (IV) This resilience has made olives a reliable crop where rainfall is uncertain. (V) Farmers still prune the trees carefully so that they keep producing fruit.
-Q: Parçada anlam akışını bozan cümle hangisidir?
-A: III
-X: I
-X: II
-X: IV
-X: V
-W: Parça zeytin ağacının kuraklığa dayanıklılığı ve tarımı; sabun (III) kopuk.
-
-## i12|irrelevant|C1
-P: (I) Peer review is meant to catch errors before a study is published. (II) Reviewers are usually unpaid specialists in the same field. (III) Many scientific journals also sell advertising space. (IV) The system is imperfect, because reviewers may miss flaws or favour fashionable ideas. (V) Still, papers that have not been reviewed at all are treated with more caution.
-Q: Parçada anlam akışını bozan cümle hangisidir?
-A: III
-X: I
-X: II
-X: IV
-X: V
-W: Konu hakemlik sistemi; dergi reklamı (III) akışı bozuyor.
-
-## i13|irrelevant|B2
-P: (I) Seat belts reduce deaths in car crashes by keeping people in their seats. (II) Modern cars also have airbags that open within milliseconds. (III) Traffic lights were first used to manage horse-drawn carriages. (IV) Used together, belts and airbags lower the chance of a fatal head injury. (V) That is why most countries now require belts by law.
-Q: Parçada anlam akışını bozan cümle hangisidir?
-A: III
-X: I
-X: II
-X: IV
-X: V
-W: Parça emniyet kemeri ve hava yastığı; at arabası trafik ışığı (III) kopuk.
-
-## i14|irrelevant|C1
-P: (I) Translation is never a simple substitution of words. (II) Idioms and humour often have no exact match in the target language. (III) A good translator therefore reconstructs the effect, not only the dictionary meanings. (IV) Bilingual dictionaries are sold in many bookshops. (V) This is why machine output still needs a human editor for literary texts.
+P: (I) Olive trees can live for centuries in dry Mediterranean climates. (II) Their roots reach deep water that shallower plants cannot use. (III) This resilience has made olives a reliable crop where rainfall is uncertain. (IV) Olive oil is a common ingredient in soap. (V) Farmers still prune the trees carefully so that they keep producing fruit.
 Q: Parçada anlam akışını bozan cümle hangisidir?
 A: IV
 X: I
 X: II
 X: III
 X: V
-W: Çevirinin etkisi ve makine çıktısı; kitapçıda sözlük satışı (IV) kopuk.
+W: Parça zeytin ağacının kuraklığa dayanıklılığı ve tarımı; sabun (IV) kopuk.
+
+## i12|irrelevant|C1
+P: (I) Peer review is meant to catch errors before a study is published. (II) Reviewers are usually unpaid specialists in the same field. (III) The system is imperfect, because reviewers may miss flaws or favour fashionable ideas. (IV) Still, papers that have not been reviewed at all are treated with more caution. (V) Many scientific journals also sell advertising space.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: V
+X: I
+X: II
+X: III
+X: IV
+W: Konu hakemlik sistemi; dergi reklamı (V) akışı bozuyor.
+
+## i13|irrelevant|B2
+P: (I) Seat belts reduce deaths in car crashes by keeping people in their seats. (II) Traffic lights were first used to manage horse-drawn carriages. (III) Modern cars also have airbags that open within milliseconds. (IV) Used together, belts and airbags lower the chance of a fatal head injury. (V) That is why most countries now require belts by law.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: II
+X: I
+X: III
+X: IV
+X: V
+W: Parça emniyet kemeri ve hava yastığı; at arabası trafik ışığı (II) kopuk.
+
+## i14|irrelevant|C1
+P: (I) Translation is never a simple substitution of words. (II) Idioms and humour often have no exact match in the target language. (III) Bilingual dictionaries are sold in many bookshops. (IV) A good translator therefore reconstructs the effect, not only the dictionary meanings. (V) This is why machine output still needs a human editor for literary texts.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Çevirinin etkisi ve makine çıktısı; kitapçıda sözlük satışı (III) kopuk.
 
 ## i15|irrelevant|B2
 P: (I) Beavers build dams that slow rivers and create ponds. (II) Those ponds become homes for fish, insects and birds. (III) In some valleys this activity reduces flood peaks downstream. (IV) Beaver fur was once fashionable in European hats. (V) Conservation groups therefore reintroduce beavers where they had disappeared.
@@ -639,34 +639,34 @@ X: V
 W: Barajların ekolojik etkisi; şapka modası (IV) kopuk.
 
 ## i16|irrelevant|C1
-P: (I) Statistical significance is often misunderstood as proof that a finding is important. (II) A tiny effect can be "significant" if the sample is huge. (III) Conversely, a large effect may miss the threshold in a small study. (IV) Coin tosses are a popular classroom demonstration of chance. (V) Readers should therefore look at the size of the effect, not only at a p-value.
+P: (I) Statistical significance is often misunderstood as proof that a finding is important. (II) A tiny effect can be "significant" if the sample is huge. (III) Conversely, a large effect may miss the threshold in a small study. (IV) Readers should therefore look at the size of the effect, not only at a p-value. (V) Coin tosses are a popular classroom demonstration of chance.
 Q: Parçada anlam akışını bozan cümle hangisidir?
-A: IV
+A: V
 X: I
 X: II
 X: III
-X: V
-W: Anlamlılık ve etki büyüklüğü; yazı tura sınıf gösterisi (IV) kopuk.
+X: IV
+W: Anlamlılık ve etki büyüklüğü; yazı tura sınıf gösterisi (V) kopuk.
 
 ## i17|irrelevant|B2
-P: (I) Composting turns kitchen waste into soil that can feed gardens. (II) Fruit peels and coffee grounds break down if they are kept moist and aerated. (III) Plastic packaging does not belong in a compost heap. (IV) Coffee is grown in several tropical countries. (V) Households that compost send less organic waste to landfill.
+P: (I) Composting turns kitchen waste into soil that can feed gardens. (II) Coffee is grown in several tropical countries. (III) Fruit peels and coffee grounds break down if they are kept moist and aerated. (IV) Plastic packaging does not belong in a compost heap. (V) Households that compost send less organic waste to landfill.
 Q: Parçada anlam akışını bozan cümle hangisidir?
-A: IV
+A: II
 X: I
-X: II
 X: III
+X: IV
 X: V
-W: Kompost konusu; kahvenin tropik ülkelerde yetişmesi (IV) kopuk.
+W: Kompost konusu; kahvenin tropik ülkelerde yetişmesi (II) kopuk.
 
 ## i18|irrelevant|C1
-P: (I) Archive law determines how long public documents must be kept. (II) Too short a period and later researchers cannot check a government's claims. (III) Too long a period and sensitive personal data may remain exposed. (IV) Many novelists use historical settings in their fiction. (V) Good legislation therefore distinguishes between records that serve accountability and those that only concern private lives.
+P: (I) Archive law determines how long public documents must be kept. (II) Too short a period and later researchers cannot check a government's claims. (III) Many novelists use historical settings in their fiction. (IV) Too long a period and sensitive personal data may remain exposed. (V) Good legislation therefore distinguishes between records that serve accountability and those that only concern private lives.
 Q: Parçada anlam akışını bozan cümle hangisidir?
-A: IV
+A: III
 X: I
 X: II
-X: III
+X: IV
 X: V
-W: Arşiv hukuku; romanlarda tarihi mekân (IV) kopuk.
+W: Arşiv hukuku; romanlarda tarihi mekân (III) kopuk.
 
 ## i19|irrelevant|B2
 P: (I) Hearing protection matters in noisy factories. (II) Repeated loud sound damages the inner ear, often without pain at first. (III) Workers who wear well-fitted ear defenders keep more of their hearing. (IV) Factory canteens sometimes serve hot meals. (V) Regular tests can catch early loss before it becomes severe.
@@ -679,11 +679,11 @@ X: V
 W: İşitme koruması; kantin yemeği (IV) kopuk.
 
 ## i20|irrelevant|C1
-P: (I) Open data lets other scientists repeat an analysis with the same numbers. (II) Journals increasingly ask authors to share tables, not only conclusions. (III) Privacy rules still forbid the release of information that could identify patients. (IV) Spreadsheet software has many keyboard shortcuts. (V) The practical task is to anonymise datasets well enough that both reuse and confidentiality are possible.
+P: (I) Open data lets other scientists repeat an analysis with the same numbers. (II) Journals increasingly ask authors to share tables, not only conclusions. (III) Privacy rules still forbid the release of information that could identify patients. (IV) The practical task is to anonymise datasets well enough that both reuse and confidentiality are possible. (V) Spreadsheet software has many keyboard shortcuts.
 Q: Parçada anlam akışını bozan cümle hangisidir?
-A: IV
+A: V
 X: I
 X: II
 X: III
-X: V
-W: Açık veri ve gizlilik; klavye kısayolu (IV) kopuk.
+X: IV
+W: Açık veri ve gizlilik; klavye kısayolu (V) kopuk.

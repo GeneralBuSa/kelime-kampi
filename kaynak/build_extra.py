@@ -1,6 +1,10 @@
 import json, os, sys
+
+def _load(path):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
 base = os.path.dirname(os.path.abspath(__file__))
-words = {w[0].lower(): w for w in json.load(open(os.path.join(base, "words.json"), encoding="utf-8"))}
+words = {w[0].lower(): w for w in _load(os.path.join(base, "words.json"))}
 errs = []
 
 topics = []

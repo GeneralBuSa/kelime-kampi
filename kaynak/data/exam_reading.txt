@@ -28,6 +28,13 @@ X: neutral, as the evidence on the subject is not yet clear
 X: enthusiastic, because it improves concentration
 X: indifferent, since exam results depend mostly on intelligence
 W: Son cümlede yazar, sabahlamanın daha çok konu tekrarı sağlasa da bilgiyi kalıcı depolama yeteneğini azalttığını söylüyor; yani eleştirel bir tutumda.
+Q: Which of the following is the best title for the passage?
+A: Sleep: An Active Partner in Learning
+X: Why Students Should Study All Night
+X: The History of Word-Pair Experiments
+X: How Neurons Are Formed in Childhood
+X: The Hidden Dangers of Too Much Sleep
+W: Başlık sorusu: metnin tamamını kapsayan başlığı ara. Parça uykunun öğrenmedeki aktif rolünü anlatıyor; diğer başlıklar ya bir ayrıntıya odaklanıyor ya da metinle çelişiyor (metin sabahlamayı eleştiriyor).
 
 ## r2|reading|B2|Çevre
 P: Microplastics are tiny plastic particles less than five millimetres in length. Some are manufactured at this size for use in cosmetics and industrial products, while most result from the gradual breakdown of larger items such as bottles, bags and synthetic clothing. Because they are so small, microplastics easily escape water treatment systems and enter rivers and oceans, where they have now been detected from the surface to the deepest trenches. Marine animals frequently mistake the particles for food. Once swallowed, microplastics can block the digestive system or create a false sense of fullness, causing animals to eat less and grow more slowly. A further concern is that the particles attract toxic chemicals from the surrounding water, which may then move up the food chain to humans. Although several countries have banned microbeads in cosmetics, scientists stress that such measures address only a small fraction of the problem, since the majority of microplastics come from the fragmentation of everyday plastic waste.
@@ -59,6 +66,13 @@ X: is the most effective way of protecting marine life
 X: has increased the amount of plastic waste in the oceans
 X: is opposed by most of the scientific community
 W: Bilim insanları bu yasakların sorunun sadece küçük bir kısmını çözdüğünü vurguluyor; yani faydalı ama yetersiz.
+Q: Which of the following is NOT mentioned in the passage as a source of microplastics?
+A: car tyres
+X: cosmetics
+X: plastic bottles
+X: synthetic clothing
+X: plastic bags
+W: "Hangisi değildir" sorusunda her şıkkı metinde tek tek ara. Kozmetik, şişe, poşet ve sentetik giysi geçiyor; araç lastiği hiç geçmiyor.
 
 ## r3|reading|C1|Sosyal bilimler
 P: The term "urban heat island" describes the phenomenon whereby cities are noticeably warmer than the rural areas surrounding them. The difference is most pronounced at night, when concrete, asphalt and brick release the heat they have absorbed during the day. The scarcity of vegetation compounds the problem, as plants cool their environment by releasing water vapour, a process that is largely absent in densely built areas. Waste heat from vehicles, air conditioners and industry adds further to urban temperatures. The consequences are not merely a matter of discomfort. During heatwaves, mortality rates in cities rise sharply, particularly among the elderly and those with chronic illnesses. Higher temperatures also increase demand for air conditioning, which in turn consumes more energy and releases more heat, creating a vicious circle. Urban planners have responded with a range of strategies, including planting trees along streets, creating green roofs and using reflective materials for pavements, all of which have been shown to lower local temperatures by several degrees.
@@ -90,6 +104,13 @@ X: Building green roofs
 X: Using reflective materials for pavements
 X: Increasing the amount of greenery in built-up areas
 W: Ağaç dikmek, yeşil çatılar ve yansıtıcı malzemeler sayılıyor; araç sayısını sınırlamak strateji olarak geçmiyor.
+Q: Which of the following is the best title for the passage?
+A: Why Cities Run Hot and What Can Be Done
+X: The Benefits of Air Conditioning
+X: Rural Life During Summer Heatwaves
+X: How Concrete and Asphalt Are Produced
+X: Caring for the Elderly in Winter
+W: Metin hem nedenleri (beton, bitki azlığı, atık ısı) hem çözümleri (ağaç, yeşil çatı) anlatıyor; başlık ikisini de kapsamalı.
 
 ## r4|reading|B2|Eğitim
 P: For much of the twentieth century, many parents and educators believed that learning two languages in early childhood would confuse children and delay their development. Recent research has largely overturned this view. Studies indicate that bilingual children may initially have smaller vocabularies in each individual language, but their total vocabulary across both languages is usually similar to that of monolingual children. Moreover, bilingualism appears to bring certain cognitive advantages. Because bilingual speakers must constantly select one language while suppressing the other, they seem to develop stronger skills in attention control and task switching. Some researchers have even suggested that lifelong bilingualism may delay the onset of dementia symptoms by several years, although this claim remains controversial and requires further investigation. What is clear is that the fear of confusing children is not supported by evidence, and families should feel free to maintain their heritage language at home.
@@ -121,6 +142,13 @@ X: speak only the language of the country they live in
 X: avoid mixing two languages in the same conversation
 X: consult a doctor before raising children bilingually
 W: Son cümle: "families should feel free to maintain their heritage language at home."
+Q: The author mentions attention control and task switching in order to ___.
+A: give examples of cognitive advantages linked to bilingualism
+X: show that bilingual children learn more slowly
+X: prove that bilingualism prevents dementia
+X: explain why parents once feared bilingual education
+X: describe how vocabulary size is measured
+W: Amaç sorusu: "Bu ayrıntı neden verilmiş?" Bu beceriler, hemen önceki "bilişsel avantajlar" cümlesinin örnekleri. Demans iddiası ise metinde kanıtlanmış değil, tartışmalı.
 
 ## r5|reading|C1|Sağlık
 P: Antibiotics, first introduced on a large scale in the 1940s, transformed medicine by making once-deadly bacterial infections easily treatable. Yet their success has contained the seeds of a serious problem. Whenever antibiotics are used, bacteria that happen to carry genetic mutations allowing them to survive the drug are left behind and multiply. Over time, these resistant strains can come to dominate a population. The misuse of antibiotics has greatly accelerated this process. Patients often demand antibiotics for viral infections such as colds, against which the drugs are useless, and many stop taking their medication as soon as they feel better, allowing the hardiest bacteria to survive. In agriculture, antibiotics are routinely given to healthy animals to promote growth. The World Health Organization now ranks antimicrobial resistance among the greatest threats to global health, warning that routine surgery and cancer treatment could become far riskier if effective antibiotics are no longer available.
@@ -152,6 +180,13 @@ X: viral infections would disappear
 X: farm animals would grow faster
 X: the World Health Organization would stop its research
 W: Son cümlede rutin ameliyatların ve kanser tedavisinin çok daha riskli hale gelebileceği belirtiliyor.
+Q: Which of the following is the best title for the passage?
+A: How Success Bred Resistance: The Antibiotic Problem
+X: The Discovery of Antibiotics in the 1940s
+X: Antibiotics as a Cure for Viral Colds
+X: New Techniques in Cancer Surgery
+X: Raising Healthy Animals Without Medicine
+W: Metin antibiyotiklerin başarısının ve yanlış kullanımının direnç sorununu nasıl doğurduğunu anlatıyor. 1940'lar sadece giriş ayrıntısı; soğuk algınlığı tedavisi ise metinle çelişiyor.
 
 ## r6|reading|B1|Tarih
 P: The Silk Road was not a single road but a vast network of trade routes that connected China with the Mediterranean world for more than fifteen centuries. Although it took its name from the Chinese silk that was highly valued in Rome, many other goods travelled along these routes, including spices, glass, paper and precious metals. Few merchants travelled the entire distance. Instead, goods usually passed through the hands of many traders, each covering a section of the journey before selling to the next. Cities such as Samarkand and Bukhara grew rich by providing markets, water and shelter for passing caravans. Perhaps even more important than the goods themselves were the ideas that spread along the routes. Religions, scientific knowledge and technologies such as papermaking moved from one civilisation to another, shaping cultures across Asia and Europe.
@@ -183,6 +218,13 @@ X: the growth of the Chinese army
 X: the discovery of new precious metals
 X: the decline of trade by sea
 W: "Perhaps even more important than the goods themselves were the ideas" cümlesi yazarın vurgusunu gösteriyor.
+Q: Which of the following is NOT mentioned as something that travelled along the Silk Road?
+A: gunpowder
+X: glass
+X: spices
+X: religious ideas
+X: precious metals
+W: Metinde baharat, cam, kâğıt, değerli metaller, dinler ve bilimsel bilgi geçiyor; barut hiç geçmiyor. Genel kültürle değil, sadece metinle cevap ver.
 
 ## r7|reading|C1|Psikoloji
 P: The placebo effect refers to the improvement in a patient's condition that occurs after receiving a treatment with no active ingredient, such as a sugar pill. For a long time, it was viewed mainly as a nuisance that complicated clinical trials, since researchers had to show that a new drug performed better than a placebo. Today, scientists increasingly study the effect in its own right. Brain imaging studies have shown that expecting pain relief can trigger the release of the body's natural painkillers, indicating that the effect has a measurable biological basis. The size of the effect depends on surprisingly subtle factors: injections tend to produce stronger placebo responses than pills, and expensive-looking pills often work better than cheap ones. Perhaps most surprisingly, some studies report that placebos can help even when patients are told that the pills contain no medicine. Such findings raise difficult ethical questions about whether, and how, doctors might use placebos deliberately.
@@ -214,6 +256,13 @@ X: show that patients must never be told the truth
 X: have been rejected by most scientists
 X: demonstrate that the placebo effect does not exist
 W: Son cümle bu bulguların doktorların plaseboyu bilerek kullanması konusunda zor etik sorular doğurduğunu söylüyor.
+Q: The author's attitude towards the placebo effect can best be described as ___.
+A: interested in its scientific study while aware of the ethical questions it raises
+X: dismissive, regarding it as nothing more than a trick
+X: enthusiastic, recommending that doctors use it widely
+X: hostile, claiming that it harms patients
+X: indifferent, since it has no biological basis
+W: Tutum sorusu: yazarın kelime seçimlerine bak. Etkiyi "ölçülebilir biyolojik temeli olan" ve "başlı başına incelenen" bir konu olarak anlatıyor; sonunda da etik soruları vurguluyor. Ne küçümsüyor ne de yaygın kullanım öneriyor.
 
 ## r8|reading|B2|Çevre
 P: Coral reefs cover less than one percent of the ocean floor, yet they support around a quarter of all marine species. Reefs are built by tiny animals called coral polyps, which live in partnership with microscopic algae. The algae live inside the coral's tissues and supply it with food through photosynthesis, as well as giving the reef its bright colours. When the water becomes too warm, however, this partnership breaks down. Stressed corals expel the algae and turn white, a process known as bleaching. Bleached corals are not dead, and they can recover if temperatures return to normal fairly quickly. If the heat persists, though, the corals starve and eventually die. As ocean temperatures have risen, mass bleaching events, which were once rare, have become increasingly frequent, leaving reefs less time to recover between them.
@@ -245,6 +294,13 @@ X: ocean temperatures are expected to fall
 X: scientists cannot explain why bleaching happens
 X: corals are moving to colder waters
 W: Toplu ağarma olaylarının sıklaşması, resiflerin iki olay arasında toparlanmasına daha az zaman bırakıyor.
+Q: Which of the following is the best title for the passage?
+A: Warming Seas and the Bleaching of Coral Reefs
+X: How to Grow Algae at Home
+X: The Colours of Tropical Fish
+X: A Diver's Guide to Coral Reefs
+X: Photosynthesis in Desert Plants
+W: Metnin odağı ısınan suların mercan ağarmasına yol açması; başlık bunu yansıtmalı.
 
 ## r9|reading|C1|Ekonomi
 P: The so-called gig economy, in which workers take on short-term tasks through digital platforms rather than holding permanent jobs, has expanded rapidly over the past decade. Supporters argue that it offers flexibility, allowing people to choose when and how much they work, and that it provides valuable income for students, carers and those seeking a second job. Critics, on the other hand, point out that gig workers are usually classified as independent contractors rather than employees. As a result, they typically lack sick pay, paid holidays and pension contributions, and their income can fluctuate unpredictably from week to week. Several court cases in Europe have challenged this classification, with some judges ruling that platforms exercise enough control over workers to be considered employers. The outcome of these disputes is likely to shape the future of work far beyond the gig economy itself, as more traditional companies adopt similar flexible arrangements.
@@ -276,6 +332,13 @@ X: have already ended the gig economy
 X: will only influence students and carers
 X: are of interest mainly to lawyers
 W: Son cümle, sonuçların gig ekonomisinin çok ötesinde iş dünyasını şekillendireceğini söylüyor.
+Q: The tone of the passage is mainly ___.
+A: balanced, presenting the views of both supporters and critics
+X: strongly supportive of gig platforms
+X: openly hostile to digital technology
+X: humorous and informal
+X: doubtful about whether the gig economy exists at all
+W: Metin önce savunucuların ("Supporters argue"), sonra eleştirmenlerin ("Critics ... point out") görüşünü veriyor; yazar taraf tutmuyor.
 
 ## r10|reading|B2|Arkeoloji
 P: Göbekli Tepe, an archaeological site in south-eastern Turkey, has forced researchers to reconsider the origins of civilisation. Excavations that began in the 1990s revealed massive stone pillars arranged in circles, many decorated with carvings of foxes, snakes and birds. Dating methods indicate that the oldest structures were built around 11,500 years ago, which makes them thousands of years older than Stonehenge and the Egyptian pyramids. What makes the site particularly remarkable is that it was constructed by hunter-gatherers, before the development of farming, pottery or writing. Traditionally, archaeologists assumed that people first settled down to farm and only later built monumental temples. Göbekli Tepe suggests that the order may have been reversed: the need to gather large groups for ritual purposes might have encouraged people to settle and, eventually, to cultivate crops to feed them.
@@ -307,3 +370,10 @@ X: clearly proven
 X: slowly repeated
 X: carefully hidden
 W: "reversed" = tersine çevrilmiş; Göbekli Tepe sıranın tersine olabileceğini düşündürüyor.
+Q: The author mentions Stonehenge and the Egyptian pyramids in order to ___.
+A: emphasise how old the structures at Göbekli Tepe are
+X: show that they were built by the same people
+X: argue that they are more important than Göbekli Tepe
+X: explain how stone pillars were carved
+X: describe the decoration of ancient temples
+W: Bu yapılar karşılaştırma için anılıyor: Göbekli Tepe onlardan binlerce yıl daha eski.
