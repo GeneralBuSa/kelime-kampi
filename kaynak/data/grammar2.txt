@@ -1,0 +1,296 @@
+# conditionals-2|B2|Third and mixed conditionals|Koşul cümleleri: 3. tip ve karma tip
+> 3. tip: geçmişte gerçekleşmemiş bir koşul ve sonucu (pişmanlık, eleştiri). If + past perfect, would have + V3.
+> Karma tip: geçmişteki koşulun şimdiki sonucu. If + past perfect, would + V1 (If I had studied medicine, I would be a doctor now).
+= If + had + V3, would have + V3 · If + had + V3, would + V1 (now)
+e If you had told me, I would have helped you. || Bana söyleseydin sana yardım ederdim.
+e If I had saved money, I would be rich now. || Para biriktirseydim şimdi zengin olurdum.
+? If she had left earlier, she ___ the train.|would have caught|would catch;will catch;had caught|3. tip: would have + V3.
+? If I ___ harder, I would have passed the exam.|had studied|studied;have studied;would study|3. tip if cümlesi: had + V3.
+? If he had taken the medicine, he ___ better now.|would feel|would have felt;will feel;felt|Geçmişteki koşul, şimdiki sonuç ("now"): karma tip, would + V1.
+? We would have won the match if our best player ___ injured.|hadn't been|wasn't;wouldn't be;hasn't been|3. tip if cümlesi: hadn't been.
+? If I had accepted that job, I ___ in Germany now.|would be living|would have lived;will live;had lived|Karma tip: şu anki hayali durum ("now").
+
+# past-perfect|B2|Past perfect and past perfect continuous|Past Perfect ve Past Perfect Continuous
+> Geçmişteki iki olaydan önce olanı göstermek için past perfect (had + V3) kullanılır. "by the time, before, after, when, already" ile sık görülür.
+> Geçmişteki bir andan önce bir süre devam etmiş eylemi vurgulamak için past perfect continuous (had been + -ing) kullanılır.
+= had + V3 · had been + V-ing
+e When we arrived, the film had already started. || Vardığımızda film çoktan başlamıştı.
+e She was tired because she had been running. || Koştuğu için yorgundu.
+? By the time the police arrived, the thief ___.|had escaped|escaped;has escaped;was escaping|Polis gelmeden önce tamamlanmış eylem: had escaped.
+? I ___ that film before, so I didn't want to see it again.|had seen|have seen;saw;was seeing|Geçmişteki karardan önceki deneyim: had seen.
+? Her eyes were red because she ___ for hours.|had been crying|has been crying;cried;was cried|Geçmişteki bir andan önce süren eylem: had been crying.
+? After he ___ his homework, he went out.|had finished|has finished;was finishing;finishes|"After" ile önce olan eylem: had finished.
+? When I got to the station, the train ___ already.|had left|has left;was leaving;leaves|İstasyona varmadan önce tamamlanmış: had left.
+
+# future-advanced|B2|Future continuous and future perfect|Future Continuous ve Future Perfect
+> Future continuous (will be + -ing): gelecekte belirli bir anda devam ediyor olacak eylem.
+> Future perfect (will have + V3): gelecekte belirli bir zamandan önce tamamlanmış olacak eylem. "by + zaman" ile sık kullanılır.
+= will be + V-ing · will have + V3
+e This time tomorrow I will be flying to Rome. || Yarın bu saatte Roma'ya uçuyor olacağım.
+e By 2030, they will have finished the project. || 2030'a kadar projeyi bitirmiş olacaklar.
+? Don't call me at 8; I ___ dinner then.|will be having|will have had;have;am had|O anda devam ediyor olacak: will be having.
+? By next June, I ___ from university.|will have graduated|will graduate;graduate;am graduating|"By next June" öncesinde tamamlanmış olacak: will have graduated.
+? This time next week, we ___ on a beach in Antalya.|will be lying|will have lain;lie;are lain|Gelecekte belirli bir anda süren durum: will be lying.
+? By the time you arrive, I ___ the cake.|will have baked|will bake;bake;baked|Gelmenden önce tamamlanmış olacak: will have baked.
+? The scientists ___ the results by the end of the year.|will have published|will be publish;have published;publish|"by the end of the year" + tamamlanma: will have published.
+
+# passive-2|B2|Advanced passive (modals, perfect, reporting verbs)|İleri edilgen yapılar (modal, perfect, it is said that)
+> Modal ile edilgen: modal + be + V3 (must be done). Perfect ile: have/has been + V3. Devam eden: is being + V3.
+> Haber/akademik dilde: It is said / believed / thought that ... ya da Özne + is said to + V1 / to have + V3 (geçmiş için).
+= can/must/should be + V3 · has been + V3 · is being + V3 · is said to have + V3
+e The work must be finished by Friday. || İş cuma gününe kadar bitirilmeli.
+e He is believed to have left the country. || Ülkeyi terk ettiğine inanılıyor.
+? The road ___ at the moment, so we have to use another route.|is being repaired|is repaired;has repaired;repairs|Şu an devam eden edilgen eylem: is being repaired.
+? All the forms must ___ before Monday.|be completed|complete;completed;being completed|Modal + be + V3.
+? The new hospital ___ recently.|has been opened|has opened;is opening;was opening|"recently" + edilgen perfect: has been opened.
+? The painting is thought ___ in the 16th century.|to have been painted|to paint;to be painting;painting|Geçmişe ait bir durum: is thought to have been + V3.
+? It ___ that the economy will grow next year.|is expected|expects;is expecting;has expected|"It is expected that..." edilgen kalıbı.
+
+# causative|B2|Causative: have / get something done|Ettirgen yapı: have/get something done
+> Bir işi başkasına yaptırdığımızı anlatır. Yapı: have/get + nesne + V3. Ayrıca "have someone do" ve "get someone to do" kalıpları da vardır.
+= have + nesne + V3 · get + nesne + V3 · have sb do · get sb to do
+e I had my hair cut yesterday. || Dün saçımı kestirdim.
+e She got her car repaired. || Arabasını tamir ettirdi.
+? I'm going to have my eyes ___ tomorrow.|tested|test;testing;to test|have + nesne + V3: tested.
+? We had the house ___ last month.|painted|paint;painting;to paint|have + nesne + V3.
+? I'll get the mechanic ___ the brakes.|to check|check;checked;checking|get + kişi + to + V1.
+? She had her assistant ___ the documents.|send|to send;sent;sending|have + kişi + V1 (to almaz).
+? You should get your phone ___; the screen is broken.|fixed|fix;to fix;fixing|get + nesne + V3.
+
+# wish|B2|Wish and if only|Wish ve if only (dilek ve pişmanlık)
+> Şimdiki durum için dilek: wish + past simple (I wish I were taller). Geçmiş için pişmanlık: wish + past perfect (I wish I had studied). Başkasının davranışından şikâyet: wish + would.
+= wish + V2 (şimdi) · wish + had + V3 (geçmiş) · wish + sb + would + V1
+e I wish I knew the answer. || Keşke cevabı bilsem.
+e If only I hadn't said that. || Keşke bunu söylemeseydim.
+? I wish I ___ a car. I'm tired of taking the bus.|had|have;would have;will have|Şimdiki durum için dilek: past simple.
+? She wishes she ___ to the party last night.|had gone|went;would go;has gone|Geçmişle ilgili pişmanlık: had + V3.
+? I wish you ___ making that noise! It's annoying.|would stop|stopped;stop;had stopped|Başkasının davranışından şikâyet: would + V1.
+? If only I ___ more time to finish the project.|had|have;will have;would had|Şimdiki dilek: past simple.
+? I wish I ___ so much yesterday. I feel sick now.|hadn't eaten|didn't eat;wouldn't eat;haven't eaten|Geçmişteki eylemden pişmanlık: hadn't eaten.
+
+# past-modals|B2|Modals in the past (should have, must have, could have)|Geçmişe yönelik modallar
+> should have + V3: yapılması gerekirdi ama yapılmadı (eleştiri/pişmanlık). must have + V3: geçmiş hakkında güçlü çıkarım. can't/couldn't have + V3: geçmişte olmuş olamaz. could/might/may have + V3: olmuş olabilir. needn't have + V3: gereksiz yere yapıldı.
+= modal + have + V3
+e You should have told me earlier. || Bana daha önce söylemeliydin.
+e She must have forgotten our meeting. || Toplantımızı unutmuş olmalı.
+? The ground is wet. It ___ last night.|must have rained|should have rained;can't have rained;must rain|Kanıta dayanan geçmiş çıkarım: must have rained.
+? You failed the exam. You ___ harder.|should have studied|must have studied;could study;should study|Geçmişe yönelik eleştiri: should have + V3.
+? He ___ the money; he was with me all day.|can't have stolen|must have stolen;should have stolen;needn't have stolen|Geçmişte imkânsız: can't have + V3.
+? I'm not sure why she's late. She ___ the bus.|might have missed|must miss;should have missed;can't miss|Emin olunmayan geçmiş olasılık: might have + V3.
+? We ___ so much food; only three guests came.|needn't have cooked|mustn't have cooked;can't have cooked;shouldn't cook|Gereksiz yere yapılmış iş: needn't have + V3.
+
+# reported-2|B2|Reported questions and commands|Dolaylı sorular ve emirler
+> Dolaylı soruda soru düzeni bozulur, düz cümle düzeni gelir (yardımcı fiil öznenin arkasına geçer). Evet/hayır soruları if/whether ile aktarılır.
+> Emir ve ricalar: tell/ask + kişi + (not) to + V1.
+= She asked me where I lived. · He asked if I was ready. · He told me to sit down.
+e "Where do you work?" → She asked me where I worked. || Nerede çalıştığımı sordu.
+e "Don't touch it!" → He told me not to touch it. || Ona dokunmamamı söyledi.
+? She asked me where ___.|I lived|did I live;do I live;I do live|Dolaylı soruda düz cümle düzeni: where I lived.
+? He asked me ___ I could speak French.|if|that;what;which|Evet/hayır sorusu: if/whether.
+? The teacher told us ___ talk during the exam.|not to|don't;to not to;not|Olumsuz emir: told us not to + V1.
+? I wonder what time ___.|the meeting starts|does the meeting start;starts the meeting;is the meeting start|"I wonder" sonrası düz cümle düzeni gelir.
+? My mother asked me ___ the dishes.|to wash|wash;washing;that wash|ask + kişi + to + V1.
+
+# relative-2|B2|Non-defining relative clauses and prepositions|Tanımlamayan ilgi cümleleri ve edatlı yapılar
+> Tanımlamayan ilgi cümleleri ek bilgi verir ve virgülle ayrılır; bu cümlelerde "that" kullanılamaz.
+> Edatlı yapılarda edat başa gelebilir: in which, to whom, of which. Bütün bir cümleye gönderme yaparken ", which" kullanılır.
+= My brother, who lives in Izmir, ... · the house in which I grew up · He passed, which surprised everyone.
+e Istanbul, which is the largest city in Turkey, has two continents. || Türkiye'nin en büyük şehri olan İstanbul iki kıtaya yayılır.
+e The person to whom I spoke was helpful. || Konuştuğum kişi yardımcı oldu.
+? My father, ___ is 60, still works every day.|who|that;which;whom|Virgüllü (tanımlamayan) cümlede "that" kullanılmaz; insan → who.
+? He didn't call me back, ___ made me angry.|which|that;what;who|Bütün cümleye gönderme: ", which".
+? The company for ___ she works is very successful.|which|that;whom;who|Edattan sonra nesne için "which".
+? The woman to ___ I sent the email never replied.|whom|who;which;that|Edattan sonra insan için "whom".
+? The students, most of ___ were tired, went home early.|whom|who;them;which|"most of whom": insanlar için edatlı yapı.
+
+# inversion|C1|Inversion after negative adverbials|Devrik yapı (Inversion)
+> Olumsuz veya kısıtlayıcı bir zarf cümlenin başına geldiğinde, soru cümlesindeki gibi yardımcı fiil öznenin önüne geçer. Resmi ve akademik dilde vurgu için kullanılır.
+> Kalıplar: Never / Rarely / Seldom + aux + özne · Not only ... but also · Hardly/Scarcely ... when · No sooner ... than · Only then / Only after · Not until · Under no circumstances.
+= Never have I seen ... · No sooner had I arrived than ... · Not only did he ..., but he also ...
+e Never have I seen such a beautiful view. || Hiç bu kadar güzel bir manzara görmemiştim.
+e No sooner had we sat down than the phone rang. || Oturur oturmaz telefon çaldı.
+? Rarely ___ such an honest politician.|do we meet|we meet;we do meet;meet we|Olumsuz zarf başa gelince devrik: do we meet.
+? No sooner had he left ___ it started to rain.|than|when;then;that|"No sooner ... than" kalıbı.
+? Not only ___ the exam, but she also got the highest score.|did she pass|she passed;she did pass;passed she|"Not only" sonrası devrik: did she pass.
+? Hardly had I closed my eyes ___ the alarm went off.|when|than;then;that|"Hardly/Scarcely ... when" kalıbı.
+? Under no circumstances ___ leave the building during the test.|should you|you should;you must;must|Devrik yapı: should you leave.
+
+# cleft|C1|Cleft sentences and emphasis|Vurgu cümleleri (Cleft sentences)
+> Cümlenin bir bölümünü öne çıkarmak için: It is/was ... that/who ... ve What ... is/was ... yapıları kullanılır. Olumlu cümlede vurgu için do/does/did + V1 kullanılabilir.
+= It was Ali who broke the window. · What I need is a holiday. · I did tell you!
+e It was in 1923 that the Republic was founded. || Cumhuriyetin kurulduğu yıl 1923'tü.
+e What surprised me was his answer. || Beni şaşırtan şey onun cevabıydı.
+? It was my sister ___ found the lost keys.|who|which;what;where|İnsan vurgulanıyor: It was ... who.
+? ___ I really want is a quiet weekend.|What|That;Which;It|"What ... is" vurgu kalıbı.
+? It was only after the meeting ___ I understood the problem.|that|which;when;what|"It was ... that" kalıbı.
+? I ___ lock the door; I'm sure of it.|did|do;have;was|Geçmişte vurgu: did + V1.
+? What the government should do ___ invest in education.|is|are;it is;that|"What ... is + V1" kalıbı.
+
+# subjunctive|C1|The subjunctive and "it's time"|Subjunctive (istek kipi) ve it's (high) time
+> suggest, recommend, insist, demand, propose ile ve "It is essential/vital/important that" ile sonraki cümlede fiil özneye bakmadan yalın halde gelir (should de kullanılabilir).
+> "It's (high) time + özne + past simple": bir şeyin artık yapılması gerektiğini anlatır. "would rather + özne + past simple": başkası için tercih.
+= suggest that he go · It is essential that she be · It's time we left · I'd rather you stayed
+e The doctor recommended that he stop smoking. || Doktor sigarayı bırakmasını önerdi.
+e It's high time you found a job. || Artık bir iş bulmanın zamanı geldi.
+? The committee insisted that the report ___ before Friday.|be submitted|is submitted;was submitted;will be submitted|Subjunctive: fiil yalın halde (be submitted).
+? It is vital that every student ___ the safety rules.|follow|follows;followed;will follow|"It is vital that" + yalın fiil.
+? It's time we ___ home; it's very late.|went|go;will go;have gone|"It's time + özne + past simple".
+? I'd rather you ___ smoke in the car.|didn't|don't;won't;not|"would rather + özne + past simple" (olumsuz: didn't).
+? She suggested that we ___ a taxi.|take|took;will take;taking|"suggest that" + yalın fiil.
+
+# participle|C1|Participle clauses|Sıfat-fiil ve zarf-fiil cümlecikleri (Participle clauses)
+> Aynı özneye sahip iki cümle kısaltılabilir. Etken anlam → V-ing (Walking home, I saw...). Edilgen anlam → V3 (Built in 1900, the house...). Önce tamamlanmış eylem → Having + V3.
+= V-ing ..., · V3 ..., · Having + V3 ..., · Having been + V3 ...,
+e Having finished her work, she went home. || İşini bitirdikten sonra eve gitti.
+e Written in simple English, the book is easy to read. || Sade bir İngilizceyle yazıldığı için kitap kolay okunuyor.
+? ___ the email, I realised I had made a mistake.|Having sent|Sent;Being sent;Have sent|Önce tamamlanmış etken eylem: Having + V3.
+? ___ in 1453, the city became the capital of the empire.|Conquered|Conquering;Having conquered;Conquer|Edilgen anlam (şehir fethedildi): V3.
+? ___ along the beach, we saw a group of dolphins.|Walking|Walked;Having walked;To walk|Eş zamanlı etken eylem: V-ing.
+? ___ by the noise, the baby started crying.|Frightened|Frightening;Having frightening;Frighten|Bebek korkutuldu (edilgen): V3.
+? Not ___ what to say, he remained silent.|knowing|known;having know;to know|Olumsuz participle: Not + V-ing.
+
+# conditionals-3|C1|Advanced conditionals (inverted, unless, but for)|İleri koşul yapıları
+> "If" atılarak devrik koşul kurulabilir: Had I known (= If I had known), Were I you (= If I were you), Should you need (= If you need).
+> Diğer bağlaçlar: unless (= if not), provided/providing that, as long as, on condition that, otherwise, but for / without (= olmasaydı).
+= Had + özne + V3 · Were + özne · Should + özne + V1 · But for + isim
+e Had I known about the problem, I would have helped. || Sorunu bilseydim yardım ederdim.
+e Should you have any questions, please contact us. || Herhangi bir sorunuz olursa lütfen bize ulaşın.
+? ___ I known you were ill, I would have visited you.|Had|If;Were;Should|Devrik 3. tip: Had I known.
+? ___ you need further information, please call our office.|Should|Had;Were;Would|Devrik 1. tip: Should you need.
+? You won't improve ___ you practise every day.|unless|if;provided;as long as|"unless" = eğer ... -mezsen.
+? ___ your help, I would never have finished the project.|But for|Unless;Despite;In case|"But for" = (yardımın) olmasaydı.
+? ___ I in your position, I would accept the offer.|Were|Was;Had;Should|Devrik 2. tip: Were I.
+
+# ellipsis|C1|Substitution and ellipsis (so, neither, do so)|Yerine koyma ve eksiltme (so do I, neither, so / not)
+> Tekrardan kaçınmak için: So + aux + özne (ben de), Neither/Nor + aux + özne (ben de ... -mem). "I think so / I hope not" kalıplarında "so/not" bir cümlenin yerini tutar.
+= So do I · Neither can she · I hope so · I'm afraid not
+e "I love jazz." "So do I." || "Cazı severim." "Ben de."
+e "I can't swim." "Neither can I." || "Yüzemem." "Ben de yüzemem."
+? "I've never been to Japan." "___ I."|Neither have|So have;Neither am;So am|Olumsuz cümleye katılma, present perfect: Neither have I.
+? "She works in a bank." "So ___ her husband."|does|is;has;do|Geniş zamanda tekil özneyle: So does.
+? "Will it rain tomorrow?" "I hope ___. The garden needs water."|so|not;it;yes|Olumlu beklenti: I hope so.
+? "Is the shop open on Sunday?" "I'm afraid ___."|not|no;so;none|Olumsuz cevap kalıbı: I'm afraid not.
+? He promised to help, and he did ___.|so|it;that;too|"did so" = söz verdiği şeyi yaptı.
+
+# time-clauses|YDS|Tense agreement and time clauses|Zaman uyumu ve zaman bağlaçları (YDS)
+> YDS'nin en sık sorduğu konudur. Zaman bağlaçlarından (when, as soon as, until, before, after, by the time, once) sonra gelecek anlamı için will kullanılmaz; present simple veya present perfect gelir.
+> Geçmişte: by the time + past simple → ana cümle past perfect. Gelecekte: by the time + present simple → ana cümle future perfect. "since" + past simple → ana cümle present perfect.
+= by the time + V2, had + V3 · by the time + V1, will have + V3 · since + V2, have + V3
+e By the time the ambulance arrived, the patient had lost a lot of blood. || Ambulans geldiğinde hasta çok kan kaybetmişti.
+e I will call you as soon as I arrive. || Varır varmaz seni arayacağım.
+? By the time the rescue team reached the village, the floodwaters ___ much of the farmland.|had destroyed|have destroyed;destroy;will destroy|"by the time + past simple" → ana cümle past perfect.
+? The results will be announced as soon as all the data ___ analysed.|has been|will be;would be;had been|Zaman bağlacından sonra will gelmez; present perfect edilgen: has been analysed.
+? Since the industrial revolution began, global temperatures ___ steadily.|have risen|rose;had risen;are rising|"since + past simple" → ana cümle present perfect.
+? By the time the new law comes into force, many companies ___ their policies.|will have changed|have changed;had changed;changed|Gelecekte "by the time + V1" → future perfect.
+? The researchers did not publish their findings until they ___ the experiment several times.|had repeated|have repeated;repeat;will repeat|Geçmişte "until" ile önce tamamlanan eylem: had repeated.
+? Once the committee ___ a decision, the results will be announced.|has made|will make;had made;makes|"once" zaman bağlacından sonra will gelmez; present perfect uygun.
+? After she ___ the documents, she left the office.|had signed|has signed;signs;will sign|Geçmişte "after" ile önce biten eylem: past perfect.
+
+# adverbial|YDS|Adverbial clauses: contrast, reason, result|Zarf cümlecikleri: zıtlık, sebep, sonuç (YDS)
+> Zıtlık: although/though/even though + cümle; despite/in spite of + isim/V-ing; whereas/while = oysa (iki durumu karşılaştırır).
+> Sebep: because/since/as + cümle; because of/due to/owing to + isim. Sonuç: so + sıfat + that; such + (a) + sıfat + isim + that; so that = -sın diye (amaç).
+= although + clause · despite + noun · so ... that · such ... that · so that + can/could
+e Despite the heavy rain, the match continued. || Şiddetli yağmura rağmen maç devam etti.
+e The test was so difficult that nobody passed. || Sınav o kadar zordu ki kimse geçemedi.
+? ___ the treatment is expensive, many patients prefer it because of its success rate.|Although|Despite;Because of;In spite of|Arkasından tam cümle var ve zıtlık bildiriyor: Although.
+? ___ the lack of funding, the project was completed on time.|Despite|Although;Even though;Whereas|Arkasından isim öbeği geliyor: Despite.
+? The new drug was ___ effective that doctors began prescribing it widely.|so|such;too;very|"so + sıfat + that".
+? Some species thrive in cold climates, ___ others can only survive in warm regions.|whereas|because;so that;despite|İki durumu karşılaştırma: whereas (oysa).
+? The flight was cancelled ___ the severe weather conditions.|due to|because;although;so that|Arkasından isim öbeği gelen sebep: due to.
+? She saved money ___ she could study abroad.|so that|such that;because of;despite|Amaç: so that + could.
+? ___ being expensive, the treatment is widely used.|In spite of|Although;Even though;Whereas|"In spite of" + V-ing / isim.
+? It was ___ a difficult exam that almost nobody finished it.|such|so;too;very|"such a + sıfat + isim + that".
+
+# conjunctions|YDS|Linkers and transitions|Bağlaçlar ve geçiş ifadeleri (YDS)
+> Cümle başı geçiş ifadeleri noktalı virgül/noktadan sonra gelir ve virgül alır: However, Nevertheless, Moreover, Furthermore, Therefore, Consequently, In contrast, Likewise, Otherwise.
+> Koşul bağlaçları: provided that / as long as (şartıyla), unless (-medikçe), in case (ihtimaline karşı), even if (-se bile). Anlam ilişkisini (zıtlık mı, ekleme mi, sonuç mu) önce tespit et.
+= Zıtlık: however, nevertheless · Ekleme: moreover, furthermore · Sonuç: therefore, thus, consequently
+e The method is cheap; however, it is not very accurate. || Yöntem ucuz; ancak çok doğru değil.
+? Solar energy is clean and renewable; ___, it is not available at night.|however|moreover;therefore;likewise|İki cümle arasında zıtlık: however.
+? The company lost its biggest client. ___, it had to lay off many workers.|Consequently|Nevertheless;However;In contrast|Sebep-sonuç ilişkisi: Consequently.
+? Regular exercise strengthens the heart. ___, it reduces stress.|Moreover|However;Otherwise;Instead|Olumlu bir bilgiye ek: Moreover.
+? You can borrow my car ___ you return it by Sunday.|provided that|unless;whereas;even though|Şart: provided that.
+? Take an umbrella ___ it rains later.|in case|unless;so that;although|İhtimale karşı: in case.
+? The patient will not recover ___ he receives proper treatment.|unless|if;provided that;as long as|"-medikçe": unless.
+? The evidence is limited; ___, the hypothesis remains useful.|nevertheless|therefore;moreover;likewise|Zıtlık: nevertheless.
+? Leave early; ___, you will miss the last train.|otherwise|however;moreover;therefore|Aksi halde: otherwise.
+
+# noun-clauses|YDS|Noun clauses (that, whether, wh-, the fact that)|İsim cümlecikleri (Noun clauses)
+> Bir cümle, başka bir cümlenin öznesi ya da nesnesi olabilir. that (... olduğunu), whether (... olup olmadığını), what/how/why (ne/nasıl/neden ... olduğunu), the fact that (... olduğu gerçeği).
+> Wh- ile başlayan isim cümleciklerinde soru düzeni yoktur: I don't know where he lives (NOT where does he live).
+= that + clause · whether (or not) · what/why/how + özne + fiil · the fact that
+e What surprised scientists was how quickly the virus spread. || Bilim insanlarını şaşırtan şey virüsün ne kadar hızlı yayıldığıydı.
+e It is not clear whether the drug is safe. || İlacın güvenli olup olmadığı belli değil.
+? Researchers are still trying to understand ___ some people are more resistant to the disease.|why|that;what;whether or not|"neden ... olduğunu" anlamı: why.
+? ___ the climate is changing is accepted by most scientists.|That|What;Whether;If|"İklimin değiştiği" (gerçek bir bilgi) özne: That.
+? It is uncertain ___ the new policy will reduce unemployment or not.|whether|that;what;which|"or not" ile "olup olmadığı": whether.
+? ___ he apologised did not change the committee's decision.|The fact that|What;Whether;That fact|"... olduğu gerçeği": The fact that.
+? We need to find out ___ caused the system failure.|what|that;whether;which that|Neyin sebep olduğu (özne yok, what özne): what.
+? I wonder ___ the results can be trusted.|whether|what;which;who|"olup olmadığı": whether.
+? ___ remains unclear is how the virus entered the hospital.|What|That;Whether;Which|Cümlenin öznesi "ne olduğu": What remains unclear.
+
+# reduced-relative|YDS|Reduced relative clauses|Kısaltılmış ilgi cümleleri (YDS)
+> who/which + be kısaltılabilir: etken anlam → V-ing (the man standing there), edilgen anlam → V3 (the data collected in 2020). "the first/last/only + to + V1" kalıbı da sık sorulur.
+= the people living here · the methods used · the first woman to win
+e The questions asked in the interview were difficult. || Mülakatta sorulan sorular zordu.
+e Marie Curie was the first woman to win a Nobel Prize. || Marie Curie Nobel kazanan ilk kadındı.
+? The data ___ in the survey were analysed by experts.|collected|collecting;to collect;collects|Veriler toplandı (edilgen): collected.
+? Students ___ in the dormitory must follow the rules.|living|lived;live;to living|Öğrenciler yaşıyor (etken): living.
+? Neil Armstrong was the first person ___ on the moon.|to walk|walking;walked;who walk|"the first + to + V1".
+? Most of the products ___ in this factory are exported.|manufactured|manufacturing;manufacture;to manufacturing|Ürünler üretiliyor (edilgen): manufactured.
+? The number of people ___ from obesity has increased dramatically.|suffering|suffered;suffer;to suffered|İnsanlar acı çekiyor (etken): suffering.
+? The only scientist ___ the award was from Sweden.|to receive|receiving;received;who receive|"the only + to + V1".
+? Buildings ___ in the 19th century need careful restoration.|constructed|constructing;construct;to constructing|Binalar inşa edildi (edilgen): constructed.
+
+# quantifiers-yds|YDS|Quantifiers and agreement|Miktar belirteçleri ve özne-fiil uyumu (YDS)
+> few/a few + sayılabilen; little/a little + sayılamayan. "a" olmadan olumsuz anlam (çok az), "a" ile olumlu anlam (biraz).
+> both ... and (çoğul fiil), either ... or / neither ... nor (fiil yakın özneye uyar). "The number of" + çoğul isim → tekil fiil; "A number of" + çoğul isim → çoğul fiil. each/every → tekil fiil.
+= a number of + are · the number of + is · neither A nor B + (B'ye uyan fiil)
+e A number of students were absent. || Birçok öğrenci yoktu.
+e The number of students is increasing. || Öğrenci sayısı artıyor.
+? The number of international students ___ risen sharply in recent years.|has|have;are;were|"The number of" tekil fiil alır: has.
+? Very ___ people understood the lecture, so the professor explained it again.|few|little;a little;much|"people" sayılabilen, olumsuz anlam (çok az): few.
+? Neither the manager nor the employees ___ aware of the problem.|were|was;is;has been|"neither ... nor" yakın özneye uyar: employees → were.
+? There is ___ evidence to support this theory, so scientists remain sceptical.|little|few;a few;many|"evidence" sayılamaz, olumsuz anlam: little.
+? Each of the participants ___ a questionnaire.|was given|were given;have given;are giving|"Each of" tekil fiil alır: was given.
+? A number of studies ___ this conclusion.|support|supports;has supported;is supporting|"A number of" çoğul fiil: support.
+? There is ___ time left, so we must hurry.|little|few;a few;many|"time" sayılamaz; olumsuz: little.
+
+# prepositions-yds|YDS|Dependent prepositions|Fiil/sıfat + edat kalıpları (YDS)
+> YDS'de kelime ile birlikte kullanılan edat sıkça sorulur: rely on, consist of, result in, result from, contribute to, account for, be aware of, be responsible for, be capable of, in terms of, in addition to, on behalf of.
+= depend on · consist of · result in (sonuç) / result from (sebep) · contribute to · be exposed to
+e The success of the project depends on funding. || Projenin başarısı finansmana bağlıdır.
+? The committee consists ___ seven experts.|of|in;from;on|consist of = -den oluşmak.
+? Air pollution can contribute ___ respiratory diseases.|to|in;for;on|contribute to = katkıda bulunmak / yol açmak.
+? The accident resulted ___ the driver's carelessness.|from|in;to;of|result from = -den kaynaklanmak (sebep).
+? Poor diet may result ___ serious health problems.|in|from;of;to|result in = ile sonuçlanmak (sonuç).
+? Many developing countries rely heavily ___ agriculture.|on|in;of;to|rely on = -e dayanmak, güvenmek.
+? Workers who are exposed ___ chemicals must wear protective clothing.|to|with;at;from|be exposed to = -e maruz kalmak.
+? She spoke ___ behalf of the patients' association.|on|in;at;for|"on behalf of" = adına.
+? The report is written ___ terms of cost, not quality.|in|on;at;for|"in terms of" = açısından.
+
+# comparison-yds|YDS|Advanced comparison structures|İleri karşılaştırma yapıları (YDS)
+> the + comparative ..., the + comparative (ne kadar ... o kadar). as + sıfat + as (kadar). twice/three times as ... as (iki/üç kat). not as/so ... as. far/much/considerably + comparative (çok daha).
+= The more you read, the more you learn. · twice as large as · much more efficient than
+e The earlier you start, the better your results will be. || Ne kadar erken başlarsan sonuçların o kadar iyi olur.
+? The more you practise, the ___ you become.|more confident|most confident;confident;confidently|"The more ..., the more ..." kalıbı.
+? This new engine is ___ more efficient than the old one.|much|very;so;too|Karşılaştırmayı güçlendirme: much more.
+? The population of the city is twice as large ___ it was in 1990.|as|than;so;like|"twice as ... as" kalıbı.
+? The problem is not ___ serious as the media suggests.|as|more;so much;such|"not as ... as".
+? ___ the population grows, the greater the demand for water becomes.|The more|More;As more;The most|"The more ..., the greater ..." kalıbı.
+? This method is far ___ than the previous one.|more reliable|reliable;most reliable;reliably|"far + comparative".
+? The new lab is three times as large ___ the old one.|as|than;so;that|"three times as ... as".
+
+# gerund-yds|YDS|Gerunds and infinitives in academic contexts|Gerund ve infinitive: akademik kullanımlar (YDS)
+> -ing alanlar: avoid, consider, involve, risk, deny, postpone, be worth, it's no use, look forward to, object to, be committed to. (Son üçünde "to" bir edattır!)
+> to + V1 alanlar: aim, manage, fail, tend, seem, attempt, be likely to, in order to. Anlam değiştirenler: stop doing (bırakmak) / stop to do (yapmak için durmak); remember doing / remember to do.
+= look forward to doing · be committed to improving · tend to do · fail to do
+e The government is committed to reducing poverty. || Hükümet yoksulluğu azaltmaya kararlıdır.
+? Scientists have failed ___ a cure for the disease so far.|to find|finding;find;to finding|"fail" sonrası to + V1.
+? The project involves ___ data from thousands of patients.|collecting|to collect;collect;collected|"involve" sonrası V-ing.
+? We look forward to ___ your proposal.|receiving|receive;received;be receiving|"look forward to" — buradaki "to" edat, V-ing gelir.
+? People tend ___ more when they are stressed.|to eat|eating;eat;to eating|"tend" sonrası to + V1.
+? It is worth ___ that the study had a small sample size.|noting|to note;note;noted|"be worth" sonrası V-ing.
+? He stopped ___ a cigarette, then continued walking.|to smoke|smoking;smoke;smoked|Sigara içmek için durdu (amaç): stop to do.
+? The board objected to ___ the factory without a vote.|closing|close;to close;closed|"object to" — to edattır, V-ing gelir.
+? Remember ___ the windows before you leave.|to lock|locking;lock;locked|Yapılacak işi hatırla: remember to do.

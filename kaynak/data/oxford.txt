@@ -1,0 +1,340 @@
+actress|n|kadın oyuncu, aktris|A1
+add|v|eklemek|A1
+awesome|adj|harika, müthiş|A1
+cannot|v|-emez, yapamaz|A1
+capital|n|başkent; sermaye|A1
+CD|n|CD|A1
+dancing|n|dans etme|A1
+DVD|n|DVD|A1
+euro|n|avro, euro|A1
+even|adv|bile, hatta|A1
+evening|n|akşam|A1
+event|n|olay, etkinlik|A1
+ever|adv|hiç, şimdiye kadar|A1
+fifth|num|beşinci|A1
+fill|v|doldurmak|A1
+fourth|num|dördüncü|A1
+have to|v|zorunda olmak|A1
+ice cream|n|dondurma|A1
+mall|n|alışveriş merkezi|A1
+no one|pron|hiç kimse|A1
+smart|adj|akıllı, zeki; şık|A1
+spelling|n|yazım, imla|A1
+advertising|n|reklamcılık|A2
+ah|int|ah|A2
+airline|n|havayolu şirketi|A2
+all right|adj|iyi, tamam|A2
+anymore|adv|artık (olumsuz cümlede)|A2
+architecture|n|mimari, mimarlık|A2
+arrangement|n|düzenleme, ayarlama|A2
+asleep|adj|uykuda|A2
+assistant|n|asistan, yardımcı|A2
+athlete|n|atlet, sporcu|A2
+attend|v|katılmak, devam etmek|A2
+billion|num|milyar|A2
+birth|n|doğum|A2
+block|n|blok; engel|A2
+candy|n|şeker, şekerleme|A2
+clerk|n|memur, kâtip; tezgahtar|A2
+closet|n|gömme dolap|A2
+cookie|n|kurabiye|A2
+dessert|n|tatlı (yemek sonu)|A2
+driving|n|araba kullanma|A2
+elevator|n|asansör|A2
+fever|n|ateş (hastalık)|A2
+fishing|n|balık tutma|A2
+flying|n|uçma, uçuş|A2
+frog|n|kurbağa|A2
+garbage|n|çöp|A2
+grocery|n|bakkal; market alışverişi|A2
+hers|pron|onunki (kadın)|A2
+herself|pron|kendisi (kadın)|A2
+himself|pron|kendisi (erkek)|A2
+hockey|n|hokey|A2
+itself|pron|kendisi (cansız)|A2
+laughter|n|kahkaha, gülüş|A2
+possibility|n|olasılık, imkân|A2
+quietly|adv|sessizce|A2
+railroad|n|demiryolu|A2
+refrigerator|n|buzdolabı|A2
+runner|n|koşucu|A2
+sadly|adv|ne yazık ki; üzgünce|A2
+sneaker|n|spor ayakkabı|A2
+spoon|n|kaşık|A2
+stove|n|ocak, soba|A2
+subway|n|metro|A2
+toward|prep|-e doğru|A2
+trash|n|çöp|A2
+underground|adj|yeraltı|A2
+understanding|n|anlayış, kavrayış|A2
+washing|n|yıkama; çamaşır|A2
+wet|adj|ıslak|A2
+working|adj|çalışan; işleyen|A2
+wow|int|vay, vay canına|A2
+yours|pron|seninki, sizinki|A2
+ad|n|reklam, ilan|B1
+automatically|adv|otomatik olarak|B1
+backward|adv|geriye doğru|B1
+bite|v|ısırmak|B1
+cable|n|kablo|B1
+colored|adj|renkli|B1
+corn|n|mısır|B1
+difficulty|n|zorluk, güçlük|B1
+dressed|adj|giyinik, giyinmiş|B1
+fighting|n|çatışma, kavga|B1
+file|n|dosya|B1
+fixed|adj|sabit, değişmez|B1
+freeze|v|donmak, dondurmak|B1
+frightening|adj|korkutucu|B1
+heavily|adv|yoğun şekilde, ağır şekilde|B1
+helicopter|n|helikopter|B1
+highway|n|otoyol, karayolu|B1
+hurricane|n|kasırga|B1
+immediate|adj|anında, acil; doğrudan|B1
+importance|n|önem|B1
+incredibly|adv|inanılmaz derecede|B1
+involved|adj|ilgili, dahil; karmaşık|B1
+keyboard|n|klavye|B1
+killing|n|öldürme, cinayet|B1
+laboratory|n|laboratuvar|B1
+lay|v|yatırmak, sermek; (yumurta) yumurtlamak|B1
+leading|adj|önde gelen, lider|B1
+live|adj|canlı, naklen|B1
+locate|v|yerini bulmak, konumlandırmak|B1
+located|adj|bulunan, konumlanmış|B1
+lonely|adj|yalnız, kimsesiz|B1
+management|n|yönetim|B1
+marketing|n|pazarlama|B1
+mud|n|çamur|B1
+neat|adj|düzenli, derli toplu|B1
+northern|adj|kuzey ile ilgili, kuzeydeki|B1
+old-fashioned|adj|modası geçmiş, eski usul|B1
+organizer|n|düzenleyici, organizatör|B1
+originally|adv|başlangıçta, aslen|B1
+ought|v|-meli, -malı (ought to)|B1
+ours|pron|bizimki|B1
+package|n|paket|B1
+particularly|adv|özellikle|B1
+path|n|patika, yol|B1
+payment|n|ödeme|B1
+personally|adv|şahsen, kişisel olarak|B1
+pin|n|toplu iğne; şifre (PIN)|B1
+pipe|n|boru; pipo|B1
+poisonous|adj|zehirli|B1
+prepared|adj|hazır, hazırlıklı|B1
+principal|n|okul müdürü|B1
+printing|n|baskı, basım|B1
+prisoner|n|mahkum, tutuklu|B1
+producer|n|yapımcı; üretici|B1
+punish|v|cezalandırmak|B1
+quotation|n|alıntı; fiyat teklifi|B1
+recommendation|n|tavsiye, öneri|B1
+repeated|adj|tekrarlanan|B1
+retired|adj|emekli|B1
+roll|v|yuvarlanmak, yuvarlamak|B1
+seriously|adv|ciddi şekilde|B1
+servant|n|hizmetçi|B1
+sex|n|cinsiyet; cinsellik|B1
+sexual|adj|cinsel|B1
+shell|n|kabuk, deniz kabuğu|B1
+silent|adj|sessiz|B1
+similarly|adv|benzer şekilde|B1
+simply|adv|sadece; basitçe|B1
+slave|n|köle|B1
+software|n|yazılım|B1
+soil|n|toprak|B1
+southern|adj|güneydeki, güney ile ilgili|B1
+specifically|adv|özellikle, açıkça|B1
+spending|n|harcama|B1
+spoken|adj|konuşulan, sözlü|B1
+stadium|n|stadyum|B1
+stranger|n|yabancı (tanımadık kişi)|B1
+strongly|adv|güçlü bir şekilde, şiddetle|B1
+successfully|adv|başarıyla|B1
+sudden|adj|ani|B1
+summarize|v|özetlemek|B1
+supporter|n|taraftar, destekçi|B1
+surely|adv|kesinlikle, elbette|B1
+tail|n|kuyruk|B1
+tape|n|bant, kaset|B1
+tax|n|vergi|B1
+theirs|pron|onlarınki|B1
+though|conj|-e rağmen; yine de|B1
+throughout|prep|boyunca, her yerinde|B1
+tight|adj|sıkı, dar|B1
+till|prep|-e kadar|B1
+tire|n|lastik (araç); yorulmak|B1
+ton|n|ton|B1
+ugly|adj|çirkin|B1
+unable|adj|yapamayan, -emez|B1
+uncomfortable|adj|rahatsız, rahat olmayan|B1
+underwear|n|iç çamaşırı|B1
+union|n|birlik; sendika|B1
+used|adj|kullanılmış, ikinci el; alışkın (used to)|B1
+weigh|v|tartmak; ağırlığında olmak|B1
+whenever|conj|her ne zaman|B1
+within|prep|içinde, dahilinde|B1
+worldwide|adj|dünya çapında|B1
+written|adj|yazılı|B1
+actual|adj|gerçek, asıl|B2
+advance|n|ilerleme, gelişme; avans|B2
+afterward|adv|sonradan, daha sonra|B2
+agency|n|ajans; kurum|B2
+aircraft|n|uçak, hava aracı|B2
+anger|n|öfke|B2
+angle|n|açı|B2
+armed|adj|silahlı|B2
+arms|n|silahlar|B2
+artistic|adj|sanatsal|B2
+ashamed|adj|utanmış, mahcup|B2
+aside|adv|bir kenara|B2
+associated|adj|ilişkili, bağlantılı|B2
+attorney|n|avukat|B2
+bacteria|n|bakteri|B2
+basically|adv|temelde, aslında|B2
+beg|v|yalvarmak, dilenmek|B2
+being|n|varlık, varoluş|B2
+bent|adj|eğik, bükülmüş|B2
+bet|v|bahse girmek|B2
+beyond|prep|ötesinde|B2
+breast|n|göğüs|B2
+bunch|n|demet, salkım; grup|B2
+bush|n|çalı|B2
+calculate|v|hesaplamak|B2
+cancel|v|iptal etmek|B2
+cancer|n|kanser|B2
+closely|adv|yakından, dikkatle|B2
+commonly|adv|genellikle, yaygın olarak|B2
+congress|n|kongre|B2
+convinced|adj|ikna olmuş, emin|B2
+curve|n|eğri, viraj|B2
+curved|adj|kavisli, eğri|B2
+decorate|v|süslemek, dekore etmek|B2
+decoration|n|süsleme, dekorasyon|B2
+deeply|adv|derinden|B2
+depressing|adj|iç karartıcı|B2
+dishonest|adj|sahtekâr, dürüst olmayan|B2
+disk|n|disk|B2
+division|n|bölme; bölüm|B2
+downward|adv|aşağı doğru|B2
+dozen|n|düzine|B2
+drag|v|sürüklemek|B2
+edit|v|düzenlemek, kurgulamak|B2
+evil|adj|kötü, şeytani|B2
+examination|n|muayene; sınav; inceleme|B2
+excuse|n|bahane, mazeret|B2
+executive|n|yönetici|B2
+failure|n|başarısızlık|B2
+feedback|n|geri bildirim|B2
+finding|n|bulgu|B2
+flame|n|alev|B2
+flash|n|parıltı, flaş|B2
+folding|adj|katlanır|B2
+frequency|n|sıklık; frekans|B2
+goods|n|mallar, eşya|B2
+governor|n|vali|B2
+grab|v|kapmak, yakalamak|B2
+hearing|n|işitme; duruşma|B2
+heel|n|topuk|B2
+hollow|adj|içi boş, oyuk|B2
+holy|adj|kutsal|B2
+humorous|adj|esprili, komik|B2
+illustration|n|resim, örnekleme|B2
+impatient|adj|sabırsız|B2
+inch|n|inç (2,54 cm)|B2
+industrial|adj|endüstriyel, sanayi|B2
+inform|v|bilgilendirmek|B2
+institute|n|enstitü|B2
+intended|adj|amaçlanan, kasıtlı|B2
+joy|n|sevinç, neşe|B2
+junior|adj|kıdemsiz, alt düzey; küçük|B2
+lively|adj|canlı, hareketli|B2
+load|n|yük|B2
+loose|adj|gevşek, bol|B2
+lord|n|lord, efendi|B2
+lower|v|indirmek, düşürmek|B2
+lung|n|akciğer|B2
+matching|adj|uyumlu, eşleşen|B2
+means|n|araç, yol, yöntem|B2
+melt|v|erimek, eritmek|B2
+mixed|adj|karışık|B2
+mount|v|monte etmek; tırmanmak; artmak|B2
+multiply|v|çarpmak; çoğalmak|B2
+mysterious|adj|gizemli|B2
+nerve|n|sinir; cesaret|B2
+nightmare|n|kâbus|B2
+offend|v|gücendirmek|B2
+offensive|adj|saldırgan, kırıcı|B2
+opposed|adj|karşı, muhalif|B2
+organ|n|organ|B2
+outer|adj|dış|B2
+passage|n|geçit; pasaj, metin parçası|B2
+pointed|adj|sivri|B2
+popularity|n|popülerlik|B2
+praise|v|övmek|B2
+preparation|n|hazırlık|B2
+psychologist|n|psikolog|B2
+reasonable|adj|makul, mantıklı|B2
+reduction|n|azalma, indirim|B2
+regional|adj|bölgesel|B2
+relatively|adv|nispeten, görece|B2
+remark|n|yorum, söz|B2
+representative|n|temsilci|B2
+requirement|n|gereklilik, şart|B2
+root|n|kök|B2
+rub|v|ovmak, sürtmek|B2
+rubber|n|lastik, kauçuk|B2
+satellite|n|uydu|B2
+satisfied|adj|memnun, tatmin olmuş|B2
+satisfy|v|tatmin etmek, karşılamak|B2
+saving|n|tasarruf, birikim|B2
+scream|v|çığlık atmak|B2
+sector|n|sektör|B2
+selection|n|seçim; seçki|B2
+self|n|benlik, kişinin kendisi|B2
+senate|n|senato|B2
+senator|n|senatör|B2
+senior|adj|kıdemli, üst düzey|B2
+shallow|adj|sığ; yüzeysel|B2
+shock|n|şok, sarsıntı|B2
+shocked|adj|şoke olmuş|B2
+shooting|n|ateş etme; çekim|B2
+shot|n|atış; çekim; iğne|B2
+silk|n|ipek|B2
+sincere|adj|içten, samimi|B2
+slide|v|kaymak|B2
+slight|adj|hafif, ufak|B2
+slip|v|kaymak, sürçmek|B2
+slope|n|yokuş, eğim|B2
+solar|adj|güneş ile ilgili|B2
+somewhat|adv|biraz, bir ölçüde|B2
+soul|n|ruh|B2
+spiritual|adj|ruhani, manevi|B2
+split|v|bölmek, ayırmak|B2
+steel|n|çelik|B2
+steep|adj|dik, sarp|B2
+sticky|adj|yapışkan|B2
+stiff|adj|sert, katı; tutulmuş|B2
+stream|n|dere; akış|B2
+strike|v|vurmak; grev yapmak|B2
+submit|v|sunmak, teslim etmek|B2
+sum|n|toplam, meblağ|B2
+surrounding|adj|çevredeki|B2
+swear|v|yemin etmek; küfretmek|B2
+sweep|v|süpürmek|B2
+tone|n|ton, ses tonu|B2
+truly|adv|gerçekten, içtenlikle|B2
+trust|n|güven|B2
+tune|n|melodi, ezgi|B2
+tunnel|n|tünel|B2
+unconscious|adj|bilinçsiz, baygın|B2
+upward|adv|yukarı doğru|B2
+visual|adj|görsel|B2
+vitamin|n|vitamin|B2
+volume|n|hacim; cilt; ses düzeyi|B2
+weakness|n|zayıflık|B2
+wealthy|adj|varlıklı, zengin|B2
+whom|pron|kimi, kime|B2
+widely|adv|yaygın olarak, geniş çapta|B2
+wind|v|sarmak, (yol) dolanmak|B2
+wrap|v|sarmak, paketlemek|B2

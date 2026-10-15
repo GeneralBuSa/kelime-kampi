@@ -1,0 +1,290 @@
+# be|A1|The verb "to be"|"to be" fiili (am / is / are)
+> "Be" fiili Türkçedeki "-im, -sin, -dir" eklerinin karşılığıdır. Özneye göre değişir: I → am, he/she/it → is, you/we/they → are.
+> Olumsuz yapmak için arkasına "not" gelir (isn't, aren't). Soru yaparken fiil özneden önceye geçer: Are you tired?
+= I am · he/she/it is · you/we/they are
+= Olumsuz: I am not · he isn't · they aren't · Soru: Is she ...? / Are they ...?
+e She is a doctor. || O bir doktor.
+e We aren't at home. || Evde değiliz.
+e Are you ready? || Hazır mısın?
+? My parents ___ teachers.|are|is;am;be|"My parents" çoğul bir öznedir (they), bu yüzden "are" kullanılır.
+? I ___ very hungry right now.|am|is;are;be|"I" öznesi her zaman "am" alır.
+? ___ your brother at school today?|Is|Are;Am;Be|"your brother" tekil 3. şahıstır (he); soru cümlesinde "Is" başa gelir.
+? The weather ___ not cold today.|is|are;am;be|"The weather" tekildir (it) ve "is" alır.
+? Where ___ my keys?|are|is;am;be|"my keys" çoğul olduğu için "are" gerekir.
+
+# possessive|A1|Pronouns and possessive adjectives|Zamirler ve iyelik sıfatları
+> Özne zamirleri cümlenin öznesidir: I, you, he, she, it, we, they. Nesne zamirleri fiilden sonra gelir: me, you, him, her, it, us, them.
+> İyelik sıfatları ismin önüne gelir ve "benim, senin..." anlamı verir: my, your, his, her, its, our, their.
+= I → me → my · he → him → his · she → her → her · we → us → our · they → them → their
+e This is my book. || Bu benim kitabım.
+e Can you help me? || Bana yardım eder misin?
+e They love their dog. || Köpeklerini çok seviyorlar.
+? Ali is my friend. I see ___ every day.|him|he;his;her|Fiilden sonra nesne gerekir: he → him.
+? Ayşe and ___ sister live in Ankara.|her|she;hers;his|Ayşe kadın, kız kardeşinden bahsediliyor: "her sister" (onun kız kardeşi).
+? We like ___ new teacher very much.|our|us;we;ours|İsmin (teacher) önünde iyelik sıfatı gelir: our.
+? The cat is eating ___ food.|its|it's;it;their|Hayvanın/eşyanın sahipliği "its" ile anlatılır; "it's" = it is.
+? Please give ___ the pen.|me|I;my;mine|"give" fiilinden sonra nesne zamiri gelir: me.
+
+# present-simple|A1|Present simple|Geniş zaman (Present Simple)
+> Alışkanlıkları, rutinleri ve genel gerçekleri anlatır. "Her gün, genellikle" gibi durumlarda kullanılır.
+> He/she/it ile fiile -s/-es eklenir. Olumsuz ve soru cümlelerinde do/does yardımcı fiili kullanılır; does geldiğinde fiildeki -s düşer.
+= I/you/we/they work · he/she/it works
+= don't / doesn't + fiil · Do / Does + özne + fiil?
+e She drinks coffee every morning. || Her sabah kahve içer.
+e Water boils at 100 degrees. || Su 100 derecede kaynar.
+e Does he play football? || Futbol oynar mı?
+? My father ___ to work by bus.|goes|go;going;is go|Özne he (my father) olduğu için fiil -es alır: goes.
+? They ___ live in the city centre.|don't|doesn't;aren't;not|"They" ile olumsuz geniş zaman "don't" ile yapılır.
+? ___ your sister speak English?|Does|Do;Is;Are|"your sister" (she) için soru "Does" ile kurulur.
+? The sun ___ in the east.|rises|rise;is rise;rising|Genel gerçek, tekil özne: rises.
+? He doesn't ___ meat.|eat|eats;eating;ate|"doesn't" sonrası fiil yalın halde kalır: eat.
+
+# present-continuous|A1|Present continuous|Şimdiki zaman (Present Continuous)
+> Şu anda, konuşma anında devam eden eylemleri anlatır. "now, at the moment, look!" gibi ifadelerle sık görülür.
+> Yapı: am/is/are + fiil-ing.
+= Özne + am/is/are + fiil-ing
+e I am reading a book now. || Şu anda kitap okuyorum.
+e Look! It is raining. || Bak! Yağmur yağıyor.
+e What are you doing? || Ne yapıyorsun?
+? Be quiet! The baby ___.|is sleeping|sleeps;sleep;are sleeping|"Be quiet!" şu an olan bir durumu gösterir; tekil özne: is sleeping.
+? We ___ dinner at the moment.|are having|have;has;is having|"at the moment" şimdiki zaman ister; we → are having.
+? Listen! Someone ___ at the door.|is knocking|knocks;knock;are knocking|"Listen!" konuşma anını işaret eder.
+? What ___ you looking at?|are|is;do;does|Şimdiki zaman sorusu: are you looking.
+? She usually walks to school, but today she ___ the bus.|is taking|takes;take;took|"usually" geniş zaman, "today" ise şu anki farklı durum: is taking.
+
+# there-is|A1|There is / there are|There is / There are (var / yok)
+> Bir yerde bir şeyin var olduğunu söylemek için kullanılır. Tekil ve sayılamayan isimlerle "there is", çoğul isimlerle "there are" gelir.
+= There is + tekil · There are + çoğul · Is there ...? / Are there ...?
+e There is a bank near my house. || Evimin yakınında bir banka var.
+e There are two chairs in the room. || Odada iki sandalye var.
+? ___ a lot of people in the park today.|There are|There is;It is;They are|"people" çoğuldur: There are.
+? There ___ some milk in the fridge.|is|are;be;am|"milk" sayılamayan bir isimdir ve "is" alır.
+? ___ any shops near here?|Are there|Is there;There are;Is it|"shops" çoğul; soru: Are there...?
+? There ___ a cat under the table.|is|are;have;has|Tek bir kedi: There is.
+? There aren't ___ students in the classroom.|any|some;a;no|Olumsuz cümlede çoğul isimle "any" kullanılır.
+
+# can|A1|Can / can't (ability)|Can / can't (yetenek ve izin)
+> "Can" bir şeyi yapabilmeyi ya da izin istemeyi anlatır. Tüm öznelerle aynıdır ve arkasından fiil yalın halde gelir (to almaz).
+= Özne + can / can't + yalın fiil · Can + özne + fiil?
+e I can swim. || Yüzebilirim.
+e She can't drive. || O araba süremez.
+e Can I open the window? || Pencereyi açabilir miyim?
+? My brother can ___ three languages.|speak|speaks;to speak;speaking|"can" sonrası fiil yalın kalır: speak.
+? ___ you help me with my homework?|Can|Do;Are;Does|Rica/yardım istemek için "Can you...?"
+? Penguins ___ fly, but they can swim very well.|can't|can;don't can;aren't|Penguenler uçamaz: can't.
+? She can ___ the piano very well.|play|plays;to play;playing|Modal sonrası yalın fiil.
+? I'm sorry, I ___ come to your party on Saturday.|can't|can;don't;not can|Gelemeyeceğini söylüyor: can't.
+
+# past-simple-1|A1|Past simple (was/were and regular verbs)|Geçmiş zaman (was/were ve düzenli fiiller)
+> Geçmişte olup bitmiş eylemler için kullanılır: yesterday, last week, in 2010, ago.
+> "Be" fiilinin geçmişi was (I/he/she/it) ve were (you/we/they)'dir. Düzenli fiillere -ed eklenir. Olumsuz ve soruda "did" kullanılır, fiil yalın kalır.
+= was / were · fiil + -ed · didn't + fiil · Did + özne + fiil?
+e I was at home yesterday. || Dün evdeydim.
+e We watched a film last night. || Dün gece film izledik.
+e Did you call her? || Onu aradın mı?
+? They ___ in London last summer.|were|was;are;did|"They" ile geçmiş be fiili: were.
+? I ___ my grandmother last weekend.|visited|visit;visits;am visiting|"last weekend" geçmiş zaman ister: visited.
+? ___ you finish your homework yesterday?|Did|Do;Were;Was|Geçmiş zaman sorusu "Did" ile kurulur.
+? She didn't ___ the email.|answer|answered;answers;answering|"didn't" sonrası fiil yalın: answer.
+? The film ___ very interesting.|was|were;is being;did|Tekil özne, geçmiş: was.
+
+# prepositions-time|A1|Prepositions of time and place|Zaman ve yer edatları (in / on / at)
+> Zaman: at + saat (at 5 o'clock), on + gün/tarih (on Monday, on 3 May), in + ay/yıl/mevsim/gün bölümü (in July, in 2020, in the morning).
+> Yer: in + kapalı alan/şehir/ülke, on + yüzey/cadde, at + belirli nokta (at the bus stop, at school).
+= at 7 pm · on Friday · in April · in the box · on the wall · at the door
+e The meeting is on Tuesday at 10. || Toplantı salı günü saat 10'da.
+e I was born in 1999. || 1999'da doğdum.
+? The lesson starts ___ nine o'clock.|at|in;on;by|Saatlerden önce "at" kullanılır.
+? My birthday is ___ June.|in|on;at;to|Aylardan önce "in" gelir.
+? We have English ___ Mondays.|on|in;at;by|Günlerden önce "on" kullanılır.
+? There is a picture ___ the wall.|on|in;at;under|Duvar bir yüzeydir: on the wall.
+? I usually study ___ the evening.|in|on;at;by|"in the morning/afternoon/evening" kalıbı. (Ama: at night)
+
+# past-simple-2|A2|Past simple: irregular verbs and questions|Geçmiş zaman: düzensiz fiiller ve soru kalıpları
+> Pek çok sık kullanılan fiil düzensizdir ve -ed almaz: go → went, see → saw, buy → bought, take → took, write → wrote.
+> Olumsuz ve soru cümlelerinde "did" geldiği için fiil yine yalın hale döner: Did you see? / I didn't go.
+= went · saw · bought · took · came · made · had · gave
+e We went to Izmir last year. || Geçen yıl İzmir'e gittik.
+e What did you buy? || Ne satın aldın?
+? I ___ a great film at the cinema yesterday.|saw|seed;see;seen|"see" düzensizdir; geçmiş hali "saw".
+? She ___ a new phone last week.|bought|buyed;buys;has bought|"buy → bought"; "last week" geçmiş zaman ister.
+? Where did you ___ on holiday?|go|went;going;gone|"did" sonrası yalın fiil: go.
+? He ___ me a nice present for my birthday.|gave|gived;give;given|"give → gave".
+? We didn't ___ time to visit the museum.|have|had;has;having|"didn't" sonrası yalın: have.
+
+# past-continuous|A2|Past continuous|Geçmişte süregelen zaman (Past Continuous)
+> Geçmişte belirli bir anda devam etmekte olan eylemi anlatır. Çoğunlukla past simple ile birlikte, uzun süren eylemin kısa bir eylemle bölündüğünü göstermek için kullanılır.
+> "while" genellikle past continuous ile, "when" genellikle past simple ile gelir.
+= was / were + fiil-ing
+e I was cooking when the phone rang. || Telefon çaldığında yemek pişiriyordum.
+e While we were walking, it started to rain. || Biz yürürken yağmur başladı.
+? At 8 pm yesterday, I ___ TV.|was watching|watched;am watching;were watching|Geçmişte belirli bir anda devam eden eylem: was watching.
+? She was reading when the lights ___ out.|went|were going;go;was going|Uzun eylemi bölen kısa olay past simple: went.
+? While they ___ football, it began to snow.|were playing|played;was playing;are playing|"While" + past continuous; they → were.
+? What ___ you doing at midnight?|were|was;did;are|"you" için past continuous: were you doing.
+? I ___ when I heard a strange noise.|was sleeping|slept;am sleeping;sleep|Ses duyulduğunda devam eden eylem: was sleeping.
+
+# present-perfect-1|A2|Present perfect (ever, never, just, already, yet)|Present Perfect (ever / never / just / already / yet)
+> Geçmişte başlayıp etkisi şimdiye uzanan ya da zamanı belirtilmeyen deneyimleri anlatır. Kesin geçmiş zaman ifadesi (yesterday, in 2010) ile kullanılmaz.
+> ever (hiç), never (asla/hiç), just (az önce), already (çoktan), yet (henüz; olumsuz ve soru cümlelerinde, cümle sonunda).
+= have / has + V3 (past participle)
+e Have you ever been to Paris? || Hiç Paris'e gittin mi?
+e I have just finished my homework. || Ödevimi az önce bitirdim.
+e She hasn't called yet. || Henüz aramadı.
+? I ___ never eaten sushi.|have|has;am;did|"I" ile present perfect: have + V3.
+? Has she finished her report ___?|yet|already;ever;just|Soru cümlesinin sonunda "yet" (henüz) kullanılır.
+? We have ___ seen this film. Let's watch something else.|already|yet;ever;since|"çoktan izledik" anlamı: already.
+? ___ you ever ridden a horse?|Have|Did;Do;Has|"ever" ile deneyim sorusu: Have you ever...?
+? He ___ his keys, so he can't open the door.|has lost|lost;loses;have lost|Geçmişteki olayın şimdiye etkisi var: has lost.
+
+# future|A2|Future: will and be going to|Gelecek zaman: will ve be going to
+> "be going to": önceden yapılmış planlar ve şu anki işaretlere dayanan tahminler (Look at those clouds! It's going to rain.)
+> "will": konuşma anında verilen kararlar, sözler, teklifler ve genel tahminler (I think...). Arkasından yalın fiil gelir.
+= will + fiil · am/is/are going to + fiil
+e I'm going to visit my aunt next week. || Gelecek hafta teyzemi ziyaret edeceğim (planlı).
+e I'm tired. I'll go to bed. || Yorgunum, yatacağım (anlık karar).
+? Look at those dark clouds! It ___ rain.|is going to|will be;goes to;is going|Şu anki işarete dayanan tahmin: is going to.
+? "The phone is ringing." "OK, I ___ answer it."|will|am going to;going to;answer|Konuşma anında verilen karar: will.
+? We have bought the tickets. We ___ fly to Rome on Friday.|are going to|will to;go;are go|Önceden yapılmış plan: are going to.
+? I think Turkey ___ win the match.|will|is;are going;wins to|"I think" ile genel tahmin: will.
+? I promise I ___ tell anyone your secret.|won't|don't;am not;not will|Söz verirken "will/won't" kullanılır.
+
+# comparatives|A2|Comparatives and superlatives|Karşılaştırma ve üstünlük sıfatları
+> Kısa sıfatlar -er / -est alır (cheap → cheaper → the cheapest). Uzun sıfatlar more / the most alır (expensive → more expensive → the most expensive).
+> Düzensizler: good → better → the best · bad → worse → the worst · far → further → the furthest. Karşılaştırmada "than" kullanılır.
+= sıfat-er + than · more + sıfat + than · the + sıfat-est · the most + sıfat
+e My car is faster than yours. || Arabam seninkinden daha hızlı.
+e This is the most beautiful city in the world. || Burası dünyanın en güzel şehri.
+? Ankara is ___ than Istanbul in winter.|colder|more cold;coldest;the colder|Kısa sıfat: cold → colder + than.
+? This is ___ book I have ever read.|the best|the better;the goodest;best than|"good" düzensiz; üstünlük: the best.
+? A Ferrari is ___ than a Fiat.|more expensive|expensiver;most expensive;the more expensive|Uzun sıfat: more expensive.
+? Today is ___ day of the year.|the hottest|the hotest;hotter;the most hot|"hot" → hottest (sessiz harf ikizlenir).
+? My English is ___ than last year.|better|gooder;best;more good|good → better.
+
+# quantifiers|A2|Countable/uncountable: some, any, much, many|Sayılabilen/sayılamayan isimler: some, any, much, many
+> Sayılabilen isimler çoğul olabilir (apples); sayılamayanlar olamaz (water, information, advice).
+> many → sayılabilen çoğul · much → sayılamayan · some → olumlu cümle · any → olumsuz ve soru · a lot of → her ikisi.
+= How many + çoğul? · How much + sayılamayan?
+e How much water do you drink? || Ne kadar su içersin?
+e There aren't many students here. || Burada çok öğrenci yok.
+? How ___ sugar do you want in your tea?|much|many;lot;few|"sugar" sayılamaz: How much.
+? There aren't ___ eggs in the fridge.|any|some;much;a|Olumsuz cümle, çoğul sayılabilen: any.
+? I don't have ___ money with me.|much|many;a few;few|"money" sayılamaz: much.
+? How ___ people came to the party?|many|much;lot;little|"people" sayılabilen çoğul: many.
+? Could I have ___ advice, please?|some|any;a;many|"advice" sayılamaz; rica cümlesinde "some" kullanılır.
+
+# obligation|A2|Must, have to, should|Zorunluluk ve tavsiye: must, have to, should
+> must: konuşanın hissettiği güçlü zorunluluk veya kural. have to: dış koşullardan gelen zorunluluk. should: tavsiye.
+> Dikkat: mustn't = yasak (yapmamalısın) ama don't have to = gerek yok (zorunda değilsin).
+= must / should + yalın fiil · have to / has to + yalın fiil
+e You must wear a seat belt. || Emniyet kemeri takmalısın.
+e You don't have to come. || Gelmek zorunda değilsin.
+e You should see a doctor. || Doktora görünmelisin.
+? You look ill. You ___ see a doctor.|should|mustn't;don't have to;shouldn't|Tavsiye: should.
+? Students ___ use their phones during the exam. It's forbidden.|mustn't|don't have to;should;must|Yasak: mustn't.
+? Tomorrow is Sunday, so I ___ get up early.|don't have to|mustn't;have to;must|Zorunluluk yok: don't have to.
+? She ___ work on Saturdays because the shop is open.|has to|have to;must to;should to|Dış zorunluluk; she → has to.
+? You ___ smoke in the hospital.|mustn't|don't have to;needn't;should|Hastanede sigara içmek yasak: mustn't.
+
+# gerund-infinitive-1|A2|Verb + -ing or to + verb|Fiil + -ing ya da to + fiil
+> Bazı fiillerden sonra -ing gelir: enjoy, like, love, hate, finish, mind, avoid. Bazılarından sonra to + fiil gelir: want, decide, hope, plan, need, would like.
+= enjoy doing · finish doing · want to do · decide to do
+e I enjoy reading novels. || Roman okumaktan hoşlanırım.
+e She decided to study medicine. || Tıp okumaya karar verdi.
+? I really enjoy ___ in the sea.|swimming|to swim;swim;swam|"enjoy" sonrası -ing gelir.
+? We want ___ a new car next year.|to buy|buying;buy;bought|"want" sonrası to + fiil gelir.
+? Have you finished ___ the report?|writing|to write;write;wrote|"finish" sonrası -ing gelir.
+? They decided ___ the party until next week.|to postpone|postponing;postpone;postponed|"decide" sonrası to + fiil.
+? Would you mind ___ the window?|opening|to open;open;opened|"mind" sonrası -ing gelir.
+
+# pp-vs-ps|B1|Present perfect vs past simple; for and since|Present Perfect mi, Past Simple mı? For ve since
+> Kesin geçmiş zaman belirtiliyorsa (yesterday, in 2019, ago, last year) past simple kullanılır. Süre şimdiye kadar devam ediyorsa ya da zaman belirtilmiyorsa present perfect kullanılır.
+> for + süre (for three years), since + başlangıç noktası (since 2019, since Monday).
+= I have lived here for ten years. · I have lived here since 2015.
+e I moved here in 2015. || 2015'te buraya taşındım (bitmiş olay, kesin zaman).
+e I have lived here since 2015. || 2015'ten beri burada yaşıyorum (hâlâ devam ediyor).
+? I ___ this company in 2018.|joined|have joined;was joining;have been joining|"in 2018" kesin geçmiş zaman: past simple.
+? She has worked as a nurse ___ fifteen years.|for|since;during;ago|Süre bildiren ifade: for.
+? We have known each other ___ we were children.|since|for;ago;from|Başlangıç noktası: since.
+? How long ___ you had this car?|have|did;are;do|Şimdiye kadar süren durum: How long have you had...?
+? I ___ him two days ago.|saw|have seen;had seen;see|"ago" past simple ister.
+
+# pp-continuous|B1|Present perfect continuous|Present Perfect Continuous
+> Geçmişte başlayıp hâlâ devam eden ya da az önce bitip etkisi görülen, süreç vurgulu eylemleri anlatır. Genellikle "for, since, how long, all day" ile kullanılır.
+= have / has been + fiil-ing
+e I have been waiting for an hour. || Bir saattir bekliyorum.
+e Your eyes are red. Have you been crying? || Gözlerin kırmızı. Ağlıyor muydun?
+? She ___ English for three years and she is still learning.|has been studying|studied;is studying;had studied|Geçmişte başlayıp devam eden süreç: has been studying.
+? I'm tired because I ___ all day.|have been working|worked;am working;work|Etkisi şu an görülen süreç: have been working.
+? How long ___ you been living in Izmir?|have|did;are;were|"How long have you been + -ing" kalıbı.
+? It ___ since this morning, and the streets are wet.|has been raining|rained;is raining;rains|"since this morning" + süreç: has been raining.
+? They have been ___ for this exam for months.|preparing|prepared;prepare;to prepare|"have been" sonrası fiil -ing alır.
+
+# conditionals-1|B1|First and second conditionals|Koşul cümleleri: 1. ve 2. tip
+> 1. tip: gerçek/olası gelecek koşul. If + present simple, will + fiil.
+> 2. tip: şimdiki zaman için hayali/olası olmayan durum. If + past simple, would + fiil. "be" fiili tüm öznelerle "were" olabilir (If I were you...).
+= If + present, will + V1 · If + past, would + V1
+e If it rains, we will stay at home. || Yağmur yağarsa evde kalacağız.
+e If I had more time, I would learn Spanish. || Daha çok zamanım olsaydı İspanyolca öğrenirdim.
+? If you heat ice, it ___.|melts|melted;would melt;will melted|Genel gerçek (0. tip): If + present, present.
+? If it ___ tomorrow, we will cancel the picnic.|rains|will rain;rained;would rain|1. tip: if cümlesinde will kullanılmaz, present simple gelir.
+? If I ___ you, I would accept the job.|were|am;will be;had been|Tavsiye kalıbı: If I were you.
+? If I won the lottery, I ___ a big house.|would buy|will buy;bought;buy|2. tip: would + fiil.
+? If she studies hard, she ___ the exam.|will pass|would pass;passed;passes|1. tip: will + fiil.
+
+# passive-1|B1|The passive (present and past)|Edilgen yapı (Passive): geniş ve geçmiş zaman
+> Eylemi kimin yaptığı önemsiz ya da bilinmiyorsa, eylemden etkilenen nesne cümlenin başına alınır. Yapan kişi gerekirse "by" ile belirtilir.
+= am/is/are + V3 (geniş zaman) · was/were + V3 (geçmiş zaman)
+e English is spoken all over the world. || İngilizce tüm dünyada konuşulur.
+e The bridge was built in 1973. || Köprü 1973'te inşa edildi.
+? Coffee ___ in Brazil.|is grown|grows;is growing;grown|Edilgen geniş zaman: is grown.
+? This novel ___ by Orhan Pamuk.|was written|wrote;is writing;has written|Edilgen geçmiş zaman: was written.
+? The windows ___ every week.|are cleaned|clean;cleaned;are cleaning|Çoğul özne, edilgen: are cleaned.
+? My bike ___ last night.|was stolen|stole;was stealing;is stolen|Dün gece çalındı: was stolen.
+? Millions of emails ___ every day.|are sent|send;sent;are sending|Edilgen geniş zaman, çoğul: are sent.
+
+# relative-1|B1|Relative clauses (who, which, that, where, whose)|İlgi cümleleri (who / which / that / where / whose)
+> İsmi tanımlayan yan cümlelerdir. who → insanlar, which → nesneler/hayvanlar, that → ikisi için de (tanımlayıcı cümlelerde), where → yerler, whose → sahiplik.
+= the man who ... · the book which/that ... · the town where ... · the girl whose father ...
+e The woman who lives next door is a doctor. || Yan dairede oturan kadın doktor.
+e This is the house where I was born. || Burası doğduğum ev.
+? The man ___ helped me was very kind.|who|which;where;whose|İnsan için ilgi zamiri: who.
+? This is the hotel ___ we stayed last year.|where|which;who;whose|Yer bildirir ve arkasında tam bir cümle var: where.
+? I lost the watch ___ my father gave me.|that|who;where;whose|Nesne için: that/which.
+? That's the boy ___ mother is a famous singer.|whose|who;who's;which|Sahiplik ("annesi"): whose.
+? The film ___ we saw yesterday was boring.|which|who;where;whom|Nesne (film) için: which.
+
+# reported-1|B1|Reported speech (statements)|Dolaylı anlatım (cümleler)
+> Birinin söylediğini aktarırken, aktarma fiili geçmişteyse (said, told) zaman bir derece geriye kayar: am → was, will → would, can → could, present simple → past simple, past simple → past perfect.
+> "say" nesne almaz (said that), "tell" kişi nesnesi alır (told me that).
+= "I am tired." → She said (that) she was tired.
+e He said he would call me. || Beni arayacağını söyledi.
+e She told me she couldn't come. || Bana gelemeyeceğini söyledi.
+? "I am busy," he said. → He said that he ___ busy.|was|is;has been;will be|Zaman bir derece geriye kayar: am → was.
+? "I will help you," she said. → She said she ___ help me.|would|will;can;shall|will → would.
+? She ___ me that she was leaving.|told|said;spoke;talked|Kişi nesnesi varsa "told me" kullanılır.
+? "I can swim," Ali said. → Ali said he ___ swim.|could|can;may;would can|can → could.
+? He ___ that he was tired.|said|told;told to;spoke|Kişi nesnesi yoksa "said (that)".
+
+# used-to|B1|Used to and would (past habits)|Used to ve would (geçmiş alışkanlıklar)
+> "used to + fiil" geçmişte olan ama artık olmayan alışkanlık ve durumları anlatır. "would" yalnızca tekrarlanan eylemler için kullanılır, durumlar için kullanılmaz.
+> Karıştırma: "be used to + -ing" = bir şeye alışkın olmak. "get used to + -ing" = alışmak.
+= used to + V1 · didn't use to + V1 · be/get used to + V-ing
+e I used to live in Bursa. || Eskiden Bursa'da yaşardım.
+e I'm used to getting up early. || Erken kalkmaya alışkınım.
+? When I was a child, I ___ play in the street every day.|used to|use to;was used to;am used to|Geçmiş alışkanlık: used to + V1.
+? She didn't ___ like vegetables, but now she loves them.|use to|used to;using to;uses to|Olumsuz: didn't use to.
+? I'm used to ___ in a noisy city.|living|live;lived;to living|"be used to" sonrası -ing gelir.
+? It took me months to get used to ___ on the left.|driving|drive;drove;to drive|"get used to" sonrası -ing.
+? There ___ be a cinema here, but now it's a supermarket.|used to|would;was used to;uses to|Geçmişteki durum: used to (would durumlar için kullanılmaz).
+
+# deduction-1|B1|Modals of deduction (present)|Çıkarım kipleri (şimdiki zaman): must, might, can't
+> must: neredeyse eminim (olumlu). can't: kesinlikle olamaz. might / may / could: olabilir, emin değilim.
+= must / might / may / could / can't + V1 (ya da be + -ing)
+e She has been working all day. She must be tired. || Bütün gün çalıştı, yorgun olmalı.
+e That can't be true! || Bu doğru olamaz!
+? He has three cars and a big house. He ___ be rich.|must|can't;mustn't;shouldn't|Kanıtlara dayanan güçlü çıkarım: must.
+? That ___ be Ahmet. He is in London this week.|can't|must;should;has to|İmkânsız olduğunu düşünüyoruz: can't.
+? I'm not sure where she is. She ___ be at the library.|might|must;can't;has to|Emin olmayan olasılık: might.
+? You haven't eaten anything all day. You ___ be hungry.|must|can't;might not;mustn't|Güçlü çıkarım: must.
+? Take an umbrella. It ___ rain later.|may|must;can't;mustn't|Olasılık: may.

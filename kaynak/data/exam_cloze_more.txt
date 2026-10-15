@@ -1,0 +1,341 @@
+## c7|cloze|B2|Sağlık
+P: Public hospitals in many countries struggle with long waiting lists. One reason is that ageing populations need more care, (1)___ the number of trained nurses has not grown at the same speed. Some governments have tried (2)___ private clinics to take routine operations, hoping this will free beds for emergency cases. Critics argue that the policy (3)___ patients who can pay from those who cannot. (4)___ the debate, most health economists agree on one practical step: retaining experienced staff by improving working conditions. Without that, new buildings (5)___ little, because there will be nobody to run them.
+Q: (1)
+A: whereas
+X: because
+X: so that
+X: unless
+X: despite
+W: Yaşlanan nüfus daha çok bakım isterken hemşire sayısı aynı hızda artmamış: zıtlık, whereas.
+Q: (2)
+A: to persuade
+X: persuading
+X: persuade
+X: persuaded
+X: to persuading
+W: "try to + V1" (girişim): tried to persuade.
+Q: (3)
+A: separates
+X: separating
+X: to separate
+X: separated
+X: separate
+W: "argue that" sonrası şimdiki zaman: separates.
+Q: (4)
+A: Despite
+X: Although
+X: Because
+X: Whereas
+X: So that
+W: "Despite the debate" + isim öbeği.
+Q: (5)
+A: will achieve
+X: would have achieved
+X: had achieved
+X: achieving
+X: to achieve
+W: Şart gerçekleşmezse sonuç gelecek zamanda: will achieve little.
+
+## c8|cloze|C1|Sosyal bilimler
+P: Social trust is difficult (1)___ measure, yet surveys that ask whether "most people can be trusted" produce strikingly stable national differences. Countries with higher scores tend to have lower corruption and more efficient public services, (2)___ it is hard to say which is the cause and which is the effect. Some researchers claim that equal education systems build trust, (3)___ others point to a long history of independent courts. What almost everyone accepts is that trust, (4)___ lost, is slow to return. A scandal that lasts a few months can damage institutions (5)___ took decades to construct.
+Q: (1)
+A: to
+X: for
+X: in
+X: at
+X: by
+W: "difficult to measure".
+Q: (2)
+A: although
+X: because
+X: so that
+X: despite
+X: unless
+W: Korelasyon var ama nedensellik belirsiz: although.
+Q: (3)
+A: while
+X: during
+X: because of
+X: despite
+X: so
+W: İki görüşü karşılaştırma: while.
+Q: (4)
+A: once
+X: until
+X: unless
+X: during
+X: without
+W: "once lost" = bir kez kaybedildi mi.
+Q: (5)
+A: that
+X: who
+X: where
+X: what
+X: whose
+W: "institutions that took decades..."
+
+## c9|cloze|B2|Fen
+P: A comet is a small icy body that (1)___ a glowing tail when it comes close to the Sun. For centuries, people treated unexpected comets as omens of disaster. Modern astronomy offers a less dramatic explanation: sunlight and the solar wind strip gas and dust from the ice, (2)___ the tail that can stretch millions of kilometres. Most comets remain (3)___ the outer solar system and never threaten Earth. A few, however, follow orbits that bring them nearer, which is (4)___ space agencies track them. The goal is not to spread panic but (5)___ have years of warning if a large object is ever found on a collision course.
+Q: (1)
+A: develops
+X: develop
+X: developing
+X: to develop
+X: developed
+W: "that" sonrası tekil özne (a comet): develops.
+Q: (2)
+A: forming
+X: formed
+X: to forming
+X: forms
+X: form
+W: Fiilin sonucu, aynı anda olan süreç: forming the tail.
+Q: (3)
+A: in
+X: at
+X: on
+X: by
+X: for
+W: "in the outer solar system".
+Q: (4)
+A: why
+X: what
+X: which
+X: how
+X: where
+W: "which is why" = bu yüzden.
+Q: (5)
+A: to
+X: for
+X: in
+X: at
+X: of
+W: "the goal is to have..."
+
+## c10|cloze|C1|Çevre
+P: Coral reefs occupy a tiny fraction of the ocean floor, (1)___ they support an extraordinary share of marine species. Rising sea temperatures cause corals to expel the algae that feed them, a process known as bleaching. If the stress lasts too long, the coral dies and the reef (2)___ a structure with far fewer fish. Some scientists have proposed shading reefs or breeding heat-resistant corals, ideas that remain (3)___ experimental. (4)___ such local efforts may buy time, they cannot replace cuts in greenhouse-gas emissions. Reefs that have survived for millennia could (5)___ within a century if warming continues at the present rate.
+Q: (1)
+A: yet
+X: so
+X: because
+X: unless
+X: until
+W: Küçük alan ama büyük çeşitlilik: yet.
+Q: (2)
+A: becomes
+X: become
+X: becoming
+X: to become
+X: became
+W: "the reef becomes..."
+Q: (3)
+A: largely
+X: large
+X: larger
+X: largest
+X: enlarge
+W: "remain largely experimental".
+Q: (4)
+A: Although
+X: Despite
+X: Because of
+X: Whereas
+X: So that
+W: Although + tam cümle gelir; Despite isim ister.
+Q: (5)
+A: collapse
+X: collapses
+X: collapsing
+X: to collapse
+X: collapsed
+W: "could collapse" modal + V1.
+
+## c11|cloze|B2|Eğitim
+P: Learning a second language in adulthood is harder than in childhood, but it is far from impossible. Adults bring knowledge of their first language, (1)___ can both help and interfere. Similar grammar may speed progress, (2)___ false friends — words that look alike but differ in meaning — cause frequent mistakes. Regular, short practice (3)___ to work better than rare, exhausting sessions. Learners who use the language to do something they care about, (4)___ as cooking from a recipe or following a sport, usually stay motivated longer. Examinations have their place, (5)___ they should not be the only reason for study.
+Q: (1)
+A: which
+X: who
+X: where
+X: what
+X: whose
+W: Dil bilgisi (şey) için which.
+Q: (2)
+A: whereas
+X: because
+X: so that
+X: despite
+X: unless
+W: Yardım eden benzerlik vs zarar veren false friends: whereas.
+Q: (3)
+A: tends
+X: tend
+X: tending
+X: to tend
+X: tended
+W: "Regular practice tends to..."
+Q: (4)
+A: such
+X: so
+X: like as
+X: for
+X: as well
+W: Örnekleme kalıbı: such as cooking...
+Q: (5)
+A: but
+X: because
+X: so
+X: despite
+X: unless
+W: Sınavların yeri var ama tek neden olmamalı: but.
+
+## c12|cloze|C1|Ekonomi
+P: Inflation measures how quickly prices, on average, are rising. A little inflation is often regarded (1)___ healthy, because it encourages people to spend rather than to keep cash idle. High inflation, (2)___, destroys planning: wages lag behind prices and savings lose their value. Central banks usually aim at a low, stable rate, (3)___ they do not always succeed when shocks such as wars or pandemics disrupt supply. Price controls are a tempting political response, (4)___ they often create shortages if producers cannot cover their costs. The slower, less popular route is to restore the balance between demand and supply (5)___ the shortages began.
+Q: (1)
+A: as
+X: like
+X: for
+X: to
+X: by
+W: "regarded as healthy".
+Q: (2)
+A: however
+X: therefore
+X: likewise
+X: otherwise
+X: meanwhile
+W: Düşük enflasyon sağlıklı, yüksek enflasyon yıkıcı: however.
+Q: (3)
+A: though
+X: despite
+X: because of
+X: so that
+X: during
+W: though they do not always succeed.
+Q: (4)
+A: yet
+X: so
+X: because
+X: unless
+X: until
+W: Cazip ama kıtlık yaratabilir: yet.
+Q: (5)
+A: where
+X: who
+X: which
+X: what
+X: whose
+W: "the balance ... where the shortages began".
+
+## c13|cloze|B2|Tarih
+P: Until the mid-twentieth century, many cities treated rivers as convenient sewers. Factories poured waste into the water, and fish (1)___ from stretches that had once been rich. Clean-air and clean-water laws later forced industry (2)___ filters and to pay fines for illegal dumping. Recovery was uneven: some rivers now support birds and boats again, (3)___ others remain polluted by farms that lie outside the old rules. Historians note that the improvement did not come from a single invention (4)___ from political pressure by citizens who could smell the problem. Environmental quality, in other words, is as much a legal achievement (5)___ a scientific one.
+Q: (1)
+A: disappeared
+X: disappearing
+X: to disappear
+X: disappear
+X: had disappear
+W: Geçmiş anlatı: fish disappeared.
+Q: (2)
+A: to install
+X: installing
+X: install
+X: installed
+X: to installing
+W: "forced industry to install".
+Q: (3)
+A: while
+X: during
+X: despite
+X: unless
+X: so that
+W: Some ... while others...
+Q: (4)
+A: but
+X: and
+X: or
+X: so
+X: for
+W: "not from A but from B".
+Q: (5)
+A: as
+X: than
+X: then
+X: like
+X: so
+W: "as much a legal achievement as a scientific one" eşit karşılaştırma.
+
+## c14|cloze|C1|Psikoloji
+P: Habits are actions that have become automatic through repetition. The brain saves effort by turning frequent sequences into routines, (1)___ is useful when the routine is brushing your teeth and harmful when it is checking a phone every few minutes. Research suggests that habits are triggered more by context — a time of day, a room, a mood — (2)___ by a conscious decision. This is why people who change their environment often find it easier (3)___ a habit than those who rely on willpower alone. None of this means that intention is worthless. A clear plan for (4)___ to do when the old cue appears still helps. The practical lesson is to design surroundings that make the desired action the path (5)___ least resistance.
+Q: (1)
+A: which
+X: who
+X: where
+X: what
+X: whose
+W: Önceki cümlenin tamamı: which is useful...
+Q: (2)
+A: than
+X: then
+X: as
+X: that
+X: of
+W: "more by context than by..."
+Q: (3)
+A: to break
+X: breaking
+X: break
+X: broken
+X: to breaking
+W: "easier to break a habit".
+Q: (4)
+A: what
+X: which
+X: that
+X: how
+X: whether
+W: "a clear plan for what to do".
+Q: (5)
+A: of
+X: for
+X: at
+X: on
+X: in
+W: "the path of least resistance".
+
+## c15|cloze|B2|Teknoloji
+P: Digital maps have made it ordinary to find a street in a city one has never visited. The same tools, (1)___, can also weaken the memory of routes. Studies of drivers who always follow a screen show that they later (2)___ fewer landmarks than those who used a paper map. This does not mean that digital maps should be abandoned; they save time and help people (3)___ reduced mobility. It does mean that schools might still teach basic map reading, (4)___ that a dead battery or a missing signal will not leave a student helpless. Technology works best (5)___ it adds to a skill rather than silently replacing it.
+Q: (1)
+A: however
+X: therefore
+X: likewise
+X: otherwise
+X: meanwhile
+W: Kolaylık vs bellek zayıflaması: however.
+Q: (2)
+A: recall
+X: recalls
+X: recalling
+X: to recall
+X: recalled
+W: "they later recall" (show that + present).
+Q: (3)
+A: with
+X: of
+X: at
+X: by
+X: from
+W: "people with reduced mobility".
+Q: (4)
+A: so
+X: because
+X: despite
+X: unless
+X: although
+W: Amaç sonucu: so that...
+Q: (5)
+A: when
+X: during
+X: despite
+X: unless
+X: until
+W: "works best when it adds..."

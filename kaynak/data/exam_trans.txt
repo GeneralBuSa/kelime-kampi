@@ -1,0 +1,179 @@
+## t1|en_tr|B2
+Q: Although renewable energy sources have become cheaper in recent years, many countries still rely heavily on fossil fuels.
+A: Yenilenebilir enerji kaynakları son yıllarda daha ucuz hale gelmiş olsa da birçok ülke hâlâ büyük ölçüde fosil yakıtlara bağımlıdır.
+X: Yenilenebilir enerji kaynakları son yıllarda ucuzladığı için birçok ülke artık fosil yakıtlara daha az bağımlıdır.
+X: Birçok ülke fosil yakıtlara bağımlı olduğundan yenilenebilir enerji kaynakları son yıllarda pahalılaşmıştır.
+X: Son yıllarda birçok ülke, yenilenebilir enerji kaynaklarını fosil yakıtlardan daha ucuz hale getirmiştir.
+X: Yenilenebilir enerji kaynakları ucuzlasaydı birçok ülke fosil yakıtlara bu kadar bağımlı olmazdı.
+W: "Although" = -se de / -mesine rağmen; "still rely heavily on" = hâlâ büyük ölçüde bağımlı. Diğer şıklar anlam ilişkisini (zıtlık) bozuyor.
+
+## t2|en_tr|B2
+Q: The researchers found that children who read regularly perform better in all school subjects, not just in language classes.
+A: Araştırmacılar, düzenli okuyan çocukların sadece dil derslerinde değil tüm okul derslerinde daha başarılı olduğunu buldu.
+X: Araştırmacılar, düzenli okuyan çocukların özellikle dil derslerinde başarılı olduğunu buldu.
+X: Araştırmacılara göre çocuklar, dil derslerinde başarılı olmak için düzenli okumalıdır.
+X: Araştırmacılar, tüm okul derslerinde başarılı olan çocukların düzenli kitap okumadığını buldu.
+X: Araştırmacılar, dil dersleri dışında okumanın çocukların başarısını etkilemediğini buldu.
+W: "not just in language classes" = sadece dil derslerinde değil; "perform better in all school subjects" = tüm derslerde daha başarılı.
+
+## t3|en_tr|C1
+Q: Had the warning signs been taken seriously, the crisis could have been prevented.
+A: Uyarı işaretleri ciddiye alınmış olsaydı kriz önlenebilirdi.
+X: Uyarı işaretleri ciddiye alındığı için kriz önlenebildi.
+X: Kriz önlenemediği için uyarı işaretleri ciddiye alınmadı.
+X: Uyarı işaretleri ciddiye alınırsa kriz önlenebilir.
+X: Uyarı işaretleri ciddiye alınmasına rağmen kriz önlenemedi.
+W: Devrik 3. tip koşul: geçmişte olmamış bir durum. "-miş olsaydı ... -ebilirdi".
+
+## t4|en_tr|B2
+Q: It is estimated that nearly half of the world's population lives in areas where clean water is scarce.
+A: Dünya nüfusunun yaklaşık yarısının temiz suyun kıt olduğu bölgelerde yaşadığı tahmin edilmektedir.
+X: Dünya nüfusunun yarısından fazlası temiz suya kolayca ulaşabilmektedir.
+X: Temiz suyun kıt olduğu bölgelerde yaşayan insanların sayısının yarıya indiği tahmin edilmektedir.
+X: Dünya nüfusunun neredeyse yarısının temiz su kaynakları yakınında yaşadığı bilinmektedir.
+X: Temiz su kıtlığı nedeniyle dünya nüfusunun yarısının göç ettiği tahmin edilmektedir.
+W: "It is estimated that" = tahmin edilmektedir; "nearly half" = yaklaşık yarısı; "scarce" = kıt.
+
+## t5|en_tr|B1
+Q: Unless you book your tickets in advance, you may not find a seat on the train.
+A: Biletlerini önceden ayırtmazsan trende yer bulamayabilirsin.
+X: Biletlerini önceden ayırttığın için trende yer bulabilirsin.
+X: Trende yer bulamadığın için biletlerini önceden ayırtmalısın.
+X: Biletlerini önceden ayırtsan bile trende yer bulamayabilirsin.
+X: Trende yer bulmak için biletlerini önceden ayırtmana gerek yok.
+W: "Unless" = -mezsen; "may not find" = bulamayabilirsin.
+
+## t6|en_tr|C1
+Q: The extent to which social media affects mental health remains a matter of debate among scientists.
+A: Sosyal medyanın ruh sağlığını ne ölçüde etkilediği bilim insanları arasında hâlâ tartışma konusudur.
+X: Bilim insanları sosyal medyanın ruh sağlığını olumsuz etkilediği konusunda hemfikirdir.
+X: Sosyal medyanın ruh sağlığı üzerindeki etkisi bilim insanları tarafından kanıtlanmıştır.
+X: Bilim insanları arasındaki tartışmalar sosyal medyada ruh sağlığını etkilemektedir.
+X: Sosyal medya kullanımı arttıkça bilim insanları ruh sağlığını daha çok tartışmaktadır.
+W: "The extent to which" = ne ölçüde; "remains a matter of debate" = hâlâ tartışma konusudur.
+
+## t7|en_tr|B2
+Q: Not only did the new law reduce air pollution, but it also improved public health.
+A: Yeni yasa yalnızca hava kirliliğini azaltmakla kalmadı, aynı zamanda halk sağlığını da iyileştirdi.
+X: Yeni yasa hava kirliliğini azaltmadı ama halk sağlığını iyileştirdi.
+X: Yeni yasa halk sağlığını iyileştirmek için hava kirliliğini azaltmayı amaçlıyor.
+X: Hava kirliliği azalmadıkça yeni yasa halk sağlığını iyileştiremez.
+X: Yeni yasa, hava kirliliğini azaltsa da halk sağlığını iyileştirmedi.
+W: "Not only ... but also" = yalnızca ... değil, aynı zamanda ... de.
+
+## t8|en_tr|B2
+Q: Many people are unaware that sitting for long periods can be as harmful as smoking.
+A: Birçok insan uzun süre oturmanın sigara içmek kadar zararlı olabileceğinin farkında değil.
+X: Birçok insan uzun süre oturmanın sigara içmekten daha zararlı olduğunu bilir.
+X: Sigara içen insanlar uzun süre oturmanın zararlarının farkındadır.
+X: Uzun süre oturan insanlar sigara içmenin zararlarını bilmez.
+X: Birçok insan sigara içmeyi bırakınca daha uzun süre oturmaya başlar.
+W: "unaware" = farkında değil; "as harmful as" = kadar zararlı.
+
+## t9|en_tr|C1
+Q: The findings suggest that the disease may have spread far earlier than was previously thought.
+A: Bulgular, hastalığın daha önce düşünüldüğünden çok daha erken yayılmış olabileceğini göstermektedir.
+X: Bulgular, hastalığın daha önce düşünüldüğü kadar hızlı yayılmadığını göstermektedir.
+X: Önceki bulgular, hastalığın çok erken bir dönemde yayılmaya başladığını kanıtlamıştır.
+X: Bulgular, hastalığın gelecekte daha hızlı yayılacağını öne sürmektedir.
+X: Hastalığın yayılmasının bulgulardan çok daha önce tahmin edildiği anlaşılmıştır.
+W: "may have spread" = yayılmış olabilir; "far earlier than was previously thought" = daha önce düşünüldüğünden çok daha erken.
+
+## t10|en_tr|B1
+Q: She would have passed the exam if she had studied a little harder.
+A: Biraz daha sıkı çalışsaydı sınavı geçerdi.
+X: Biraz daha sıkı çalıştığı için sınavı geçti.
+X: Biraz daha sıkı çalışırsa sınavı geçecek.
+X: Sınavı geçmek için biraz daha sıkı çalışması gerekiyor.
+X: Sıkı çalışmasına rağmen sınavı geçemedi.
+W: 3. tip koşul: geçmişte gerçekleşmemiş durum (-saydı ... -erdi).
+
+## t11|tr_en|B2
+Q: Uzmanlar, düzenli egzersiz yapmanın stresi azaltmanın en etkili yollarından biri olduğunu belirtiyor.
+A: Experts state that exercising regularly is one of the most effective ways of reducing stress.
+X: Experts state that stress is the most effective way of avoiding regular exercise.
+X: According to experts, people who are stressed should not exercise regularly.
+X: Experts have found that regular exercise is less effective than reducing stress.
+X: Experts state that reducing stress makes regular exercise more effective.
+W: "en etkili yollarından biri" = one of the most effective ways; özne "düzenli egzersiz yapmak".
+
+## t12|tr_en|B2
+Q: Hükümet, gelecek yıl eğitime daha fazla kaynak ayırmayı planlıyor.
+A: The government is planning to allocate more resources to education next year.
+X: The government allocated more resources to education last year.
+X: The government is planning to reduce the resources allocated to education next year.
+X: Education will be planned by the government with fewer resources next year.
+X: The government has never allocated enough resources to education.
+W: "planlıyor" = is planning; "daha fazla kaynak ayırmak" = allocate more resources; "gelecek yıl" = next year.
+
+## t13|tr_en|C1
+Q: Bu ilacın uzun vadeli yan etkileri henüz tam olarak bilinmemektedir.
+A: The long-term side effects of this drug are not yet fully known.
+X: This drug has no long-term side effects.
+X: The side effects of this drug were fully known in the long term.
+X: The long-term effects of this drug are well known by now.
+X: This drug will not have side effects in the long term.
+W: "henüz tam olarak bilinmemektedir" = are not yet fully known.
+
+## t14|tr_en|B1
+Q: Erken kalkmama rağmen otobüsü kaçırdım.
+A: Although I got up early, I missed the bus.
+X: Because I got up early, I caught the bus.
+X: I missed the bus, so I got up early.
+X: If I had got up early, I wouldn't have missed the bus.
+X: I got up early in order not to miss the bus.
+W: "-me rağmen" = although; "kaçırdım" = missed.
+
+## t15|tr_en|B2
+Q: Şehirlerde yaşayan insanların sayısı her geçen yıl artmaktadır.
+A: The number of people living in cities is increasing every year.
+X: A number of people living in cities increased last year.
+X: People living in cities are increasing their numbers every few years.
+X: The number of cities in which people live has increased.
+X: Fewer people are living in cities each year.
+W: "insanların sayısı" = the number of people (tekil fiil: is increasing); "her geçen yıl" = every year.
+
+## t16|tr_en|C1
+Q: Araştırmanın sonuçları, beslenme alışkanlıkları ile uyku kalitesi arasında güçlü bir ilişki olduğunu ortaya koymaktadır.
+A: The results of the study reveal that there is a strong relationship between eating habits and sleep quality.
+X: The study was carried out to improve both eating habits and sleep quality.
+X: The results of the study show that eating habits do not affect sleep quality.
+X: Sleep quality determines the results of studies on eating habits.
+X: The study reveals that people with strong eating habits sleep less.
+W: "ortaya koymaktadır" = reveal; "arasında güçlü bir ilişki" = a strong relationship between.
+
+## t17|tr_en|B2
+Q: Toplantı, yöneticinin hastalanması nedeniyle ertelendi.
+A: The meeting was postponed because the manager fell ill.
+X: The manager postponed the meeting in order not to fall ill.
+X: The meeting was cancelled although the manager was ill.
+X: Because the meeting was postponed, the manager fell ill.
+X: The manager will postpone the meeting if he falls ill.
+W: Edilgen geçmiş zaman (was postponed) ve sebep (because the manager fell ill).
+
+## t18|tr_en|C1
+Q: Yapay zekâ ne kadar gelişirse, insan emeğine olan ihtiyaç o kadar azalabilir.
+A: The more artificial intelligence develops, the less human labour may be needed.
+X: Artificial intelligence develops more slowly when there is less human labour.
+X: As long as human labour is needed, artificial intelligence will not develop.
+X: The less artificial intelligence develops, the more human labour is needed.
+X: Artificial intelligence has developed so much that human labour is no longer needed.
+W: "ne kadar ... o kadar" = the more ..., the less ...; "azalabilir" = may be (needed) less.
+
+## t19|tr_en|B1
+Q: Eğer yarın hava güzel olursa pikniğe gideceğiz.
+A: If the weather is nice tomorrow, we will go on a picnic.
+X: If the weather were nice tomorrow, we would have gone on a picnic.
+X: We went on a picnic because the weather was nice.
+X: Unless the weather is nice tomorrow, we will go on a picnic.
+X: We will go on a picnic even if the weather is bad tomorrow.
+W: 1. tip koşul: If + present simple, will + V1.
+
+## t20|tr_en|B2
+Q: Bilim insanları, bu türün nesli tükenmeden önce korunması gerektiği konusunda uyarıyor.
+A: Scientists warn that this species must be protected before it becomes extinct.
+X: Scientists warn that this species became extinct because it was not protected.
+X: Scientists believe this species can never become extinct.
+X: Scientists have protected this species since it became extinct.
+X: According to scientists, this species does not need to be protected.
+W: "uyarıyor" = warn; "korunması gerektiği" = must be protected; "nesli tükenmeden önce" = before it becomes extinct.

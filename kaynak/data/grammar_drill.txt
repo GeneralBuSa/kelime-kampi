@@ -1,0 +1,191 @@
+# be
+? Those books ___ on the table.|are|is;am;be|"Those books" çoğul: are.
+? ___ I late for class?|Am|Is;Are;Be|"I" ile soru: Am I...
+
+# possessive
+? This bag is ___. Don't take it.|mine|my;me;I|İyelik zamiri: mine (benimki).
+? They forgot ___ umbrellas at home.|their|theirs;them;they|İsimden önce iyelik sıfatı: their.
+
+# present-simple
+? She ___ to work by bus every morning.|goes|go;going;gone|"she" + present simple: goes.
+? ___ they live near the station?|Do|Does;Are;Is|Çoğul özne ile soru: Do they...
+
+# present-continuous
+? Look! The children ___ in the garden.|are playing|play;plays;played|Şu anda olan eylem: are playing.
+? Be quiet. The baby ___.|is sleeping|sleeps;sleep;slept|Şu an: is sleeping.
+
+# there-is
+? ___ any milk in the fridge?|Is there|Are there;There is;There are|"milk" sayılamaz: Is there.
+? There ___ two parks in our neighbourhood.|are|is;have;has|Çoğul: there are.
+
+# can
+? He ___ swim, but he can ride a bike.|can't|doesn't can;isn't can;don't can|Olumsuz yetenek: can't.
+? ___ I open the window, please?|Can|Do;Am;Have|İzin isteme: Can I...
+
+# past-simple-1
+? They ___ at home last night.|were|was;are;been|"they" geçmiş: were.
+? I ___ my keys yesterday.|lost|lose;loses;losing|Düzensiz geçmiş: lost.
+
+# prepositions-time
+? We usually have lunch ___ noon.|at|in;on;to|"at noon".
+? Her birthday is ___ July.|in|on;at;by|Ay ile: in July.
+
+# past-simple-2
+? Where ___ you go after the meeting?|did|do;were;have|Geçmiş soru: did + V1.
+? He ___ the email two hours ago.|sent|send;sends;sending|Düzensiz: sent.
+
+# past-continuous
+? While I ___ dinner, the phone rang.|was cooking|cooked;cook;have cooked|Kesilen eylem: past continuous.
+? They ___ TV when we arrived.|were watching|watched;watch;are watching|Çoğul özne: were watching.
+
+# present-perfect-1
+? I have ___ finished my homework.|already|yet;still;ago|Olumlu cümlede already.
+? Have you ever ___ to Izmir?|been|went;go;gone to never|"Have you ever been to..."
+
+# future
+? It looks cloudy. It ___ rain.|is going to|will to;shall;going|Kanıta dayalı tahmin: going to.
+? I think she ___ the exam.|will pass|passes;is passing;pass|Kişisel tahmin: will.
+
+# comparatives
+? This bag is ___ than that one.|heavier|more heavy;heaviest;heavily|Kısa sıfat: heavier.
+? She is the ___ student in the class.|tallest|taller;more tall;most tall|Üstünlük: the tallest.
+
+# quantifiers
+? There isn't ___ sugar left.|much|many;few;a few|"sugar" sayılamaz: much.
+? Only ___ people came to the meeting.|a few|a little;little;much|"people" sayılabilen, az ama var: a few.
+
+# obligation
+? You ___ smoke in the hospital. It's forbidden.|mustn't|don't have to;shouldn't to;must not to|Yasak: mustn't.
+? We ___ wear a uniform; it's optional.|don't have to|mustn't;can't;shouldn't have|Zorunluluk yok: don't have to.
+
+# gerund-infinitive-1
+? I enjoy ___ in the sea.|swimming|swim;to swim;swam|"enjoy" + V-ing.
+? She decided ___ a new course.|to take|taking;take;took|"decide" + to V1.
+
+# pp-vs-ps
+? I ___ Paris in 2019.|visited|have visited;has visited;visiting|"in 2019" belirli geçmiş: past simple.
+? She has lived here ___ 2015.|since|for;from;ago|Başlangıç noktası: since.
+
+# pp-continuous
+? They have been waiting ___ two hours.|for|since;during;from|Süre: for + time period.
+? He is tired because he ___ all morning.|has been working|works;worked;is working|Sabah boyunca süren eylem: present perfect continuous.
+
+# conditionals-1
+? If it rains tomorrow, we ___ at home.|will stay|stay;would stay;stayed|1. tip: If + present, will.
+? If I ___ rich, I would travel more.|were|am;was being;will be|2. tip: If + past, would. "I were" kalıbı.
+
+# passive-1
+? These phones ___ in Turkey.|are made|make;made;are making|Geniş zaman edilgen: are made.
+? The window ___ during the storm.|was broken|broke;is broken;has break|Geçmiş edilgen: was broken.
+
+# relative-1
+? The woman ___ you met is my aunt.|who|where;whose;when|Nesne/kişi: who (whom da olur; şıklarda who).
+? 2020 was the year ___ the pandemic began.|when|where;who;which year|Zaman: when.
+
+# reported-1
+? "We have finished," they said. → They said they ___ finished.|had|have;has;were|"have finished" → had finished.
+? "I may be late," she said. → She said she ___ be late.|might|may;can;will|may → might.
+
+# used-to
+? He ___ smoke, but he stopped last year.|used to|was used to;uses to;would to|Geçmiş alışkanlık: used to.
+? I'm not used to ___ so much coffee.|drinking|drink;drank;to drink|"be used to" + V-ing.
+
+# deduction-1
+? The lights are off. They ___ be at home.|can't|must;should;have to|Kanıt olumsuz: can't.
+? She's not answering. She ___ be driving.|might|mustn't;can't to;has|Olasılık: might.
+
+# conditionals-2
+? If she had studied, she ___ the exam.|would have passed|would pass;will pass;passed|3. tip: would have + V3.
+? If I hadn't missed the bus, I ___ on time.|would have arrived|will arrive;arrive;arrived|3. tip karışık değil, geçmiş sonuç.
+
+# past-perfect
+? By the time we sat down, the film ___ .|had started|has started;started;starts|Önce biten eylem: past perfect.
+? She was tired because she ___ all night.|had been working|has been working;worked;works|Geçmişte süren eylem: past perfect continuous.
+
+# future-advanced
+? This time tomorrow I ___ over the Atlantic.|will be flying|will fly;fly;am flying|Belirli gelecekteki süreç: future continuous.
+? By 2030 the city ___ a new metro line.|will have built|builds;has built;will build|O tarihe kadar tamamlanmış: future perfect.
+
+# passive-2
+? The results ___ next week.|will be announced|will announce;are announcing;announce|Gelecek edilgen: will be announced.
+? The window must ___ before winter.|be repaired|repair;repaired;to repair|Modal + edilgen: must be repaired.
+
+# causative
+? I had my car ___ yesterday.|repaired|repair;repairing;to repair|"have something done".
+? She got her hair ___ before the interview.|cut|cutting;to cut;cuts|"get something done".
+
+# wish
+? I wish I ___ more time.|had|have;will have;am having|Şimdiki dilek: wish + past.
+? He wishes he ___ the job offer.|had accepted|accepted;accepts;has accepted|Geçmiş pişmanlık: wish + past perfect.
+
+# past-modals
+? You ___ told me earlier.|should have|should;must have to;could|Geçmiş tavsiye: should have + V3.
+? She isn't in her office. She ___ gone home.|must have|must;should;can have|Geçmişe güçlü çıkarım: must have + V3.
+
+# reported-2
+? "Where do you live?" she asked. → She asked me where I ___.|lived|live;do live;was live|Dolaylı soruda düz düzen + zaman kayması.
+? "Don't be late," he said. → He told me ___ late.|not to be|to not be;don't be;not be|Emir: told me not to + V1.
+
+# relative-2
+? Paris, ___ is the capital of France, is beautiful.|which|who;where;that|Tanımlamayan, virgüllü: which (that olmaz).
+? The people with ___ I work are kind.|whom|who;which;whose|Edat + whom (resmi).
+
+# inversion
+? Never ___ such a mess.|have I seen|I have seen;I saw;have seen I|"Never" sonrası devrik: have I seen.
+? Not only ___ late, but he also forgot the files.|was he|he was;he is;was|Not only + devrik.
+
+# cleft
+? ___ I need is a quiet room.|What|That;Which;It what|"What I need is..."
+? It was in 1969 ___ they landed on the moon.|that|which;when that;what|It was X that...
+
+# subjunctive
+? The doctor recommended that he ___ in bed.|stay|stays;stayed;staying|Öneri: (should) stay / subjunctive.
+? It's time we ___ home.|went|go;gone;going|"It's time" + past.
+
+# participle
+? ___ the door, she realised she had forgotten her keys.|Closing|Closed;Close;To closing|Etken participle: Closing...
+? The man ___ to hospital was a tourist.|taken|taking;took;take|Edilgen: taken.
+
+# conditionals-3
+? ___ the funding, the lab would close.|But for|Unless for;Despite;Because|But for = olmasa...
+? Should you need help, ___ the desk.|call|calling;called;to call|Devrik koşul: Should you need...
+
+# ellipsis
+? I don't like tea. ___ .|Neither do I|So I don't;Neither I don't;I neither|Olumsuz katılma: Neither do I.
+? She can swim, and so ___ her brother.|can|does;is;swims|"so + yardımcı + özne".
+
+# time-clauses
+? I will call you as soon as I ___ home.|arrive|will arrive;arrived;am arriving|"as soon as" sonrası present, gelecek anlam.
+? By the time she arrived, we ___ dinner.|had finished|have finished;finished;finish|Önce biten eylem: past perfect.
+
+# adverbial
+? ___ the rain, the match continued.|Despite|Although;Because;So|Despite + isim.
+? She left early ___ she could catch the train.|so that|despite;although;whereas|Amaç: so that.
+
+# conjunctions
+? The study is small; ___, the results are useful.|nevertheless|therefore;because;so that|Zıtlık bağlacı: nevertheless.
+? He was tired; he kept working, ___.|though|despite;however he;because|Cümle sonu though.
+
+# noun-clauses
+? I wonder ___ the results are reliable.|whether|that if;what if;despite|whether + cümle.
+? The fact ___ she resigned surprised us.|that|which;what;if|the fact that.
+
+# reduced-relative
+? The data ___ in the appendix support the claim.|presented|presenting;present;presents|Kısaltılmış edilgen: presented.
+? Anyone ___ to join should email us.|wishing|wished;wishes;wish|Kısaltılmış etken: wishing.
+
+# quantifiers-yds
+? ___ of the evidence supports the theory.|Little|Few;A few;Many|"evidence" sayılamaz: little.
+? ___ student was given a unique code.|Each|Every of;All;Both of|Each + tekil isim.
+
+# prepositions-yds
+? The findings are consistent ___ earlier studies.|with|to;of;on|"consistent with".
+? She succeeded ___ finishing the report on time.|in|at;on;for|"succeed in + V-ing".
+
+# comparison-yds
+? The more you practise, ___ you become.|the better|better;the best;more better|the more..., the better...
+? This method is ___ as reliable as the old one.|twice|two times more;double than;as twice|"twice as + adj + as".
+
+# gerund-yds
+? The committee objected to ___ the deadline.|postponing|postpone;postponed;to postpone|"object to + V-ing".
+? It is worth ___ the appendix carefully.|reading|to read;read;to reading|"worth + V-ing".

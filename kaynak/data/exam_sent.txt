@@ -1,0 +1,224 @@
+## s1|sentcomp|B2
+Q: Although the new treatment has shown promising results in laboratory studies, ___.
+A: it has not yet been tested on human patients
+X: scientists are therefore confident that it is safe
+X: it is the most widely used treatment today
+X: the laboratory studies were very successful
+X: doctors have been prescribing it for years
+W: "Although" zıtlık kurar: laboratuvarda umut verici ama henüz insanlarda denenmedi.
+
+## s2|sentcomp|B2
+Q: By the time the firefighters arrived at the scene, ___.
+A: the fire had already destroyed most of the building
+X: the fire will have destroyed most of the building
+X: the fire destroys most of the building
+X: the fire has destroyed most of the building
+X: the fire would destroy most of the building
+W: "By the time + past simple" → ana cümle past perfect.
+
+## s3|sentcomp|B2
+Q: ___, the company decided to close two of its factories.
+A: Faced with a sharp decline in sales
+X: Because its products had become extremely popular
+X: As long as its products remained popular
+X: Unless the government had lowered taxes
+X: So that it could employ more workers
+W: Fabrika kapatmanın mantıklı sebebi satışlardaki düşüş; participle yapı (Faced with = ... ile karşılaşınca).
+
+## s4|sentcomp|C1
+Q: Had the government invested in flood defences earlier, ___.
+A: the damage caused by the storm would have been far less severe
+X: the damage caused by the storm will be far less severe
+X: the storm would cause less damage next year
+X: the storm has caused serious damage
+X: the damage is expected to be severe
+W: Devrik 3. tip koşul (Had ... V3) → would have + V3.
+
+## s5|sentcomp|B1
+Q: Many people prefer to shop online ___.
+A: because it saves them time and effort
+X: although it saves them time and effort
+X: so that shops are always crowded
+X: unless they have access to the internet
+X: even if they enjoy visiting shops more
+W: Mantıklı sebep: zaman ve emek tasarrufu (because).
+
+## s6|sentcomp|C1
+Q: Not only does regular reading improve vocabulary, ___.
+A: but it also enhances concentration and empathy
+X: and it also is reducing concentration
+X: so it rarely helps students
+X: but also people never read
+X: whereas it improves vocabulary
+W: "Not only ... but (it) also ..." kalıbı ve anlam uyumu.
+
+## s7|sentcomp|B2
+Q: The scientists repeated the experiment several times ___.
+A: in order to make sure that the results were reliable
+X: even though they wanted reliable results
+X: unless the results were reliable
+X: so reliable that the results were repeated
+X: although the results were reliable
+W: Amaç bildiriyor: sonuçların güvenilir olduğundan emin olmak için.
+
+## s8|sentcomp|B2
+Q: ___ that she was offered the job immediately.
+A: Her interview performance was so impressive
+X: Her interview performance was such impressive
+X: Her interview performance was too impressive
+X: Although her interview performance was weak
+X: Her interview performance was impressive enough
+W: "so + sıfat + that" kalıbı.
+
+## s9|sentcomp|C1
+Q: Unless urgent action is taken to reduce emissions, ___.
+A: global temperatures are likely to continue rising
+X: global temperatures have already fallen
+X: global temperatures would have risen
+X: global temperatures stopped rising last year
+X: emissions have been reduced successfully
+W: "Unless" 1. tip koşul gibi çalışır; gelecek tahmini gerekir.
+
+## s10|sentcomp|B2
+Q: While some experts believe that working from home increases productivity, ___.
+A: others argue that it reduces teamwork and creativity
+X: they also believe it increases productivity
+X: working from home is very common
+X: it was introduced during the pandemic
+X: many companies have offices in the city
+W: "While" burada zıtlık/karşılaştırma bildiriyor: some ... others.
+
+## s11|sentcomp|B1
+Q: If you had told me about the problem earlier, ___.
+A: I could have helped you
+X: I can help you
+X: I will help you
+X: I could help you yesterday
+X: I have helped you
+W: 3. tip koşul: could have + V3.
+
+## s12|sentcomp|C1
+Q: The museum, ___, attracts millions of visitors every year.
+A: which houses some of the world's most famous paintings
+X: that houses some of the world's most famous paintings
+X: where houses some of the world's most famous paintings
+X: whose houses some of the world's most famous paintings
+X: houses some of the world's most famous paintings
+W: Virgüllü ilgi cümlesinde "which" kullanılır; "that" kullanılamaz.
+
+## s13|sentcomp|B2
+Q: It is essential that every student ___.
+A: submit the application before the deadline
+X: submits the application after the deadline
+X: will submit the application before the deadline
+X: submitted the application before the deadline
+X: has submitted the application late
+W: "It is essential that" + yalın fiil (subjunctive): submit.
+
+## s14|sentcomp|B2
+Q: ___, the researchers were unable to reach a clear conclusion.
+A: Despite years of careful investigation
+X: Thanks to years of careful investigation
+X: As a result of their clear findings
+X: Because the data were very clear
+X: Since the evidence was conclusive
+W: Yıllar süren araştırmaya rağmen sonuca ulaşılamaması: zıtlık (Despite).
+
+## s15|sentcomp|C1
+Q: No sooner had the new policy been announced ___.
+A: than it was criticised by opposition parties
+X: when it was criticised by opposition parties
+X: then it was criticised by opposition parties
+X: that it was criticised by opposition parties
+X: before it was criticised by opposition parties
+W: "No sooner ... than" kalıbı.
+
+## s16|sentcomp|B2
+Q: The more time children spend outdoors, ___.
+A: the less likely they are to develop short-sightedness
+X: they are less likely to develop short-sightedness
+X: the least likely they are developing short-sightedness
+X: so they are less likely to develop short-sightedness
+X: less likely they develop short-sightedness
+W: "The more ..., the less ..." kalıbı.
+
+## s17|sentcomp|B2
+Q: The bridge was closed to traffic ___.
+A: after engineers discovered cracks in its main supports
+X: although engineers found it completely safe
+X: so that more cars could use it
+X: unless engineers discovered any cracks
+X: as if it had been newly built
+W: Köprünün kapatılmasının mantıklı sebebi: çatlakların keşfedilmesi.
+
+## s18|sentcomp|C1
+Q: ___, the patient would probably not have survived.
+A: Without the quick response of the ambulance team
+X: With the quick response of the ambulance team
+X: Because of the ambulance team's quick response
+X: Since the ambulance arrived quickly
+X: As the ambulance team responded so quickly
+W: "Without ..." = (olmasaydı) koşul anlamı verir; would not have survived ile uyumlu tek şık.
+
+## s19|sentcomp|B1
+Q: She has been learning to play the piano ___.
+A: since she was seven years old
+X: for she was seven years old
+X: when she will be seven
+X: ago she was seven years old
+X: until she is seven years old
+W: Present perfect continuous + since + başlangıç noktası.
+
+## s20|sentcomp|B2
+Q: The professor explained the theory again ___.
+A: so that every student could understand it
+X: so that every student can't understand it
+X: such that no student has understood it
+X: in order not understanding it
+X: so as students understood it
+W: Amaç: "so that + could".
+
+## s21|sentcomp|C1
+Q: It was not until the 19th century ___.
+A: that scientists understood how diseases are transmitted
+X: when scientists understood how diseases are transmitted
+X: which scientists understood how diseases are transmitted
+X: scientists did understand how diseases are transmitted
+X: since scientists understood how diseases are transmitted
+W: "It was not until ... that ..." vurgu kalıbı.
+
+## s22|sentcomp|B2
+Q: Even if the company increases salaries, ___.
+A: it may still struggle to keep its most talented staff
+X: it kept its most talented staff easily
+X: its staff have always been satisfied
+X: it has increased salaries last year
+X: it would have kept its best staff
+W: "Even if" (-se bile) + 1. tip yapıya uygun gelecek/olasılık anlamı.
+
+## s23|sentcomp|B2
+Q: ___ the city has invested heavily in public transport, traffic congestion remains a serious problem.
+A: Although
+X: Because
+X: Since
+X: As long as
+X: Provided that
+W: Yatırıma rağmen sorun sürüyor: zıtlık, Although.
+
+## s24|sentcomp|C1
+Q: The data suggest that the decline in bee populations ___.
+A: may be linked to the widespread use of certain pesticides
+X: being linked to certain pesticides widely
+X: to be linked to the use of pesticides
+X: has linking with pesticides
+X: which is linked to pesticides
+W: "suggest that" sonrası tam bir cümle (özne + yüklem) gerekir: may be linked.
+
+## s25|sentcomp|B1
+Q: I would rather stay at home tonight ___.
+A: than go to a crowded restaurant
+X: than going to a crowded restaurant
+X: from going to a crowded restaurant
+X: instead going to a crowded restaurant
+X: to go to a crowded restaurant
+W: "would rather + V1 + than + V1" kalıbı.

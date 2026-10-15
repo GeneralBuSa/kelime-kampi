@@ -1,0 +1,4 @@
+# keep Windows and Unix launch scripts working after clone on any OS
+* text=auto
+*.bat text eol=crlf
+*.sh text eol=lf

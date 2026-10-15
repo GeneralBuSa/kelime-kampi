@@ -1,0 +1,417 @@
+## d1|dialogue|B1
+P: Ayşe: I've applied for a scholarship to study in Canada, but I haven't heard anything yet.
+P: Mert: When did you send your application?
+P: Ayşe: About two months ago. ___
+P: Mert: Don't worry. These decisions usually take a long time.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: I'm starting to think they've rejected it.
+X: I'm so glad they accepted me immediately.
+X: I've never wanted to study abroad.
+X: I'll send my application next week.
+X: Canada is a very cold country.
+W: Mert'in "Endişelenme" cevabı Ayşe'nin kaygılandığını gösteriyor; reddedildiğini düşünmeye başlaması uygun.
+
+## d2|dialogue|B2
+P: Doctor: Your test results show that your blood pressure is quite high.
+P: Patient: Is that serious? I feel perfectly fine.
+P: Doctor: ___
+P: Patient: I see. Then I'd better start exercising and cutting down on salt.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: High blood pressure often has no symptoms, but it increases the risk of heart disease.
+X: You don't need to change anything in your lifestyle.
+X: Your blood pressure is lower than it should be.
+X: Feeling fine means that the results must be wrong.
+X: You should eat more salty food to feel better.
+W: Hasta egzersize başlayıp tuzu azaltacağını söylüyor; doktorun riski açıklaması gerekiyor.
+
+## d3|dialogue|B1
+P: Customer: Excuse me, I bought this jacket last week, but it's too small.
+P: Assistant: ___
+P: Customer: Yes, here it is.
+P: Assistant: Fine. Would you like to exchange it for a larger size?
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Do you have the receipt with you?
+X: We don't sell jackets in this shop.
+X: How much did you pay for your shoes?
+X: Would you like to try a smaller size?
+X: When are you planning to buy it?
+W: Müşteri "here it is" diyerek bir şey uzatıyor; fişi istenmesi uygun.
+
+## d4|dialogue|B2
+P: Emre: Have you read the article about four-day working weeks?
+P: Selin: Yes. Apparently, productivity didn't fall at all in the companies that tried it.
+P: Emre: ___
+P: Selin: That's true, but surely it depends on the type of job.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: So maybe every company should adopt the system.
+X: I've never heard of the four-day week before.
+X: That proves productivity always falls with shorter weeks.
+X: Most companies work seven days a week.
+X: I don't like reading articles about work.
+W: Selin'in "Doğru ama işin türüne bağlı" cevabı Emre'nin genelleme yaptığını gösteriyor.
+
+## d5|dialogue|B1
+P: Tourist: Excuse me, could you tell me how to get to the museum?
+P: Local: ___
+P: Tourist: Oh, I'd rather walk. It's a lovely day.
+P: Local: Then go straight ahead and turn left at the second traffic lights.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: You can take bus number 12, or it's about a twenty-minute walk.
+X: The museum is closed on Mondays.
+X: I'm sorry, I'm not from here either.
+X: You have to take a taxi; there's no other way.
+X: I've never been to the museum.
+W: Turist "yürümeyi tercih ederim" diyor; yani seçenek sunulmuş olmalı (otobüs veya yürüyüş).
+
+## d6|dialogue|B2
+P: Manager: The client wants the report by Friday instead of next Wednesday.
+P: Employee: ___
+P: Manager: I know it's a lot to ask. I'll get two more people to help you.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: That gives us three fewer days. I'm not sure we can finish in time.
+X: Great, we have plenty of time then.
+X: The client has already received the report.
+X: I'll start working on it next month.
+X: Wednesday is too early for me.
+W: Müdür "çok şey istediğimi biliyorum" ve "yardımcı vereceğim" diyor; çalışan zamanın yetmeyeceğinden endişe ediyor olmalı.
+
+## d7|dialogue|C1
+P: Interviewer: Some argue that tourism damages the cultures it claims to celebrate. What's your view?
+P: Researcher: ___
+P: Interviewer: So it's the way tourism is managed, rather than tourism itself, that matters.
+P: Researcher: Exactly.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: It can, but when local communities control it, tourism often helps preserve traditions.
+X: Tourism has absolutely no effect on local cultures.
+X: I think all forms of tourism should be banned immediately.
+X: Most tourists are not interested in culture at all.
+X: Culture is more important than the economy.
+W: Görüşmeci "Önemli olan turizmin nasıl yönetildiği" diye özetliyor; yerel yönetim vurgusu bu sonuca uygun.
+
+## d8|dialogue|B1
+P: Can: Are you coming to the concert tonight?
+P: Deniz: ___
+P: Can: That's a pity. Maybe next time, then.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: I'd love to, but I have an exam tomorrow morning.
+X: Of course! I've already bought my ticket.
+X: Yes, I'll meet you there at eight.
+X: I went to a concert last week.
+X: What time does it finish?
+W: Can'ın "Yazık, belki bir dahaki sefere" cevabı Deniz'in gelemeyeceğini gösteriyor.
+
+## d9|dialogue|B2
+P: Student: I don't understand why my essay got such a low grade.
+P: Teacher: Your ideas were interesting, but ___
+P: Student: So I should have organised my arguments more clearly?
+P: Teacher: Yes, and supported them with evidence.
+Q: Diyaloğu tamamlayan ifade hangisidir?
+A: the essay lacked a clear structure and supporting examples.
+X: the essay was much too well organised.
+X: you used too many examples from research.
+X: you handed it in two weeks early.
+X: your handwriting was very beautiful.
+W: Öğrencinin "argümanlarımı daha net düzenlemeliydim" yorumu yapı eksikliğine işaret ediyor.
+
+## d10|dialogue|B2
+P: Journalist: Your company has just launched an electric car. Why now?
+P: CEO: ___
+P: Journalist: So falling battery costs made the project possible.
+P: CEO: That's right.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Until recently, batteries were simply too expensive to make an affordable model.
+X: We have always believed electric cars are a bad idea.
+X: Our customers don't care about electric cars.
+X: The government asked us to stop producing cars.
+X: Petrol prices have fallen sharply this year.
+W: Gazeteci "batarya maliyetlerinin düşmesi" diye özetliyor; CEO bataryaların yakın zamana kadar çok pahalı olduğunu söylemiş olmalı.
+
+## m1|restate|B2
+Q: Hardly had the meeting started when the fire alarm went off.
+A: The fire alarm went off just after the meeting had begun.
+X: The meeting started immediately after the fire alarm stopped.
+X: The fire alarm went off before the meeting started.
+X: Because of the fire alarm, the meeting could not start.
+X: The meeting was hard to start because of the fire alarm.
+W: "Hardly ... when" = -er -mez. Toplantı başlar başlamaz alarm çaldı.
+
+## m2|restate|B2
+Q: It was such a difficult exam that only a few students passed it.
+A: The exam was so difficult that very few students passed it.
+X: Although the exam was difficult, many students passed it.
+X: Only a few students found the exam difficult.
+X: The exam was easy enough for most students to pass.
+X: Few students took the exam because it was difficult.
+W: "such a ... that" = "so ... that"; çok az öğrenci geçti.
+
+## m3|restate|C1
+Q: Without the support of local volunteers, the project would never have been completed.
+A: The project was completed only because local volunteers supported it.
+X: The project was completed even though local volunteers did not support it.
+X: Local volunteers completed the project without any support.
+X: The project failed because local volunteers did not help.
+X: Local volunteers will support the project until it is completed.
+W: "Without ... would never have" = yardım olmasaydı bitmezdi; demek ki yardım sayesinde bitti.
+
+## m4|restate|B2
+Q: The new model is not as efficient as the old one.
+A: The old model is more efficient than the new one.
+X: The new model is as efficient as the old one.
+X: The new model is more efficient than the old one.
+X: Neither model is efficient.
+X: The old model is less efficient than the new one.
+W: "not as ... as" = ... kadar değil; yani eski model daha verimli.
+
+## m5|restate|C1
+Q: Scarcely any of the participants were aware of the study's real purpose.
+A: Almost none of the participants knew what the study was really about.
+X: Most of the participants understood the real purpose of the study.
+X: The participants were told the study's purpose in advance.
+X: Some participants were scared of the study's real purpose.
+X: The study had no real purpose, according to the participants.
+W: "Scarcely any" = neredeyse hiç; katılımcıların neredeyse hiçbiri amacı bilmiyordu.
+
+## m6|restate|B2
+Q: You needn't have brought an umbrella; the forecast says it will be sunny all day.
+A: It was unnecessary for you to bring an umbrella, as it is expected to be sunny.
+X: You should have brought an umbrella because it will rain.
+X: You mustn't bring an umbrella when it is sunny.
+X: You forgot to bring an umbrella although it will rain.
+X: You will need an umbrella later in the day.
+W: "needn't have + V3" = gerek yokken yapılmış iş.
+
+## m7|restate|C1
+Q: The government is thought to have underestimated the cost of the project.
+A: People believe that the government underestimated the project's cost.
+X: The government thinks the project will cost less than expected.
+X: The government has estimated the cost of the project correctly.
+X: The cost of the project is expected to be underestimated in the future.
+X: The government will underestimate the cost of future projects.
+W: "is thought to have + V3" = (geçmişte) ... yaptığı düşünülüyor.
+
+## m8|restate|B1
+Q: I'd rather you didn't tell anyone about this.
+A: I would prefer you to keep this to yourself.
+X: I want you to tell everyone about this.
+X: You didn't tell anyone about this, did you?
+X: I'd rather tell everyone myself.
+X: You told someone about this, which I didn't like.
+W: "I'd rather you didn't" = yapmamanı tercih ederim; yani kimseye söyleme.
+
+## m9|restate|B2
+Q: The longer you leave the problem, the harder it will be to solve.
+A: If you delay dealing with the problem, it will become more difficult to solve.
+X: The problem will be easier to solve if you wait.
+X: It takes a long time to solve hard problems.
+X: The problem is so hard that it can never be solved.
+X: You should leave the problem until it becomes easier.
+W: "The longer ..., the harder ..." = ne kadar bekletirsen o kadar zorlaşır.
+
+## m10|restate|C1
+Q: In spite of having little experience, she was appointed as the team leader.
+A: Although she had limited experience, she was made the team leader.
+X: She was appointed team leader because of her long experience.
+X: She refused to lead the team because she lacked experience.
+X: Having been the team leader, she gained a lot of experience.
+X: She was not appointed because she had little experience.
+W: "In spite of" = -e rağmen; az deneyime rağmen takım lideri yapıldı.
+
+## p1|parcomp|B2
+P: Honeybees play a vital role in agriculture. ___ Without them, the production of many fruits, vegetables and nuts would fall dramatically. In recent years, however, bee populations have declined in many parts of the world, raising concerns about food security.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: They pollinate around one third of the crops that humans eat.
+X: Honey has been used as a medicine for thousands of years.
+X: Some people are allergic to bee stings.
+X: Bees live in colonies led by a single queen.
+X: Wild bees are usually smaller than honeybees.
+W: Sonraki cümle "Onlar olmadan meyve ve sebze üretimi düşer" diyor; boşluk arıların tozlaşmadaki rolünü anlatmalı.
+
+## p2|parcomp|B2
+P: The first antibiotics were discovered by accident. In 1928, Alexander Fleming returned from holiday to find that mould had grown on one of his bacterial cultures. ___ This substance, later named penicillin, became the first widely used antibiotic and saved millions of lives.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: He noticed that the bacteria around the mould had been killed.
+X: Fleming was born in Scotland in 1881.
+X: Many scientists today work in large laboratories.
+X: The holiday had been longer than he had planned.
+X: Bacteria are found almost everywhere on Earth.
+W: "This substance" ifadesi küfün bakterileri öldüren maddesine gönderme yapıyor; boşluk bunu tanıtmalı.
+
+## p3|parcomp|C1
+P: Many cities are experimenting with car-free zones in their centres. ___ Air quality improves, noise levels fall and pedestrians feel safer. Shop owners, who initially feared losing customers, have often reported an increase in sales as more people walk through the area.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: The results of these experiments have generally been positive.
+X: Cars were invented at the end of the nineteenth century.
+X: Public transport is often crowded during rush hour.
+X: Some people prefer to live in the countryside.
+X: Electric cars are becoming increasingly popular.
+W: Sonraki cümleler olumlu sonuçları sıralıyor; boşluk bu sonuçlara giriş yapmalı.
+
+## p4|parcomp|B2
+P: Learning to play a musical instrument offers benefits beyond music itself. Studies have shown that children who take music lessons often perform better in mathematics and languages. ___ Furthermore, playing in a group teaches cooperation and patience.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: This may be because music training strengthens memory and attention.
+X: The piano was invented in Italy around 1700.
+X: However, music lessons can be very expensive.
+X: Most famous musicians started playing as adults.
+X: Some instruments are much louder than others.
+W: Boşluk matematik ve dil başarısının sebebini açıklamalı; "Furthermore" ile yeni bir fayda ekleniyor.
+
+## p5|parcomp|C1
+P: For centuries, scholars believed that the Earth was at the centre of the universe. ___ His model placed the Sun at the centre, with the planets, including Earth, moving around it. Although his ideas were initially rejected, they eventually transformed astronomy.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: In the sixteenth century, however, Copernicus proposed a radically different view.
+X: The Moon is the closest celestial body to the Earth.
+X: Many ancient cultures worshipped the Sun as a god.
+X: Telescopes today can see galaxies billions of light years away.
+X: Astronomy is one of the oldest sciences.
+W: "His model" ifadesi bir kişiye gönderme yapıyor; boşluk bu kişiyi (Kopernik) tanıtmalı.
+
+## p6|parcomp|B2
+P: Volunteering is often seen as something people do purely to help others. ___ Research shows that volunteers tend to report higher levels of happiness and lower levels of stress. Some studies even suggest that regular volunteering is linked to a longer life.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: However, it can also bring significant benefits to the volunteers themselves.
+X: Most charities rely on donations from large companies.
+X: Volunteers usually work on weekends.
+X: Therefore, people should never volunteer.
+X: Many volunteers are retired teachers.
+W: Sonraki cümleler gönüllülerin kendi kazanımlarını anlatıyor; "However" ile bu yeni fikre geçiş yapılmalı.
+
+## p7|parcomp|B2
+P: Desert plants have developed remarkable ways of surviving with very little water. Cacti, for example, store water in their thick stems. ___ Other species have extremely long roots that reach water deep underground.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Their spines, which are modified leaves, reduce the amount of water lost to the air.
+X: Deserts cover about one fifth of the Earth's land surface.
+X: Many tourists visit deserts in the winter months.
+X: Some deserts are extremely cold at night.
+X: Camels can travel long distances without drinking.
+W: Paragraf bitkilerin su tasarrufu yollarını sıralıyor; kaktüs dikenleri örneği akışa uyuyor.
+
+## p8|parcomp|C1
+P: Inflation refers to a general rise in prices over time. When inflation is moderate, it is usually considered a sign of a healthy economy. ___ In such cases, people's savings lose value rapidly, and businesses find it difficult to plan for the future.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: When it rises too quickly, however, it can cause serious economic problems.
+X: Most central banks are located in capital cities.
+X: Prices of some goods fall during sales periods.
+X: Economists study the behaviour of markets.
+X: Moderate inflation helps people save more money.
+W: "In such cases" yüksek enflasyon durumuna gönderme yapıyor; boşluk enflasyonun çok hızlı yükselmesinden bahsetmeli.
+
+## p9|parcomp|B1
+P: Breakfast is often called the most important meal of the day. ___ Without it, many people feel tired and find it hard to concentrate in the morning. Nutritionists recommend a breakfast that includes protein, fruit and whole grains.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: It provides the energy the body needs after a long night without food.
+X: Many people prefer to eat dinner late in the evening.
+X: Coffee is the most popular drink in the world.
+X: Some restaurants serve breakfast all day.
+X: Lunch is usually eaten around midday.
+W: "Without it" kahvaltıya gönderme yapıyor ve enerji eksikliğini anlatıyor; boşluk kahvaltının enerji sağladığını söylemeli.
+
+## p10|parcomp|B2
+P: Earthquakes cannot be prevented, but their effects can be reduced. ___ Buildings constructed according to these standards are much more likely to remain standing during strong tremors. Public education about what to do during an earthquake can also save many lives.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: One of the most effective measures is enforcing strict building codes.
+X: Earthquakes occur along the boundaries of tectonic plates.
+X: The largest earthquake ever recorded happened in Chile.
+X: Some animals seem to sense earthquakes before they happen.
+X: Many earthquakes happen under the sea.
+W: "these standards" ifadesi bina yönetmeliklerine gönderme yapıyor; boşluk bunları tanıtmalı.
+
+## i1|irrelevant|B2
+P: (I) Sleep is essential for both physical and mental health. (II) During sleep, the body repairs tissues and strengthens the immune system. (III) The brain also uses this time to process and store information from the day. (IV) Coffee is one of the most widely traded products in the world. (V) As a result, people who regularly sleep too little are more likely to become ill and to have problems with memory.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Parça uykunun önemini anlatıyor; kahve ticaretiyle ilgili IV. cümle konudan kopuk.
+
+## i2|irrelevant|B2
+P: (I) The Great Wall of China was built over many centuries to protect Chinese states from invasions. (II) Chinese is spoken by more people than any other language. (III) Contrary to popular belief, the wall cannot be seen with the naked eye from space. (IV) Most of the wall that survives today was constructed during the Ming dynasty. (V) Today, the wall is a UNESCO World Heritage Site and attracts millions of tourists every year.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: II
+X: I
+X: III
+X: IV
+X: V
+W: Parça Çin Seddi'ni anlatıyor; Çincenin konuşan sayısı (II) konudan kopuk.
+
+## i3|irrelevant|C1
+P: (I) Remote work has become common in many industries since 2020. (II) Employees often appreciate the time saved by not commuting. (III) Commuting by bicycle is a healthy way to get to work. (IV) However, some workers report feeling isolated from their colleagues. (V) Companies are therefore experimenting with hybrid models that combine office and home working.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Parça uzaktan çalışmanın artı ve eksilerini anlatıyor; bisikletle işe gitmek (III) akışı bozuyor.
+
+## i4|irrelevant|B2
+P: (I) Vitamin D is produced by the skin when it is exposed to sunlight. (II) It helps the body absorb calcium, which is necessary for strong bones. (III) People who spend little time outdoors may therefore develop a deficiency. (IV) In such cases, doctors may recommend supplements or foods such as oily fish and eggs. (V) Sunflowers turn their heads to follow the movement of the sun.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: V
+X: I
+X: II
+X: III
+X: IV
+W: Parça D vitaminini anlatıyor; ayçiçeklerinin güneşi takip etmesi (V) konudan kopuk.
+
+## i5|irrelevant|C1
+P: (I) Plastic pollution is one of the most serious environmental challenges of our time. (II) Every year, millions of tonnes of plastic waste end up in the oceans. (III) Plastic was first produced on a large scale in the 1950s. (IV) Sea turtles often mistake plastic bags for jellyfish and swallow them. (V) Many countries have introduced taxes on plastic bags to reduce their use.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Parça plastik kirliliğinin etkileri ve çözümleri üzerine; plastiğin ilk üretim tarihi (III) akışı kesiyor.
+
+## i6|irrelevant|B2
+P: (I) Learning a foreign language can improve career opportunities. (II) Many international companies prefer to hire employees who can communicate with clients in several languages. (III) Bilingual employees may also receive higher salaries. (IV) English has borrowed many words from French and Latin. (V) For these reasons, an increasing number of adults are enrolling in language courses.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Parça dil öğrenmenin kariyer faydalarını anlatıyor; İngilizcenin kelime kökenleri (IV) konudan kopuk.
+
+## i7|irrelevant|B2
+P: (I) Volcanoes form where molten rock from deep inside the Earth reaches the surface. (II) When pressure builds up, the volcano may erupt violently, releasing ash and lava. (III) Mount Etna in Italy is one of the most active volcanoes in Europe. (IV) Italian cuisine is famous for its pasta and pizza. (V) Scientists monitor active volcanoes closely in order to warn nearby residents of possible eruptions.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Parça yanardağları anlatıyor; İtalyan mutfağı (IV) konudan kopuk.
+
+## i8|irrelevant|C1
+P: (I) Childhood obesity has increased dramatically in many countries. (II) One major cause is the growing consumption of sugary drinks and processed foods. (III) Lack of physical activity, partly due to time spent on screens, also contributes to the problem. (IV) Many video games are now played online with people from all over the world. (V) Experts warn that obese children are at greater risk of developing diabetes and heart disease later in life.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Parça çocukluk obezitesinin nedenleri ve sonuçları üzerine; çevrimiçi oyunların küresel oynanması (IV) akışı bozuyor.
+
+## i9|irrelevant|B2
+P: (I) Bees communicate with each other in a remarkable way. (II) When a worker bee finds a good source of food, it returns to the hive and performs a special dance. (III) Honey never spoils if it is stored properly. (IV) The direction and length of the dance tell other bees where the food is located. (V) Using this information, the other bees can fly directly to the food source.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Parça arıların iletişimini anlatıyor; balın bozulmaması (III) konudan kopuk.
+
+## i10|irrelevant|C1
+P: (I) The Industrial Revolution began in Britain in the late eighteenth century. (II) Britain is an island nation surrounded by the sea. (III) New machines greatly increased the speed at which goods such as textiles could be produced. (IV) Many people moved from the countryside to cities to work in factories. (V) These changes transformed not only the economy but also the structure of society.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: II
+X: I
+X: III
+X: IV
+X: V
+W: Parça Sanayi Devrimi'nin etkilerini anlatıyor; Britanya'nın ada olması (II) akışı bozuyor.

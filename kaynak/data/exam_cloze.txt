@@ -1,0 +1,227 @@
+## c1|cloze|B2|Sağlık
+P: Regular physical activity is one of the most effective ways to protect long-term health. Studies show that adults who exercise for at least 150 minutes a week are significantly less likely (1)___ heart disease and type 2 diabetes. Exercise also benefits mental health, (2)___ it reduces stress hormones and stimulates the production of chemicals that improve mood. (3)___ these well-known advantages, a large proportion of the population remains inactive. Experts believe this is partly (4)___ modern jobs, which require people to sit for long hours. They therefore recommend (5)___ short breaks to stand up and move around during the working day.
+Q: (1)
+A: to develop
+X: developing
+X: develop
+X: to developing
+X: developed
+W: "be likely to + V1" kalıbı: less likely to develop.
+Q: (2)
+A: as
+X: although
+X: unless
+X: whereas
+X: so that
+W: İkinci kısım ilk kısmın sebebini veriyor: "as" (çünkü).
+Q: (3)
+A: Despite
+X: Because of
+X: Although
+X: Instead of
+X: In addition to
+W: Arkasından isim öbeği geliyor ve zıtlık var: Despite.
+Q: (4)
+A: due to
+X: in spite of
+X: in order to
+X: as well as
+X: according to
+W: Sebep bildiren edat öbeği: due to modern jobs.
+Q: (5)
+A: taking
+X: to take
+X: take
+X: to taking
+X: taken
+W: "recommend" fiilinden sonra -ing gelir: recommend taking.
+
+## c2|cloze|C1|Çevre
+P: Deforestation is a major contributor to climate change. Trees absorb carbon dioxide from the atmosphere and store it in their wood, leaves and roots; (1)___, when forests are cleared or burned, much of this stored carbon is released back into the air. The Amazon rainforest, (2)___ is often described as the lungs of the planet, has lost around a fifth of its area in the last fifty years. Scientists warn that if deforestation continues at its current rate, parts of the forest (3)___ into dry grassland within decades. Such a change would not only accelerate global warming but also threaten the survival of countless species (4)___ exist nowhere else on Earth. Protecting the remaining forests, therefore, is widely regarded (5)___ one of the most urgent environmental priorities.
+Q: (1)
+A: consequently
+X: nevertheless
+X: in contrast
+X: for instance
+X: similarly
+W: Ağaçların karbon depolaması → kesildiklerinde karbon salınması: sebep-sonuç, consequently.
+Q: (2)
+A: which
+X: that
+X: where
+X: who
+X: whose
+W: Virgüllü (tanımlamayan) ilgi cümlesinde nesne için "which"; "that" kullanılamaz.
+Q: (3)
+A: could turn
+X: could have turned
+X: had turned
+X: have turned
+X: turned
+W: Gelecekle ilgili bir olasılık ve "if ... continues" 1. tip koşul: could turn.
+Q: (4)
+A: that
+X: where
+X: whose
+X: what
+X: when
+W: Türleri (species) niteleyen tanımlayıcı ilgi cümlesi: that.
+Q: (5)
+A: as
+X: like
+X: for
+X: to
+X: by
+W: "be regarded as" kalıbı: ... olarak görülmek.
+
+## c3|cloze|B2|Teknoloji
+P: Artificial intelligence is already changing the way many people work. In some fields, AI systems are used to carry out repetitive tasks, (1)___ employees to focus on more creative activities. In medicine, for example, algorithms can analyse thousands of medical images in the time (2)___ a doctor to examine just a few. (3)___, these technologies also raise important concerns. Many workers fear that their jobs will be replaced by machines, and experts disagree about how many positions (4)___ in the coming years. Most agree, however, that people will need to keep learning new skills throughout their lives if they want to (5)___ with technological change.
+Q: (1)
+A: allowing
+X: allowed
+X: to allow
+X: allows
+X: having allowed
+W: Ana cümlenin sonucunu anlatan participle: allowing (= which allows).
+Q: (2)
+A: it takes
+X: it has taken
+X: that takes
+X: what takes
+X: it took
+W: "in the time it takes someone to do something" kalıbı; genel gerçek için present simple.
+Q: (3)
+A: However
+X: Therefore
+X: Moreover
+X: For example
+X: As a result
+W: Olumlu bilgiden endişelere geçiş: zıtlık, However.
+Q: (4)
+A: will be lost
+X: have been lost
+X: were lost
+X: will lose
+X: had been lost
+W: Gelecek ("in the coming years") ve edilgen anlam (işler kaybedilecek): will be lost.
+Q: (5)
+A: keep up
+X: put up
+X: give up
+X: make up
+X: take up
+W: "keep up with" = ayak uydurmak.
+
+## c4|cloze|B1|Eğitim
+P: Learning a new language as an adult can be challenging, but it is (1)___ impossible. Adults actually have some advantages over children: they can understand grammar rules more easily and use strategies they (2)___ in other areas of life. The most important factor is regular practice. Studying for fifteen minutes every day is more effective (3)___ studying for two hours once a week. It also helps to use the language in real situations, (4)___ watching films, reading news or talking with native speakers. Learners who are not afraid of making mistakes usually make faster progress (5)___ those who wait until they feel perfect.
+Q: (1)
+A: by no means
+X: in no time
+X: at least
+X: by all means
+X: at once
+W: "by no means" = asla, hiç de (... değil): hiç de imkânsız değil.
+Q: (2)
+A: have developed
+X: will develop
+X: are developing
+X: had been developing
+X: develop to
+W: Hayatın diğer alanlarında şimdiye kadar geliştirdikleri stratejiler: present perfect.
+Q: (3)
+A: than
+X: as
+X: from
+X: like
+X: then
+W: Karşılaştırma: more effective than.
+Q: (4)
+A: such as
+X: as if
+X: so as
+X: as long as
+X: such that
+W: Örnek verme: such as.
+Q: (5)
+A: than
+X: as
+X: then
+X: from
+X: to
+W: "faster progress than" karşılaştırması.
+
+## c5|cloze|C1|Sosyal bilimler
+P: Social media has transformed the way news is produced and consumed. (1)___ traditional newspapers employed professional editors to check facts, information on social platforms can be shared instantly by anyone. This speed has obvious benefits during emergencies, (2)___ it has also made it easier for false stories to spread. Research shows that misleading posts are often shared more widely than accurate ones, (3)___ because they tend to provoke stronger emotional reactions. Several platforms have introduced warning labels and fact-checking partnerships, but critics argue that these measures are applied too slowly (4)___ effective. Ultimately, many experts believe that improving media literacy is the best defence, as users who can evaluate sources critically are less likely (5)___ by misinformation.
+Q: (1)
+A: Whereas
+X: Because
+X: Unless
+X: In case
+X: So that
+W: Geleneksel gazeteler ile sosyal medyayı karşılaştırıyor: Whereas (oysa).
+Q: (2)
+A: but
+X: so
+X: because
+X: and so
+X: or
+W: Fayda ile zarar arasında zıtlık: but.
+Q: (3)
+A: partly
+X: hardly
+X: rarely
+X: barely
+X: scarcely
+W: "partly because" = kısmen ... yüzünden. Diğerleri olumsuz anlam verir.
+Q: (4)
+A: to be
+X: being
+X: be
+X: for being
+X: that being
+W: "too + sıfat/zarf + to + V1" kalıbı: too slowly to be effective.
+Q: (5)
+A: to be misled
+X: to mislead
+X: misleading
+X: being misled
+X: to have misled
+W: "be likely to" + edilgen (yanıltılmak): to be misled.
+
+## c6|cloze|B2|Tarih
+P: The printing press, developed by Johannes Gutenberg around 1440, is often considered one of the most important inventions in human history. Before its invention, books (1)___ by hand, which made them extremely expensive and rare. Gutenberg's machine made it possible to produce hundreds of copies in the time a scribe needed (2)___ a single one. As books became cheaper, literacy rates rose and ideas spread more quickly (3)___ ever before. The press played a key role in the scientific revolution, (4)___ researchers could now share their findings with colleagues across Europe. (5)___ its impact, it is hardly surprising that historians compare the printing press to the internet.
+Q: (1)
+A: had to be copied
+X: must copy
+X: had copied
+X: should have copied
+X: were copying
+W: Geçmişte zorunluluk + edilgen (kitaplar elle kopyalanmak zorundaydı): had to be copied.
+Q: (2)
+A: to copy
+X: copying
+X: copied
+X: for copy
+X: copy
+W: "the time someone needs to do something": to copy.
+Q: (3)
+A: than
+X: as
+X: then
+X: like
+X: since
+W: "more quickly than ever before" karşılaştırması.
+Q: (4)
+A: as
+X: although
+X: unless
+X: even if
+X: whereas
+W: Sebep bildiriyor: araştırmacılar artık bulgularını paylaşabildiği için.
+Q: (5)
+A: Given
+X: Despite
+X: Although
+X: Unless
+X: In case
+W: "Given its impact" = etkisi göz önüne alındığında.

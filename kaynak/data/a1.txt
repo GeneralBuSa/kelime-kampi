@@ -1,0 +1,877 @@
+a|det|bir
+about|prep|hakkında; yaklaşık
+above|prep|üstünde, yukarısında
+across|prep|karşısında, bir uçtan diğerine
+action|n|eylem, hareket
+activity|n|etkinlik, faaliyet
+actor|n|erkek oyuncu, aktör
+address|n|adres
+adult|n|yetişkin
+advice|n|tavsiye, öğüt
+afraid|adj|korkmuş, korkan
+after|prep|sonra
+afternoon|n|öğleden sonra
+again|adv|tekrar, yine
+age|n|yaş
+ago|adv|önce (zaman)
+agree|v|katılmak, aynı fikirde olmak
+air|n|hava
+airport|n|havalimanı
+all|det|hepsi, bütün
+also|adv|ayrıca, de/da
+always|adv|her zaman
+amazing|adj|harika, şaşırtıcı
+and|conj|ve
+angry|adj|kızgın
+animal|n|hayvan
+another|det|başka bir, bir diğer
+answer|n|cevap
+any|det|herhangi; hiç
+anyone|pron|herhangi biri, kimse
+anything|pron|herhangi bir şey, hiçbir şey
+apartment|n|daire, apartman dairesi
+apple|n|elma
+April|n|Nisan
+area|n|alan, bölge
+arm|n|kol
+around|prep|etrafında; yaklaşık
+arrive|v|varmak, ulaşmak
+art|n|sanat
+article|n|makale; tanımlık
+artist|n|sanatçı
+as|prep|olarak; -dığı gibi
+ask|v|sormak; istemek
+at|prep|-de/-da (yer, zaman)
+August|n|Ağustos
+aunt|n|teyze, hala
+autumn|n|sonbahar
+away|adv|uzakta, uzağa
+baby|n|bebek
+back|n|sırt; geri
+bad|adj|kötü
+bag|n|çanta
+ball|n|top
+banana|n|muz
+band|n|müzik grubu; bant
+bank|n|banka
+bath|n|banyo, küvet
+bathroom|n|banyo
+be|v|olmak
+beach|n|plaj, sahil
+beautiful|adj|güzel
+because|conj|çünkü
+become|v|olmak, haline gelmek
+bed|n|yatak
+bedroom|n|yatak odası
+beer|n|bira
+before|prep|önce
+begin|v|başlamak
+beginning|n|başlangıç
+behind|prep|arkasında
+believe|v|inanmak
+below|prep|altında, aşağısında
+best|adj|en iyi
+better|adj|daha iyi
+between|prep|arasında
+bicycle|n|bisiklet
+big|adj|büyük
+bike|n|bisiklet
+bill|n|fatura, hesap
+bird|n|kuş
+birthday|n|doğum günü
+black|adj|siyah
+blog|n|blog
+blonde|adj|sarışın
+blue|adj|mavi
+boat|n|tekne
+body|n|vücut, beden
+book|n|kitap
+boot|n|bot, çizme
+bored|adj|sıkılmış
+boring|adj|sıkıcı
+born|adj|doğmuş
+both|det|her ikisi
+bottle|n|şişe
+box|n|kutu
+boy|n|erkek çocuk
+boyfriend|n|erkek arkadaş (sevgili)
+bread|n|ekmek
+break|v|kırmak; ara vermek
+breakfast|n|kahvaltı
+bring|v|getirmek
+brother|n|erkek kardeş
+brown|adj|kahverengi
+build|v|inşa etmek
+building|n|bina
+bus|n|otobüs
+business|n|iş, ticaret
+busy|adj|meşgul
+but|conj|ama, fakat
+butter|n|tereyağı
+buy|v|satın almak
+by|prep|tarafından; yanında
+bye|int|hoşça kal
+cafe|n|kafe
+cake|n|kek, pasta
+call|v|aramak; çağırmak
+camera|n|fotoğraf makinesi
+can|v|-ebilmek
+car|n|araba
+card|n|kart
+career|n|kariyer, meslek
+carrot|n|havuç
+carry|v|taşımak
+cat|n|kedi
+cent|n|sent
+centre|n|merkez
+century|n|yüzyıl
+chair|n|sandalye
+change|v|değiştirmek
+chart|n|grafik, çizelge
+cheap|adj|ucuz
+check|v|kontrol etmek
+cheese|n|peynir
+chicken|n|tavuk
+child|n|çocuk
+chocolate|n|çikolata
+choose|v|seçmek
+cinema|n|sinema
+city|n|şehir
+class|n|sınıf; ders
+classroom|n|sınıf (oda)
+clean|adj|temiz
+climb|v|tırmanmak
+clock|n|saat (duvar)
+close|v|kapatmak
+clothes|n|giysiler
+club|n|kulüp
+coat|n|palto, ceket
+coffee|n|kahve
+cold|adj|soğuk
+college|n|yüksekokul, üniversite
+colour|n|renk
+come|v|gelmek
+common|adj|yaygın, ortak
+company|n|şirket; arkadaşlık
+compare|v|karşılaştırmak
+complete|v|tamamlamak
+computer|n|bilgisayar
+concert|n|konser
+conversation|n|sohbet, konuşma
+cook|v|yemek pişirmek
+cooking|n|yemek pişirme
+cool|adj|serin; havalı
+correct|adj|doğru
+cost|v|mal olmak, tutmak
+could|v|-ebilirdi
+country|n|ülke
+course|n|kurs; yol
+cousin|n|kuzen
+cow|n|inek
+cream|n|krema
+create|v|yaratmak, oluşturmak
+culture|n|kültür
+cup|n|fincan
+customer|n|müşteri
+cut|v|kesmek
+dad|n|baba
+dance|v|dans etmek
+dancer|n|dansçı
+dangerous|adj|tehlikeli
+dark|adj|karanlık; koyu
+date|n|tarih; randevu
+daughter|n|kız evlat
+day|n|gün
+dear|adj|sevgili, aziz
+December|n|Aralık
+decide|v|karar vermek
+delicious|adj|lezzetli
+describe|v|tarif etmek, betimlemek
+description|n|tanım, betimleme
+design|n|tasarım
+desk|n|çalışma masası
+detail|n|ayrıntı
+dialogue|n|diyalog
+dictionary|n|sözlük
+die|v|ölmek
+diet|n|diyet, beslenme
+difference|n|fark
+different|adj|farklı
+difficult|adj|zor
+dinner|n|akşam yemeği
+dirty|adj|kirli
+discuss|v|tartışmak, görüşmek
+dish|n|tabak; yemek
+do|v|yapmak
+doctor|n|doktor
+dog|n|köpek
+dollar|n|dolar
+door|n|kapı
+down|adv|aşağı
+downstairs|adv|alt katta
+draw|v|çizmek
+dress|n|elbise
+drink|v|içmek
+drive|v|araba sürmek
+driver|n|sürücü
+during|prep|esnasında, boyunca
+each|det|her bir
+ear|n|kulak
+early|adj|erken
+east|n|doğu
+easy|adj|kolay
+eat|v|yemek
+egg|n|yumurta
+eight|num|sekiz
+eighteen|num|on sekiz
+eighty|num|seksen
+elephant|n|fil
+eleven|num|on bir
+else|adv|başka
+email|n|e-posta
+end|n|son
+enjoy|v|keyif almak, tadını çıkarmak
+enough|det|yeterli
+every|det|her
+everybody|pron|herkes
+everyone|pron|herkes
+everything|pron|her şey
+exam|n|sınav
+example|n|örnek
+excited|adj|heyecanlı
+exciting|adj|heyecan verici
+exercise|n|egzersiz, alıştırma
+expensive|adj|pahalı
+explain|v|açıklamak
+extra|adj|ekstra, ilave
+eye|n|göz
+face|n|yüz
+fact|n|gerçek, olgu
+fall|v|düşmek
+false|adj|yanlış, sahte
+family|n|aile
+famous|adj|ünlü
+fantastic|adj|harika
+far|adv|uzak
+farm|n|çiftlik
+farmer|n|çiftçi
+fast|adj|hızlı
+fat|adj|şişman
+father|n|baba
+favourite|adj|en sevilen, favori
+February|n|Şubat
+feel|v|hissetmek
+feeling|n|duygu, his
+festival|n|festival
+few|det|az, birkaç
+fifteen|num|on beş
+fifty|num|elli
+film|n|film
+final|adj|son, nihai
+find|v|bulmak
+fine|adj|iyi, güzel
+finish|v|bitirmek
+fire|n|ateş, yangın
+first|adj|ilk, birinci
+fish|n|balık
+five|num|beş
+flat|n|daire
+flight|n|uçuş
+floor|n|zemin; kat
+flower|n|çiçek
+fly|v|uçmak
+follow|v|takip etmek, izlemek
+food|n|yiyecek
+foot|n|ayak
+football|n|futbol
+for|prep|için
+forget|v|unutmak
+form|n|form; biçim
+forty|num|kırk
+four|num|dört
+fourteen|num|on dört
+free|adj|özgür; ücretsiz
+Friday|n|Cuma
+friend|n|arkadaş
+friendly|adj|arkadaş canlısı
+from|prep|-den/-dan
+front|n|ön
+fruit|n|meyve
+full|adj|dolu; tok
+fun|n|eğlence
+funny|adj|komik
+future|n|gelecek
+game|n|oyun
+garden|n|bahçe
+geography|n|coğrafya
+get|v|almak, elde etmek; olmak
+girl|n|kız çocuk
+girlfriend|n|kız arkadaş (sevgili)
+give|v|vermek
+glass|n|bardak; cam
+go|v|gitmek
+good|adj|iyi
+goodbye|int|hoşça kal
+grandfather|n|büyükbaba, dede
+grandmother|n|büyükanne, nine
+grandparent|n|büyükanne/büyükbaba
+great|adj|harika; büyük
+green|adj|yeşil
+grey|adj|gri
+group|n|grup
+grow|v|büyümek; yetiştirmek
+guess|v|tahmin etmek
+guitar|n|gitar
+gym|n|spor salonu
+hair|n|saç
+half|n|yarım, yarı
+hand|n|el
+happen|v|olmak, meydana gelmek
+happy|adj|mutlu
+hard|adj|zor; sert
+hat|n|şapka
+hate|v|nefret etmek
+have|v|sahip olmak
+he|pron|o (erkek)
+head|n|baş, kafa
+health|n|sağlık
+healthy|adj|sağlıklı
+hear|v|duymak
+hello|int|merhaba
+help|v|yardım etmek
+her|pron|onu, onun (kadın)
+here|adv|burada, buraya
+hey|int|hey
+hi|int|selam
+high|adj|yüksek
+him|pron|onu, ona (erkek)
+his|det|onun (erkek)
+history|n|tarih (bilim)
+hobby|n|hobi
+holiday|n|tatil
+home|n|ev, yuva
+homework|n|ev ödevi
+hope|v|ummak
+horse|n|at
+hospital|n|hastane
+hot|adj|sıcak
+hotel|n|otel
+hour|n|saat (süre)
+house|n|ev
+how|adv|nasıl
+however|adv|ancak, bununla birlikte
+hundred|num|yüz
+hungry|adj|aç
+husband|n|koca, eş
+I|pron|ben
+ice|n|buz
+idea|n|fikir
+if|conj|eğer
+imagine|v|hayal etmek
+important|adj|önemli
+improve|v|geliştirmek
+in|prep|içinde
+include|v|içermek, dahil etmek
+information|n|bilgi
+interest|n|ilgi; faiz
+interested|adj|ilgili, meraklı
+interesting|adj|ilginç
+internet|n|internet
+interview|n|mülakat, röportaj
+into|prep|içine
+introduce|v|tanıtmak
+island|n|ada
+it|pron|o (cansız)
+its|det|onun (cansız)
+jacket|n|ceket
+January|n|Ocak
+jeans|n|kot pantolon
+job|n|iş, meslek
+join|v|katılmak
+journey|n|yolculuk
+juice|n|meyve suyu
+July|n|Temmuz
+June|n|Haziran
+just|adv|sadece; az önce
+keep|v|tutmak, saklamak
+key|n|anahtar
+kilometre|n|kilometre
+kind|n|tür, çeşit
+kitchen|n|mutfak
+know|v|bilmek, tanımak
+land|n|kara, toprak
+language|n|dil
+large|adj|büyük, geniş
+last|adj|son; geçen
+late|adj|geç
+later|adv|daha sonra
+laugh|v|gülmek
+learn|v|öğrenmek
+leave|v|ayrılmak; bırakmak
+left|adj|sol
+leg|n|bacak
+lesson|n|ders
+let|v|izin vermek
+letter|n|mektup; harf
+library|n|kütüphane
+lie|v|uzanmak; yalan söylemek
+life|n|hayat
+like|v|sevmek, hoşlanmak
+line|n|çizgi; satır
+lion|n|aslan
+list|n|liste
+listen|v|dinlemek
+little|adj|küçük; az
+live|v|yaşamak
+local|adj|yerel
+long|adj|uzun
+look|v|bakmak
+lose|v|kaybetmek
+lot|n|çok, pek çok
+love|v|sevmek, aşık olmak
+lunch|n|öğle yemeği
+machine|n|makine
+magazine|n|dergi
+main|adj|ana, temel
+make|v|yapmak
+man|n|adam
+many|det|birçok
+map|n|harita
+March|n|Mart
+market|n|pazar, market
+married|adj|evli
+match|n|maç; kibrit
+May|n|Mayıs
+maybe|adv|belki
+me|pron|beni, bana
+meal|n|öğün, yemek
+mean|v|anlamına gelmek; kastetmek
+meaning|n|anlam
+meat|n|et
+meet|v|buluşmak, tanışmak
+meeting|n|toplantı
+member|n|üye
+menu|n|menü
+message|n|mesaj
+metre|n|metre
+midnight|n|gece yarısı
+mile|n|mil
+milk|n|süt
+million|num|milyon
+minute|n|dakika
+miss|v|özlemek; kaçırmak
+mistake|n|hata
+model|n|model
+modern|adj|modern
+moment|n|an
+Monday|n|Pazartesi
+money|n|para
+month|n|ay (takvim)
+more|det|daha fazla
+morning|n|sabah
+most|det|en çok
+mother|n|anne
+mountain|n|dağ
+mouse|n|fare
+mouth|n|ağız
+move|v|hareket etmek; taşınmak
+movie|n|film
+much|det|çok
+mum|n|anne
+museum|n|müze
+music|n|müzik
+must|v|-meli/-malı
+my|det|benim
+name|n|isim, ad
+natural|adj|doğal
+near|prep|yakınında
+need|v|ihtiyaç duymak
+negative|adj|olumsuz
+neighbour|n|komşu
+never|adv|asla, hiç
+new|adj|yeni
+news|n|haber
+newspaper|n|gazete
+next|adj|sonraki, gelecek
+next to|prep|yanında
+nice|adj|hoş, güzel
+night|n|gece
+nine|num|dokuz
+nineteen|num|on dokuz
+ninety|num|doksan
+no|det|hayır; hiç
+nobody|pron|hiç kimse
+north|n|kuzey
+nose|n|burun
+not|adv|değil
+note|n|not
+nothing|pron|hiçbir şey
+November|n|Kasım
+now|adv|şimdi
+number|n|sayı, numara
+nurse|n|hemşire
+object|n|nesne
+o'clock|adv|saat (tam)
+October|n|Ekim
+of|prep|-in/-ın
+off|adv|kapalı; uzağa
+office|n|ofis
+often|adv|sık sık
+oh|int|oh
+OK|adj|tamam
+old|adj|yaşlı, eski
+on|prep|üzerinde
+once|adv|bir kez; bir zamanlar
+one|num|bir
+onion|n|soğan
+online|adj|çevrimiçi
+only|adv|sadece
+open|v|açmak
+opinion|n|fikir, görüş
+opposite|adj|karşı, zıt
+or|conj|veya
+orange|n|portakal; turuncu
+order|n|sipariş; düzen
+other|adj|diğer
+our|det|bizim
+out|adv|dışarı
+outside|adv|dışarıda
+over|prep|üzerinde; boyunca
+own|adj|kendi
+page|n|sayfa
+paint|v|boyamak
+painting|n|tablo, resim
+pair|n|çift
+paper|n|kağıt
+paragraph|n|paragraf
+parent|n|ebeveyn
+park|n|park
+part|n|parça, bölüm
+partner|n|ortak, partner
+party|n|parti
+passport|n|pasaport
+past|n|geçmiş
+pay|v|ödemek
+pen|n|tükenmez kalem
+pencil|n|kurşun kalem
+people|n|insanlar
+pepper|n|biber
+perfect|adj|mükemmel
+period|n|dönem, süre
+person|n|kişi
+personal|adj|kişisel
+phone|n|telefon
+photo|n|fotoğraf
+photograph|n|fotoğraf
+phrase|n|ifade, söz öbeği
+piano|n|piyano
+picture|n|resim
+piece|n|parça
+pig|n|domuz
+pink|adj|pembe
+place|n|yer
+plan|n|plan
+plane|n|uçak
+plant|n|bitki
+play|v|oynamak; çalmak
+player|n|oyuncu
+please|adv|lütfen
+point|n|nokta; puan
+police|n|polis
+policeman|n|polis memuru
+pool|n|havuz
+poor|adj|fakir; zavallı
+popular|adj|popüler
+positive|adj|olumlu
+possible|adj|mümkün
+post|n|posta; gönderi
+potato|n|patates
+pound|n|sterlin; libre
+practice|n|pratik, alıştırma
+practise|v|pratik yapmak
+prefer|v|tercih etmek
+prepare|v|hazırlamak
+present|n|hediye; şimdiki zaman
+pretty|adj|güzel, hoş
+price|n|fiyat
+probably|adv|muhtemelen
+problem|n|sorun
+product|n|ürün
+programme|n|program
+project|n|proje
+purple|adj|mor
+put|v|koymak
+question|n|soru
+quick|adj|hızlı, çabuk
+quickly|adv|hızlıca
+quiet|adj|sessiz, sakin
+quite|adv|oldukça
+radio|n|radyo
+rain|n|yağmur
+read|v|okumak
+reader|n|okuyucu
+reading|n|okuma
+ready|adj|hazır
+real|adj|gerçek
+really|adv|gerçekten
+reason|n|sebep, neden
+red|adj|kırmızı
+relax|v|rahatlamak
+remember|v|hatırlamak
+repeat|v|tekrarlamak
+report|n|rapor
+restaurant|n|restoran
+result|n|sonuç
+return|v|geri dönmek
+rice|n|pirinç, pilav
+rich|adj|zengin
+ride|v|binmek, sürmek
+right|adj|doğru; sağ
+river|n|nehir
+road|n|yol
+room|n|oda
+routine|n|rutin
+rule|n|kural
+run|v|koşmak
+sad|adj|üzgün
+salad|n|salata
+salt|n|tuz
+same|adj|aynı
+sandwich|n|sandviç
+Saturday|n|Cumartesi
+say|v|söylemek
+school|n|okul
+science|n|bilim
+scientist|n|bilim insanı
+sea|n|deniz
+second|adj|ikinci; saniye
+section|n|bölüm, kısım
+see|v|görmek
+sell|v|satmak
+send|v|göndermek
+sentence|n|cümle
+September|n|Eylül
+seven|num|yedi
+seventeen|num|on yedi
+seventy|num|yetmiş
+share|v|paylaşmak
+she|pron|o (kadın)
+sheep|n|koyun
+shirt|n|gömlek
+shoe|n|ayakkabı
+shop|n|dükkan
+shopping|n|alışveriş
+short|adj|kısa
+should|v|-meli (tavsiye)
+show|v|göstermek
+shower|n|duş
+sick|adj|hasta
+similar|adj|benzer
+sing|v|şarkı söylemek
+singer|n|şarkıcı
+sister|n|kız kardeş
+sit|v|oturmak
+situation|n|durum
+six|num|altı
+sixteen|num|on altı
+sixty|num|altmış
+skill|n|beceri
+skirt|n|etek
+sleep|v|uyumak
+slow|adj|yavaş
+small|adj|küçük
+snake|n|yılan
+snow|n|kar
+so|adv|çok; bu yüzden
+some|det|biraz, bazı
+somebody|pron|birisi
+someone|pron|birisi
+something|pron|bir şey
+sometimes|adv|bazen
+son|n|oğul
+song|n|şarkı
+soon|adv|yakında
+sorry|adj|üzgün; özür dilerim
+sound|n|ses
+soup|n|çorba
+south|n|güney
+space|n|uzay; boşluk
+speak|v|konuşmak
+special|adj|özel
+spell|v|hecelemek
+spend|v|harcamak; geçirmek
+sport|n|spor
+spring|n|ilkbahar
+stand|v|ayakta durmak
+star|n|yıldız
+start|v|başlamak
+statement|n|ifade, beyan
+station|n|istasyon
+stay|v|kalmak
+still|adv|hâlâ
+stop|v|durmak, durdurmak
+story|n|hikaye
+street|n|sokak, cadde
+strong|adj|güçlü
+student|n|öğrenci
+study|v|ders çalışmak
+style|n|tarz, stil
+subject|n|konu; ders
+success|n|başarı
+sugar|n|şeker
+summer|n|yaz
+sun|n|güneş
+Sunday|n|Pazar
+supermarket|n|süpermarket
+sure|adj|emin
+sweater|n|kazak
+swim|v|yüzmek
+swimming|n|yüzme
+table|n|masa; tablo
+take|v|almak, götürmek
+talk|v|konuşmak
+tall|adj|uzun boylu
+taxi|n|taksi
+tea|n|çay
+teach|v|öğretmek
+teacher|n|öğretmen
+team|n|takım
+teenager|n|ergen, genç
+telephone|n|telefon
+television|n|televizyon
+tell|v|anlatmak, söylemek
+ten|num|on
+tennis|n|tenis
+terrible|adj|korkunç, berbat
+test|n|test, sınav
+text|n|metin
+than|conj|-den (karşılaştırma)
+thank|v|teşekkür etmek
+thanks|int|teşekkürler
+that|det|şu, o
+the|det|belirli tanımlık
+theatre|n|tiyatro
+their|det|onların
+them|pron|onları
+then|adv|sonra; o zaman
+there|adv|orada
+they|pron|onlar
+thing|n|şey
+think|v|düşünmek
+third|adj|üçüncü
+thirsty|adj|susamış
+thirteen|num|on üç
+thirty|num|otuz
+this|det|bu
+thousand|num|bin
+three|num|üç
+through|prep|içinden, boyunca
+Thursday|n|Perşembe
+ticket|n|bilet
+time|n|zaman; kez
+tired|adj|yorgun
+title|n|başlık, unvan
+to|prep|-e/-a
+today|adv|bugün
+together|adv|birlikte
+toilet|n|tuvalet
+tomato|n|domates
+tomorrow|adv|yarın
+tonight|adv|bu gece
+too|adv|de/da; çok fazla
+tooth|n|diş
+topic|n|konu
+tourist|n|turist
+town|n|kasaba
+traffic|n|trafik
+train|n|tren
+travel|v|seyahat etmek
+tree|n|ağaç
+trip|n|gezi
+trousers|n|pantolon
+true|adj|doğru, gerçek
+try|v|denemek
+T-shirt|n|tişört
+Tuesday|n|Salı
+turn|v|dönmek, çevirmek
+TV|n|televizyon
+twelve|num|on iki
+twenty|num|yirmi
+twice|adv|iki kez
+two|num|iki
+type|n|tür, tip
+umbrella|n|şemsiye
+uncle|n|amca, dayı
+under|prep|altında
+understand|v|anlamak
+university|n|üniversite
+until|prep|-e kadar
+up|adv|yukarı
+upstairs|adv|üst katta
+us|pron|bizi, bize
+use|v|kullanmak
+useful|adj|yararlı, kullanışlı
+usually|adv|genellikle
+vacation|n|tatil
+vegetable|n|sebze
+very|adv|çok
+video|n|video
+village|n|köy
+visit|v|ziyaret etmek
+visitor|n|ziyaretçi
+wait|v|beklemek
+waiter|n|garson
+wake|v|uyanmak
+walk|v|yürümek
+wall|n|duvar
+want|v|istemek
+warm|adj|ılık, sıcak
+wash|v|yıkamak
+watch|v|izlemek
+water|n|su
+way|n|yol; yöntem
+we|pron|biz
+wear|v|giymek
+weather|n|hava durumu
+website|n|internet sitesi
+Wednesday|n|Çarşamba
+week|n|hafta
+weekend|n|hafta sonu
+welcome|int|hoş geldiniz
+well|adv|iyi
+west|n|batı
+what|pron|ne
+when|adv|ne zaman
+where|adv|nerede
+which|pron|hangi
+white|adj|beyaz
+who|pron|kim
+why|adv|neden
+wife|n|eş (kadın), karı
+will|v|-ecek (gelecek)
+win|v|kazanmak
+window|n|pencere
+wine|n|şarap
+winter|n|kış
+with|prep|ile
+without|prep|-sız/-siz
+woman|n|kadın
+wonderful|adj|harika
+word|n|kelime
+work|v|çalışmak
+worker|n|işçi
+world|n|dünya
+would|v|-erdi (koşul)
+write|v|yazmak
+writer|n|yazar
+writing|n|yazı, yazma
+wrong|adj|yanlış
+yeah|adv|evet
+year|n|yıl
+yellow|adj|sarı
+yes|adv|evet
+yesterday|adv|dün
+you|pron|sen, siz
+young|adj|genç
+your|det|senin, sizin
+yourself|pron|kendin

@@ -1,0 +1,464 @@
+## r11|reading|B2|Sağlık
+P: Vaccination does not only protect the person who receives the injection. When a large enough share of a population is immune, a virus finds it hard to move from one host to another, a phenomenon known as herd immunity. This is especially important for people who cannot be vaccinated, such as infants or patients with weakened immune systems. Public-health campaigns therefore aim at high coverage rather than at individual protection alone. Critics sometimes argue that rare side effects make vaccines too risky, but large studies consistently show that the diseases themselves cause far more harm than the vaccines designed to prevent them. The historical disappearance of smallpox and the sharp decline of polio are among the clearest illustrations of this point.
+Q: The passage is mainly concerned with ___.
+A: how widespread vaccination can protect even those who are not vaccinated
+X: the chemical composition of modern vaccines
+X: why infants should never receive any injection
+X: the economic cost of public-health campaigns
+X: how smallpox was first identified in laboratories
+W: Parça sürü bağışıklığını ve yüksek kapsamanın bireysel korumadan öte anlamını anlatıyor.
+Q: According to the passage, herd immunity is valuable because ___.
+A: it helps people who cannot be vaccinated stay safer
+X: it makes side effects of vaccines completely disappear
+X: it allows viruses to spread more slowly among the vaccinated only
+X: it replaces the need for any further medical research
+X: it proves that all diseases will eventually vanish
+W: Sürü bağışıklığının özellikle aşılanamayanlar için önemli olduğu açıkça belirtiliyor.
+Q: It can be inferred that the author regards vaccine side effects as ___.
+A: real but much less dangerous than the diseases vaccines prevent
+X: the main reason vaccination programmes should be stopped
+X: a problem that large studies have been unable to measure
+X: more harmful than smallpox and polio combined
+X: irrelevant because they never occur
+W: Yan etkiler nadir kabul ediliyor ve hastalıkların zararıyla karşılaştırılıyor; yani ciddiye alınıyor ama abartılmıyor.
+Q: The word "coverage" in the passage is closest in meaning to ___.
+A: the proportion of people who have been vaccinated
+X: the price of a single dose
+X: the length of a hospital stay
+X: the number of laboratories in a country
+X: the speed at which a virus mutates
+W: "high coverage" aşılama oranının yüksekliği anlamında kullanılıyor.
+
+## r12|reading|C1|Sosyal bilimler
+P: Rapid urbanisation has transformed the social geography of many countries. Millions of people have left rural areas in search of work, education and health services, concentrating economic activity in a handful of large cities. While this shift can raise average incomes, it also produces overcrowded housing, strained transport systems and sharp inequalities between neighbourhoods. Sociologists note that newcomers often rely on informal networks of relatives rather than on official institutions, which may delay their access to legal employment. At the same time, cities remain engines of innovation because they bring together people with different skills. Policy makers therefore face a double task: they must keep cities attractive as centres of opportunity without ignoring the villages that lose their working-age population.
+Q: What is the main idea of the passage?
+A: Urban growth creates both economic opportunities and serious social costs
+X: Rural life has become more attractive than city life in recent decades
+X: Informal networks have replaced all official institutions in large cities
+X: Transport systems are the only problem caused by urbanisation
+X: Innovation in cities depends entirely on government laboratories
+W: Parça kentleşmenin hem gelir/inovasyon hem de konut, eşitsizlik ve kırın boşalması gibi maliyetlerini birlikte ele alıyor.
+Q: According to the passage, newcomers to cities often ___.
+A: turn first to family networks instead of official channels
+X: immediately obtain legal employment through the state
+X: refuse to live in overcrowded housing
+X: return to villages as soon as they find work
+X: avoid education and health services
+W: Yeni gelenlerin resmi kurumlar yerine akraba ağlarına yaslandığı belirtiliyor.
+Q: The author suggests that policy makers should ___.
+A: support cities as places of opportunity while also attending to depopulated rural areas
+X: discourage all further movement from villages to cities
+X: abolish informal networks of relatives
+X: concentrate every public service in a single capital
+X: ignore housing shortages until incomes rise
+W: Son cümle çifte görevi açıkça söylüyor.
+Q: The phrase "strained transport systems" refers to systems that are ___.
+A: under too much pressure to work well
+X: newly built and still unused
+X: cheaper than rural roads
+X: reserved for tourists only
+X: independent of population growth
+W: "strained" = aşırı yük altında, zorlanan.
+
+## r13|reading|B2|Fen
+P: Nitrogen is essential for life because it is a building block of proteins and DNA. Although about 78 percent of the atmosphere consists of nitrogen gas, most living things cannot use this form directly. Certain bacteria convert atmospheric nitrogen into compounds that plants can absorb, a process called nitrogen fixation. Other bacteria later return nitrogen to the air, completing the cycle. Human activity has greatly altered this balance. The industrial production of fertilisers now fixes more nitrogen than all natural processes combined, which has increased crop yields but also polluted rivers and coastal waters. Scientists therefore argue that feeding a growing population will require more efficient use of fertilisers, not simply larger quantities.
+Q: The passage primarily discusses ___.
+A: how nitrogen moves through nature and how humans have changed that movement
+X: why DNA contains more oxygen than nitrogen
+X: the reasons plants cannot grow without sunlight
+X: how bacteria cause infectious diseases in crops
+X: the history of the first chemical factories
+W: Azot döngüsü ve gübre üretiminin bu dengeyi değiştirmesi ana konu.
+Q: Most living things cannot use atmospheric nitrogen directly because ___.
+A: they need it in a different chemical form, which some bacteria produce
+X: the atmosphere contains almost no nitrogen
+X: nitrogen is poisonous in every form
+X: plants refuse to absorb any compound that contains nitrogen
+X: DNA cannot include nitrogen atoms
+W: Bakterilerin azotu bitkilerin alabileceği bileşiklere çevirdiği belirtiliyor.
+Q: An inference that can be drawn from the passage is that ___.
+A: producing more fertiliser without changing how it is used may worsen pollution
+X: natural nitrogen fixation has already stopped
+X: coastal waters are unaffected by farming
+X: crop yields will fall if any fertiliser is used
+X: bacteria are no longer part of the nitrogen cycle
+W: Bilim insanları daha fazla miktar değil daha verimli kullanım istiyor; aksi halde kirlilik artabilir.
+Q: The word "yields" in the passage is closest in meaning to ___.
+A: the amounts harvested from crops
+X: the prices paid to farmers
+X: the number of bacterial species
+X: the depth of coastal waters
+X: the speed of industrial machines
+W: "crop yields" = ürün verimi.
+
+## r14|reading|C1|Hukuk
+P: Legal systems are often divided into common-law and civil-law traditions. In common-law countries, judges play a central role: their written decisions become precedents that later courts are expected to follow. In civil-law systems, by contrast, detailed codes passed by legislatures are the main source of rules, and judicial opinions carry less formal weight. Neither model exists in a pure form. Common-law judges still interpret statutes, and civil-law courts publish reasoned judgments that influence later cases. Comparative lawyers argue that the practical difference today lies less in abstract theory than in legal education and procedure: how lawyers are trained to find the law, and how much time a trial gives to oral argument. Understanding these habits matters for international contracts, where parties from different traditions may assume quite different things about what a "binding rule" looks like.
+Q: The passage mainly argues that ___.
+A: common-law and civil-law systems differ in method, yet both have become mixed in practice
+X: civil-law codes have completely replaced judicial decisions everywhere
+X: common-law judges are not allowed to read statutes
+X: international contracts should avoid any written rules
+X: legal education is identical in every country
+W: İki geleneğin farkı anlatılıyor, ardından hiçbirinin saf olmadığı ve asıl farkın eğitim/usul olduğu belirtiliyor.
+Q: In common-law systems, later courts are expected to ___.
+A: follow written decisions of earlier judges
+X: ignore all previous cases
+X: wait for a new code before deciding anything
+X: avoid oral argument in trials
+X: refuse to interpret statutes
+W: Precedent'in anlamı budur.
+Q: It can be inferred that a dispute over an international contract may arise because ___.
+A: parties may not share the same idea of what counts as a binding rule
+X: judges in every country use identical procedures
+X: civil-law courts never publish judgments
+X: common law has disappeared from commercial life
+X: legislatures no longer pass statutes
+W: Son cümle farklı geleneklerden tarafların "bağlayıcı kural" varsayımlarının ayrışabileceğini söylüyor.
+Q: The word "precedents" is closest in meaning to ___.
+A: earlier decisions used as a guide for later ones
+X: unofficial letters between lawyers
+X: criminal punishments for judges
+X: translations of foreign codes
+X: taxes paid by the losing party
+W: Precedent = emsal karar.
+
+## r15|reading|B2|Eğitim
+P: Many schools have introduced "flipped" classrooms, in which students watch short video lessons at home and spend class time solving problems with the teacher. Supporters claim that this model lets teachers give more individual help and encourages students to take responsibility for the first encounter with new material. Sceptics reply that the approach assumes every household has a quiet room and a reliable internet connection, which is not true for all families. Research so far is mixed: some studies report modest gains in mathematics, while others find little difference once prior achievement is taken into account. A cautious conclusion is that the method can help when schools also provide devices and study spaces, but it is not a cheap substitute for well-trained teachers.
+Q: What is the author's overall view of flipped classrooms?
+A: They can be useful if schools reduce inequalities in access, but they do not replace good teachers
+X: They should replace all traditional lessons immediately
+X: They work only in mathematics and never in other subjects
+X: They have been proven to harm every student who tries them
+X: They require no internet connection at all
+W: Son cümle temkinli ama şartlı bir destek: erişim sağlanırsa yardımcı olabilir, öğretmenin yerini tutmaz.
+Q: Sceptics of the flipped classroom worry that ___.
+A: not every student has a quiet place and stable internet at home
+X: teachers refuse to solve any problems in class
+X: video lessons are longer than ordinary school days
+X: mathematics cannot be taught with numbers
+X: students never watch videos when they are told to
+W: Şüphecilerin itirazı evdeki sessiz oda ve internet varsayımına.
+Q: According to the passage, research on the method ___.
+A: does not yet show a single, clear result
+X: proves that all students improve by the same amount
+X: has been limited to history lessons
+X: was conducted only before the internet existed
+X: has been rejected by every university
+W: "Research so far is mixed" ifadesi bunu söylüyor.
+Q: The word "modest" in the passage is closest in meaning to ___.
+A: fairly small
+X: extremely large
+X: completely false
+X: accidental
+X: expensive
+W: "modest gains" = sınırlı / mütevazı kazançlar.
+
+## r16|reading|C1|Psikoloji
+P: Confirmation bias is the tendency to search for, interpret and remember information in a way that supports what we already believe. In laboratory tasks, people notice evidence that fits their hypothesis more quickly than evidence that contradicts it, and they later recall the supporting details more accurately. The bias is not a sign of low intelligence; highly educated participants show it as well, sometimes even more strongly when the topic is tied to their professional identity. Social media can amplify the problem by feeding users a stream of agreeable posts. Psychologists do not claim that the bias can be eliminated, but they do recommend simple habits: actively looking for disconfirming cases, writing down the opposite explanation, and discussing findings with people who disagree. Such practices will not make anyone perfectly objective, yet they reduce the most obvious errors in judgment.
+Q: The main purpose of the passage is to ___.
+A: explain confirmation bias and suggest limited ways of reducing its effects
+X: prove that only uneducated people make biased judgments
+X: argue that social media should be banned
+X: show that memory cannot store any details
+X: claim that professional identity prevents all bias
+W: Tanım, laboratuvar bulgusu, eğitim düzeyinin korumaması ve azaltıcı alışkanlıklar.
+Q: Highly educated people ___.
+A: can display the bias, especially on issues linked to their professional identity
+X: are completely free of confirmation bias
+X: never use social media
+X: remember contradictory evidence better than supporting evidence
+X: refuse to discuss findings with others
+W: Metin eğitimli katılımcıların da, meslek kimliği devreye girince bazen daha güçlü yanlılık gösterdiğini söylüyor.
+Q: It can be inferred that the author thinks perfect objectivity is ___.
+A: unrealistic, though some habits can still improve judgment
+X: easily achieved by deleting social media accounts
+X: already present in every laboratory
+X: unnecessary for scientific work
+X: guaranteed by high intelligence
+W: "will not make anyone perfectly objective, yet they reduce..." cümlesi.
+Q: The word "disconfirming" is closest in meaning to ___.
+A: showing that a belief may be wrong
+X: repeating a popular opinion
+X: hiding inconvenient facts
+X: translating a technical term
+X: measuring intelligence
+W: Disconfirming evidence = hipotezi çürüten kanıt.
+
+## r17|reading|B2|Teknoloji
+P: Open-source software is released with a licence that allows anyone to inspect, modify and share the code. Famous examples include the Linux operating system and the Firefox web browser. Companies sometimes fear that giving away code will destroy their business, yet many now earn money by selling support, hosting and extra features rather than the code itself. Volunteers and paid engineers work on the same projects, which can speed up the discovery of security flaws because thousands of eyes can read the source. The model is not automatically safer, however: if a project has few maintainers, a serious bug may sit unnoticed for years. The lesson is that openness helps when a community is active enough to use it.
+Q: The passage mainly points out that ___.
+A: open-source licensing can work commercially and technically if a project is actively maintained
+X: Linux cannot be modified by anyone
+X: companies never make money from open-source software
+X: security flaws disappear as soon as code is published
+X: volunteers are not allowed to work with paid engineers
+W: Hem ticari model hem de güvenlik, aktif topluluk şartına bağlanıyor.
+Q: According to the passage, some companies profit from open source by ___.
+A: charging for support, hosting and additional features
+X: hiding the source code from all users
+X: refusing to fix any security flaws
+X: selling the same licence as a secret patent
+X: preventing anyone from sharing the code
+W: Destek, barındırma ve ek özellik satışı belirtiliyor.
+Q: A project with few maintainers may be risky because ___.
+A: a serious bug might remain unnoticed for a long time
+X: thousands of people read every line every day
+X: licences forbid any inspection of the code
+X: Firefox cannot run on Linux
+X: volunteers always introduce more bugs than they fix
+W: Az bakımcı varsa ciddi bir hata yıllarca fark edilmeyebilir.
+Q: The word "inspect" is closest in meaning to ___.
+A: examine carefully
+X: delete permanently
+X: sell at a higher price
+X: translate into another language
+X: compress into a smaller file
+W: Inspect = incelemek.
+
+## r18|reading|C1|Ekonomi
+P: Central banks influence the economy mainly by changing interest rates. When they raise rates, borrowing becomes more expensive, households postpone large purchases, and firms delay investment; inflation usually slows, but unemployment may rise. When they cut rates, the opposite tends to happen. This tool is blunt. The same rate applies to a factory that needs a loan to buy machines and to a household that wants a cheaper mortgage, so the pain or the stimulus is not evenly spread. In recent years, some banks have also bought government bonds to push long-term rates down when short-term rates were already near zero. Economists still debate how large and how lasting those purchases were. What is less controversial is that central banks cannot, by themselves, fix problems such as weak education systems or ageing populations, even though markets often treat every speech by a bank governor as if it could.
+Q: What is the author's main point?
+A: Interest-rate policy is powerful but uneven, and it cannot solve every structural problem
+X: Central banks should never change interest rates
+X: Unemployment falls whenever rates rise
+X: Bond purchases have been proven to last forever
+X: Education systems are controlled by central banks
+W: Araç etkili ama kaba; yapısal sorunları tek başına çözemez.
+Q: Raising interest rates is said to ___.
+A: make borrowing costlier and often slow inflation
+X: make mortgages cheaper for every household
+X: guarantee that firms will invest more
+X: eliminate unemployment within a month
+X: apply only to government bonds
+W: Faiz artınca borçlanma pahalılaşır ve enflasyon genelde yavaşlar.
+Q: The author implies that markets sometimes ___.
+A: overestimate what a central-bank speech can achieve
+X: ignore bank governors completely
+X: set education policy instead of schools
+X: refuse to buy any government bonds
+X: treat unemployment as unrelated to rates
+W: Piyasaların her konuşmayı her sorunu çözecekmiş gibi görmesi eleştiriliyor.
+Q: The word "blunt" here means that the tool is ___.
+A: not precise in its effects on different groups
+X: illegal in most countries
+X: too weak to change anything
+X: used only in wartime
+X: identical to a tax on imports
+W: Aynı faiz hem fabrikayı hem ev kredisini etkiler; yani keskin/hedefe özel değildir.
+
+## r19|reading|B2|Tarih
+P: Until the nineteenth century, most people who crossed oceans did so on sailing ships that depended on the wind. The journey from Europe to North America could take six weeks or more, and storms made the timetable unpredictable. Steamships changed this pattern. By the 1870s, regular transatlantic services could complete the crossing in about ten days, and schedules became reliable enough for mail and business contracts to depend on them. Cheaper tickets also allowed millions of migrants to travel who could not have afforded the older, slower passage. Historians therefore treat the steamship not merely as a technical curiosity but as a force that reshaped labour markets on both sides of the Atlantic.
+Q: The passage is mainly about ___.
+A: how steamships shortened ocean travel and affected migration and trade
+X: why sailing ships were more comfortable than steamships
+X: the invention of the compass in medieval Europe
+X: how storms have disappeared from the Atlantic
+X: why mail is no longer sent by sea
+W: Süre, tarifelerin güvenilirliği ve göç/işgücü etkisi.
+Q: Compared with sailing ships, steamships in the 1870s ___.
+A: made the crossing faster and more predictable
+X: took six weeks even in good weather
+X: could not carry mail
+X: were used only for short river trips
+X: reduced the number of people who could afford tickets
+W: Yaklaşık on gün ve güvenilir tarifeler.
+Q: It can be inferred that labour markets changed because ___.
+A: more people could move between continents at a price they could pay
+X: storms stopped workers from ever leaving home
+X: business contracts forbade migration
+X: sailing ships suddenly became faster than steam
+X: tickets became too expensive for ordinary workers
+W: Daha ucuz biletler milyonlarca göçmene yol açtı.
+Q: The word "reliable" is closest in meaning to ___.
+A: dependable
+X: decorative
+X: dangerous
+X: secret
+X: optional
+W: Reliable = güvenilir, bel bağlanabilir.
+
+## r20|reading|C1|Çevre
+P: Biodiversity is often described as a luxury that poor countries cannot afford, as if protecting species were a hobby for wealthy tourists. Ecologists reject this view. Diverse ecosystems provide services that economies already use, usually without paying a market price: wetlands filter water, insects pollinate crops, and forests reduce the force of floods. When a single crop is planted over a huge area, a pest or a drought can destroy the harvest; a mix of species makes such collapse less likely. None of this implies that conservation is free. Land set aside for wildlife cannot be used for housing or mines, so governments must weigh competing needs. The honest argument is not that biodiversity costs nothing, but that treating it as worthless is an accounting error that later generations will have to correct at a higher price.
+Q: The author's main argument is that ___.
+A: biodiversity has economic value that is often ignored in ordinary accounting
+X: only wealthy tourists care about wild species
+X: conservation never competes with housing or mining
+X: planting a single crop is the safest way to avoid drought
+X: wetlands have no practical use for people
+W: Ekosistem hizmetleri ve "ücretsiz gibi görünse de değersiz saymanın hata olduğu" tezi.
+Q: A landscape planted with only one crop is described as risky because ___.
+A: a pest or drought can wipe out most of the harvest
+X: insects refuse to visit any farm
+X: forests immediately replace the crop
+X: wetlands become more expensive
+X: tourists stop visiting the country
+W: Monokültürde zararlı veya kuraklık hasadı yok edebilir.
+Q: The author admits that conservation ___.
+A: involves real trade-offs with other uses of land
+X: is always cheaper than mining
+X: requires no government decisions
+X: can be postponed until species disappear
+X: has a market price in every village
+W: "None of this implies that conservation is free" ve rakip ihtiyaçlar.
+Q: The phrase "accounting error" suggests that ___.
+A: current calculations leave out a cost that will appear later
+X: banks have misprinted banknotes
+X: tourists pay too much for hotels
+X: insects have started charging farmers
+X: governments no longer collect taxes
+W: Değeri sıfır yazmak, faturayı sonraki kuşaklara bırakmaktır.
+
+## r21|reading|B2|Sağlık
+P: Antibiotics transformed medicine in the twentieth century by turning once-deadly infections into treatable illnesses. Their success, however, has created a new problem: bacteria that survive a drug can pass on that resistance, and overuse speeds up the process. Doctors sometimes prescribe antibiotics for viral colds, against which the drugs have no effect, and farms may use them to make animals grow faster. Each unnecessary dose gives resistant strains a chance to spread. Public-health agencies now urge hospitals to track prescriptions more carefully and researchers to develop new classes of drugs. Patients also have a role: finishing a prescribed course, and not demanding antibiotics for a simple cold, reduces pressure on the remaining effective medicines.
+Q: The passage focuses on ___.
+A: why the overuse of antibiotics makes them less effective over time
+X: how viruses are killed by every antibiotic
+X: why farms should increase antibiotic use
+X: the invention of hospitals in the twentieth century
+X: how colds became more dangerous than bacterial infections
+W: Direnç ve gereksiz kullanım ana konu.
+Q: Antibiotics do not help against the common cold because ___.
+A: colds are caused by viruses, which these drugs do not affect
+X: colds are never infectious
+X: patients refuse to take tablets
+X: hospitals no longer store any antibiotics
+X: bacteria cannot survive in the human body
+W: Viral soğuk algınlığına etkisiz oldukları belirtiliyor.
+Q: The author implies that patients can help by ___.
+A: not insisting on antibiotics when they have an ordinary cold
+X: stopping a prescribed course as soon as they feel better
+X: giving leftover pills to farm animals
+X: asking for a stronger dose every day
+X: avoiding hospitals even when they have a bacterial infection
+W: Basit soğuk algınlığında antibiyotik talep etmemek.
+Q: The word "strains" in this context means ___.
+A: types of bacteria
+X: physical exercises
+X: hospital buildings
+X: viral colds only
+X: prescription forms
+W: "resistant strains" = dirençli bakteri türleri.
+
+## r22|reading|C1|Fen
+P: Most of the matter in the universe does not emit or absorb light in a way that telescopes can record. Astronomers call this unseen component dark matter. The idea did not begin as a fashion: galaxies rotate so fast that the stars on their edges should fly apart if only the visible mass were holding them together. Extra unseen mass would supply the missing gravity. Alternative theories try to change the laws of gravity instead of adding matter, but they have so far had difficulty explaining a wide range of observations at once, from galaxy clusters to the pattern of the early universe. Dark matter has not been detected in a laboratory, which leaves room for doubt. Still, it remains the simplest account of several independent facts, which is why most cosmologists treat it as a working hypothesis rather than as a myth.
+Q: What is the main idea of the passage?
+A: Dark matter is an unseen mass that currently explains several astronomical facts better than rival theories
+X: Telescopes have already photographed dark matter directly
+X: Galaxies rotate slowly because they contain little mass
+X: Laboratory experiments have confirmed every detail of dark matter
+X: Cosmologists have abandoned the idea as a myth
+W: Gözlemlerden doğan hipotez, laboratuvarda henüz görülmemiş olsa da en yalın açıklama.
+Q: Galaxies pose a problem for visible mass alone because ___.
+A: they rotate too quickly for the stars at the edge to remain bound
+X: they emit too much light for telescopes to record
+X: they contain no stars at all
+X: they violate every law of gravity on Earth
+X: they were formed only last year
+W: Kenardaki yıldızların savrulmaması için ekstra kütle gerekir.
+Q: The author regards dark matter as ___.
+A: a useful working idea that is still open to laboratory tests
+X: a story that scientists tell children
+X: a theory that has failed all astronomical tests
+X: identical to a change in the laws of gravity
+X: a substance already sold in pharmacies
+W: "working hypothesis rather than as a myth".
+Q: The word "independent" here suggests that the facts ___.
+A: come from more than one kind of observation
+X: contradict one another completely
+X: were invented by a single laboratory
+X: cannot be checked by anyone
+X: apply only to the Earth
+W: Farklı gözlem türlerinin aynı yöne işaret etmesi.
+
+## r23|reading|B2|Sosyal bilimler
+P: A national census is more than a headcount. Governments use it to decide where to build schools, how to draw electoral districts and how to distribute funds. Because the results affect political power, every census faces disputes about who is counted and how questions are asked. Some groups are harder to reach: people without a fixed address, recent migrants, or households that distrust official forms. If they are missed, the map of need becomes distorted and services go to the wrong places. Modern censuses therefore combine traditional door-to-door visits with administrative records and online forms. The aim is not perfect knowledge of every person, which is impossible, but a picture that is fair enough to guide public decisions.
+Q: The passage mainly explains ___.
+A: why an accurate census matters for public decisions and why some people are easily missed
+X: how to win an election without any population data
+X: why schools should never be built in cities
+X: how online forms have made distrust disappear
+X: why migrants must not be included in any count
+W: Sayımın siyasi/idari işlevi ve eksik sayılan gruplar.
+Q: People without a fixed address are mentioned as ___.
+A: a group that censuses may fail to count
+X: the only group that always returns forms
+X: officials who design electoral districts
+X: the main source of government funds
+X: teachers who refuse to work in new schools
+W: Sabit adresi olmayanlar ulaşılması zor gruplar arasında.
+Q: The author suggests that a census should be judged by ___.
+A: whether it is fair enough to guide policy, not by impossible perfection
+X: whether it names every citizen in a newspaper
+X: whether it avoids all administrative records
+X: whether it increases distrust of official forms
+X: whether it refuses to use online tools
+W: Son cümle "fair enough" ölçütünü koyuyor.
+Q: The word "distorted" is closest in meaning to ___.
+A: twisted so that it no longer reflects reality
+X: printed in colour
+X: stored in a museum
+X: translated into law immediately
+X: kept secret from the government
+W: Distorted = çarpıtılmış.
+
+## r24|reading|C1|Arkeoloji
+P: Archaeology once concentrated on palaces, tombs and the objects of elites, partly because those remains survive more visibly and attract funding. In recent decades the field has widened. Soil samples, animal bones and the layout of ordinary houses now tell researchers how most people ate, worked and died. This shift does not make royal inscriptions useless; it places them in a broader economy of labour and food. Climate data from tree rings and ice cores can even show whether a harvest failed in the years before a city was abandoned. The result is a less romantic but more accurate past, in which collapse is rarely the work of a single battle and more often the slow outcome of drought, trade disruption and social tension arriving together.
+Q: The passage is mainly concerned with ___.
+A: how archaeology has moved beyond elite monuments to everyday and environmental evidence
+X: why palaces should no longer be excavated
+X: how ice cores have replaced all written inscriptions
+X: why battles are the only cause of urban collapse
+X: how funding has disappeared from the field
+W: Elit kalıntılardan gündelik yaşam ve iklim verisine genişleme.
+Q: Royal inscriptions are described as ___.
+A: still useful when read together with evidence about labour and food
+X: completely useless to modern researchers
+X: the only reliable source for climate history
+X: more romantic than accurate by definition
+X: destroyed by tree rings
+W: "does not make royal inscriptions useless; it places them in a broader economy".
+Q: The author implies that the abandonment of a city ___.
+A: often has several slow causes rather than one dramatic battle
+X: can be explained only by a single invasion
+X: never coincides with a failed harvest
+X: is always romanticised correctly in old books
+X: cannot be studied with soil samples
+W: Çöküş nadiren tek savaş, çoğu zaman kuraklık, ticaret ve gerilimin birlikte yavaş sonucu.
+Q: The word "widened" is closest in meaning to ___.
+A: become broader in scope
+X: become narrower in funding
+X: become more secret
+X: become limited to tombs
+X: become faster to complete
+W: "widened" = kapsamı genişlemek; alan daralmamış, gizli de olmamış.
+
+## r25|reading|B2|Hukuk
+P: Copyright law tries to balance two aims: giving creators a period in which they can earn money from their work, and allowing the rest of society to use ideas once that period ends. Works that have entered the public domain can be copied, translated and taught without asking permission. This is why older novels can appear in cheap school editions. The length of protection has grown over time, which some economists see as a gift to large publishers rather than to living authors. Others reply that longer terms encourage investment in restoring old films and recordings. Whatever the right number of years may be, the public domain is not a legal accident; it is the part of culture that the law deliberately returns to everyone.
+Q: The main idea of the passage is that ___.
+A: copyright is meant both to reward creators for a time and to return works to public use afterwards
+X: school editions of old novels are illegal
+X: the public domain exists only by mistake
+X: living authors never benefit from copyright
+X: films cannot be restored without secret contracts
+W: İki amaç ve kamu malının bilinçli bir hukuk alanı olduğu.
+Q: Works in the public domain ___.
+A: may be copied and taught without permission
+X: can be used only by the original publisher
+X: disappear from all school libraries
+X: must be restored before anyone reads them
+X: remain under copyright forever
+W: Kamu malı eserler izin almadan kopyalanıp öğretilebilir.
+Q: Some economists criticise longer copyright terms because ___.
+A: they may help large publishers more than living writers
+X: they make school books more expensive only for films
+X: they abolish the public domain immediately
+X: they prevent any investment in old recordings
+X: they last only a few days
+W: "a gift to large publishers rather than to living authors".
+Q: The word "deliberately" is closest in meaning to ___.
+A: on purpose
+X: by accident
+X: in secret
+X: too quickly
+X: without any law
+W: Deliberately = kasten, bilinçli olarak.

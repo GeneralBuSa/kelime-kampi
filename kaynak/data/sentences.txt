@@ -1,0 +1,120 @@
+kitchen|kitchen|My mother is cooking dinner in the ___.|bathroom;classroom;library|Annem mutfakta akşam yemeği pişiriyor.
+hungry|hungry|I didn't have breakfast, so I'm very ___ now.|full;angry;cold|Kahvaltı yapmadım, bu yüzden şimdi çok açım.
+umbrella|umbrella|Take an ___ with you. It's going to rain.|apple;orange;egg|Yanına bir şemsiye al. Yağmur yağacak.
+library|library|You can borrow books from the school ___.|kitchen;hospital;airport|Okul kütüphanesinden kitap ödünç alabilirsin.
+expensive|expensive|This watch costs 5,000 euros. It's very ___.|cheap;free;slow|Bu saat 5.000 euro. Çok pahalı.
+early|early|I get up ___ every day, at six o'clock.|late;tired;slowly|Her gün erken, saat altıda kalkarım.
+remember|remember|I can't ___ his name. What was it?|forget;spell;choose|Adını hatırlayamıyorum. Neydi?
+tired|tired|After the long journey, we were very ___.|early;empty;new|Uzun yolculuktan sonra çok yorgunduk.
+neighbour|neighbour|Our ___ helps us when we are on holiday.|weather;village;menu|Komşumuz tatildeyken bize yardım eder.
+weekend|weekend|We usually go to the beach at the ___.|week;breakfast;minute|Hafta sonları genellikle plaja gideriz.
+borrow|borrow|Can I ___ your pen? I forgot mine.|lend;give;sell|Kalemini ödünç alabilir miyim? Benimkini unuttum.
+dangerous|dangerous|Swimming in that river is ___. The water is very fast.|safe;boring;delicious|O nehirde yüzmek tehlikeli. Su çok hızlı.
+choose|choose|There are so many cakes. I can't ___ one!|wear;spend;wash|O kadar çok pasta var ki birini seçemiyorum!
+quiet|quiet|Please be ___. The baby is sleeping.|loud;angry;busy|Lütfen sessiz ol. Bebek uyuyor.
+ticket|ticket|You need a ___ to get on the train.|umbrella;receipt;menu|Trene binmek için bilete ihtiyacın var.
+delicious|delicious|This soup is ___! Can I have some more?|terrible;dirty;expensive|Bu çorba çok lezzetli! Biraz daha alabilir miyim?
+weather|weather|The ___ is lovely today. Let's go for a walk.|water;whether;window|Bugün hava çok güzel. Yürüyüşe çıkalım.
+arrive|arrive|What time does your plane ___ in Istanbul?|open;cook;sell|Uçağın İstanbul'a saat kaçta varıyor?
+favourite|favourite|Blue is my ___ colour.|famous;popular;friendly|Mavi en sevdiğim renk.
+wait|wait|Please ___ here. The doctor will see you soon.|wake;walk;want|Lütfen burada bekleyin. Doktor sizi birazdan görecek.
+abroad|abroad|She wants to study ___, maybe in Canada.|outside;inside;ahead|Yurt dışında, belki Kanada'da okumak istiyor.
+avoid|avoid|You should ___ eating too much sugar.|enjoy;allow;accept|Çok fazla şeker yemekten kaçınmalısın.
+accident|accident|He broke his leg in a car ___.|accent;audience;adventure|Bir araba kazasında bacağını kırdı.
+advice|advice|Can you give me some ___ about which phone to buy?|advise;argument;address|Hangi telefonu alacağım konusunda bana tavsiye verebilir misin?
+celebrate|celebrate|We are going to ___ our anniversary at a nice restaurant.|complain;compete;destroy|Yıl dönümümüzü güzel bir restoranda kutlayacağız.
+crowded|crowded|The bus was so ___ that I couldn't find a seat.|empty;narrow;quiet|Otobüs o kadar kalabalıktı ki oturacak yer bulamadım.
+disappear|disappear|The sun began to ___ behind the clouds.|arrive;increase;open|Güneş bulutların arkasında kaybolmaya başladı.
+earn|earn|How much money do nurses ___ in your country?|cost;fall;grow|Senin ülkende hemşireler ne kadar para kazanıyor?
+invite|invite|I'm going to ___ all my friends to my birthday party.|invent;inform;involve|Doğum günü partime bütün arkadaşlarımı davet edeceğim.
+lend|lend|Could you ___ me your car for the weekend?|borrow;keep;own|Hafta sonu için bana arabanı ödünç verebilir misin?
+pollution|pollution|Air ___ is a serious problem in big cities.|population;solution;protection|Hava kirliliği büyük şehirlerde ciddi bir sorundur.
+prevent|prevent|Washing your hands can ___ many diseases.|provide;produce;promise|Ellerini yıkamak birçok hastalığı önleyebilir.
+recipe|recipe|Can you give me the ___ for this cake? It's delicious.|receipt;menu;review|Bu kekin tarifini verir misin? Çok lezzetli.
+refuse|refused|He asked for more money, but his boss ___ to give him a raise.|agreed;offered;promised|Daha fazla para istedi ama patronu ona zam yapmayı reddetti.
+traditional|traditional|Baklava is a ___ Turkish dessert.|modern;digital;temporary|Baklava geleneksel bir Türk tatlısıdır.
+worried|worried|My parents are ___ because I haven't called them.|pleased;relaxed;bored|Onları aramadığım için annemle babam endişeli.
+afford|afford|We can't ___ a new car this year; it's too expensive.|offer;allow;admit|Bu yıl yeni bir araba almaya gücümüz yetmez, çok pahalı.
+apologize|apologize|You should ___ to her for being rude.|admire;appreciate;announce|Kaba davrandığın için ondan özür dilemelisin.
+convince|convince|I tried to ___ my father to let me go to the concert.|confirm;consume;confuse|Babamı konsere gitmeme izin vermesi için ikna etmeye çalıştım.
+deserve|deserve|You worked very hard, so you ___ a holiday.|deliver;deny;delete|Çok çalıştın, bu yüzden bir tatili hak ediyorsun.
+encourage|encourage|Good teachers ___ their students to ask questions.|discourage;prevent;forbid|İyi öğretmenler öğrencilerini soru sormaya teşvik eder.
+essential|essential|Water is ___ for all living things.|optional;useless;harmful|Su tüm canlılar için gereklidir.
+generous|generous|He is very ___; he always helps people in need.|selfish;mean;jealous|Çok cömerttir, ihtiyacı olanlara hep yardım eder.
+impress|impress|She wanted to ___ the interviewers with her English.|imply;import;impose|Mülakatçıları İngilizcesiyle etkilemek istedi.
+ingredient|ingredient|Flour is the main ___ in bread.|instrument;equipment;engine|Un, ekmeğin ana malzemesidir.
+obvious|obvious|It was ___ that he was lying; his face was red.|hidden;unknown;doubtful|Yalan söylediği belliydi, yüzü kızarmıştı.
+persuade|persuade|Nobody could ___ him to change his mind.|pursue;prevent;permit|Kimse onu fikrini değiştirmeye ikna edemedi.
+previous|previous|The new manager is better than the ___ one.|following;next;future|Yeni müdür bir öncekinden daha iyi.
+reliable|reliable|I need a ___ car that won't break down.|broken;careless;unstable|Bozulmayacak, güvenilir bir arabaya ihtiyacım var.
+remind|remind|Please ___ me to buy milk on the way home.|remember;remain;repeat|Lütfen eve dönerken süt almamı bana hatırlat.
+responsible|responsible|Who is ___ for this mess in the kitchen?|reasonable;respectful;possible|Mutfaktaki bu dağınıklıktan kim sorumlu?
+suitable|suitable|This film isn't ___ for children; it's too violent.|similar;successful;sufficient|Bu film çocuklar için uygun değil; çok şiddet içeriyor.
+survive|survived|Only a few people ___ the plane crash.|surrounded;supplied;surprised|Uçak kazasından sadece birkaç kişi kurtuldu.
+threaten|threaten|Climate change could ___ many animal species.|treat;threat;thank|İklim değişikliği birçok hayvan türünü tehdit edebilir.
+abandon|abandon|The crew had to ___ the sinking ship.|attend;adopt;obtain|Mürettebat batan gemiyi terk etmek zorunda kaldı.
+adequate|adequate|The hospital does not have ___ equipment to treat all patients.|absent;adverse;ancient|Hastanede tüm hastaları tedavi edecek yeterli ekipman yok.
+anticipate|anticipate|We don't ___ any problems with the new system.|appreciate;participate;accumulate|Yeni sistemle ilgili herhangi bir sorun öngörmüyoruz.
+assess|assess|Teachers ___ students' progress at the end of each term.|access;assist;assume|Öğretmenler her dönemin sonunda öğrencilerin ilerlemesini değerlendirir.
+capable|capable|She is ___ of running the company on her own.|careful;capital;comfortable|Şirketi tek başına yönetebilecek yetenektedir.
+collapse|collapse|The old building could ___ during an earthquake.|collect;compete;confirm|Eski bina bir deprem sırasında çökebilir.
+conduct|conduct|The university plans to ___ a survey of student satisfaction.|connect;consume;contain|Üniversite, öğrenci memnuniyeti üzerine bir anket yürütmeyi planlıyor.
+crucial|crucial|Sleep is ___ for memory and learning.|cruel;crude;casual|Uyku, hafıza ve öğrenme için hayati önem taşır.
+decline|decline|The number of tourists began to ___ after the crisis.|define;decide;declare|Krizden sonra turist sayısı azalmaya başladı.
+emerge|emerged|New evidence has ___ that supports the theory.|emigrated;emptied;embarrassed|Teoriyi destekleyen yeni kanıtlar ortaya çıktı.
+enhance|enhance|Good lighting can ___ the appearance of a room.|enclose;enforce;endanger|İyi aydınlatma bir odanın görünümünü güzelleştirebilir.
+ensure|ensure|Please ___ that all the doors are locked before you leave.|endure;ensue;enable|Çıkmadan önce lütfen tüm kapıların kilitli olduğundan emin olun.
+inevitable|inevitable|With so little rain, a water shortage seems ___.|invisible;incredible;independent|Bu kadar az yağmurla su kıtlığı kaçınılmaz görünüyor.
+reveal|revealed|The survey ___ that most people prefer working from home.|reversed;resigned;rejected|Anket, çoğu insanın evden çalışmayı tercih ettiğini ortaya koydu.
+reluctant|reluctant|He was ___ to admit that he had made a mistake.|relevant;reliable;remarkable|Hata yaptığını kabul etmeye isteksizdi.
+significant|significant|There has been a ___ increase in house prices this year.|sincere;signal;sinful|Bu yıl konut fiyatlarında kayda değer bir artış oldu.
+sustainable|sustainable|We need more ___ sources of energy, such as wind and solar power.|suspicious;sensitive;superior|Rüzgar ve güneş enerjisi gibi daha sürdürülebilir enerji kaynaklarına ihtiyacımız var.
+temporary|temporary|She found a ___ job for the summer.|permanent;contemporary;constant|Yaz için geçici bir iş buldu.
+vulnerable|vulnerable|Elderly people are especially ___ to the flu.|valuable;visible;vital|Yaşlılar gribe karşı özellikle savunmasızdır.
+widespread|widespread|There is ___ concern about rising food prices.|wide;narrow;rare|Artan gıda fiyatları konusunda yaygın bir endişe var.
+withdraw|withdraw|The company decided to ___ the product from the market.|withstand;wonder;widen|Şirket ürünü piyasadan çekmeye karar verdi.
+yield|yields|The new farming method ___ much larger harvests.|yells;yawns;yearns|Yeni tarım yöntemi çok daha büyük hasat sağlıyor.
+alleviate|alleviate|The new medicine helps to ___ pain.|aggravate;accelerate;allocate|Yeni ilaç ağrıyı hafifletmeye yardımcı oluyor.
+ambiguous|ambiguous|The instructions were ___, so nobody knew what to do.|explicit;obvious;precise|Talimatlar belirsizdi, bu yüzden kimse ne yapacağını bilmiyordu.
+deteriorate|deteriorate|As the infection spread, his condition began to ___ rapidly.|improve;determine;dedicate|Enfeksiyon yayıldıkça durumu hızla kötüleşmeye başladı.
+exacerbate|exacerbate|Stress can ___ the symptoms of many diseases.|alleviate;exaggerate;evaluate|Stres birçok hastalığın belirtilerini kötüleştirebilir.
+feasible|feasible|Building a bridge across the sea is not economically ___.|flexible;fertile;fragile|Denizin üzerine köprü inşa etmek ekonomik açıdan uygulanabilir değil.
+hinder|hinder|Lack of funding may ___ the progress of the research.|hire;heal;highlight|Finansman eksikliği araştırmanın ilerlemesini engelleyebilir.
+mitigate|mitigate|Planting trees can help ___ the effects of climate change.|migrate;motivate;mandate|Ağaç dikmek iklim değişikliğinin etkilerini hafifletmeye yardımcı olabilir.
+plausible|plausible|His explanation sounded ___, so the police believed him.|unlikely;ridiculous;impossible|Açıklaması akla yatkın geldi, bu yüzden polis ona inandı.
+scarce|scarce|Water becomes ___ in the region during the summer months, and farmers struggle.|abundant;plentiful;scared|Yaz aylarında bölgede su kıtlaşır ve çiftçiler zorlanır.
+undermine|undermine|Constant criticism can ___ a child's self-confidence.|underline;undertake;understand|Sürekli eleştiri bir çocuğun özgüvenini zayıflatabilir.
+unprecedented|unprecedented|The pandemic caused ___ disruption to global trade.|unemployed;unpopular;unwilling|Salgın, küresel ticarette benzeri görülmemiş bir aksamaya neden oldu.
+abundant|abundant|The region is rich in oil; in fact, oil is so ___ that it is very cheap there.|scarce;rare;absent|Bölge petrol bakımından zengin; hatta petrol o kadar bol ki orada çok ucuz.
+accelerate|accelerate|Rising temperatures may ___ the melting of glaciers.|delay;slow down;abandon|Yükselen sıcaklıklar buzulların erimesini hızlandırabilir.
+acquire|acquire|Children ___ language naturally by listening to people around them.|require;inquire;admire|Çocuklar dili etraflarındaki insanları dinleyerek doğal yolla edinir.
+attribute|attribute|Scientists ___ the decline in bee populations to pesticide use.|contribute;distribute;tribute|Bilim insanları arı nüfusundaki düşüşü tarım ilacı kullanımına bağlıyor.
+comprise|comprises|The committee ___ twelve members.|consists;compiles;compromises|Komite on iki üyeden oluşmaktadır.
+constitute|constitute|Women ___ more than half of the university's students.|construct;consult;consume|Kadınlar üniversite öğrencilerinin yarısından fazlasını oluşturuyor.
+derive|derive|Many English words ___ from Latin.|deprive;describe;deliver|Pek çok İngilizce kelime Latinceden türemiştir.
+diminish|diminish|As the medicine starts to work, the pain will gradually ___.|increase;intensify;dominate|İlaç etkisini göstermeye başladıkça ağrı yavaş yavaş azalacak.
+eliminate|eliminate|The new vaccine could ___ the disease completely.|illuminate;estimate;elevate|Yeni aşı hastalığı tamamen ortadan kaldırabilir.
+facilitate|facilitate|Technology can ___ communication between doctors and patients.|fascinate;fluctuate;falsify|Teknoloji doktorlar ve hastalar arasındaki iletişimi kolaylaştırabilir.
+fluctuate|fluctuate|Oil prices ___ considerably throughout the year.|flourish;float;flatter|Petrol fiyatları yıl boyunca önemli ölçüde dalgalanır.
+impair|impair|Lack of sleep can ___ your ability to concentrate.|repair;prepare;compare|Uykusuzluk konsantre olma yeteneğini bozabilir.
+indispensable|indispensable|A good dictionary is ___ for learning a foreign language.|unnecessary;irrelevant;disposable|İyi bir sözlük yabancı dil öğrenmek için vazgeçilmezdir.
+inhibit|inhibit|Certain chemicals can ___ the growth of bacteria.|inhabit;inherit;inhale|Bazı kimyasallar bakterilerin büyümesini engelleyebilir.
+obsolete|obsolete|Typewriters became ___ when computers appeared.|absolute;obscure;obvious|Bilgisayarlar ortaya çıkınca daktilolar modası geçmiş hale geldi.
+prevalent|prevalent|Obesity is becoming more ___ among children.|relevant;prevented;previous|Obezite çocuklar arasında giderek yaygınlaşıyor.
+profound|profound|The discovery had a ___ effect on modern medicine.|proud;prompt;polite|Bu keşif modern tıp üzerinde derin bir etki yarattı.
+susceptible|susceptible|Young children are more ___ to infections.|suspicious;sustainable;suitable|Küçük çocuklar enfeksiyonlara daha yatkındır.
+thrive|thrive|Some plants ___ in dry, sunny conditions.|threaten;throw;thrill|Bazı bitkiler kuru ve güneşli koşullarda gelişir.
+trigger|trigger|Certain foods can ___ an allergic reaction.|tackle;tolerate;trim|Bazı yiyecekler alerjik bir reaksiyonu tetikleyebilir.
+deplete|depleted|Overfishing has ___ fish stocks in many parts of the world.|depicted;deported;deployed|Aşırı avlanma dünyanın birçok yerinde balık stoklarını tüketti.
+detrimental|detrimental|Smoking is ___ to your health.|beneficial;delightful;determined|Sigara içmek sağlığına zararlıdır.
+compelling|compelling|The lawyer presented ___ evidence of his client's innocence.|compulsory;competing;complicated|Avukat, müvekkilinin masumiyetine dair ikna edici kanıtlar sundu.
+bring about|brought about|The internet has ___ huge changes in the way we work.|turned down;broken down;given in|İnternet çalışma şeklimizde büyük değişikliklere yol açtı.
+carry out|carry out|Scientists will ___ further experiments next year.|look up;take after;run into|Bilim insanları gelecek yıl daha fazla deney yapacak.
+account for|accounts for|Tourism ___ nearly 10% of the country's income.|accounts to;counts on;makes up for|Turizm ülkenin gelirinin yaklaşık %10'unu oluşturuyor.
+stem from|stem from|Many health problems ___ poor diet.|stand for;step up;set off|Pek çok sağlık sorunu kötü beslenmeden kaynaklanır.
+put up with|put up with|I can't ___ this noise any longer!|put off;put forward;pass away|Bu gürültüye daha fazla katlanamıyorum!
+rule out|ruled out|The police have not ___ the possibility of murder.|ruled over;run out of;turned into|Polis cinayet olasılığını henüz göz ardı etmedi.
+come up with|come up with|We need to ___ a solution to this problem quickly.|come across;come down with;take after|Bu soruna hızla bir çözüm bulmamız gerekiyor.
+look into|look into|The government promised to ___ the complaints.|look up to;take after;give up|Hükümet şikayetleri incelemeye söz verdi.
+give rise to|give rise to|The new policy may ___ serious economic problems.|give up;give in;get over|Yeni politika ciddi ekonomik sorunlara yol açabilir.
+deal with|deal with|The new manager knows how to ___ difficult customers.|deal in;get over;turn up|Yeni müdür zor müşterilerle nasıl başa çıkılacağını biliyor.

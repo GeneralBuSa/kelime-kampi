@@ -1,0 +1,159 @@
+@fam
+decide (v), decision (n), decisive (adj), decisively (adv)|The committee will announce its final ___ tomorrow.|decision|Komite nihai kararını yarın açıklayacak.
+decide (v), decision (n), decisive (adj), decisively (adv)|The general's ___ action saved the city.|decisive|Generalin kararlı hareketi şehri kurtardı.
+economy (n), economic (adj), economical (adj), economist (n)|The country is facing serious ___ problems.|economic|Ülke ciddi ekonomik sorunlarla karşı karşıya.
+economy (n), economic (adj), economical (adj), economist (n)|This small car is very ___; it uses little fuel.|economical|Bu küçük araba çok ekonomik; az yakıt harcıyor.
+success (n), succeed (v), successful (adj), successfully (adv)|She hopes to ___ in her new business.|succeed|Yeni işinde başarılı olmayı umuyor.
+success (n), succeed (v), successful (adj), successfully (adv)|The operation was completed ___.|successfully|Ameliyat başarıyla tamamlandı.
+analyse (v), analysis (n), analyst (n), analytical (adj)|A detailed ___ of the data showed some surprising results.|analysis|Verilerin ayrıntılı analizi bazı şaşırtıcı sonuçlar gösterdi.
+analyse (v), analysis (n), analyst (n), analytical (adj)|The job requires strong ___ skills.|analytical|Bu iş güçlü analitik beceriler gerektiriyor.
+depend (v), dependent (adj), dependence (n), dependable (adj)|Many developing countries are ___ on foreign aid.|dependent|Pek çok gelişmekte olan ülke dış yardıma bağımlı.
+depend (v), dependent (adj), dependence (n), dependable (adj)|We need a ___ person to manage the project.|dependable|Projeyi yönetecek güvenilir birine ihtiyacımız var.
+signify (v), significance (n), significant (adj), significantly (adv)|Prices have risen ___ over the past year.|significantly|Fiyatlar geçen yıl önemli ölçüde arttı.
+signify (v), significance (n), significant (adj), significantly (adv)|Historians debate the ___ of the treaty.|significance|Tarihçiler antlaşmanın önemini tartışıyor.
+compete (v), competition (n), competitive (adj), competitor (n)|The market for smartphones is extremely ___.|competitive|Akıllı telefon pazarı son derece rekabetçi.
+compete (v), competition (n), competitive (adj), competitor (n)|Our main ___ has just lowered its prices.|competitor|Ana rakibimiz fiyatlarını yeni düşürdü.
+produce (v), product (n), production (n), productive (adj)|The factory increased ___ by twenty percent.|production|Fabrika üretimi yüzde yirmi artırdı.
+produce (v), product (n), production (n), productive (adj)|I feel more ___ when I work in the morning.|productive|Sabah çalışınca daha verimli hissediyorum.
+create (v), creation (n), creative (adj), creativity (n)|The school encourages ___ through art and music.|creativity|Okul sanat ve müzik yoluyla yaratıcılığı teşvik ediyor.
+create (v), creation (n), creative (adj), creativity (n)|The project aims to ___ new jobs in the region.|create|Proje bölgede yeni iş imkânları yaratmayı amaçlıyor.
+rely (v), reliable (adj), reliability (n), reliance (n)|The country's heavy ___ on imported oil is a concern.|reliance|Ülkenin ithal petrole aşırı bağımlılığı bir endişe kaynağı.
+apply (v), application (n), applicant (n), applicable (adj)|Please fill in the ___ form carefully.|application|Lütfen başvuru formunu dikkatle doldurun.
+apply (v), application (n), applicant (n), applicable (adj)|The new rule is not ___ to part-time staff.|applicable|Yeni kural yarı zamanlı personele uygulanmaz.
+prevent (v), prevention (n), preventive (adj), preventable (adj)|Most of these infections are ___.|preventable|Bu enfeksiyonların çoğu önlenebilir.
+conclude (v), conclusion (n), conclusive (adj), conclusively (adv)|The evidence is not yet ___.|conclusive|Kanıt henüz kesin değil.
+rely (v), reliable (adj), reliability (n), reliance (n)|Researchers questioned the ___ of the survey results.|reliability|Araştırmacılar anket sonuçlarının güvenilirliğini sorguladı.
+access (n), accessible (adj), accessibility (n), inaccessible (adj)|The village is ___ only by boat.|accessible|Köye sadece tekneyle ulaşılabiliyor.
+access (n), accessible (adj), accessibility (n), inaccessible (adj)|Heavy snow made the mountain roads ___.|inaccessible|Yoğun kar dağ yollarını ulaşılamaz hale getirdi.
+effect (n), effective (adj), effectively (adv), effectiveness (n)|Doctors are studying the ___ of the new vaccine.|effectiveness|Doktorlar yeni aşının etkinliğini inceliyor.
+effect (n), effective (adj), effectively (adv), effectiveness (n)|The manager communicated the changes ___.|effectively|Müdür değişiklikleri etkili bir şekilde iletti.
+able (adj), ability (n), enable (v), unable (adj)|New technology will ___ doctors to diagnose diseases earlier.|enable|Yeni teknoloji doktorların hastalıkları daha erken teşhis etmesini sağlayacak.
+able (adj), ability (n), enable (v), unable (adj)|He was ___ to attend the meeting because of illness.|unable|Hastalık nedeniyle toplantıya katılamadı.
+vary (v), variety (n), various (adj), variable (adj)|The shop offers a wide ___ of products.|variety|Mağaza çok çeşitli ürünler sunuyor.
+vary (v), variety (n), various (adj), variable (adj)|Prices ___ from one city to another.|vary|Fiyatlar şehirden şehre değişiyor.
+emphasis (n), emphasize (v), emphatic (adj), emphatically (adv)|The report places strong ___ on education.|emphasis|Rapor eğitime güçlü bir vurgu yapıyor.
+emphasis (n), emphasize (v), emphatic (adj), emphatically (adv)|The minister ___ denied the accusations.|emphatically|Bakan suçlamaları kesin bir dille reddetti.
+predict (v), prediction (n), predictable (adj), unpredictable (adj)|The weather in the mountains is highly ___.|unpredictable|Dağlarda hava son derece öngörülemez.
+predict (v), prediction (n), predictable (adj), unpredictable (adj)|Experts ___ that prices will rise next year.|predict|Uzmanlar fiyatların gelecek yıl artacağını öngörüyor.
+sustain (v), sustainable (adj), sustainability (n), sustained (adj)|The company is committed to environmental ___.|sustainability|Şirket çevresel sürdürülebilirliğe bağlı.
+sustain (v), sustainable (adj), sustainability (n), sustained (adj)|The economy has shown ___ growth for five years.|sustained|Ekonomi beş yıldır kesintisiz büyüme gösteriyor.
+persuade (v), persuasion (n), persuasive (adj), persuasively (adv)|She made a very ___ argument for the new policy.|persuasive|Yeni politika için çok ikna edici bir argüman sundu.
+persuade (v), persuasion (n), persuasive (adj), persuasively (adv)|It took a lot of ___ to change his mind.|persuasion|Fikrini değiştirmek çok ikna çabası gerektirdi.
+apply (v), application (n), applicant (n), applicable (adj)|Each ___ will be interviewed by the committee.|applicant|Her başvuru sahibi komite tarafından mülakata alınacak.
+apply (v), application (n), applicant (n), applicable (adj)|These rules are not ___ to foreign students.|applicable|Bu kurallar yabancı öğrencilere uygulanamaz.
+destroy (v), destruction (n), destructive (adj), destroyer (n)|The storm caused widespread ___.|destruction|Fırtına yaygın bir yıkıma neden oldu.
+destroy (v), destruction (n), destructive (adj), destroyer (n)|Some insects can be extremely ___ to crops.|destructive|Bazı böcekler mahsullere son derece zarar verebilir.
+observe (v), observation (n), observant (adj), observable (adj)|Scientists made an interesting ___.|observation|Bilim insanları ilginç bir gözlem yaptı.
+observe (v), observation (n), observant (adj), observable (adj)|The change is not easily ___.|observable|Değişiklik kolayca gözlemlenemez.
+respond (v), response (n), responsive (adj), respondent (n)|Each ___ completed a short questionnaire.|respondent|Her yanıtlayan kısa bir anket doldurdu.
+respond (v), response (n), responsive (adj), respondent (n)|The government was slow to ___ to the crisis.|respond|Hükümet krize yavaş tepki verdi.
+innovate (v), innovation (n), innovative (adj), innovator (n)|The firm is known for ___ product design.|innovative|Firma yenilikçi ürün tasarımıyla tanınır.
+innovate (v), innovation (n), innovative (adj), innovator (n)|Digital ___ has changed how we read news.|innovation|Dijital yenilik haber okuma biçimimizi değiştirdi.
+exclude (v), exclusion (n), exclusive (adj), exclusively (adv)|The club is ___ to members.|exclusive|Kulüp yalnızca üyelere özeldir.
+exclude (v), exclusion (n), exclusive (adj), exclusively (adv)|The report deals ___ with urban schools.|exclusively|Rapor yalnızca kent okullarını ele alır.
+contribute (v), contribution (n), contributor (n), contributory (adj)|Her research made a major ___ to the field.|contribution|Araştırması alana önemli katkı yaptı.
+contribute (v), contribution (n), contributor (n), contributory (adj)|Poor diet was a ___ factor in the illness.|contributory|Kötü beslenme hastalıkta katkıda bulunan bir etkendi.
+evaluate (v), evaluation (n), evaluative (adj), evaluator (n)|An independent ___ of the programme is due in May.|evaluation|Programın bağımsız değerlendirmesi mayısta bekleniyor.
+evaluate (v), evaluation (n), evaluative (adj), evaluator (n)|Teachers ___ students' progress twice a year.|evaluate|Öğretmenler öğrencilerin ilerlemesini yılda iki kez değerlendirir.
+@conf
+affect / effect|affect = etkilemek (fiil); effect = etki (isim).|Smoking can seriously ___ your health.|affect|Sigara sağlığını ciddi şekilde etkileyebilir.
+affect / effect|affect = etkilemek (fiil); effect = etki (isim).|The new law had a positive ___ on the economy.|effect|Yeni yasanın ekonomi üzerinde olumlu bir etkisi oldu.
+adapt / adopt|adapt = uyum sağlamak, uyarlamak; adopt = benimsemek, evlat edinmek.|Animals must ___ to changes in their environment.|adapt|Hayvanlar çevrelerindeki değişikliklere uyum sağlamalıdır.
+adapt / adopt|adapt = uyum sağlamak, uyarlamak; adopt = benimsemek, evlat edinmek.|The company decided to ___ a new strategy.|adopt|Şirket yeni bir strateji benimsemeye karar verdi.
+rise / raise / arise|rise = yükselmek (nesne almaz); raise = yükseltmek (nesne alır); arise = ortaya çıkmak.|Prices tend to ___ during periods of inflation.|rise|Enflasyon dönemlerinde fiyatlar yükselme eğilimindedir.
+rise / raise / arise|rise = yükselmek (nesne almaz); raise = yükseltmek (nesne alır); arise = ortaya çıkmak.|The government plans to ___ taxes next year.|raise|Hükümet gelecek yıl vergileri artırmayı planlıyor.
+rise / raise / arise|rise = yükselmek (nesne almaz); raise = yükseltmek (nesne alır); arise = ortaya çıkmak.|Problems may ___ if the instructions are not followed.|arise|Talimatlara uyulmazsa sorunlar ortaya çıkabilir.
+economic / economical|economic = ekonomiyle ilgili; economical = tasarruflu, ekonomik.|The country is going through an ___ crisis.|economic|Ülke ekonomik bir krizden geçiyor.
+economic / economical|economic = ekonomiyle ilgili; economical = tasarruflu, ekonomik.|Buying in large quantities is more ___.|economical|Büyük miktarlarda almak daha tasarrufludur.
+principal / principle|principal = ana, başlıca; okul müdürü. principle = ilke.|Honesty is an important ___ in business.|principle|Dürüstlük iş hayatında önemli bir ilkedir.
+principal / principle|principal = ana, başlıca; okul müdürü. principle = ilke.|The ___ cause of the accident was speeding.|principal|Kazanın başlıca nedeni hız yapmaktı.
+lose / loose|lose = kaybetmek (fiil); loose = gevşek, bol (sıfat).|Don't ___ your passport while travelling.|lose|Seyahat ederken pasaportunu kaybetme.
+lose / loose|lose = kaybetmek (fiil); loose = gevşek, bol (sıfat).|This screw is ___; it needs tightening.|loose|Bu vida gevşek; sıkılması gerekiyor.
+lie / lay|lie = uzanmak (nesne almaz); lay = yatırmak, koymak (nesne alır).|I need to ___ down for a few minutes.|lie|Birkaç dakika uzanmam gerek.
+lie / lay|lie = uzanmak (nesne almaz); lay = yatırmak, koymak (nesne alır).|Please ___ the documents on my desk.|lay|Lütfen belgeleri masama koy.
+sensible / sensitive|sensible = mantıklı; sensitive = hassas, duyarlı.|It would be ___ to save some money for emergencies.|sensible|Acil durumlar için biraz para biriktirmek mantıklı olur.
+sensible / sensitive|sensible = mantıklı; sensitive = hassas, duyarlı.|My skin is very ___ to sunlight.|sensitive|Cildim güneş ışığına çok hassastır.
+historic / historical|historic = tarihi önemi olan; historical = tarihle ilgili, geçmişe ait.|The first moon landing was a ___ event.|historic|İlk Ay'a iniş tarihi bir olaydı.
+historic / historical|historic = tarihi önemi olan; historical = tarihle ilgili, geçmişe ait.|The library contains many ___ documents.|historical|Kütüphanede birçok tarihi belge bulunuyor.
+complement / compliment|complement = tamamlamak; compliment = iltifat etmek.|The wine will ___ the meal perfectly.|complement|Şarap yemeği mükemmel şekilde tamamlayacak.
+complement / compliment|complement = tamamlamak; compliment = iltifat etmek.|She received a ___ on her presentation.|compliment|Sunumu için bir iltifat aldı.
+borrow / lend|borrow = ödünç almak; lend = ödünç vermek.|Could you ___ me some money until Friday?|lend|Cumaya kadar bana biraz borç verebilir misin?
+borrow / lend|borrow = ödünç almak; lend = ödünç vermek.|I had to ___ a laptop from a friend.|borrow|Bir arkadaşımdan dizüstü bilgisayar ödünç almak zorunda kaldım.
+assure / ensure / insure|assure = temin etmek (birine güvence vermek); ensure = sağlamak; insure = sigortalamak.|Please ___ that all windows are closed.|ensure|Lütfen tüm pencerelerin kapalı olduğundan emin olun.
+assure / ensure / insure|assure = temin etmek (birine güvence vermek); ensure = sağlamak; insure = sigortalamak.|I can ___ you that your data is safe.|assure|Verilerinizin güvende olduğunu size temin ederim.
+assure / ensure / insure|assure = temin etmek (birine güvence vermek); ensure = sağlamak; insure = sigortalamak.|You should ___ your house against fire.|insure|Evini yangına karşı sigortalatmalısın.
+imply / infer|imply = ima etmek (konuşan); infer = çıkarım yapmak (dinleyen).|Are you trying to ___ that I'm lying?|imply|Yalan söylediğimi mi ima etmeye çalışıyorsun?
+imply / infer|imply = ima etmek (konuşan); infer = çıkarım yapmak (dinleyen).|From the data, we can ___ that sales will fall.|infer|Verilerden satışların düşeceği sonucunu çıkarabiliriz.
+accept / except|accept = kabul etmek; except = hariç.|The committee will not ___ late applications.|accept|Komite geç başvuruları kabul etmeyecek.
+advice / advise|advice = tavsiye (isim); advise = tavsiye etmek (fiil).|I would ___ you to keep a copy of the form.|advise|Formun bir kopyasını saklamanı tavsiye ederim.
+beside / besides|beside = yanında; besides = ayrıca, -den başka.|___ English, she speaks French and Arabic.|besides|İngilizcenin yanı sıra Fransızca ve Arapça konuşur.
+emigrate / immigrate|emigrate = göç etmek (ülkeden); immigrate = göç etmek (ülkeye).|Many families ___ from the countryside to find work abroad.|emigrate|Birçok aile iş bulmak için köyden yurt dışına göç etti.
+fewer / less|fewer = sayılabilen; less = sayılamayan.|There are ___ buses after ten o'clock.|fewer|Saat ondan sonra daha az otobüs var.
+its / it's|its = onun; it's = it is / it has.|The committee published ___ final report yesterday.|its|Komite nihai raporunu dün yayımladı.
+stationary / stationery|stationary = durağan; stationery = kırtasiye.|The traffic was almost ___ on the bridge.|stationary|Köprüde trafik neredeyse durgundu.
+allusion / illusion|allusion = gönderme; illusion = yanılsama.|The poem contains an ___ to Greek myth.|allusion|Şiirde Yunan mitine bir gönderme var.
+allusion / illusion|allusion = gönderme; illusion = yanılsama.|The magician created the ___ that the bird had vanished.|illusion|Sihirbaz kuşun kaybolduğu yanılsamasını yarattı.
+continual / continuous|continual = tekrarlayan; continuous = kesintisiz.|The ___ interruptions made it hard to work.|continual|Sürekli (tekrarlayan) kesintiler çalışmayı zorlaştırdı.
+discreet / discrete|discreet = ölçülü, temkinli; discrete = ayrı, kopuk.|Please be ___ about this information.|discreet|Bu bilgi konusunda lütfen ölçülü ol.
+uninterested / disinterested|uninterested = ilgisiz; disinterested = tarafsız.|A judge must remain ___.|disinterested|Hâkim tarafsız kalmalıdır.
+precede / proceed|precede = önce gelmek; proceed = devam etmek.|A short film will ___ the main lecture.|precede|Kısa bir film ana dersten önce gelecek.
+precede / proceed|precede = önce gelmek; proceed = devam etmek.|After the break we will ___ with the discussion.|proceed|Moladan sonra tartışmaya devam edeceğiz.
+elicit / illicit|elicit = ortaya çıkarmak; illicit = yasadışı.|The questions ___ honest answers from the students.|elicit|Sorular öğrencilerden dürüst yanıtlar ortaya çıkardı.
+elicit / illicit|elicit = ortaya çıkarmak; illicit = yasadışı.|The police seized ___ goods at the border.|illicit|Polis sınırda yasadışı mallara el koydu.
+appraise / apprise|appraise = değerlendirmek; apprise = haberdar etmek.|The bank will ___ the value of the house.|appraise|Banka evin değerini değerlendirecek.
+appraise / apprise|appraise = değerlendirmek; apprise = haberdar etmek.|Please ___ me of any delay.|apprise|Lütfen herhangi bir gecikmeden beni haberdar et.
+censor / censure|censor = sansürlemek; censure = kınamak.|The board voted to ___ the minister.|censure|Kurul bakanı kınamaya oy verdi.
+censor / censure|censor = sansürlemek; censure = kınamak.|Officials used to ___ wartime letters.|censor|Yetkililer savaş dönemi mektuplarını sansürlerdi.
+@coll
+The university will ___ research on climate change.|conduct|make;do;take|Üniversite iklim değişikliği üzerine araştırma yürütecek.|"conduct research" = araştırma yürütmek.
+Rising sea levels ___ a serious threat to coastal cities.|pose|make;give;do|Yükselen deniz seviyeleri kıyı şehirleri için ciddi bir tehdit oluşturuyor.|"pose a threat" = tehdit oluşturmak.
+It is too early to ___ a conclusion from these results.|draw|make;take;bring|Bu sonuçlardan bir sonuca varmak için çok erken.|"draw a conclusion" = sonuç çıkarmak.
+The government must ___ action to reduce unemployment.|take|make;do;give|Hükümet işsizliği azaltmak için harekete geçmeli.|"take action" = harekete geçmek.
+Scientists hope to ___ progress in the fight against cancer.|make|do;take;have|Bilim insanları kanserle mücadelede ilerleme kaydetmeyi umuyor.|"make progress" = ilerleme kaydetmek.
+The new evidence ___ light on the causes of the disease.|sheds|makes;gives;opens|Yeni kanıtlar hastalığın nedenlerine ışık tutuyor.|"shed light on" = ışık tutmak.
+Smoking ___ a significant role in the development of lung cancer.|plays|makes;does;takes|Sigara akciğer kanserinin gelişiminde önemli bir rol oynar.|"play a role" = rol oynamak.
+Please ___ attention to the safety instructions.|pay|give;make;take|Lütfen güvenlik talimatlarına dikkat edin.|"pay attention" = dikkat etmek.
+The two countries finally ___ an agreement on trade.|reached|made;arrived;got|İki ülke sonunda ticaret konusunda bir anlaşmaya vardı.|"reach an agreement" = anlaşmaya varmak.
+Doctors ___ a vital role in public health campaigns.|play|make;have;do|Doktorlar halk sağlığı kampanyalarında hayati bir rol oynar.|"play a vital role" = hayati rol oynamak.
+The study ___ strong evidence that exercise improves memory.|provides|makes;does;takes|Çalışma, egzersizin hafızayı geliştirdiğine dair güçlü kanıtlar sunuyor.|"provide evidence" = kanıt sunmak.
+Many companies have ___ steps to reduce their carbon emissions.|taken|made;done;given|Pek çok şirket karbon emisyonlarını azaltmak için adımlar attı.|"take steps" = adım atmak.
+The heavy rain ___ serious damage to the crops.|caused|made;did a;gave|Şiddetli yağmur ekinlere ciddi zarar verdi.|"cause damage" = zarar vermek. ("do damage" da olur ama "did a damage" yanlıştır.)
+Students should ___ notes during the lecture.|take|make;do;write up|Öğrenciler ders sırasında not almalı.|"take notes" = not almak.
+The committee will ___ a decision next week.|make|do;take up;give|Komite gelecek hafta bir karar verecek.|"make a decision" = karar vermek.
+The project ___ a great deal of attention from the media.|attracted|pulled;took;made|Proje medyanın büyük ilgisini çekti.|"attract attention" = dikkat çekmek.
+Researchers ___ an experiment to test the hypothesis.|carried out|carried on;made out;put out|Araştırmacılar hipotezi test etmek için bir deney yaptı.|"carry out an experiment" = deney yapmak.
+The new policy ___ widespread criticism.|drew|made;did;took|Yeni politika yaygın eleştirilere neden oldu.|"draw criticism" = eleştiri almak.
+It is important to ___ a balance between work and family life.|strike|hit;make up;beat|İş ve aile hayatı arasında denge kurmak önemlidir.|"strike a balance" = denge kurmak.
+The company had to ___ its prices to stay competitive.|lower|down;fall;decrease to|Şirket rekabetçi kalmak için fiyatlarını düşürmek zorunda kaldı.|"lower prices" = fiyatları düşürmek.
+The internet has ___ access to information for millions.|broadened|enlarged up;thickened;lengthened|İnternet milyonlarca insan için bilgiye erişimi genişletti.|"broaden access" = erişimi genişletmek.
+The patient's condition ___ a turn for the worse overnight.|took|made;did;gave|Hastanın durumu gece boyunca kötüye gitti.|"take a turn for the worse" = kötüye gitmek.
+The report ___ emphasis on prevention rather than treatment.|places|puts a;makes;does|Rapor tedavi yerine önlemeye vurgu yapıyor.|"place emphasis on" = vurgu yapmak.
+Doctors ___ patients on the risks of the operation.|inform|say;tell to;speak|Doktorlar hastaları ameliyatın riskleri konusunda bilgilendirir.|"inform someone of/on" = bilgilendirmek.
+The findings ___ into question earlier assumptions about diet.|call|take;put a;make|Bulgular beslenme hakkındaki eski varsayımları sorgulatıyor.|"call into question" = sorgulatmak.
+She ___ a complaint about the noise.|filed|made up;did;put|Gürültü hakkında şikayette bulundu.|"file a complaint" = şikayette bulunmak.
+The two studies ___ similar conclusions.|reached|arrived;came;got|İki çalışma benzer sonuçlara vardı.|"reach a conclusion" = sonuca varmak.
+Heavy traffic can ___ delays of up to two hours.|lead to|lead on;bring up;carry out|Yoğun trafik iki saate varan gecikmelere yol açabilir.|"lead to" = yol açmak.
+The charity hopes to ___ awareness of rare diseases.|raise|rise;lift;grow|Vakıf nadir hastalıklar konusunda farkındalık artırmayı umuyor.|"raise awareness" = farkındalık artırmak.
+Please ___ in mind that the office is closed on Friday.|bear|keep a;hold;take|Cuma günü ofisin kapalı olduğunu aklında tut.|"bear in mind" = aklında tutmak.
+The scandal ___ damage to the minister's reputation.|did|made;gave;took|Skandal bakanın itibarına zarar verdi.|"do damage" = zarar vermek.
+Researchers ___ a link between air quality and asthma.|established|opened;built;settled|Araştırmacılar hava kalitesi ile astım arasında bir bağ kurdu.|"establish a link" = bağ kurmak.
+The accident ___ from a failure to check the brakes.|resulted|caused;led;came out|Kaza frenlerin kontrol edilmemesinden kaynaklandı.|"result from" = -den kaynaklanmak.
+The reform will ___ into force in January.|come|go;get;put|Reform ocakta yürürlüğe girecek.|"come into force" = yürürlüğe girmek.
+Please ___ the form in black ink.|fill in|fill up;fill out of;make in|Formu siyah mürekkeple doldurun.|"fill in a form".
+They ___ a meeting to discuss the budget.|held|made;did;put|Bütçeyi görüşmek için toplantı yaptılar.|"hold a meeting".
+The evidence does not ___ the claim.|support|hold up a;carry;lift|Kanıt iddiayı desteklemiyor.|"support a claim".
+We need to ___ the issue before it grows.|address|speak;talk;say|Büyümeden sorunu ele almalıyız.|"address an issue".
+The company ___ responsibility for the leak.|accepted|took up;got;received|Şirket sızıntının sorumluluğunu kabul etti.|"accept responsibility".
+Doctors ___ a warning about heatstroke.|issued|made out;did;sent up|Doktorlar sıcak çarpması hakkında uyarı yayımladı.|"issue a warning".
+The talks ___ a deadlock after two days.|reached|arrived;came;hit on|Görüşmeler iki gün sonra tıkanmaya vardı.|"reach a deadlock".
+She ___ an effort to learn the local language.|made|did;took;gave|Yerel dili öğrenmek için çaba gösterdi.|"make an effort".
+The board will ___ a vote on the proposal tomorrow.|hold|make;do;give|Kurul yarın öneri üzerine oylama yapacak.|"hold a vote".
+The article ___ a distinction between correlation and causation.|draws|makes up;does;takes|Makale korelasyon ile nedensellik arasında ayrım yapıyor.|"draw a distinction".
+We should ___ advantage of the free training.|take|make;do;get|Ücretsiz eğitimden yararlanmalıyız.|"take advantage of".
+The storm ___ havoc in the coastal towns.|wreaked|made;did;gave|Fırtına kıyı kasabalarında tahribat yarattı.|"wreak havoc".
+Please ___ a look at the attached table.|have|make;do;give a|Lütfen ekteki tabloya bir bak.|"have a look".
+The minister ___ an apology for the delay.|offered|did;made up;gave up|Bakan gecikme için özür diledi.|"offer an apology".
+The results ___ previous findings.|confirm|confess;conform;confine|Sonuçlar önceki bulguları doğruluyor.|"confirm findings".
+They ___ a survey of 2,000 households.|conducted|made;did;took|2.000 hane üzerinde anket yaptılar.|"conduct a survey".
+The company ___ a profit for the first time this year.|made|did;took;gained a|Şirket bu yıl ilk kez kâr etti.|"make a profit".
+Doctors ___ treatment according to the guidelines.|administered|made;did;gave out|Doktorlar kılavuza göre tedavi uyguladı.|"administer treatment".

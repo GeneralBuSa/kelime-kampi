@@ -1,0 +1,797 @@
+abandon|v|terk etmek, vazgeçmek
+absence|n|yokluk, devamsızlık
+absolute|adj|mutlak, kesin
+absorb|v|emmek, özümsemek
+abstract|adj|soyut
+abuse|n|istismar, kötüye kullanım
+academy|n|akademi
+accent|n|aksan
+acceptable|adj|kabul edilebilir
+accidentally|adv|kazara
+accompany|v|eşlik etmek
+accomplish|v|başarmak, tamamlamak
+accuse|v|suçlamak
+acknowledge|v|kabul etmek, onaylamak
+acquire|v|edinmek, kazanmak
+adapt|v|uyum sağlamak, uyarlamak
+addiction|n|bağımlılık
+additional|adj|ek, ilave
+adequate|adj|yeterli
+adjust|v|ayarlamak, uyum sağlamak
+administration|n|yönetim
+adopt|v|benimsemek; evlat edinmek
+adverse|adj|olumsuz, ters
+affair|n|mesele, olay
+affordable|adj|uygun fiyatlı
+aggressive|adj|saldırgan
+agriculture|n|tarım
+alert|adj|uyanık, tetikte
+alien|adj|yabancı
+alongside|prep|yanı sıra
+alter|v|değiştirmek
+amateur|adj|amatör
+analyst|n|analist
+anniversary|n|yıl dönümü
+annual|adj|yıllık
+anticipate|v|öngörmek, beklemek
+anxiety|n|kaygı
+anxious|adj|endişeli
+apparent|adj|görünür, belli
+apparently|adv|görünüşe göre
+appeal|n|cazibe; itiraz
+appeal|v|hoşa gitmek; başvurmak
+approach|n|yaklaşım
+approach|v|yaklaşmak
+appropriate|adj|uygun
+approval|n|onay
+approve|v|onaylamak
+arise|v|ortaya çıkmak
+artificial|adj|yapay
+aspect|n|yön, boyut
+assess|v|değerlendirmek
+assessment|n|değerlendirme
+asset|n|varlık, değerli şey
+assign|v|atamak, görevlendirmek
+assistance|n|yardım
+associate|v|ilişkilendirmek
+association|n|dernek; çağrışım
+assume|v|varsaymak
+assumption|n|varsayım
+assure|v|temin etmek
+attempt|n|girişim, deneme
+attempt|v|teşebbüs etmek
+attendance|n|katılım, devam
+attribute|v|atfetmek
+automatic|adj|otomatik
+awareness|n|farkındalık
+awkward|adj|garip, beceriksiz
+bargain|n|kelepir; pazarlık
+barrier|n|engel
+bias|n|önyargı
+bill|n|yasa tasarısı
+bind|v|bağlamak
+biography|n|biyografi
+blast|n|patlama
+bless|v|kutsamak
+boost|v|artırmak, desteklemek
+bound|adj|-mek zorunda; bağlı
+breakdown|n|arıza; çöküş
+breed|v|üremek, yetiştirmek
+brief|adj|kısa, öz
+broad|adj|geniş
+broadcast|v|yayınlamak
+bullet|n|mermi
+burden|n|yük
+bureaucracy|n|bürokrasi
+burst|v|patlamak
+capable|adj|yetenekli, muktedir
+capacity|n|kapasite
+capture|v|yakalamak, ele geçirmek
+cast|n|oyuncu kadrosu
+casual|adj|gündelik, rahat
+cell|n|hücre
+certificate|n|sertifika
+chairman|n|başkan
+characteristic|n|özellik
+charm|n|çekicilik
+chart|v|grafiğini çıkarmak
+chase|v|kovalamak
+cheek|n|yanak
+chief|adj|baş, ana
+chip|n|yonga
+circumstance|n|durum, koşul
+cite|v|alıntı yapmak, atıfta bulunmak
+citizen|n|vatandaş
+civil|adj|sivil, medeni
+clarify|v|açıklığa kavuşturmak
+classic|adj|klasik
+cliff|n|uçurum
+climate change|n|iklim değişikliği
+clinic|n|klinik
+code|n|kod; yasa
+cognitive|adj|bilişsel
+collapse|v|çökmek
+colony|n|koloni
+combat|v|mücadele etmek
+combination|n|kombinasyon
+comic|adj|komik
+commission|n|komisyon
+commitment|n|bağlılık, taahhüt
+committee|n|komite
+commodity|n|emtia, mal
+companion|n|yoldaş
+compensate|v|telafi etmek, tazmin etmek
+compete|v|rekabet etmek
+complicated|adj|karmaşık
+component|n|bileşen
+compose|v|oluşturmak; beste yapmak
+composition|n|bileşim; beste
+comprehensive|adj|kapsamlı
+compromise|n|uzlaşma
+compulsory|adj|zorunlu
+concentrate|n|konsantre
+concentration|n|konsantrasyon
+concept|n|kavram
+concern|n|endişe; ilgi
+concern|v|ilgilendirmek; endişelendirmek
+concerned|adj|endişeli; ilgili
+conduct|v|yürütmek, yapmak
+confidence|n|güven
+conflict|n|çatışma
+confront|v|yüzleşmek
+congratulate|v|tebrik etmek
+conscious|adj|bilinçli
+consciousness|n|bilinç
+consent|n|rıza, onay
+consequently|adv|sonuç olarak
+conservation|n|koruma
+conservative|adj|muhafazakâr
+considerable|adj|hatırı sayılır
+consideration|n|değerlendirme, düşünce
+consistent|adj|tutarlı
+constant|adj|sabit, sürekli
+constantly|adv|sürekli olarak
+construct|v|inşa etmek
+construction|n|inşaat
+consult|v|danışmak
+consultant|n|danışman
+contemporary|adj|çağdaş
+contest|n|yarışma
+contract|n|sözleşme
+contribute|v|katkıda bulunmak
+contribution|n|katkı
+controversial|adj|tartışmalı
+conventional|adj|geleneksel
+conversion|n|dönüşüm
+convert|v|dönüştürmek
+conviction|n|mahkumiyet; inanç
+cope|v|başa çıkmak
+core|n|çekirdek, öz
+corporate|adj|kurumsal
+correspond|v|karşılık gelmek; yazışmak
+corrupt|adj|yozlaşmış
+council|n|konsey, meclis
+counter|n|tezgah
+county|n|ilçe, kontluk
+courage|n|cesaret
+craft|n|zanaat
+crash|n|çarpışma, kaza
+creation|n|yaratma, eser
+creature|n|yaratık
+credible|adj|inandırıcı
+crew|n|ekip
+critic|n|eleştirmen
+critical|adj|eleştirel; kritik
+criticism|n|eleştiri
+crop|n|mahsul, ürün
+crucial|adj|çok önemli, hayati
+cruel|adj|zalim
+cure|n|tedavi, çare
+currency|n|para birimi
+currently|adv|şu anda
+curriculum|n|müfredat
+cycle|n|döngü
+damage|v|zarar vermek
+deadline|n|son teslim tarihi
+dealer|n|bayi, satıcı
+debt|n|borç
+decade|n|on yıl
+declare|v|ilan etmek, beyan etmek
+decline|v|azalmak; reddetmek
+decline|n|düşüş
+dedicate|v|adamak
+defeat|n|yenilgi
+defence|n|savunma
+deficit|n|açık (bütçe)
+define|v|tanımlamak
+definite|adj|kesin
+delete|v|silmek
+deliberate|adj|kasıtlı
+deliberately|adv|kasıtlı olarak
+delight|n|zevk, sevinç
+demand|v|talep etmek
+democracy|n|demokrasi
+demonstrate|v|göstermek, kanıtlamak
+demonstration|n|gösteri
+dense|adj|yoğun
+dependent|adj|bağımlı
+deposit|v|yatırmak
+depression|n|depresyon; ekonomik bunalım
+derive|v|türetmek, elde etmek
+deserted|adj|ıssız
+designate|v|belirlemek, atamak
+despite|prep|-e rağmen
+destruction|n|yıkım
+detect|v|tespit etmek
+detection|n|tespit
+determine|v|belirlemek
+devastating|adj|yıkıcı
+devote|v|adamak
+diagnose|v|teşhis koymak
+dialogue|n|diyalog
+dimension|n|boyut
+diplomat|n|diplomat
+directly|adv|doğrudan
+disability|n|engellilik
+disabled|adj|engelli
+disagreement|n|anlaşmazlık
+disappointment|n|hayal kırıklığı
+discipline|n|disiplin
+discourage|v|cesaretini kırmak
+discrimination|n|ayrımcılık
+dismiss|v|reddetmek; işten çıkarmak
+display|v|sergilemek
+dispute|n|anlaşmazlık
+distinct|adj|belirgin, farklı
+distinguish|v|ayırt etmek
+distribute|v|dağıtmak
+distribution|n|dağıtım
+district|n|ilçe, bölge
+disturb|v|rahatsız etmek
+diverse|adj|çeşitli
+diversity|n|çeşitlilik
+domestic|adj|yerli; evcil
+dominant|adj|baskın
+dominate|v|hakim olmak
+donation|n|bağış
+dose|n|doz
+draft|n|taslak
+drain|v|boşaltmak, süzmek
+dramatically|adv|çarpıcı biçimde
+drought|n|kuraklık
+dynamic|adj|dinamik
+eager|adj|istekli, hevesli
+earnings|n|kazanç
+ease|n|kolaylık
+echo|n|yankı
+edition|n|baskı
+efficient|adj|verimli
+elderly|adj|yaşlı
+elect|v|seçmek
+elegant|adj|zarif
+eliminate|v|ortadan kaldırmak
+elsewhere|adv|başka yerde
+embrace|v|kucaklamak, benimsemek
+emerge|v|ortaya çıkmak
+emission|n|salınım, emisyon
+emphasis|n|vurgu
+emphasize|v|vurgulamak
+empire|n|imparatorluk
+enforce|v|uygulamak, yürürlüğe koymak
+engage|v|meşgul olmak; ilgisini çekmek
+enhance|v|geliştirmek, artırmak
+enormous|adj|muazzam
+ensure|v|sağlamak, garanti etmek
+enthusiasm|n|coşku
+enthusiastic|adj|coşkulu
+entire|adj|bütün, tüm
+entirely|adv|tamamen
+entitle|v|hak vermek; başlık koymak
+equality|n|eşitlik
+equation|n|denklem
+equivalent|adj|eşdeğer
+era|n|çağ, devir
+essentially|adv|esasen
+establish|v|kurmak, tesis etmek
+estate|n|mülk, emlak
+estimate|v|tahmin etmek
+ethic|n|etik
+ethical|adj|etik, ahlaki
+ethnic|adj|etnik
+evaluate|v|değerlendirmek
+evolution|n|evrim
+evolve|v|evrimleşmek, gelişmek
+exaggerate|v|abartmak
+exceed|v|aşmak
+exception|n|istisna
+excess|n|fazlalık
+exclude|v|hariç tutmak
+exhibit|v|sergilemek
+exist|v|var olmak
+existence|n|varoluş
+exit|n|çıkış
+expansion|n|genişleme
+expectation|n|beklenti
+expense|n|masraf
+expertise|n|uzmanlık
+exploit|v|sömürmek; yararlanmak
+exploration|n|keşif
+expose|v|maruz bırakmak; ifşa etmek
+exposure|n|maruz kalma
+extend|v|uzatmak, genişletmek
+extension|n|uzatma; ek
+extensive|adj|kapsamlı, geniş
+extent|n|ölçü, derece
+external|adj|harici, dış
+extraordinary|adj|olağanüstü
+facility|n|tesis
+faith|n|inanç
+false|adj|yanlış
+fame|n|şöhret
+fantasy|n|fantezi, hayal
+fault|n|kusur, hata
+federal|adj|federal
+fierce|adj|şiddetli, vahşi
+finance|n|finans
+firm|n|firma
+firm|adj|sıkı, sağlam
+flavour|n|tat, aroma
+flexible|adj|esnek
+float|v|yüzmek (su üstünde)
+fluent|adj|akıcı
+following|prep|-in ardından
+forbid|v|yasaklamak
+formation|n|oluşum
+former|adj|önceki, eski
+formula|n|formül
+fortune|n|servet; şans
+forum|n|forum
+fossil|n|fosil
+foundation|n|temel; vakıf
+fraction|n|kesir, küçük kısım
+framework|n|çerçeve
+fraud|n|dolandırıcılık
+frequent|adj|sık
+frustrated|adj|hüsrana uğramış
+fulfil|v|yerine getirmek
+fundamental|adj|temel
+funding|n|finansman
+furthermore|adv|dahası, ayrıca
+gain|v|kazanmak
+gang|n|çete
+gender|n|cinsiyet
+gene|n|gen
+generate|v|üretmek
+genetic|adj|genetik
+genius|n|dahi
+genre|n|tür (sanat)
+genuine|adj|gerçek, samimi
+gesture|n|jest
+glance|v|göz atmak
+govern|v|yönetmek
+gradually|adv|yavaş yavaş
+grant|n|hibe
+grant|v|vermek, bahşetmek
+graphic|adj|grafik
+grasp|v|kavramak
+guarantee|v|garanti etmek
+guideline|n|yönerge
+habitat|n|yaşam alanı
+halt|v|durdurmak
+harsh|adj|sert
+headquarters|n|genel merkez
+heal|v|iyileştirmek
+heritage|n|miras
+hesitate|v|tereddüt etmek
+hidden|adj|gizli
+hierarchy|n|hiyerarşi
+highly|adv|son derece
+hint|n|ipucu
+hire|v|işe almak
+honour|n|onur
+horizon|n|ufuk
+hostile|adj|düşmanca
+household|n|hane
+humanity|n|insanlık
+humble|adj|alçakgönüllü
+humour|n|mizah
+hypothesis|n|hipotez
+identical|adj|aynı, özdeş
+ignorance|n|cehalet
+ignore|v|görmezden gelmek
+illustrate|v|örneklemek, resimlemek
+immense|adj|muazzam
+immigration|n|göç (ülkeye)
+implement|v|uygulamak
+implication|n|sonuç, ima
+imply|v|ima etmek
+impose|v|dayatmak
+impression|n|izlenim
+inadequate|adj|yetersiz
+incentive|n|teşvik
+incorporate|v|dahil etmek, birleştirmek
+index|n|dizin, endeks
+indicate|v|göstermek, belirtmek
+indication|n|belirti, gösterge
+indirect|adj|dolaylı
+inevitable|adj|kaçınılmaz
+infection|n|enfeksiyon
+inflation|n|enflasyon
+influential|adj|etkili, nüfuzlu
+infrastructure|n|altyapı
+inherit|v|miras almak
+initial|adj|ilk, başlangıç
+initially|adv|başlangıçta
+initiative|n|girişim, inisiyatif
+inner|adj|iç
+innovation|n|yenilik
+innovative|adj|yenilikçi
+input|n|girdi
+inquiry|n|soruşturma, sorgu
+insist|v|ısrar etmek
+inspection|n|denetim
+inspector|n|müfettiş
+inspiration|n|ilham
+instant|adj|anlık
+instinct|n|içgüdü
+integrate|v|bütünleştirmek
+intellectual|adj|entelektüel
+intelligence|n|zeka; istihbarat
+intense|adj|yoğun
+intensive|adj|yoğun
+interact|v|etkileşmek
+interaction|n|etkileşim
+interpret|v|yorumlamak
+interpretation|n|yorum
+interval|n|aralık
+intervention|n|müdahale
+investigation|n|soruşturma
+investment|n|yatırım
+investor|n|yatırımcı
+invisible|adj|görünmez
+isolated|adj|izole, yalıtılmış
+isolation|n|izolasyon, yalnızlık
+journalism|n|gazetecilik
+judgement|n|yargı, karar
+jury|n|jüri
+justify|v|haklı çıkarmak
+landscape|n|manzara, peyzaj
+largely|adv|büyük ölçüde
+lately|adv|son zamanlarda
+leadership|n|liderlik
+league|n|lig
+leak|v|sızmak
+lean|v|eğilmek, dayanmak
+legend|n|efsane
+legislation|n|mevzuat
+liberal|adj|liberal
+liberty|n|özgürlük
+licence|n|lisans, ehliyet
+lifetime|n|ömür
+likewise|adv|aynı şekilde
+link|v|bağlamak
+literally|adv|kelimenin tam anlamıyla
+literary|adj|edebi
+logical|adj|mantıklı
+long-term|adj|uzun vadeli
+loyal|adj|sadık
+magnificent|adj|muhteşem
+maintain|v|sürdürmek; bakımını yapmak
+maintenance|n|bakım
+majority|n|çoğunluk
+mammal|n|memeli
+manipulate|v|manipüle etmek
+manufacturer|n|üretici
+margin|n|kenar boşluğu; marj
+marine|adj|deniz ile ilgili
+mature|adj|olgun
+maximum|n|azami
+mayor|n|belediye başkanı
+mechanism|n|mekanizma
+medium|n|araç, ortam
+memorable|adj|unutulmaz
+mentally|adv|zihinsel olarak
+merchant|n|tüccar
+mere|adj|sadece, salt
+merely|adv|sadece
+merit|n|değer, erdem
+migration|n|göç
+minor|adj|küçük, önemsiz
+minority|n|azınlık
+miracle|n|mucize
+mission|n|görev, misyon
+moderate|adj|ılımlı, orta
+modest|adj|alçakgönüllü
+modify|v|değiştirmek
+monitor|v|izlemek, denetlemek
+moral|adj|ahlaki
+motivate|v|motive etmek
+motivation|n|motivasyon
+motive|n|güdü, sebep
+multiple|adj|çoklu
+mutual|adj|karşılıklı
+myth|n|efsane, mit
+naked|adj|çıplak
+namely|adv|yani, şöyle ki
+negotiate|v|müzakere etmek
+negotiation|n|müzakere
+neutral|adj|tarafsız
+nonetheless|adv|yine de
+norm|n|norm
+notion|n|kavram, fikir
+numerous|adj|çok sayıda
+objective|n|amaç, hedef
+objective|adj|nesnel
+obligation|n|yükümlülük
+observation|n|gözlem
+obstacle|n|engel
+occasionally|adv|ara sıra
+occupation|n|meslek; işgal
+occupy|v|işgal etmek; meşgul etmek
+offender|n|suçlu
+ongoing|adj|süregelen
+openly|adv|açıkça
+opponent|n|rakip
+oppose|v|karşı çıkmak
+opposition|n|muhalefet
+optimistic|adj|iyimser
+orbit|n|yörünge
+organism|n|organizma
+outcome|n|sonuç
+outline|n|ana hatlar, taslak
+output|n|çıktı
+outstanding|adj|olağanüstü; ödenmemiş
+overall|adj|genel
+overcome|v|üstesinden gelmek
+overseas|adv|denizaşırı
+overwhelming|adj|ezici, bunaltıcı
+owe|v|borçlu olmak
+panel|n|panel
+parallel|adj|paralel
+parliament|n|parlamento
+partial|adj|kısmi
+participation|n|katılım
+partnership|n|ortaklık
+passive|adj|pasif
+patent|n|patent
+pathway|n|yol, patika
+patience|n|sabır
+peak|n|zirve
+peer|n|akran
+penalty|n|ceza
+perceive|v|algılamak
+perception|n|algı
+permanently|adv|kalıcı olarak
+persist|v|ısrar etmek; sürmek
+perspective|n|bakış açısı
+phase|n|evre, aşama
+phenomenon|n|olgu, fenomen
+philosophy|n|felsefe
+pile|n|yığın
+pioneer|n|öncü
+pitch|n|saha; perde (ses)
+plain|adj|sade, düz
+pleasure|n|zevk
+plus|prep|artı
+poll|n|anket
+portion|n|porsiyon, kısım
+possession|n|sahip olunan şey
+potential|adj|potansiyel
+potential|n|potansiyel
+practitioner|n|uygulayıcı
+precise|adj|kesin, tam
+precisely|adv|tam olarak
+predator|n|yırtıcı hayvan
+predictable|adj|tahmin edilebilir
+preference|n|tercih
+prejudice|n|önyargı
+preliminary|adj|ön, hazırlık
+premise|n|öncül; bina
+prescription|n|reçete
+presence|n|varlık, mevcudiyet
+presumably|adv|muhtemelen
+prevention|n|önleme
+prime|adj|asıl, birincil
+prior|adj|önceki
+privacy|n|mahremiyet
+privilege|n|ayrıcalık
+probability|n|olasılık
+proceed|v|devam etmek
+profession|n|meslek
+programming|n|programlama
+prohibit|v|yasaklamak
+prominent|adj|önde gelen, belirgin
+promising|adj|umut verici
+prompt|v|tetiklemek, sevk etmek
+proportion|n|oran
+prospect|n|olasılık, beklenti
+prosperity|n|refah
+protein|n|protein
+province|n|il, eyalet
+provision|n|tedarik; hüküm
+psychological|adj|psikolojik
+psychology|n|psikoloji
+publication|n|yayın
+punishment|n|ceza
+purchase|v|satın almak
+pursuit|n|arayış, takip
+qualified|adj|nitelikli
+radical|adj|köklü, radikal
+random|adj|rastgele
+rank|n|rütbe, sıra
+rapid|adj|hızlı
+rapidly|adv|hızla
+rating|n|derecelendirme
+rational|adj|akılcı
+readily|adv|kolayca, hemen
+realistic|adj|gerçekçi
+rebel|n|isyancı
+recall|v|hatırlamak
+recession|n|durgunluk
+recognition|n|tanınma
+recovery|n|iyileşme
+recruit|v|işe almak
+reference|n|referans, atıf
+reform|n|reform
+refugee|n|mülteci
+regard|v|saymak, kabul etmek
+regardless|adv|ne olursa olsun
+regime|n|rejim
+register|v|kaydolmak
+regulation|n|düzenleme, yönetmelik
+reinforce|v|güçlendirmek
+relevant|adj|ilgili, alakalı
+relief|n|rahatlama
+rely|v|güvenmek, bel bağlamak
+remarkable|adj|dikkate değer
+remedy|n|çare
+reputation|n|itibar
+rescue|v|kurtarmak
+reserve|v|ayırmak, rezerve etmek
+resident|n|sakin
+resign|v|istifa etmek
+resist|v|direnmek
+resistance|n|direnç
+resolution|n|çözüm; karar
+resolve|v|çözmek
+resort|n|tatil yeri
+restore|v|onarmak, eski haline getirmek
+restrict|v|kısıtlamak
+restriction|n|kısıtlama
+retain|v|elde tutmak, korumak
+retire|v|emekli olmak
+reveal|v|ortaya çıkarmak
+revenue|n|gelir
+reverse|v|tersine çevirmek
+revolution|n|devrim
+rival|n|rakip
+romance|n|aşk, romantizm
+rural|adj|kırsal
+sacrifice|n|fedakarlık
+satisfaction|n|memnuniyet
+scale|n|ölçek
+scenario|n|senaryo
+scheme|n|plan, düzen
+scholarship|n|burs
+scope|n|kapsam
+secure|adj|güvenli
+seek|v|aramak, peşinde olmak
+segment|n|kesim, bölüm
+seize|v|ele geçirmek
+select|v|seçmek
+sensitive|adj|hassas
+sequence|n|sıralama
+settle|v|yerleşmek; çözmek
+severe|adj|şiddetli, ağır
+shelter|n|barınak
+shortage|n|kıtlık
+significance|n|önem
+significant|adj|önemli, kayda değer
+significantly|adv|önemli ölçüde
+skilled|adj|vasıflı
+slavery|n|kölelik
+so-called|adj|sözde
+sole|adj|tek, yegane
+solely|adv|yalnızca
+sophisticated|adj|sofistike, gelişmiş
+specify|v|belirtmek
+spectacular|adj|muhteşem
+spectrum|n|yelpaze, tayf
+speculation|n|spekülasyon
+sponsor|n|sponsor
+stake|n|pay, hisse
+statistic|n|istatistik
+status|n|statü, durum
+steadily|adv|istikrarlı bir şekilde
+stimulate|v|uyarmak, canlandırmak
+straightforward|adj|basit, açık
+strategic|adj|stratejik
+strengthen|v|güçlendirmek
+stress|v|vurgulamak
+striking|adj|çarpıcı
+strip|n|şerit
+stroke|n|felç; darbe
+subsequent|adj|sonraki
+subsequently|adv|daha sonra
+substantial|adj|önemli, büyük
+substitute|n|yedek, ikame
+subtle|adj|ince, belli belirsiz
+suburb|n|banliyö
+successive|adj|ardışık
+sue|v|dava açmak
+summit|n|zirve
+superior|adj|üstün
+surgeon|n|cerrah
+surplus|n|fazlalık
+suspend|v|askıya almak
+suspicious|adj|şüpheli
+sustain|v|sürdürmek
+sustainable|adj|sürdürülebilir
+swallow|v|yutmak
+symptom|n|belirti
+talent|n|yetenek
+tackle|v|ele almak, uğraşmak
+tale|n|masal, hikaye
+temporary|adj|geçici
+tendency|n|eğilim
+tension|n|gerginlik
+terminal|n|terminal
+territory|n|bölge, toprak
+testimony|n|tanıklık
+therapy|n|terapi
+thorough|adj|ayrıntılı, titiz
+thoroughly|adv|tamamen, iyice
+threshold|n|eşik
+thrive|v|gelişmek, büyümek
+tolerance|n|hoşgörü
+tolerate|v|hoş görmek, katlanmak
+toxic|adj|zehirli
+trace|v|izini sürmek
+trait|n|özellik
+transform|v|dönüştürmek
+transformation|n|dönüşüm
+transition|n|geçiş
+transmission|n|iletim
+transmit|v|iletmek
+transparent|adj|şeffaf
+tremendous|adj|muazzam
+tribe|n|kabile
+trigger|v|tetiklemek
+triumph|n|zafer
+troop|n|birlik, asker
+tropical|adj|tropikal
+ultimate|adj|nihai
+ultimately|adv|sonunda, nihayetinde
+undergo|v|geçirmek, maruz kalmak
+underlying|adj|altta yatan
+undertake|v|üstlenmek
+unique|adj|eşsiz
+unity|n|birlik
+universal|adj|evrensel
+unprecedented|adj|benzeri görülmemiş
+urban|adj|kentsel
+urge|v|teşvik etmek, ısrar etmek
+utility|n|fayda; kamu hizmeti
+utilize|v|kullanmak, faydalanmak
+vague|adj|belirsiz
+valid|adj|geçerli
+variable|n|değişken
+variation|n|değişim, varyasyon
+vast|adj|engin, çok geniş
+venue|n|mekan
+verify|v|doğrulamak
+via|prep|aracılığıyla
+vice|n|kusur
+virtue|n|erdem
+visible|adj|görünür
+vision|n|görüş; vizyon
+vital|adj|hayati
+vulnerable|adj|savunmasız, hassas
+warehouse|n|depo
+welfare|n|refah
+whereas|conj|oysa, -iken
+widespread|adj|yaygın
+willing|adj|istekli
+withdraw|v|geri çekmek
+worthwhile|adj|zahmete değer
+yield|v|vermek, sağlamak; boyun eğmek

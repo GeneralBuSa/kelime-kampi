@@ -1,0 +1,309 @@
+## r1|reading|B2|Sağlık
+P: For decades, sleep was regarded as a passive state in which the brain simply rested. Research over the past twenty years, however, has shown that sleep plays an active role in learning. During deep sleep, the brain appears to replay information acquired during the day, strengthening the connections between neurons that encode new memories. In one well-known experiment, students who slept after studying a list of word pairs recalled significantly more pairs the next morning than students who stayed awake for the same period. Interestingly, the benefit was greatest for information that the students had been told they would be tested on, which suggests that the sleeping brain prioritises what it considers useful. These findings have practical implications for students, who often sacrifice sleep in order to study longer. Staying up all night before an exam may increase the amount of material reviewed, but it also reduces the brain's ability to store that material in a lasting form.
+Q: The passage mainly focuses on ___.
+A: the active contribution of sleep to the formation of memories
+X: the reasons why students tend to sleep less before exams
+X: the differences between deep sleep and other stages of sleep
+X: the methods that scientists use to measure brain activity
+X: the negative effects of word-pair tests on memory
+W: Parçanın tamamı uykunun öğrenme ve hafıza oluşumundaki aktif rolünü anlatıyor. Diğer şıklar ya parçada geçmiyor ya da yalnızca bir ayrıntı.
+Q: According to the passage, students who slept after studying ___.
+A: remembered more word pairs the following morning than those who stayed awake
+X: needed less time to learn the word pairs in the first place
+X: forgot the information they had not been told about
+X: performed worse on tests they had not prepared for
+X: preferred to study shorter lists of words
+W: Parçada açıkça "students who slept after studying ... recalled significantly more pairs the next morning" deniyor.
+Q: It can be inferred from the passage that the sleeping brain ___.
+A: does not treat all newly learned information equally
+X: is unable to process information learned late at night
+X: stores information more effectively when the person is anxious
+X: erases most of the details learned during the day
+X: works in exactly the same way as the waking brain
+W: Fayda en çok "test edileceği söylenen" bilgide görülmüş; yani uyuyan beyin yararlı gördüğü bilgiye öncelik veriyor, her bilgiye eşit davranmıyor.
+Q: The author's attitude towards staying up all night before an exam is ___.
+A: critical, because it weakens long-term storage of what is studied
+X: supportive, since it allows more material to be reviewed
+X: neutral, as the evidence on the subject is not yet clear
+X: enthusiastic, because it improves concentration
+X: indifferent, since exam results depend mostly on intelligence
+W: Son cümlede yazar, sabahlamanın daha çok konu tekrarı sağlasa da bilgiyi kalıcı depolama yeteneğini azalttığını söylüyor; yani eleştirel bir tutumda.
+
+## r2|reading|B2|Çevre
+P: Microplastics are tiny plastic particles less than five millimetres in length. Some are manufactured at this size for use in cosmetics and industrial products, while most result from the gradual breakdown of larger items such as bottles, bags and synthetic clothing. Because they are so small, microplastics easily escape water treatment systems and enter rivers and oceans, where they have now been detected from the surface to the deepest trenches. Marine animals frequently mistake the particles for food. Once swallowed, microplastics can block the digestive system or create a false sense of fullness, causing animals to eat less and grow more slowly. A further concern is that the particles attract toxic chemicals from the surrounding water, which may then move up the food chain to humans. Although several countries have banned microbeads in cosmetics, scientists stress that such measures address only a small fraction of the problem, since the majority of microplastics come from the fragmentation of everyday plastic waste.
+Q: According to the passage, most microplastics ___.
+A: are produced when larger plastic objects slowly break apart
+X: are added to cosmetics during the manufacturing process
+X: are created in water treatment systems
+X: originate in the deepest parts of the ocean
+X: are released by marine animals
+W: "most result from the gradual breakdown of larger items" ifadesi çoğu mikroplastiğin büyük eşyaların parçalanmasıyla oluştuğunu söylüyor.
+Q: One effect of microplastics on marine animals mentioned in the passage is that they ___.
+A: may make the animals feel full and therefore eat less
+X: increase the speed at which the animals grow
+X: help the animals digest their food more efficiently
+X: make the animals avoid areas with polluted water
+X: cause the animals to move to deeper waters
+W: Parçada "create a false sense of fullness, causing animals to eat less" deniyor.
+Q: The word "fraction" in the last sentence is closest in meaning to ___.
+A: small part
+X: main cause
+X: total amount
+X: final result
+X: serious danger
+W: "fraction" burada "küçük bir kısım" anlamında: yasaklar sorunun yalnızca küçük bir kısmına çözüm oluyor.
+Q: It can be concluded from the passage that banning microbeads in cosmetics ___.
+A: is helpful but far from sufficient to solve the problem
+X: has completely stopped microplastic pollution in those countries
+X: is the most effective way of protecting marine life
+X: has increased the amount of plastic waste in the oceans
+X: is opposed by most of the scientific community
+W: Bilim insanları bu yasakların sorunun sadece küçük bir kısmını çözdüğünü vurguluyor; yani faydalı ama yetersiz.
+
+## r3|reading|C1|Sosyal bilimler
+P: The term "urban heat island" describes the phenomenon whereby cities are noticeably warmer than the rural areas surrounding them. The difference is most pronounced at night, when concrete, asphalt and brick release the heat they have absorbed during the day. The scarcity of vegetation compounds the problem, as plants cool their environment by releasing water vapour, a process that is largely absent in densely built areas. Waste heat from vehicles, air conditioners and industry adds further to urban temperatures. The consequences are not merely a matter of discomfort. During heatwaves, mortality rates in cities rise sharply, particularly among the elderly and those with chronic illnesses. Higher temperatures also increase demand for air conditioning, which in turn consumes more energy and releases more heat, creating a vicious circle. Urban planners have responded with a range of strategies, including planting trees along streets, creating green roofs and using reflective materials for pavements, all of which have been shown to lower local temperatures by several degrees.
+Q: According to the passage, the temperature difference between cities and rural areas is greatest ___.
+A: at night, when built surfaces release stored heat
+X: in the early morning, before traffic begins
+X: in winter, when heating systems are used
+X: at midday, when the sun is strongest
+X: during rainy periods, when humidity is high
+W: "The difference is most pronounced at night" cümlesi cevabı doğrudan veriyor.
+Q: The author mentions air conditioning as an example of ___.
+A: a response to heat that ultimately makes the problem worse
+X: a technology that has solved the heat island problem
+X: a method used by planners to cool city streets
+X: a cause of illness among elderly people
+X: a cheap alternative to planting trees
+W: Klima kullanımı daha çok enerji harcayıp daha çok ısı yayarak "kısır döngü" (vicious circle) yaratıyor.
+Q: The phrase "compounds the problem" is closest in meaning to ___.
+A: makes the problem worse
+X: solves the problem
+X: explains the problem
+X: hides the problem
+X: divides the problem
+W: "compound" burada "kötüleştirmek, şiddetlendirmek" anlamında; bitki azlığı sorunu büyütüyor.
+Q: Which of the following is NOT mentioned as a strategy to reduce urban heat?
+A: Limiting the number of vehicles in city centres
+X: Planting trees along streets
+X: Building green roofs
+X: Using reflective materials for pavements
+X: Increasing the amount of greenery in built-up areas
+W: Ağaç dikmek, yeşil çatılar ve yansıtıcı malzemeler sayılıyor; araç sayısını sınırlamak strateji olarak geçmiyor.
+
+## r4|reading|B2|Eğitim
+P: For much of the twentieth century, many parents and educators believed that learning two languages in early childhood would confuse children and delay their development. Recent research has largely overturned this view. Studies indicate that bilingual children may initially have smaller vocabularies in each individual language, but their total vocabulary across both languages is usually similar to that of monolingual children. Moreover, bilingualism appears to bring certain cognitive advantages. Because bilingual speakers must constantly select one language while suppressing the other, they seem to develop stronger skills in attention control and task switching. Some researchers have even suggested that lifelong bilingualism may delay the onset of dementia symptoms by several years, although this claim remains controversial and requires further investigation. What is clear is that the fear of confusing children is not supported by evidence, and families should feel free to maintain their heritage language at home.
+Q: The passage is mainly concerned with ___.
+A: how research has changed views about raising bilingual children
+X: the best methods of teaching a foreign language at school
+X: the reasons why some children learn languages faster than others
+X: the causes of dementia in elderly bilingual speakers
+X: the difficulties immigrant families face in a new country
+W: Parça, iki dilli çocuk yetiştirme hakkındaki eski görüşün araştırmalarla nasıl değiştiğini anlatıyor.
+Q: According to the passage, bilingual children ___.
+A: may know fewer words in each language but a similar total number of words
+X: always have larger vocabularies than monolingual children
+X: usually start speaking later than monolingual children
+X: are more likely to confuse grammatical rules
+X: prefer to use only one of their languages at home
+W: "smaller vocabularies in each individual language, but their total vocabulary ... is usually similar" ifadesi bunu söylüyor.
+Q: The author considers the claim about dementia to be ___.
+A: interesting but not yet firmly established
+X: completely proven by recent studies
+X: clearly false and misleading
+X: the most important finding about bilingualism
+X: irrelevant to the discussion of children
+W: Yazar bu iddianın "hâlâ tartışmalı ve daha fazla araştırma gerektirdiğini" söylüyor; yani henüz kesinleşmemiş.
+Q: The author would most likely advise families to ___.
+A: continue speaking their heritage language with their children
+X: wait until children start school before teaching a second language
+X: speak only the language of the country they live in
+X: avoid mixing two languages in the same conversation
+X: consult a doctor before raising children bilingually
+W: Son cümle: "families should feel free to maintain their heritage language at home."
+
+## r5|reading|C1|Sağlık
+P: Antibiotics, first introduced on a large scale in the 1940s, transformed medicine by making once-deadly bacterial infections easily treatable. Yet their success has contained the seeds of a serious problem. Whenever antibiotics are used, bacteria that happen to carry genetic mutations allowing them to survive the drug are left behind and multiply. Over time, these resistant strains can come to dominate a population. The misuse of antibiotics has greatly accelerated this process. Patients often demand antibiotics for viral infections such as colds, against which the drugs are useless, and many stop taking their medication as soon as they feel better, allowing the hardiest bacteria to survive. In agriculture, antibiotics are routinely given to healthy animals to promote growth. The World Health Organization now ranks antimicrobial resistance among the greatest threats to global health, warning that routine surgery and cancer treatment could become far riskier if effective antibiotics are no longer available.
+Q: According to the passage, antibiotic resistance develops because ___.
+A: bacteria that survive the drug reproduce and spread
+X: antibiotics change the genetic structure of viruses
+X: modern antibiotics are weaker than earlier ones
+X: patients take larger doses than necessary
+X: bacteria learn to avoid the parts of the body where drugs are present
+W: İlaca dayanıklı mutasyona sahip bakteriler hayatta kalıp çoğalıyor ve zamanla popülasyona hakim oluyor.
+Q: Which of the following is given as an example of antibiotic misuse?
+A: Stopping treatment early once symptoms disappear
+X: Using antibiotics to treat bacterial infections
+X: Developing new antibiotics in laboratories
+X: Giving antibiotics only to sick animals
+X: Following a doctor's instructions carefully
+W: "many stop taking their medication as soon as they feel better" kötüye kullanım örneği olarak veriliyor.
+Q: The phrase "contained the seeds of a serious problem" suggests that ___.
+A: the success of antibiotics itself led to a later difficulty
+X: antibiotics were dangerous from the very beginning
+X: scientists predicted the problem in the 1940s
+X: agriculture was the original source of antibiotics
+X: the problem has now been completely solved
+W: Bu ifade, antibiyotiklerin başarısının içinde ileride büyüyecek bir sorunun tohumunu taşıdığı anlamına geliyor.
+Q: It can be inferred that, without effective antibiotics, ___.
+A: medical procedures that are now routine would carry greater risks
+X: cancer would become easier to treat
+X: viral infections would disappear
+X: farm animals would grow faster
+X: the World Health Organization would stop its research
+W: Son cümlede rutin ameliyatların ve kanser tedavisinin çok daha riskli hale gelebileceği belirtiliyor.
+
+## r6|reading|B1|Tarih
+P: The Silk Road was not a single road but a vast network of trade routes that connected China with the Mediterranean world for more than fifteen centuries. Although it took its name from the Chinese silk that was highly valued in Rome, many other goods travelled along these routes, including spices, glass, paper and precious metals. Few merchants travelled the entire distance. Instead, goods usually passed through the hands of many traders, each covering a section of the journey before selling to the next. Cities such as Samarkand and Bukhara grew rich by providing markets, water and shelter for passing caravans. Perhaps even more important than the goods themselves were the ideas that spread along the routes. Religions, scientific knowledge and technologies such as papermaking moved from one civilisation to another, shaping cultures across Asia and Europe.
+Q: According to the passage, the Silk Road was ___.
+A: a large network of routes rather than one single road
+X: a road built by the Roman Empire
+X: used only for transporting silk
+X: a route that existed for about one hundred years
+X: controlled by a single group of merchants
+W: İlk cümle: "not a single road but a vast network of trade routes".
+Q: Most merchants on the Silk Road ___.
+A: travelled only part of the route and then sold their goods to others
+X: travelled the whole distance between China and Rome
+X: lived permanently in Samarkand and Bukhara
+X: traded only in spices and glass
+X: avoided cities and stayed in the desert
+W: "Few merchants travelled the entire distance ... each covering a section of the journey" deniyor.
+Q: Cities such as Samarkand and Bukhara became wealthy because they ___.
+A: offered services and markets to the caravans
+X: produced most of the silk sold in Rome
+X: were the capitals of large empires
+X: prevented foreign traders from entering
+X: invented the technique of papermaking
+W: Bu şehirler kervanlara pazar, su ve barınak sağlayarak zenginleşti.
+Q: The author suggests that the most significant result of the Silk Road was ___.
+A: the exchange of ideas and knowledge between civilisations
+X: the high price of silk in Rome
+X: the growth of the Chinese army
+X: the discovery of new precious metals
+X: the decline of trade by sea
+W: "Perhaps even more important than the goods themselves were the ideas" cümlesi yazarın vurgusunu gösteriyor.
+
+## r7|reading|C1|Psikoloji
+P: The placebo effect refers to the improvement in a patient's condition that occurs after receiving a treatment with no active ingredient, such as a sugar pill. For a long time, it was viewed mainly as a nuisance that complicated clinical trials, since researchers had to show that a new drug performed better than a placebo. Today, scientists increasingly study the effect in its own right. Brain imaging studies have shown that expecting pain relief can trigger the release of the body's natural painkillers, indicating that the effect has a measurable biological basis. The size of the effect depends on surprisingly subtle factors: injections tend to produce stronger placebo responses than pills, and expensive-looking pills often work better than cheap ones. Perhaps most surprisingly, some studies report that placebos can help even when patients are told that the pills contain no medicine. Such findings raise difficult ethical questions about whether, and how, doctors might use placebos deliberately.
+Q: In the past, the placebo effect was mainly regarded as ___.
+A: an obstacle that made clinical trials more complicated
+X: the most effective form of pain relief
+X: a proven method of treating serious diseases
+X: a purely biological process in the brain
+X: an ethical way to reduce the cost of medicine
+W: "it was viewed mainly as a nuisance that complicated clinical trials" ifadesi bunu anlatıyor.
+Q: The brain imaging studies mentioned in the passage show that ___.
+A: the placebo effect involves real physical changes in the body
+X: placebos work only for patients with mild pain
+X: sugar pills contain small amounts of painkillers
+X: patients cannot tell the difference between drugs and placebos
+X: expectations have no influence on the experience of pain
+W: Beklentinin doğal ağrı kesicilerin salınımını tetiklemesi, etkinin ölçülebilir biyolojik bir temeli olduğunu gösteriyor.
+Q: According to the passage, which of the following tends to produce a stronger placebo response?
+A: An injection rather than a pill
+X: A cheap pill rather than an expensive one
+X: A pill taken without water
+X: A treatment given by a nurse rather than a doctor
+X: A smaller pill rather than a larger one
+W: "injections tend to produce stronger placebo responses than pills" deniyor.
+Q: The findings described at the end of the passage ___.
+A: make the deliberate use of placebos by doctors a complex moral issue
+X: prove that placebos should replace real medicine
+X: show that patients must never be told the truth
+X: have been rejected by most scientists
+X: demonstrate that the placebo effect does not exist
+W: Son cümle bu bulguların doktorların plaseboyu bilerek kullanması konusunda zor etik sorular doğurduğunu söylüyor.
+
+## r8|reading|B2|Çevre
+P: Coral reefs cover less than one percent of the ocean floor, yet they support around a quarter of all marine species. Reefs are built by tiny animals called coral polyps, which live in partnership with microscopic algae. The algae live inside the coral's tissues and supply it with food through photosynthesis, as well as giving the reef its bright colours. When the water becomes too warm, however, this partnership breaks down. Stressed corals expel the algae and turn white, a process known as bleaching. Bleached corals are not dead, and they can recover if temperatures return to normal fairly quickly. If the heat persists, though, the corals starve and eventually die. As ocean temperatures have risen, mass bleaching events, which were once rare, have become increasingly frequent, leaving reefs less time to recover between them.
+Q: According to the passage, coral reefs are important because they ___.
+A: provide a home for a large proportion of marine species
+X: cover most of the ocean floor
+X: produce most of the oxygen in the ocean
+X: protect coastlines from rising temperatures
+X: are the main source of food for humans
+W: Okyanus tabanının %1'inden azını kaplamalarına rağmen deniz türlerinin yaklaşık dörtte birine ev sahipliği yapıyorlar.
+Q: The algae living inside corals ___.
+A: supply the corals with food and give them colour
+X: build the hard structure of the reef
+X: protect the corals from warm water
+X: compete with the corals for food
+X: cause the corals to turn white
+W: Algler fotosentez yoluyla mercana besin sağlıyor ve resife parlak rengini veriyor.
+Q: According to the passage, bleached corals ___.
+A: can survive if the water cools down again soon enough
+X: are always already dead
+X: become more resistant to heat
+X: produce more algae than before
+X: recover more quickly when bleaching is frequent
+W: "Bleached corals are not dead, and they can recover if temperatures return to normal fairly quickly."
+Q: The main concern expressed in the last sentence is that ___.
+A: frequent bleaching gives reefs insufficient time to recover
+X: bleaching events are now extremely rare
+X: ocean temperatures are expected to fall
+X: scientists cannot explain why bleaching happens
+X: corals are moving to colder waters
+W: Toplu ağarma olaylarının sıklaşması, resiflerin iki olay arasında toparlanmasına daha az zaman bırakıyor.
+
+## r9|reading|C1|Ekonomi
+P: The so-called gig economy, in which workers take on short-term tasks through digital platforms rather than holding permanent jobs, has expanded rapidly over the past decade. Supporters argue that it offers flexibility, allowing people to choose when and how much they work, and that it provides valuable income for students, carers and those seeking a second job. Critics, on the other hand, point out that gig workers are usually classified as independent contractors rather than employees. As a result, they typically lack sick pay, paid holidays and pension contributions, and their income can fluctuate unpredictably from week to week. Several court cases in Europe have challenged this classification, with some judges ruling that platforms exercise enough control over workers to be considered employers. The outcome of these disputes is likely to shape the future of work far beyond the gig economy itself, as more traditional companies adopt similar flexible arrangements.
+Q: The passage mainly discusses ___.
+A: the benefits and drawbacks of platform-based short-term work
+X: the history of digital technology in Europe
+X: why students prefer permanent jobs
+X: how to start a successful online platform
+X: the decline of traditional companies
+W: Parça gig ekonomisinin hem savunucularının hem eleştirmenlerinin görüşlerini sunuyor.
+Q: According to critics, gig workers are disadvantaged mainly because they ___.
+A: do not receive the benefits that employees normally have
+X: are forced to work longer hours than employees
+X: earn less than students and carers
+X: are not allowed to choose their working hours
+X: must pay high fees to the platforms
+W: Bağımsız yüklenici sayıldıkları için hastalık izni, ücretli tatil ve emeklilik katkısından yoksun kalıyorlar.
+Q: The court cases mentioned in the passage concern ___.
+A: whether platforms should be treated as the employers of their workers
+X: the amount of tax that platforms should pay
+X: the right of students to work part-time
+X: the safety of digital payment systems
+X: competition between European and American companies
+W: Davalar, platformların çalışanlar üzerinde işveren sayılacak kadar kontrol uygulayıp uygulamadığıyla ilgili.
+Q: The author suggests that the results of these disputes ___.
+A: may affect working conditions in other sectors as well
+X: will be irrelevant to traditional companies
+X: have already ended the gig economy
+X: will only influence students and carers
+X: are of interest mainly to lawyers
+W: Son cümle, sonuçların gig ekonomisinin çok ötesinde iş dünyasını şekillendireceğini söylüyor.
+
+## r10|reading|B2|Arkeoloji
+P: Göbekli Tepe, an archaeological site in south-eastern Turkey, has forced researchers to reconsider the origins of civilisation. Excavations that began in the 1990s revealed massive stone pillars arranged in circles, many decorated with carvings of foxes, snakes and birds. Dating methods indicate that the oldest structures were built around 11,500 years ago, which makes them thousands of years older than Stonehenge and the Egyptian pyramids. What makes the site particularly remarkable is that it was constructed by hunter-gatherers, before the development of farming, pottery or writing. Traditionally, archaeologists assumed that people first settled down to farm and only later built monumental temples. Göbekli Tepe suggests that the order may have been reversed: the need to gather large groups for ritual purposes might have encouraged people to settle and, eventually, to cultivate crops to feed them.
+Q: According to the passage, Göbekli Tepe is important mainly because it ___.
+A: challenges traditional ideas about how civilisation began
+X: is the largest site ever excavated in Turkey
+X: contains the oldest examples of writing
+X: was built by farmers who lived near Stonehenge
+X: proves that pottery was invented before farming
+W: İlk cümle sitenin araştırmacıları uygarlığın kökenlerini yeniden düşünmeye zorladığını söylüyor.
+Q: The people who built the oldest structures at Göbekli Tepe ___.
+A: had not yet started farming
+X: were skilled at writing
+X: were Egyptian builders
+X: used pottery for religious rituals
+X: lived in large cities
+W: "it was constructed by hunter-gatherers, before the development of farming, pottery or writing."
+Q: The traditional view mentioned in the passage holds that ___.
+A: farming came first and monumental temples were built later
+X: temples were built before people settled down
+X: hunter-gatherers built most ancient monuments
+X: writing was necessary for building temples
+X: Stonehenge is older than Göbekli Tepe
+W: Geleneksel görüş: insanlar önce tarım için yerleşti, anıtsal tapınakları sonra inşa etti.
+Q: The word "reversed" in the last sentence is closest in meaning to ___.
+A: turned the other way round
+X: completely forgotten
+X: clearly proven
+X: slowly repeated
+X: carefully hidden
+W: "reversed" = tersine çevrilmiş; Göbekli Tepe sıranın tersine olabileceğini düşündürüyor.

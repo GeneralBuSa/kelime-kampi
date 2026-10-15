@@ -1,0 +1,689 @@
+## s26|sentcomp|B2
+Q: Unless governments invest in public transport, ___.
+A: traffic in large cities is likely to get worse
+X: traffic in large cities is likely getting worse
+X: traffic in large cities would have got worse
+X: traffic in large cities must have got worse
+X: traffic in large cities has been getting worse yesterday
+W: Unless + present → ana cümle present/future: is likely to.
+
+## s27|sentcomp|C1
+Q: Not until the results were published ___.
+A: did the public realise how serious the shortage was
+X: the public realised how serious the shortage was
+X: the public did realise how serious the shortage was
+X: did the public realising how serious the shortage was
+X: the public had not realise how serious the shortage was
+W: "Not until" ile devrik yapı: did + özne + V1.
+
+## s28|sentcomp|B2
+Q: The new museum is worth visiting, ___.
+A: even if you are not particularly interested in art
+X: even you are not particularly interested in art
+X: even though not particularly interested in art you are
+X: even if not you particularly interested in art
+X: even although you are not particularly interested in art
+W: even if + tam cümle.
+
+## s29|sentcomp|C1
+Q: Had the warning been issued earlier, ___.
+A: fewer people would have been trapped in the valley
+X: fewer people will be trapped in the valley
+X: fewer people were trapped in the valley
+X: fewer people would be trapping in the valley
+X: fewer people have been trapped in the valley
+W: Had + V3 = If + past perfect → would have + V3.
+
+## s30|sentcomp|B1
+Q: She has been working at the hospital ___.
+A: since she graduated from medical school
+X: since she has graduated from medical school
+X: since she graduate from medical school
+X: since she will graduate from medical school
+X: since she had been graduating from medical school
+W: since + past simple, ana cümle present perfect (continuous).
+
+## s31|sentcomp|B2
+Q: The committee postponed the vote so that members ___.
+A: could examine the report more carefully
+X: can examining the report more carefully
+X: could have examine the report more carefully
+X: to could examine the report more carefully
+X: would examining the report more carefully
+W: so that + could + V1 (amaç).
+
+## s32|sentcomp|C1
+Q: The more closely the two drafts are compared, ___.
+A: the more obvious the differences become
+X: the most obvious the differences become
+X: more obvious the differences become
+X: the more obvious become the differences are
+X: the more obviously the differences becoming
+W: The more ..., the more ...
+
+## s33|sentcomp|B2
+Q: Despite having little experience, ___.
+A: she handled the negotiations with confidence
+X: but she handled the negotiations with confidence
+X: she handling the negotiations with confidence
+X: however she handled the negotiations with confidence
+X: she was handled the negotiations with confidence
+W: Despite + V-ing, ardından tam cümle; but/however eklenmez.
+
+## s34|sentcomp|C1
+Q: It was not the cost of the project but the lack of public support ___.
+A: that eventually forced the government to cancel it
+X: which it eventually forced the government to cancel
+X: that eventually forcing the government to cancel it
+X: what eventually forced the government to cancel it
+X: that the government eventually was forced it to cancel
+W: It was X that ... cleft cümle.
+
+## s35|sentcomp|B2
+Q: Researchers warn that the species will disappear ___.
+A: unless its habitat is protected immediately
+X: unless its habitat will be protected immediately
+X: unless its habitat would protect immediately
+X: unless its habitat is protecting immediately
+X: unless its habitat has been protecting immediately
+W: unless sonrası will gelmez; present simple edilgen.
+
+## t21|en_tr|B2
+Q: Provided that the weather remains stable, the rescue teams will continue searching overnight.
+A: Hava durağan kaldığı sürece kurtarma ekipleri gece boyunca aramaya devam edecektir.
+X: Hava bozulduğu için kurtarma ekipleri gece aramayı durduracaktır.
+X: Hava durağan kalsaydı kurtarma ekipleri gece aramış olurdu.
+X: Kurtarma ekipleri gece aramayı ancak hava bozulursa sürdürecektir.
+X: Hava durağan kalsa da kurtarma ekipleri gece aramayı bıraktı.
+W: Provided that = -dığı sürece; will continue = devam edecek.
+
+## t22|en_tr|C1
+Q: Far from solving the housing shortage, the new tax appears to have discouraged construction.
+A: Yeni vergi konut sıkıntısını çözmek bir yana, inşaatı caydırıyor gibi görünmektedir.
+X: Yeni vergi konut sıkıntısını çözdüğü için inşaatı teşvik etmiştir.
+X: Yeni vergi olmasaydı konut sıkıntısı hiç ortaya çıkmazdı.
+X: Konut sıkıntısı çözüldükten sonra yeni vergi inşaatı durdurdu.
+X: Yeni vergi yalnızca inşaatı hızlandırmak için tasarlanmıştır.
+W: Far from -ing = -mek bir yana; appears to have = -miş gibi görünüyor.
+
+## t23|en_tr|B2
+Q: The study was criticised for relying on a sample that was too small to support such strong claims.
+A: Çalışma, bu kadar güçlü iddiaları destekleyemeyecek kadar küçük bir örneğe dayandığı için eleştirildi.
+X: Çalışma, örneği çok büyük olduğu için eleştirildi.
+X: Çalışma, güçlü iddiaları küçük bir örnekle kanıtladığı için övüldü.
+X: Çalışma, örneklem büyüklüğünü hiç kullanmadığı için eleştirildi.
+X: Çalışma, iddiaları zayıf olduğu halde büyük bir örnek kullandığı için eleştirildi.
+W: too small to support = destekleyemeyecek kadar küçük; relying on = dayanmak.
+
+## t24|en_tr|C1
+Q: What distinguishes this proposal from earlier ones is its emphasis on prevention rather than punishment.
+A: Bu öneriyi öncekilerden ayıran, ceza yerine önlemeye yaptığı vurgudur.
+X: Bu öneri öncekilerle aynı olduğu için cezayı öne çıkarır.
+X: Önceki öneriler önlemeyi cezadan daha çok vurgulamıştı.
+X: Bu öneri, cezayı önlemenin yerini alamaz.
+X: Öneri, cezayı tamamen kaldırdığı için öncekilerden ayrılmaz.
+W: What distinguishes X is Y; rather than = yerine.
+
+## t25|en_tr|B1
+Q: If you heat ice, it turns into water.
+A: Buzu ısıtırsan suya dönüşür.
+X: Buzu ısıtmasan da suya dönüşür.
+X: Buzu ısıttığın için su donar.
+X: Buz ısıtılmasa suya dönüşürdü.
+X: Buzu ısıtınca su buz olur.
+W: Bilimsel 1. tip: If + present, present.
+
+## t26|en_tr|B2
+Q: The treaty will not come into force until it has been ratified by all member states.
+A: Antlaşma, bütün üye devletlerce onaylanmadan yürürlüğe girmeyecektir.
+X: Antlaşma onaylanır onaylanmaz yürürlükten kalkacaktır.
+X: Antlaşma üye devletler onaylamadan yürürlüğe girdi.
+X: Antlaşma yalnızca bir üye onaylarsa yürürlüğe girer.
+X: Üye devletler antlaşmayı onayladığı için antlaşma iptal edildi.
+W: not ... until + present perfect; come into force = yürürlüğe girmek.
+
+## t27|en_tr|C1
+Q: Scarcely had the meeting begun when several delegates walked out in protest.
+A: Toplantı henüz başlamıştı ki birkaç delege protesto için salonu terk etti.
+X: Toplantı bittikten çok sonra delegeler protesto etti.
+X: Delegeler protesto etmeseydi toplantı hiç başlamazdı.
+X: Toplantı başlamadan delegeler zaten gitmişti.
+X: Delegeler toplantıyı protesto etmek yerine erken geldi.
+W: Scarcely had + V3 when = henüz ... -mişti ki.
+
+## t28|en_tr|B2
+Q: Children who grow up with books at home tend to develop stronger reading skills.
+A: Evde kitaplarla büyüyen çocuklar genellikle daha güçlü okuma becerileri geliştirir.
+X: Evde kitap olmayan çocuklar daha güçlü okur.
+X: Kitaplar yalnızca okulda okuma becerisi kazandırır.
+X: Çocuklar okuma becerisi kazanınca evdeki kitaplar kaybolur.
+X: Evde kitapla büyümek okuma becerisini zayıflatır.
+W: who grow up with; tend to = eğilimindedir.
+
+## t29|en_tr|C1
+Q: The findings should be treated with caution, given that the experiment was not repeated.
+A: Deney yinelenmediği için bulgulara ihtiyatla yaklaşılmalıdır.
+X: Deney yinelendiği için bulgular kesindir.
+X: Bulgular ihtiyatlı olduğu için deney yinelenmedi.
+X: Deney yinelenmese de bulgular yok sayılmalıdır.
+X: Bulgular, deneyin tekrarlandığını kanıtlamaktadır.
+W: given that = -dığı için; treated with caution = ihtiyatla ele alınmak.
+
+## t30|en_tr|B2
+Q: Neither the mayor nor the council members were willing to accept responsibility for the delay.
+A: Ne belediye başkanı ne de meclis üyeleri gecikmenin sorumluluğunu kabul etmeye istekliydi.
+X: Hem başkan hem meclis gecikmeyi üstlendi.
+X: Yalnızca başkan sorumluluğu kabul etti.
+X: Meclis üyeleri başkanı gecikmeden sorumlu tutmadı.
+X: Gecikme olmadığı için kimse sorumluluk almadı.
+W: Neither ... nor; were willing to accept.
+
+## t31|tr_en|B2
+Q: Hükümet, işsizliği azaltmak amacıyla yeni bir meslek edindirme programı başlattı.
+A: The government launched a new vocational training programme in order to reduce unemployment.
+X: The government reduced unemployment before launching any training programme.
+X: Unemployment launched a new government in order to train workers.
+X: The government cancelled vocational training so that unemployment would rise.
+X: A new programme reduced the government in order to train unemployment.
+W: in order to + V1; vocational training = meslek edindirme.
+
+## t32|tr_en|C1
+Q: Veriler yetersiz olmasaydı araştırmacılar daha kesin sonuçlara varabilirdi.
+A: Had the data not been insufficient, the researchers could have reached more definite conclusions.
+X: The data were insufficient, so the researchers reached more definite conclusions.
+X: If the data are insufficient, the researchers will have reached conclusions.
+X: Researchers reached definite conclusions although the data were complete.
+X: Unless the data had been insufficient, researchers cannot reach conclusions.
+W: 3. tip / Had + not + V3; could have + V3.
+
+## t33|tr_en|B1
+Q: Toplantı yarın saat onda başlayacak.
+A: The meeting will start at ten o'clock tomorrow.
+X: The meeting started at ten o'clock tomorrow.
+X: The meeting has started at ten yesterday.
+X: The meeting starts ten hours tomorrow ago.
+X: The meeting would have started tomorrow at ten yesterday.
+W: Gelecek zaman + saat ifadesi.
+
+## t34|tr_en|B2
+Q: Şirket çevreye verdiği zarardan dolayı ağır bir para cezasına çarptırıldı.
+A: The company was fined heavily for the damage it caused to the environment.
+X: The company fined the environment for heavy damage.
+X: The environment was rewarded because the company caused no damage.
+X: The company avoided any fine despite damaging the environment.
+X: Heavy rain fined the company for environmental damage.
+W: was fined for; damage to the environment.
+
+## t35|tr_en|C1
+Q: Ne kadar çok kaynak ayrılırsa ayrılsın, plan uygulama olmadan kâğıt üzerinde kalır.
+A: No matter how many resources are allocated, the plan remains on paper without implementation.
+X: The more resources are allocated, the more the plan stays unimplemented on purpose.
+X: Resources cannot be allocated unless the plan remains on paper.
+X: Implementation remains on paper no matter the plan allocates resources.
+X: The plan allocates resources only after it remains on paper.
+W: No matter how; remain on paper; without implementation.
+
+## t36|tr_en|B2
+Q: Uzmanlar, bu ilacın yan etkilerinin henüz yeterince araştırılmadığı konusunda uyarıyor.
+A: Experts warn that the side effects of this drug have not yet been sufficiently investigated.
+X: Experts warn that the side effects have already been fully investigated.
+X: Experts deny that the drug has any side effects.
+X: The drug investigated experts because of its side effects.
+X: Side effects warn experts not to investigate the drug.
+W: warn that; have not yet been + V3.
+
+## t37|tr_en|C1
+Q: Söz konusu düzenleme, küçük işletmeleri büyüklerden daha ağır etkileyecek gibi duruyor.
+A: The regulation in question seems likely to affect small businesses more severely than large ones.
+X: The regulation will affect large businesses more than small ones for certain.
+X: Small businesses seem to regulate large ones more severely.
+X: Large ones are unlikely to be affected unless small businesses disappear.
+X: The question regulates small businesses less than large ones.
+W: in question; seem likely to; more severely than.
+
+## t38|tr_en|B2
+Q: Öğrenciler laboratuvara ancak önlük giydikten sonra alınır.
+A: Students are not admitted to the laboratory until they have put on a lab coat.
+X: Students are admitted to the laboratory before they put on a lab coat.
+X: Students put on a lab coat after they leave the laboratory.
+X: Only teachers are admitted until students put on a lab coat.
+X: Students must leave the laboratory as soon as they put on a lab coat.
+W: not ... until + present perfect.
+
+## t39|tr_en|B1
+Q: Bu köprü geçen yıl tamamlandı.
+A: This bridge was completed last year.
+X: This bridge has completed last year.
+X: This bridge is completing last year.
+X: This bridge will completed last year.
+X: This bridge had been completing next year.
+W: Geçmiş edilgen + last year: was completed.
+
+## t40|tr_en|C1
+Q: Rapor, iddiaların aksine, harcamaların şeffaf biçimde kaydedildiğini gösteriyor.
+A: Contrary to the claims, the report shows that the expenditures were recorded transparently.
+X: According to the claims, the report hides all expenditures.
+X: The report claims that expenditures cannot be recorded.
+X: Contrary to the report, expenditures were never claimed.
+X: Claims show that the report recorded no expenditures at all.
+W: Contrary to; were recorded transparently.
+
+## d11|dialogue|B2
+P: Lina: The library closes in twenty minutes and I still need two chapters.
+P: Omar: I can photograph the pages you need, if that helps.
+P: Lina: ___
+P: Omar: Then let's do the first chapter now and you can come back tomorrow for the rest.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: That would save me, but I shouldn't copy the whole book.
+X: The library never closes, so we have all night.
+X: I already finished both chapters last week.
+X: Photography is forbidden in every city.
+X: You should leave the books on the bus.
+W: Omar kısmi çözüm öneriyor; Lina'nın telif/pratik kaygısı sonraki cümleyle uyumlu.
+
+## d12|dialogue|B1
+P: Clerk: Your passport expires in three weeks.
+P: Traveller: I'm flying next month. Is that a problem?
+P: Clerk: ___
+P: Traveller: Then I'd better apply for a new one today.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Many countries require at least three months of validity.
+X: Expired passports are accepted on every flight.
+X: You should wait until after you return.
+X: Three weeks is more than enough for all destinations.
+X: Flights do not check passports any more.
+W: Yolcunun hemen başvurması, sürenin yetersiz olduğu uyarısına bağlanır.
+
+## d13|dialogue|C1
+P: Editor: Your article is strong, but the second section repeats the introduction.
+P: Writer: I kept it because some readers skip the opening.
+P: Editor: ___
+P: Writer: All right. I'll cut the overlap and add a cross-reference instead.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Then a short pointer back to the introduction would be enough; we don't need two full versions.
+X: Then we should print the introduction twice on every page.
+X: Readers who skip the opening never read anything else.
+X: Repetition is always a virtue in academic writing.
+X: Please delete the entire article including the data.
+W: Yazar tekrarı gerekçelendiriyor; editör kısa göndermeyi öneriyor.
+
+## d14|dialogue|B2
+P: Coach: You've improved your times, but you still miss Monday sessions.
+P: Athlete: Monday is the only day I can work an extra shift.
+P: Coach: ___
+P: Athlete: I'll talk to my supervisor and see if I can switch the shift.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Without that session the improvement won't last through the season.
+X: Extra shifts are more important than the championship.
+X: Missing Mondays has no effect on performance.
+X: You should stop training altogether.
+X: Times cannot improve if you attend every session.
+W: Sporcunun vardiyayı değiştirmeyi önermesi, antrenörün pazartesi antrenmanının şart olduğunu söylemesine uyar.
+
+## d15|dialogue|B2
+P: Patient: The tablets made me sleepy during the day.
+P: Doctor: We can move the dose to the evening.
+P: Patient: ___
+P: Doctor: Good. If the sleepiness continues, call the clinic rather than stopping on your own.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: That sounds better; I need to stay alert at work.
+X: I will take a double dose in the morning then.
+X: Sleepiness means the medicine is not working at all.
+X: I have already stopped every other medicine.
+X: Evening doses are illegal in this hospital.
+W: Gündüz uyanıklık ihtiyacı, dozun akşama alınmasına bağlanır.
+
+## d16|dialogue|C1
+P: Planner: If we approve the mall, the wetland next to it will be drained.
+P: Councillor: The town needs jobs, and the developer has promised a hundred of them.
+P: Planner: ___
+P: Councillor: Then we should ask for an independent impact study before the vote.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Jobs matter, but the flood risk to existing houses has not been measured.
+X: Wetlands have no relation to flooding.
+X: A hundred jobs will drain the wetland automatically.
+X: We must vote tonight without any further information.
+X: Developers never make promises about employment.
+W: Meclis üyesinin bağımsız etki çalışması istemesi, ölçülmemiş sel riski uyarısına bağlanır.
+
+## d17|dialogue|B1
+P: Ana: I forgot my wallet at home.
+P: Bus driver: I can't let you ride without a ticket.
+P: Ana: ___
+P: Bus driver: Ten minutes is too long. You'll have to get off at the next stop.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: My sister can bring it in ten minutes if you wait.
+X: Tickets are free on this route today.
+X: I have two wallets with me now.
+X: The next stop is the last stop in another city.
+X: You should drive to my house first.
+W: Sürücünün on dakikanın uzun olduğunu söylemesi, Ana'nın bekletme isteğine yanıt.
+
+## d18|dialogue|B2
+P: Student: Can I submit the essay a day late? My laptop crashed.
+P: Tutor: Do you have a draft saved anywhere else?
+P: Student: ___
+P: Tutor: Send me that file tonight and I'll give you until tomorrow noon.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Yes, there's an older copy in my email.
+X: No, and I never started the essay.
+X: Laptops cannot crash during term time.
+X: The essay was printed by the university already.
+X: Email does not exist in this department.
+W: Eğitmenin "o dosyayı gönder" demesi, e-postada taslak olduğu cevabına uyar.
+
+## d19|dialogue|C1
+P: Historian: Popular films often show the revolution as a single night of fighting.
+P: Journalist: That's what audiences expect, isn't it?
+P: Historian: ___
+P: Journalist: So a documentary might work better than another action script.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Expectation is not evidence; the real change took years of strikes and negotiations.
+X: A single night is always historically accurate.
+X: Audiences never watch documentaries.
+X: Strikes and negotiations never happened.
+X: Films should avoid all historical subjects.
+W: Gazetecinin belgesel önermesi, değişimin yıllar sürdüğü düzeltmesine bağlanır.
+
+## d20|dialogue|B2
+P: Neighbour: Your construction work starts at six in the morning.
+P: Owner: The contractor said that was the cheapest slot.
+P: Neighbour: ___
+P: Owner: I'll ask them to begin at eight, even if it costs more.
+Q: Diyaloğu tamamlayan cümle hangisidir?
+A: Cheap for you, but several of us have young children who wake up.
+X: Six is a silent hour in this street.
+X: Children prefer drills at sunrise.
+X: The contractor cannot change any time.
+X: Morning work is banned only after eight.
+W: Mal sahibinin saati sekiye alması, çocukların uyandığı şikayetine yanıt.
+
+## m11|restate|B2
+Q: The committee put off the decision until more evidence was available.
+A: The committee postponed deciding until it had further evidence.
+X: The committee decided immediately because evidence was missing.
+X: The committee refused to look at any evidence.
+X: More evidence made the committee decide earlier.
+X: The committee had already decided before asking for evidence.
+W: put off = ertelemek; postponed deciding aynı anlam.
+
+## m12|restate|C1
+Q: Few of the volunteers had anticipated how demanding the work would be.
+A: Almost none of the volunteers had expected the work to be so hard.
+X: All of the volunteers knew exactly how hard the work would be.
+X: The volunteers found the work easier than they had expected.
+X: Only the staff, not the volunteers, found the work demanding.
+X: The work was cancelled because nobody volunteered.
+W: Few = almost none; anticipated = expected; demanding = hard.
+
+## m13|restate|B2
+Q: The new law came into effect last Monday.
+A: The new law started to apply last Monday.
+X: The new law was abolished last Monday.
+X: The new law will start next Monday.
+X: Last Monday the law was only a draft.
+X: The law has never been applied.
+W: come into effect = yürürlüğe girmek / uygulanmaya başlamak.
+
+## m14|restate|C1
+Q: It is highly unlikely that the missing documents will turn up now.
+A: There is very little chance that the missing documents will be found at this stage.
+X: The missing documents are certain to appear today.
+X: Someone has already published all the missing documents.
+X: It is too early to search for the missing documents.
+X: The documents were never missing in the first place.
+W: highly unlikely = very little chance; turn up = be found.
+
+## m15|restate|B1
+Q: She managed to finish the report on time.
+A: She succeeded in completing the report by the deadline.
+X: She failed to finish the report on time.
+X: Someone else finished the report for her.
+X: The report had no deadline.
+X: She refused to complete the report.
+W: manage to = succeed in.
+
+## m16|restate|B2
+Q: The factory was shut down owing to a lack of orders.
+A: The factory closed because there were not enough orders.
+X: The factory opened because orders increased.
+X: Orders stopped after the factory became more successful.
+X: The factory lacked workers rather than orders.
+X: A lack of orders made the factory expand.
+W: shut down = close; owing to = because of.
+
+## m17|restate|C1
+Q: The author's latest book has met with mixed reviews.
+A: Reactions to the author's new book have been both positive and negative.
+X: Every critic has praised the author's new book.
+X: The book has not been reviewed by anyone.
+X: Readers have ignored the book completely.
+X: The author refused to publish mixed opinions.
+W: mixed reviews = olumlu ve olumsuz eleştiriler birlikte.
+
+## m18|restate|B2
+Q: He took no notice of the warning signs.
+A: He ignored the warning signs.
+X: He wrote the warning signs himself.
+X: He paid close attention to the warning signs.
+X: The warning signs were removed before he arrived.
+X: He noticed every sign except the warnings.
+W: take no notice of = ignore.
+
+## m19|restate|C1
+Q: The two explanations are not mutually exclusive.
+A: It is possible that both explanations are correct at the same time.
+X: Only one of the explanations can ever be true.
+X: Both explanations have already been disproved.
+X: The explanations contradict every known fact.
+X: Neither explanation can be discussed in public.
+W: not mutually exclusive = ikisi birden doğru olabilir.
+
+## m20|restate|B2
+Q: Demand for the product has fallen off in recent months.
+A: Fewer people have wanted the product recently.
+X: Demand has risen sharply in recent months.
+X: The product has just been launched.
+X: Stores cannot keep the product in stock.
+X: Recent months have had no effect on sales.
+W: fall off = azalmak; fewer people have wanted aynı düşünce.
+
+## p11|parcomp|B2|Sağlık
+P: Handwashing with soap is one of the cheapest ways to reduce infections. ___ In places where this simple habit became common, rates of diarrhoea and some respiratory diseases fell sharply. The challenge is not the science but the water, soap and time that not every household has.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: It removes microbes from the skin before they can enter the mouth or eyes.
+X: Soap was invented only last year.
+X: Respiratory diseases cannot be affected by hygiene.
+X: Hospitals never ask staff to wash their hands.
+X: Microbes disappear as soon as water is polluted.
+W: Sonraki cümle hastalık oranlarının düşmesini anlatıyor; boşluk mekanizmayı vermeli.
+
+## p12|parcomp|C1|Sosyal bilimler
+P: Literacy statistics sometimes hide as much as they reveal. A person counted as literate may be able to sign a form but not to follow a written medical instruction. ___ For that reason, some researchers now test whether people can use a short text to make a practical decision, rather than asking only if they can read letters.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Such a narrow definition overstates how ready a population is for modern public services.
+X: Signing a form is the most advanced skill in any language.
+X: Medical instructions are always given only in pictures.
+X: Researchers have stopped measuring literacy altogether.
+X: Practical decisions never depend on written language.
+W: "For that reason" pratik testlere geçişi açıklıyor; boşluk dar tanımın hizmetlere hazırlığı abarttığını söylemeli.
+
+## p13|parcomp|B2|Fen
+P: A seed bank stores samples of crop varieties at very low temperatures. If a disease or a drought destroys plants in the field, breeders can return to the stored seeds. ___ The system is a form of insurance: it does not prevent disaster, but it keeps the genetic options needed for recovery.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Those options include traits such as drought tolerance that might otherwise disappear.
+X: Seed banks are used only to decorate museums.
+X: Drought cannot destroy any crop once it is planted.
+X: Breeders never work with stored seeds.
+X: Low temperatures kill every useful trait immediately.
+W: "genetic options" bir önceki cümlede açılmalı.
+
+## p14|parcomp|C1|Hukuk
+P: Plea bargaining speeds up crowded criminal courts: the accused admits a lesser charge and the trial is avoided. Supporters say this saves public money. ___ A justice system that depends too heavily on bargains may punish the timid more reliably than the guilty.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Critics reply that innocent people may plead guilty simply because they cannot risk a long hearing.
+X: Every accused person is given an unlimited budget for trial.
+X: Courts are never crowded in large cities.
+X: Admitting a charge always proves complete guilt.
+X: Public money is irrelevant to criminal procedure.
+W: Son cümle ürkek olanın cezalandırılmasını ima ediyor; boşluk masumların risk yüzünden suç kabul edebileceğini söylemeli.
+
+## p15|parcomp|B2|Eğitim
+P: School libraries do more than lend storybooks. They give students a quiet place to work and a librarian who can help them judge sources. ___ When those libraries close to save money, the loss is not only cultural; it is academic.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Students without internet at home feel this support most strongly.
+X: Librarians are not allowed to speak to students.
+X: Quiet places make it impossible to study.
+X: Storybooks have no place in a modern school.
+X: Closing a library always increases test scores.
+W: Kapanmanın akademik kayıp olması, özellikle evde interneti olmayanlar için anlamlı.
+
+## p16|parcomp|C1|Ekonomi
+P: A minimum wage is meant to protect the lowest-paid workers. If it is set too low, it changes nothing. If it is set far above what small firms can pay, some jobs may disappear. ___ The difficult political task is to find a level that raises living standards without a sharp fall in employment.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Empirical studies often find modest gains in pay and only small, if any, job losses when the increase is gradual.
+X: Economists agree that any minimum wage destroys all employment.
+X: Small firms never hire anyone even without a minimum wage.
+X: Living standards cannot be affected by wages.
+X: Gradual increases have never been tried in any country.
+W: Son cümle denge arıyor; boşluk kademeli artışın sınırlı etkisine dair kanıtı vermeli.
+
+## p17|parcomp|B2|Tarih
+P: Paper reached Europe centuries after it was used in East Asia. Cheaper than parchment, it made record-keeping and eventually printing far more practical. ___ Without that material change, the later explosion of books would have been much harder to imagine.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Workshops could then produce documents in greater numbers at a lower cost.
+X: Parchment became cheaper than paper overnight.
+X: Printing was invented before writing.
+X: East Asia never used paper for records.
+X: Books exploded in number before cheap paper existed.
+W: "Without that material change" atölyelerin daha çok belge üretebilmesine atıf.
+
+## p18|parcomp|C1|Çevre
+P: Restoring a river is not simply a matter of planting trees on the bank. Engineers may need to reopen old bends that had been straightened for shipping. ___ Only then do fish, insects and plants return in a stable way, rather than appearing for a season and vanishing again.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: The slower, more varied flow creates the habitats those species actually use.
+X: Straight rivers always contain more fish than bent ones.
+X: Shipping disappears as soon as any tree is planted.
+X: Fish return before the flow of the river changes.
+X: Insects cannot live in varied habitats.
+W: "Only then" yavaş ve çeşitli akışın habitat yaratmasına bağlanır.
+
+## p19|parcomp|B2|Teknoloji
+P: Password reuse is one of the most common reasons accounts are stolen. When a shopping site is breached, criminals try the same email and password on email and banking services. ___ A password manager is less heroic than a film spy, but it attacks the real problem.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Using a different, long password for each important service breaks that chain.
+X: Criminals never try passwords on more than one site.
+X: Email services ignore all leaked passwords.
+X: Shopping sites cannot be breached in any country.
+X: A single short password protects every account perfectly.
+W: Zinciri kırmak = her önemli hizmet için ayrı uzun parola.
+
+## p20|parcomp|C1|Psikoloji
+P: Grief does not follow a fixed timetable, despite popular lists of "stages". People may feel anger, numbness or unexpected relief in an order that surprises them. ___ Friends who insist that someone should "be over it" by a certain month often add isolation to the original loss.
+Q: Boşluğa gelebilecek cümle hangisidir?
+A: Treating those reactions as signs of failure misunderstands how mourning actually works.
+X: Everyone reaches the same stage on the same day.
+X: Relief during grief is impossible.
+X: Isolation never occurs after a death.
+X: Popular lists have been proven accurate in every culture.
+W: "be over it" baskısı, tepkileri başarısızlık saymanın yanlışlığıyla bağlanır.
+
+## i11|irrelevant|B2
+P: (I) Olive trees can live for centuries in dry Mediterranean climates. (II) Their roots reach deep water that shallower plants cannot use. (III) Olive oil is a common ingredient in soap. (IV) This resilience has made olives a reliable crop where rainfall is uncertain. (V) Farmers still prune the trees carefully so that they keep producing fruit.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Parça zeytin ağacının kuraklığa dayanıklılığı ve tarımı; sabun (III) kopuk.
+
+## i12|irrelevant|C1
+P: (I) Peer review is meant to catch errors before a study is published. (II) Reviewers are usually unpaid specialists in the same field. (III) Many scientific journals also sell advertising space. (IV) The system is imperfect, because reviewers may miss flaws or favour fashionable ideas. (V) Still, papers that have not been reviewed at all are treated with more caution.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Konu hakemlik sistemi; dergi reklamı (III) akışı bozuyor.
+
+## i13|irrelevant|B2
+P: (I) Seat belts reduce deaths in car crashes by keeping people in their seats. (II) Modern cars also have airbags that open within milliseconds. (III) Traffic lights were first used to manage horse-drawn carriages. (IV) Used together, belts and airbags lower the chance of a fatal head injury. (V) That is why most countries now require belts by law.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: III
+X: I
+X: II
+X: IV
+X: V
+W: Parça emniyet kemeri ve hava yastığı; at arabası trafik ışığı (III) kopuk.
+
+## i14|irrelevant|C1
+P: (I) Translation is never a simple substitution of words. (II) Idioms and humour often have no exact match in the target language. (III) A good translator therefore reconstructs the effect, not only the dictionary meanings. (IV) Bilingual dictionaries are sold in many bookshops. (V) This is why machine output still needs a human editor for literary texts.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Çevirinin etkisi ve makine çıktısı; kitapçıda sözlük satışı (IV) kopuk.
+
+## i15|irrelevant|B2
+P: (I) Beavers build dams that slow rivers and create ponds. (II) Those ponds become homes for fish, insects and birds. (III) In some valleys this activity reduces flood peaks downstream. (IV) Beaver fur was once fashionable in European hats. (V) Conservation groups therefore reintroduce beavers where they had disappeared.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Barajların ekolojik etkisi; şapka modası (IV) kopuk.
+
+## i16|irrelevant|C1
+P: (I) Statistical significance is often misunderstood as proof that a finding is important. (II) A tiny effect can be "significant" if the sample is huge. (III) Conversely, a large effect may miss the threshold in a small study. (IV) Coin tosses are a popular classroom demonstration of chance. (V) Readers should therefore look at the size of the effect, not only at a p-value.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Anlamlılık ve etki büyüklüğü; yazı tura sınıf gösterisi (IV) kopuk.
+
+## i17|irrelevant|B2
+P: (I) Composting turns kitchen waste into soil that can feed gardens. (II) Fruit peels and coffee grounds break down if they are kept moist and aerated. (III) Plastic packaging does not belong in a compost heap. (IV) Coffee is grown in several tropical countries. (V) Households that compost send less organic waste to landfill.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Kompost konusu; kahvenin tropik ülkelerde yetişmesi (IV) kopuk.
+
+## i18|irrelevant|C1
+P: (I) Archive law determines how long public documents must be kept. (II) Too short a period and later researchers cannot check a government's claims. (III) Too long a period and sensitive personal data may remain exposed. (IV) Many novelists use historical settings in their fiction. (V) Good legislation therefore distinguishes between records that serve accountability and those that only concern private lives.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Arşiv hukuku; romanlarda tarihi mekân (IV) kopuk.
+
+## i19|irrelevant|B2
+P: (I) Hearing protection matters in noisy factories. (II) Repeated loud sound damages the inner ear, often without pain at first. (III) Workers who wear well-fitted ear defenders keep more of their hearing. (IV) Factory canteens sometimes serve hot meals. (V) Regular tests can catch early loss before it becomes severe.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: İşitme koruması; kantin yemeği (IV) kopuk.
+
+## i20|irrelevant|C1
+P: (I) Open data lets other scientists repeat an analysis with the same numbers. (II) Journals increasingly ask authors to share tables, not only conclusions. (III) Privacy rules still forbid the release of information that could identify patients. (IV) Spreadsheet software has many keyboard shortcuts. (V) The practical task is to anonymise datasets well enough that both reuse and confidentiality are possible.
+Q: Parçada anlam akışını bozan cümle hangisidir?
+A: IV
+X: I
+X: II
+X: III
+X: V
+W: Açık veri ve gizlilik; klavye kısayolu (IV) kopuk.

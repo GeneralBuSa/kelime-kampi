@@ -1,0 +1,375 @@
+# Extra synonyms for non-YDS lemmas (skipped if the word already has syns)
+abandon|desert, give up
+absorb|soak up, take in
+abstract|conceptual, theoretical
+abuse|mistreat, misuse
+accomplish|achieve, complete
+acknowledge|admit, recognize
+acquire|obtain, gain
+adapt|adjust, modify
+adequate|sufficient, enough
+adjust|adapt, regulate
+adopt|take up, embrace
+adverse|unfavourable, harmful
+alter|change, modify
+annual|yearly
+anticipate|expect, foresee
+anxiety|worry, unease
+anxious|worried, uneasy
+apparent|obvious, evident
+assess|evaluate, judge
+assume|suppose, presume
+benefit|advantage, profit
+capable|able, competent
+complex|complicated, intricate
+consequence|result, outcome
+considerable|substantial, significant
+consistent|steady, coherent
+constant|continual, unchanging
+contribute|add, help
+convenient|handy, practical
+crucial|vital, essential
+decline|decrease, refuse
+decrease|reduce, diminish
+define|specify, describe
+demand|require, request
+demonstrate|show, prove
+deny|reject, refuse
+depend|rely, hinge
+derive|obtain, originate
+despite|in spite of
+destroy|ruin, demolish
+determine|decide, establish
+develop|grow, evolve
+distinct|separate, clear
+diverse|varied, mixed
+efficient|effective, productive
+eliminate|remove, get rid of
+emphasise|stress, highlight
+enable|allow, permit
+enormous|huge, vast
+ensure|make sure, guarantee
+establish|set up, found
+estimate|judge, approximate
+evaluate|assess, appraise
+evident|clear, obvious
+expand|grow, extend
+expose|reveal, uncover
+extend|lengthen, stretch
+factor|element, aspect
+feature|characteristic, aspect
+flexible|adaptable, elastic
+focus|concentrate, centre
+fundamental|basic, essential
+generate|produce, create
+identical|the same, alike
+illustrate|show, demonstrate
+impact|effect, influence
+implement|carry out, apply
+imply|suggest, hint
+impose|force, levy
+indicate|show, point to
+initial|first, opening
+interpret|explain, construe
+maintain|keep, preserve
+major|main, significant
+obtain|get, acquire
+occur|happen, take place
+outcome|result, consequence
+perceive|notice, see
+potential|possible, latent
+previous|earlier, prior
+primary|main, chief
+principle|rule, precept
+priority|precedence, urgency
+process|procedure, method
+promote|encourage, advance
+propose|suggest, put forward
+provide|supply, give
+range|scope, variety
+reduce|decrease, cut
+relevant|related, pertinent
+require|need, demand
+resource|supply, asset
+restrict|limit, constrain
+reveal|show, disclose
+significant|important, notable
+similar|alike, comparable
+source|origin, cause
+specific|particular, precise
+structure|organisation, framework
+subsequent|later, following
+substantial|considerable, large
+sufficient|enough, adequate
+survive|live on, endure
+theory|hypothesis, model
+transfer|move, shift
+transform|change, convert
+typical|usual, characteristic
+unique|one of a kind, distinctive
+vary|differ, change
+volume|amount, quantity
+widespread|common, extensive
+achieve|accomplish, attain
+allow|permit, let
+appear|seem, emerge
+apply|use, request
+argue|claim, contend
+avoid|evade, shun
+aware|conscious, mindful
+basic|fundamental, essential
+cause|lead to, bring about
+certain|sure, definite
+challenge|difficulty, test
+change|alter, modify
+choose|select, pick
+clear|obvious, plain
+common|widespread, usual
+compare|contrast, liken
+complete|finish, entire
+concern|worry, issue
+condition|state, requirement
+connect|link, join
+contain|include, hold
+continue|carry on, persist
+control|regulate, command
+create|make, produce
+current|present, existing
+decide|determine, resolve
+describe|depict, outline
+design|plan, invent
+difference|distinction, contrast
+difficult|hard, challenging
+direct|straight, manage
+discover|find, detect
+discuss|debate, talk over
+divide|split, separate
+early|initial, premature
+effect|result, impact
+effort|attempt, endeavour
+encourage|support, urge
+energy|power, vigour
+environment|surroundings, setting
+especially|particularly, notably
+example|instance, illustration
+exist|occur, be
+expect|anticipate, await
+experience|undergo, encounter
+explain|clarify, account for
+fail|be unsuccessful, flop
+famous|well-known, renowned
+finally|eventually, lastly
+follow|come after, obey
+force|compel, strength
+form|shape, type
+function|role, work
+further|additional, more
+general|overall, widespread
+goal|aim, objective
+grow|increase, develop
+happen|occur, take place
+however|nevertheless, yet
+identify|recognise, name
+important|significant, major
+improve|enhance, better
+include|contain, comprise
+increase|rise, grow
+individual|person, particular
+influence|affect, impact
+information|data, facts
+instead|rather, alternatively
+interest|concern, curiosity
+issue|matter, problem
+level|degree, rank
+likely|probable, expected
+limit|restrict, cap
+local|regional, nearby
+main|chief, principal
+mean|signify, intend
+measure|gauge, step
+method|way, approach
+necessary|required, essential
+need|require, necessity
+notice|observe, remark
+offer|propose, provide
+opinion|view, belief
+option|choice, alternative
+order|command, sequence
+organisation|institution, body
+particular|specific, certain
+pattern|model, trend
+period|time, era
+point|issue, indicate
+possible|feasible, likely
+power|authority, energy
+practice|custom, rehearsal
+prefer|favour, like better
+prepare|ready, arrange
+present|current, show
+prevent|stop, avert
+problem|issue, difficulty
+produce|make, yield
+product|goods, result
+purpose|aim, goal
+quality|standard, trait
+raise|increase, lift
+reach|arrive at, attain
+reason|cause, motive
+receive|get, obtain
+recent|new, latest
+recognise|identify, acknowledge
+recommend|suggest, advise
+refer|mention, allude
+regard|consider, respect
+region|area, district
+relate|connect, tell
+remain|stay, continue
+replace|substitute, supersede
+report|account, announce
+represent|stand for, depict
+research|study, investigation
+respect|regard, honour
+result|outcome, consequence
+return|go back, yield
+rise|increase, go up
+role|function, part
+safe|secure, protected
+section|part, division
+seek|look for, search
+seem|appear, look
+sense|meaning, feeling
+separate|divide, distinct
+series|sequence, set
+serious|grave, severe
+serve|function, work for
+set|group, establish
+several|a number of, various
+share|portion, divide
+show|display, indicate
+simple|easy, plain
+single|one, individual
+situation|circumstance, state
+skill|ability, competence
+social|communal, public
+solution|answer, remedy
+special|particular, exceptional
+standard|norm, criterion
+state|condition, declare
+study|research, examine
+subject|topic, discipline
+success|achievement, triumph
+suggest|propose, imply
+support|back, assist
+sure|certain, confident
+system|network, method
+term|word, period
+therefore|thus, consequently
+though|although, however
+thus|therefore, hence
+together|jointly, as one
+total|entire, sum
+treat|deal with, handle
+true|accurate, genuine
+try|attempt, endeavour
+type|kind, sort
+understand|grasp, comprehend
+use|employ, utilise
+value|worth, prize
+various|several, diverse
+view|opinion, regard
+whole|entire, complete
+within|inside, internally
+without|lacking, outside
+work|labour, function
+wrong|incorrect, mistaken
+ability|capacity, skill
+achieve|attain, accomplish
+advantage|benefit, plus
+amount|quantity, sum
+approach|method, come near
+argument|dispute, reasoning
+attempt|try, endeavour
+available|accessible, obtainable
+aware|conscious, mindful
+benefit|advantage, profit
+challenge|difficulty, dare
+choice|option, selection
+claim|assert, demand
+clear|obvious, transparent
+close|near, shut
+common|shared, ordinary
+compare|contrast, liken
+concern|worry, regard
+condition|state, requirement
+consider|regard, ponder
+control|regulate, command
+current|present, flow
+demand|request, require
+describe|portray, depict
+design|plan, intend
+develop|evolve, grow
+direct|guide, straightforward
+effect|result, impact
+effort|attempt, endeavour
+establish|found, set up
+event|occurrence, incident
+evidence|proof, indication
+expect|anticipate, await
+explain|clarify, account for
+factor|element, cause
+form|shape, constitute
+function|role, work
+general|overall, common
+include|contain, comprise
+indicate|show, point to
+individual|person, particular
+influence|affect, impact
+issue|matter, problem
+limit|restrict, boundary
+major|main, significant
+method|approach, technique
+occur|happen, take place
+particular|specific, certain
+period|time, era
+policy|strategy, guideline
+position|place, stance
+process|procedure, course
+provide|supply, give
+purpose|aim, goal
+range|scope, variety
+rate|speed, assess
+recent|new, latest
+reduce|decrease, cut
+relate|connect, concern
+remain|stay, continue
+require|need, demand
+result|outcome, consequence
+role|function, part
+section|part, segment
+similar|alike, comparable
+source|origin, cause
+specific|particular, precise
+structure|framework, arrange
+theory|hypothesis, idea
+feature|characteristic, trait
+focus|concentrate, centre
+impact|effect, influence
+maintain|keep, sustain
+obtain|get, acquire
+option|choice, alternative
+pattern|model, arrangement
+quality|standard, trait
+region|area, district
+resource|asset, means
+response|reply, reaction
+risk|danger, chance
+secure|safe, obtain
+select|choose, pick
+series|sequence, set
+significant|important, notable
+site|location, place
+strategy|plan, approach
+target|aim, goal
+task|job, assignment
+trend|tendency, shift
+volume|amount, book

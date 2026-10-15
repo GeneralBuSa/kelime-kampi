@@ -1,0 +1,624 @@
+abandon|v|terk etmek, vazgeçmek|desert, give up, forsake
+abate|v|azalmak, dinmek|subside, diminish, decrease
+abide by|phr|uymak, riayet etmek|comply with, obey, adhere to
+abolish|v|kaldırmak, yürürlükten kaldırmak|eliminate, do away with, annul
+abrupt|adj|ani, beklenmedik|sudden, unexpected
+abruptly|adv|aniden|suddenly, unexpectedly
+absorb|v|emmek, özümsemek|soak up, take in
+abstain|v|uzak durmak, kaçınmak|refrain, avoid
+abundant|adj|bol, bereketli|plentiful, ample, copious
+accelerate|v|hızlandırmak|speed up, hasten
+accessible|adj|erişilebilir|reachable, available
+accommodate|v|barındırmak; uyum sağlamak|house, adapt
+accompany|v|eşlik etmek|go with, escort
+accomplish|v|başarmak|achieve, fulfil, attain
+account for|phr|açıklamak; oluşturmak (oran)|explain, constitute
+accumulate|v|biriktirmek, birikmek|gather, amass, collect
+accurate|adj|doğru, kesin|precise, exact, correct
+acknowledge|v|kabul etmek, tanımak|admit, recognize
+acquire|v|edinmek, kazanmak|obtain, gain, get
+acute|adj|şiddetli, akut; keskin|severe, sharp, intense
+adapt|v|uyum sağlamak|adjust, modify
+adequate|adj|yeterli|sufficient, enough
+adhere to|phr|bağlı kalmak, uymak|stick to, comply with, follow
+adjacent|adj|bitişik|adjoining, neighbouring
+adjust|v|ayarlamak, uyum sağlamak|adapt, modify, regulate
+adolescence|n|ergenlik|puberty, youth
+adverse|adj|olumsuz, zararlı|harmful, negative, unfavourable
+advocate|v|savunmak, desteklemek|support, champion, endorse
+affluent|adj|varlıklı|wealthy, rich, prosperous
+aggravate|v|kötüleştirmek|worsen, exacerbate
+albeit|conj|her ne kadar, -se de|although, though
+alleviate|v|hafifletmek|relieve, ease, mitigate
+allocate|v|tahsis etmek, ayırmak|assign, allot, distribute
+alter|v|değiştirmek|change, modify, transform
+alternative|n|seçenek|option, choice
+ambiguous|adj|belirsiz, muğlak|vague, unclear, equivocal
+amend|v|düzeltmek, değiştirmek|revise, modify, correct
+amplify|v|güçlendirmek, yükseltmek|increase, enhance, magnify
+analogous|adj|benzer|similar, comparable
+ancestor|n|ata|forefather, predecessor
+anticipate|v|öngörmek, beklemek|expect, foresee, predict
+apparent|adj|açık, belli; görünürdeki|obvious, evident, clear
+appease|v|yatıştırmak|calm, pacify, soothe
+appraise|v|değer biçmek|evaluate, assess
+appreciate|v|takdir etmek; değeri artmak|value, recognize
+apprehensive|adj|endişeli|anxious, worried
+appropriate|adj|uygun|suitable, proper
+approximately|adv|yaklaşık olarak|roughly, about, nearly
+arbitrary|adj|keyfi, gelişigüzel|random, capricious
+arduous|adj|çetin, zahmetli|difficult, demanding, strenuous
+arise|v|ortaya çıkmak|emerge, occur, appear
+as a result|exp|sonuç olarak|consequently, therefore
+as long as|conj|-dığı sürece|provided that, on condition that
+as opposed to|exp|-in aksine|in contrast to, unlike
+as well as|exp|yanı sıra, -in yanında|in addition to, besides
+ascertain|v|tespit etmek, kesin olarak öğrenmek|determine, discover
+ascribe|v|atfetmek|attribute, assign
+aspect|n|yön, boyut|feature, side, facet
+assemble|v|toplamak; monte etmek|gather, build
+assert|v|iddia etmek, ileri sürmek|claim, state, maintain
+assess|v|değerlendirmek|evaluate, judge, appraise
+assign|v|atamak, görevlendirmek|allocate, appoint
+assist|v|yardım etmek|help, aid, support
+assume|v|varsaymak; üstlenmek|suppose, presume; undertake
+attain|v|ulaşmak, erişmek|achieve, reach, accomplish
+attribute|v|atfetmek, -e bağlamak|ascribe, credit
+augment|v|artırmak|increase, enlarge, boost
+authentic|adj|gerçek, otantik|genuine, real
+avert|v|önlemek, savuşturmak|prevent, avoid
+bear in mind|exp|aklında tutmak|remember, consider
+beneficial|adj|yararlı|useful, advantageous, helpful
+bias|n|önyargı|prejudice, partiality
+bolster|v|desteklemek|support, strengthen, boost
+boost|v|artırmak, desteklemek|increase, enhance, raise
+break down|phr|bozulmak; parçalamak; yıkılmak|collapse, decompose
+break out|phr|patlak vermek|erupt, start suddenly
+breakthrough|n|çığır açan buluş|advance, discovery
+brief|adj|kısa|short, concise
+bring about|phr|neden olmak, yol açmak|cause, lead to, give rise to
+bring up|phr|yetiştirmek; gündeme getirmek|raise; mention
+call for|phr|gerektirmek; talep etmek|require, demand
+call off|phr|iptal etmek|cancel
+capable|adj|yetenekli, muktedir|able, competent
+carry out|phr|yürütmek, gerçekleştirmek|conduct, perform, execute
+cause|v|neden olmak|lead to, bring about, result in
+cease|v|durmak, sona ermek|stop, end, halt
+circumstance|n|koşul, durum|condition, situation
+cite|v|alıntılamak, atıf yapmak|quote, refer to, mention
+claim|v|iddia etmek|assert, allege, maintain
+coherent|adj|tutarlı|consistent, logical
+coincide|v|aynı zamana denk gelmek|concur, correspond
+collapse|v|çökmek|fall down, break down
+come across|phr|tesadüfen karşılaşmak|encounter, run into, stumble upon
+come up with|phr|bulmak, ortaya atmak (fikir)|devise, think of, produce
+commence|v|başlamak|begin, start
+compatible|adj|uyumlu|consistent, harmonious
+compel|v|zorlamak|force, oblige, coerce
+compensate for|phr|telafi etmek|make up for, offset
+competent|adj|yetkin|capable, skilled, qualified
+compile|v|derlemek|collect, gather, assemble
+complement|v|tamamlamak|supplement, complete
+comply with|phr|uymak|obey, abide by, conform to
+component|n|bileşen|part, element, constituent
+comprehensive|adj|kapsamlı|thorough, extensive, complete
+comprise|v|oluşmak, kapsamak|consist of, include, contain
+concede|v|kabul etmek (istemeyerek)|admit, acknowledge
+conceive|v|tasarlamak, düşünmek|imagine, envisage
+concise|adj|kısa ve öz|brief, succinct
+conclusive|adj|kesin, nihai|decisive, definitive
+concurrent|adj|eş zamanlı|simultaneous
+conduct|v|yürütmek, yapmak|carry out, perform
+confer|v|vermek (unvan); danışmak|grant; consult
+confine|v|sınırlamak|restrict, limit
+confront|v|yüzleşmek|face, tackle
+consecutive|adj|ardışık|successive, sequential
+consent|n|rıza, onay|permission, approval
+consequently|adv|sonuç olarak|therefore, thus, hence
+considerable|adj|kayda değer, epey|significant, substantial
+consist of|phr|oluşmak|comprise, be made up of
+consistent|adj|tutarlı|coherent, uniform
+conspicuous|adj|göze çarpan|noticeable, obvious, visible
+constitute|v|oluşturmak|form, make up, compose
+constrain|v|kısıtlamak|restrict, limit
+contaminate|v|kirletmek, bulaştırmak|pollute, infect
+contemplate|v|üzerinde düşünmek|consider, ponder
+contemporary|adj|çağdaş|modern, current
+contend|v|iddia etmek; mücadele etmek|argue, maintain; compete
+contradict|v|çelişmek|oppose, deny
+contrary to|exp|-in aksine|unlike, in contrast to
+contribute to|phr|katkıda bulunmak|add to, help
+controversial|adj|tartışmalı|disputed, debatable
+convenient|adj|elverişli, uygun|suitable, handy
+conventional|adj|geleneksel|traditional, customary
+convert|v|dönüştürmek|transform, change
+convey|v|iletmek, aktarmak|communicate, transmit
+convince|v|ikna etmek|persuade
+cope with|phr|başa çıkmak|deal with, handle, manage
+correspond|v|karşılık gelmek|match, equate
+counteract|v|etkisini gidermek|offset, neutralize
+crucial|adj|çok önemli|vital, critical, essential
+curb|v|frenlemek, sınırlamak|restrain, control, limit
+curtail|v|kısmak, azaltmak|reduce, cut back, restrict
+cut down on|phr|azaltmak|reduce, cut back
+deal with|phr|ilgilenmek, ele almak|handle, cope with, tackle
+decay|v|çürümek|rot, decompose
+deceive|v|aldatmak|mislead, trick
+decline|v|azalmak; reddetmek|decrease; refuse
+deduce|v|çıkarım yapmak|infer, conclude
+deem|v|addetmek, saymak|consider, regard
+deficiency|n|eksiklik|shortage, lack
+deliberate|adj|kasıtlı|intentional, planned
+deliberately|adv|kasıtlı olarak|intentionally, on purpose
+demonstrate|v|göstermek, kanıtlamak|show, prove, illustrate
+denote|v|belirtmek, ifade etmek|indicate, signify
+deplete|v|tüketmek|exhaust, use up
+deprive|v|mahrum etmek|deny, strip
+derive from|phr|-den türemek, kaynaklanmak|stem from, originate in
+designate|v|belirlemek, atamak|appoint, name
+despite|prep|-e rağmen|in spite of, notwithstanding
+detect|v|tespit etmek|discover, notice, identify
+deter|v|caydırmak|discourage, prevent
+deteriorate|v|kötüleşmek|worsen, decline, degenerate
+determine|v|belirlemek|decide, establish
+detrimental|adj|zararlı|harmful, damaging
+devastate|v|harap etmek|destroy, ruin
+devise|v|tasarlamak|invent, design, come up with
+devote|v|adamak|dedicate, commit
+diminish|v|azalmak, azaltmak|decrease, reduce, lessen
+disclose|v|açıklamak, ifşa etmek|reveal, expose
+discrepancy|n|tutarsızlık|difference, inconsistency
+discrete|adj|ayrık, ayrı|separate, distinct
+disguise|v|gizlemek|hide, conceal
+dismiss|v|reddetmek; işten çıkarmak|reject; fire
+disperse|v|dağıtmak, dağılmak|scatter, spread
+displace|v|yerinden etmek|move, relocate
+dispose of|phr|elden çıkarmak, atmak|get rid of, discard
+disrupt|v|bozmak, kesintiye uğratmak|disturb, interrupt
+distinct|adj|belirgin, farklı|different, separate, clear
+distinguish|v|ayırt etmek|differentiate, discriminate
+distort|v|çarpıtmak|twist, misrepresent
+diverse|adj|çeşitli|varied, various, different
+do away with|phr|ortadan kaldırmak|abolish, eliminate, get rid of
+dominant|adj|baskın|prevailing, leading
+draw on|phr|yararlanmak, başvurmak|use, rely on
+drawback|n|dezavantaj|disadvantage, downside
+due to|prep|-den dolayı|because of, owing to, on account of
+durable|adj|dayanıklı|lasting, strong
+dwindle|v|azalmak|decrease, shrink, diminish
+elaborate|adj|ayrıntılı|detailed, complex
+elicit|v|ortaya çıkarmak|evoke, draw out
+eliminate|v|ortadan kaldırmak|remove, eradicate
+elusive|adj|ele geçmez, anlaşılması zor|evasive, slippery
+embrace|v|benimsemek|adopt, accept
+emerge|v|ortaya çıkmak|appear, arise
+eminent|adj|seçkin, ünlü|distinguished, prominent
+emit|v|yaymak, salmak|release, give off
+enable|v|olanak sağlamak|allow, permit
+encompass|v|kapsamak|include, cover
+encounter|v|karşılaşmak|meet, come across, face
+endanger|v|tehlikeye atmak|threaten, jeopardize
+endeavour|n|çaba|attempt, effort
+endorse|v|onaylamak|approve, support
+endure|v|dayanmak|bear, tolerate, withstand
+enhance|v|artırmak, geliştirmek|improve, increase, boost
+enormous|adj|muazzam|huge, vast, immense
+ensure|v|sağlamak, garanti etmek|guarantee, make sure
+entail|v|gerektirmek|involve, require
+enumerate|v|saymak, sıralamak|list, itemize
+eradicate|v|kökünü kazımak|eliminate, wipe out
+erode|v|aşındırmak|wear away, corrode
+erroneous|adj|hatalı|wrong, incorrect
+essential|adj|gerekli, temel|vital, crucial, indispensable
+establish|v|kurmak; kanıtlamak|found, set up; prove
+estimate|v|tahmin etmek|calculate, assess
+evaluate|v|değerlendirmek|assess, appraise
+evident|adj|apaçık|obvious, clear, apparent
+evoke|v|uyandırmak|elicit, arouse
+exacerbate|v|kötüleştirmek|worsen, aggravate
+exaggerate|v|abartmak|overstate
+exceed|v|aşmak|surpass, go beyond
+excessive|adj|aşırı|extreme, undue
+exclude|v|hariç tutmak|omit, leave out, rule out
+exhaust|v|tüketmek; yormak|deplete, use up; tire
+exhibit|v|sergilemek, göstermek|display, show
+expand|v|genişletmek|enlarge, extend, increase
+expel|v|kovmak, dışarı atmak|eject, banish
+explicit|adj|açık, net|clear, plain, direct
+exploit|v|sömürmek; yararlanmak|abuse; use
+expose|v|maruz bırakmak; ifşa etmek|subject; reveal
+extend|v|uzatmak, genişletmek|expand, prolong
+extinct|adj|nesli tükenmiş|vanished, dead
+extract|v|çıkarmak|remove, draw out
+facilitate|v|kolaylaştırmak|ease, simplify, assist
+feasible|adj|uygulanabilir|possible, practicable, viable
+figure out|phr|anlamak, çözmek|understand, work out, solve
+fill in for|phr|birinin yerine bakmak|substitute for, replace
+flaw|n|kusur|defect, fault
+flourish|v|gelişmek, serpilmek|thrive, prosper
+fluctuate|v|dalgalanmak|vary, change, oscillate
+for instance|exp|örneğin|for example, such as
+foster|v|teşvik etmek, beslemek|encourage, promote, nurture
+fragile|adj|kırılgan|delicate, frail
+fundamental|adj|temel|basic, essential
+furthermore|adv|ayrıca, dahası|moreover, in addition, besides
+gauge|v|ölçmek|measure, assess
+generate|v|üretmek|produce, create
+get rid of|phr|kurtulmak|eliminate, dispose of
+give rise to|phr|yol açmak|cause, bring about, lead to
+give up|phr|vazgeçmek, bırakmak|quit, abandon
+go through|phr|yaşamak, geçirmek|experience, undergo
+gradual|adj|kademeli|steady, progressive
+grant|v|vermek, bahşetmek|give, award
+halt|v|durdurmak|stop, cease
+hamper|v|engellemek|hinder, obstruct, impede
+hazardous|adj|tehlikeli|dangerous, risky
+hence|adv|bu yüzden|therefore, thus
+hinder|v|engellemek|hamper, impede, obstruct
+hold up|phr|geciktirmek|delay
+hostile|adj|düşmanca|unfriendly, aggressive
+however|adv|ancak, fakat|nevertheless, yet
+hypothesis|n|hipotez|theory, assumption
+identical|adj|aynı, özdeş|same, alike
+illustrate|v|örneklemek|show, demonstrate
+immense|adj|devasa|enormous, huge, vast
+imminent|adj|yakın, eli kulağında|impending, forthcoming
+impair|v|bozmak, zayıflatmak|damage, weaken
+impede|v|engellemek|hinder, hamper, obstruct
+implement|v|uygulamak|carry out, execute
+implicit|adj|örtük|implied, unspoken
+imply|v|ima etmek|suggest, indicate
+impose|v|dayatmak|enforce, force
+in addition|exp|ek olarak|furthermore, moreover, also
+in contrast|exp|buna karşın|on the other hand, conversely
+in spite of|prep|-e rağmen|despite, regardless of
+in terms of|exp|açısından|with respect to, regarding
+in the long run|exp|uzun vadede|eventually, ultimately
+inadequate|adj|yetersiz|insufficient, deficient
+incentive|n|teşvik|motivation, stimulus
+incidence|n|görülme sıklığı|occurrence, rate
+incline|v|eğilimli olmak|tend, lean
+incorporate|v|dahil etmek|include, integrate
+increasingly|adv|giderek artan şekilde|progressively
+indispensable|adj|vazgeçilmez|essential, vital, crucial
+induce|v|neden olmak|cause, provoke
+inevitable|adj|kaçınılmaz|unavoidable, certain
+infer|v|çıkarım yapmak|deduce, conclude
+inhabit|v|yaşamak, ikamet etmek|live in, occupy
+inherent|adj|doğasında var olan|innate, intrinsic
+inhibit|v|engellemek|restrain, prevent, hinder
+initiate|v|başlatmak|begin, launch, start
+innate|adj|doğuştan|inborn, inherent
+insight|n|içgörü|understanding, perception
+instead of|prep|yerine|rather than, in place of
+integral|adj|ayrılmaz|essential, fundamental
+intense|adj|yoğun|strong, extreme
+intervene|v|müdahale etmek|interfere, step in
+intricate|adj|karmaşık|complex, complicated
+intrinsic|adj|asıl, içsel|inherent, essential
+invaluable|adj|paha biçilmez|priceless, precious
+invariably|adv|her zaman|always, consistently
+irrelevant|adj|ilgisiz|unrelated, immaterial
+isolate|v|izole etmek, ayırmak|separate, detach
+jeopardize|v|tehlikeye atmak|endanger, threaten
+justify|v|haklı çıkarmak|vindicate, warrant
+keep up with|phr|ayak uydurmak|keep pace with, follow
+lack|n|eksiklik|shortage, absence, deficiency
+lay off|phr|işten çıkarmak|dismiss, fire
+lead to|phr|yol açmak|cause, result in
+look into|phr|araştırmak, incelemek|investigate, examine
+look up to|phr|saygı duymak, örnek almak|admire, respect
+make up|phr|oluşturmak; uydurmak; barışmak|constitute; invent
+make up for|phr|telafi etmek|compensate for, offset
+maintain|v|sürdürmek; iddia etmek|keep, preserve; assert
+mandatory|adj|zorunlu|compulsory, obligatory
+manifest|v|göstermek, ortaya koymak|show, display, reveal
+meanwhile|adv|bu arada|in the meantime
+mere|adj|salt, sadece|simple, bare
+mitigate|v|hafifletmek|alleviate, reduce, ease
+moreover|adv|üstelik|furthermore, besides, in addition
+namely|adv|yani|specifically, that is
+neglect|v|ihmal etmek|ignore, overlook, disregard
+negligible|adj|önemsiz, ihmal edilebilir|insignificant, trivial
+nevertheless|adv|yine de|nonetheless, however, still
+notably|adv|özellikle|especially, particularly
+notwithstanding|prep|-e rağmen|despite, in spite of
+novel|adj|yeni, alışılmamış|new, original, innovative
+numerous|adj|sayısız, çok|many, countless
+obscure|adj|belirsiz, az bilinen|unclear, vague, unknown
+obsolete|adj|modası geçmiş|outdated, out of date
+obstacle|n|engel|barrier, hindrance
+obtain|v|elde etmek|acquire, get, gain
+obvious|adj|apaçık|clear, evident, apparent
+occur|v|meydana gelmek|happen, take place
+offset|v|dengelemek|counterbalance, compensate
+omit|v|atlamak|leave out, exclude
+on account of|prep|-den dolayı|because of, due to
+on the contrary|exp|aksine|conversely, in contrast
+on the other hand|exp|öte yandan|however, in contrast
+ongoing|adj|süregelen|continuing, current
+originate|v|kaynaklanmak|arise, stem, derive
+outbreak|n|salgın, patlak verme|eruption, epidemic
+outcome|n|sonuç|result, consequence
+overcome|v|üstesinden gelmek|conquer, surmount, defeat
+overlook|v|gözden kaçırmak|miss, neglect, ignore
+owing to|prep|-den dolayı|because of, due to
+paramount|adj|en önemli|supreme, chief, primary
+pass away|phr|vefat etmek|die
+perceive|v|algılamak|notice, observe, recognize
+persist|v|sürmek, ısrar etmek|continue, persevere
+pertinent|adj|ilgili|relevant, applicable
+phenomenon|n|olgu|occurrence, event
+plausible|adj|akla yatkın|believable, reasonable, likely
+point out|phr|işaret etmek, belirtmek|indicate, mention, note
+pose|v|teşkil etmek (risk)|present, constitute
+precede|v|önce gelmek|come before, go before
+precise|adj|kesin|exact, accurate
+predominant|adj|baskın, ağırlıklı|main, prevailing
+preliminary|adj|ön, hazırlık|initial, introductory
+presume|v|varsaymak|assume, suppose
+prevail|v|hakim olmak, yaygın olmak|predominate, win
+prevalent|adj|yaygın|widespread, common
+profound|adj|derin|deep, intense
+prohibit|v|yasaklamak|ban, forbid
+prolong|v|uzatmak|extend, lengthen
+prominent|adj|önde gelen|important, eminent, noticeable
+prompt|v|teşvik etmek, yol açmak|cause, encourage, trigger
+prone to|adj|eğilimli|likely to, susceptible to
+proportion|n|oran|ratio, percentage
+prosper|v|zenginleşmek, gelişmek|thrive, flourish
+provided that|conj|-mesi şartıyla|on condition that, as long as
+provoke|v|kışkırtmak, yol açmak|cause, incite, trigger
+pursue|v|sürdürmek, peşinden koşmak|follow, seek
+put forward|phr|ileri sürmek|propose, suggest
+put off|phr|ertelemek|postpone, delay
+put up with|phr|katlanmak|tolerate, bear, endure
+rather than|exp|-den ziyade|instead of
+readily|adv|kolayca, hemen|easily, willingly
+reassure|v|güven vermek|comfort, encourage
+recur|v|tekrarlamak|repeat, return
+reduce|v|azaltmak|decrease, cut, lessen
+refrain from|phr|kaçınmak|avoid, abstain from
+regardless of|prep|-e bakılmaksızın|irrespective of, despite
+reinforce|v|güçlendirmek|strengthen, support
+reject|v|reddetmek|refuse, decline
+relevant|adj|ilgili|pertinent, related
+reluctant|adj|isteksiz|unwilling, hesitant
+rely on|phr|güvenmek, bel bağlamak|depend on, count on
+remarkable|adj|dikkate değer|notable, striking, outstanding
+remote|adj|uzak|distant, isolated
+render|v|kılmak|make, cause to be
+replace|v|yerini almak|substitute, supersede
+resemble|v|benzemek|look like, take after
+resilient|adj|dirençli, esnek|tough, flexible
+resolve|v|çözmek|solve, settle
+restore|v|onarmak, eski haline getirmek|repair, renew
+restrain|v|dizginlemek|control, curb
+restrict|v|kısıtlamak|limit, confine
+result in|phr|ile sonuçlanmak|lead to, cause
+retain|v|korumak, elde tutmak|keep, preserve, maintain
+reveal|v|ortaya koymak|disclose, show, expose
+reverse|v|tersine çevirmek|invert, undo
+rigid|adj|katı|strict, inflexible
+robust|adj|güçlü, sağlam|strong, sturdy
+rule out|phr|olasılık dışı bırakmak|exclude, eliminate
+run out of|phr|tükenmek|exhaust, use up
+scarce|adj|kıt|rare, insufficient
+scatter|v|dağıtmak, saçmak|disperse, spread
+scrutinize|v|incelemek|examine, inspect
+seek|v|aramak|look for, search for, pursue
+set aside|phr|ayırmak|reserve, save
+set off|phr|yola çıkmak; tetiklemek|depart; trigger
+set up|phr|kurmak|establish, found
+severe|adj|şiddetli|serious, harsh, intense
+significant|adj|önemli|important, considerable, notable
+simultaneously|adv|aynı anda|at the same time, concurrently
+so as to|exp|-mek için|in order to
+sole|adj|tek|only, single, exclusive
+sophisticated|adj|karmaşık, gelişmiş|advanced, complex
+spontaneous|adj|kendiliğinden|unplanned, natural
+stem from|phr|kaynaklanmak|arise from, derive from, originate in
+stimulate|v|uyarmak, teşvik etmek|encourage, prompt, spur
+subsequent|adj|sonraki|following, later, succeeding
+subsequently|adv|daha sonra|later, afterwards
+substantial|adj|kayda değer|considerable, significant
+substitute|v|yerine koymak|replace, exchange
+subtle|adj|ince, fark edilmesi güç|slight, delicate
+sufficient|adj|yeterli|enough, adequate
+superficial|adj|yüzeysel|shallow, surface
+supplement|v|desteklemek, ek olmak|add to, complement
+suppress|v|bastırmak|repress, restrain
+surpass|v|geçmek, aşmak|exceed, outdo
+susceptible|adj|yatkın, duyarlı|vulnerable, prone
+sustain|v|sürdürmek|maintain, keep up
+tackle|v|ele almak, uğraşmak|deal with, address, handle
+take after|phr|benzemek (aile büyüğüne)|resemble
+take into account|exp|göz önünde bulundurmak|consider, take into consideration
+take over|phr|devralmak|assume control of
+take place|phr|gerçekleşmek|happen, occur
+take up|phr|başlamak (hobi); yer kaplamak|start; occupy
+tedious|adj|sıkıcı|boring, monotonous
+temporary|adj|geçici|short-term, transient
+tend to|phr|eğiliminde olmak|be inclined to, be likely to
+thereby|adv|böylece|thus, by this means
+thoroughly|adv|tamamen, iyice|completely, carefully
+thrive|v|gelişmek|flourish, prosper
+thus|adv|böylece, bu nedenle|therefore, hence, consequently
+trait|n|özellik|characteristic, feature, quality
+transform|v|dönüştürmek|change, convert, alter
+transient|adj|geçici|temporary, fleeting
+trigger|v|tetiklemek|cause, set off, spark
+trivial|adj|önemsiz|insignificant, minor
+turn down|phr|reddetmek; kısmak|reject, refuse
+turn out|phr|ortaya çıkmak, anlaşılmak|prove to be
+ultimately|adv|nihayetinde|finally, eventually
+undergo|v|geçirmek, maruz kalmak|experience, go through
+undermine|v|zayıflatmak|weaken, sabotage
+undertake|v|üstlenmek|take on, assume
+unprecedented|adj|benzeri görülmemiş|unparalleled, unique
+utilize|v|kullanmak|use, employ, make use of
+vague|adj|belirsiz|unclear, ambiguous
+valid|adj|geçerli|legitimate, sound
+vanish|v|yok olmak|disappear
+vary|v|değişmek|differ, change
+vast|adj|engin, geniş|huge, immense
+verify|v|doğrulamak|confirm, prove
+viable|adj|uygulanabilir|feasible, workable
+vigorous|adj|güçlü, dinç|energetic, strong
+vital|adj|hayati|crucial, essential
+vulnerable|adj|savunmasız|susceptible, exposed, weak
+whereas|conj|oysa|while, whilst
+widespread|adj|yaygın|prevalent, common
+wipe out|phr|yok etmek|destroy, eradicate
+withstand|v|dayanmak|resist, endure, bear
+yield|v|vermek, üretmek; boyun eğmek|produce, give; surrender
+although|conj|-e rağmen, her ne kadar|though, even though
+even though|conj|-dığı halde|although, though
+in order to|exp|-mek için|so as to
+so that|conj|-sin diye|in order that
+unless|conj|-medikçe|if not, except if
+whether|conj|-ip -mediği|if
+not only ... but also|conj|sadece ... değil aynı zamanda|both ... and
+as soon as|conj|-ir -mez|once, immediately after
+no sooner ... than|conj|-ir -mez|hardly ... when
+in case|conj|olur da, ihtimaline karşı|lest
+lest|conj|-mesin diye|in case, so as not to
+whereby|adv|ki bununla|by which
+likewise|adv|aynı şekilde|similarly
+conversely|adv|tersine|on the contrary, in contrast
+accordingly|adv|buna göre; bu yüzden|therefore, consequently
+in particular|exp|özellikle|especially, specifically
+to some extent|exp|bir dereceye kadar|partly, somewhat
+by means of|prep|aracılığıyla|through, via
+with regard to|prep|ile ilgili olarak|regarding, concerning
+in accordance with|prep|-e uygun olarak|in line with, according to
+in favour of|prep|lehine|supporting
+on behalf of|prep|adına|for, representing
+by contrast|exp|buna karşılık|in contrast, conversely
+prevalence|n|yaygınlık|frequency, commonness
+mortality|n|ölüm oranı|death rate
+morbidity|n|hastalık oranı|illness rate
+exposure|n|maruz kalma|contact, subjection
+diagnosis|n|teşhis|identification, detection
+prognosis|n|hastalığın seyri tahmini|forecast, outlook
+symptom|n|belirti|sign, indication
+chronic|adj|kronik|persistent, long-lasting
+antibody|n|antikor|immunoglobulin
+pathogen|n|patojen, hastalık etkeni|germ, microbe
+immune system|n|bağışıklık sistemi|body defence
+vaccine|n|aşı|immunization
+infection|n|enfeksiyon|contamination, disease
+malnutrition|n|yetersiz beslenme|undernourishment
+remedy|n|çare, ilaç|cure, treatment
+contagious|adj|bulaşıcı|infectious, communicable
+tissue|n|doku|cells, membrane
+organism|n|organizma|living thing, creature
+metabolism|n|metabolizma|body chemistry
+compound|n|bileşik|mixture, composite
+velocity|n|hız|speed
+spectrum|n|tayf, yelpaze|range, scope
+molecule|n|molekül|particle
+particle|n|parçacık|bit, fragment
+gravity|n|yerçekimi; ciddiyet|gravitation; seriousness
+fossil fuel|n|fosil yakıt|coal, oil
+greenhouse gas|n|sera gazı|carbon emission
+drought|n|kuraklık|dry spell
+famine|n|kıtlık (açlık)|starvation, hunger
+habitat|n|yaşam alanı|environment, home
+deforestation|n|ormansızlaşma|clearing of forests
+pesticide|n|tarım ilacı|insecticide
+predator|n|yırtıcı|hunter
+prey|n|av|quarry, victim
+species|n|tür|kind, type
+equity|n|hakkaniyet, eşitlik|fairness, justice
+welfare|n|refah|well-being, prosperity
+socioeconomic|adj|sosyoekonomik|social and economic
+demographic|adj|demografik|population-related
+urbanization|n|kentleşme|city growth
+census|n|nüfus sayımı|population count
+inequality|n|eşitsizlik|disparity
+poverty|n|yoksulluk|deprivation, need
+entrepreneur|n|girişimci|businessperson
+fiscal|adj|mali|financial, monetary
+revenue|n|gelir|income, earnings
+deficit|n|açık|shortfall
+inflation|n|enflasyon|price rise
+recession|n|ekonomik durgunluk|downturn, slump
+commodity|n|emtia, mal|goods, product
+subsidy|n|sübvansiyon|grant, aid
+cognitive|adj|bilişsel|mental, intellectual
+perception|n|algı|awareness, understanding
+literacy|n|okuryazarlık|ability to read and write
+curriculum|n|müfredat|syllabus, programme
+assessment|n|değerlendirme|evaluation, appraisal
+aptitude|n|yetenek, kabiliyet|talent, ability
+retention|n|akılda tutma|memory, preservation
+legislation|n|mevzuat|law, regulation
+jurisdiction|n|yargı yetkisi|authority, control
+sovereignty|n|egemenlik|independence, autonomy
+treaty|n|antlaşma|agreement, pact
+civilization|n|medeniyet|culture, society
+dynasty|n|hanedan|ruling family
+archaeology|n|arkeoloji|study of ancient remains
+excavation|n|kazı|digging
+artifact|n|eser, insan yapımı nesne|object, relic
+inscription|n|yazıt|engraving
+heritage|n|miras|legacy, tradition
+indigenous|adj|yerli|native, aboriginal
+nomadic|adj|göçebe|wandering, migratory
+migrate|v|göç etmek|move, relocate
+colonize|v|sömürgeleştirmek|settle, occupy
+empire|n|imparatorluk|kingdom, realm
+hostility|n|düşmanlık|enmity, antagonism
+turmoil|n|kargaşa|chaos, disorder
+mutual|adj|karşılıklı|reciprocal, shared
+reciprocal|adj|karşılıklı|mutual
+detrimental to|adj|-e zararlı|harmful to
+conducive to|adj|-e elverişli|favourable to, helpful to
+consistent with|adj|ile tutarlı|in line with, compatible with
+responsible for|adj|-den sorumlu|in charge of; the cause of
+subject to|adj|-e tabi|liable to, dependent on
+capable of|adj|-e muktedir|able to
+aware of|adj|-in farkında|conscious of
+dependent on|adj|-e bağımlı|reliant on
+exposed to|adj|-e maruz|subjected to
+in charge of|exp|-den sorumlu|responsible for
+at the expense of|exp|-in pahasına|at the cost of
+in the face of|exp|karşısında|despite, confronting
+on the verge of|exp|-in eşiğinde|on the brink of, about to
+by no means|exp|asla, hiç de değil|not at all
+in vain|exp|boşuna|unsuccessfully, to no avail
+at random|exp|rastgele|randomly
+by far|exp|açık ara|much, easily
+in effect|exp|aslında; yürürlükte|actually; in force
+for the sake of|exp|uğruna, hatırına|for the benefit of
+in the wake of|exp|-in ardından|following, after
+with a view to|exp|amacıyla|in order to, aiming to
+to the extent that|exp|-dığı ölçüde|insofar as
+be inclined to|exp|-e meyilli olmak|tend to
+cut back on|phr|kısmak, azaltmak|reduce
+phase out|phr|aşamalı olarak kaldırmak|gradually remove
+single out|phr|ayırmak, seçmek|select, pick out
+carry on|phr|devam etmek|continue
+die out|phr|nesli tükenmek|become extinct, disappear
+do without|phr|-siz idare etmek|manage without
+draw up|phr|hazırlamak (plan)|draft, prepare
+fall behind|phr|geride kalmak|lag behind
+get across|phr|anlatmak, iletmek|communicate, convey
+hand in|phr|teslim etmek|submit
+lay out|phr|düzenlemek; açıklamak|arrange; explain
+live up to|phr|beklentiyi karşılamak|meet, fulfil
+look down on|phr|küçümsemek|despise, belittle
+pass on|phr|aktarmak|transmit, transfer
+pick up|phr|öğrenmek; almak|learn; collect
+rule out|phr|ihtimal dışı bırakmak|exclude
+run into|phr|rastlamak|meet by chance, encounter
+see to|phr|ilgilenmek|attend to, deal with
+set out|phr|yola çıkmak; ortaya koymak|depart; present
+stand for|phr|temsil etmek; anlamına gelmek|represent, mean
+stand out|phr|göze çarpmak|be prominent
+step up|phr|artırmak|increase, intensify
+take on|phr|üstlenmek; işe almak|assume; hire
+turn into|phr|dönüşmek|become, transform into
+work out|phr|çözmek; spor yapmak|solve; exercise
+weigh up|phr|tartmak, değerlendirmek|assess, consider
